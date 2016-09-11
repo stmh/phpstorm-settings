@@ -243,6 +243,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/field.storage.node.field_number_of_children_list.yml" timestamp="1471339440260">
         <mark key="[" line="43" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/fabfile.yaml" timestamp="1473608432948">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/paragraph/paragraph.html.twig" timestamp="1465739390068">
         <mark key="[" line="38" column="146" />
         <mark key="]" line="38" column="70" />
@@ -296,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>pord</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>pord</text>
       </register>
       <register name="/" type="4">
         <text>kint</text>
