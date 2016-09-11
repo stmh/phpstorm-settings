@@ -99,6 +99,12 @@
         <mark key="." line="43" column="7" />
         <mark key="^" line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" timestamp="1473617575143">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="60" />
+        <mark key="^" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/factorial_monitoring_connector/src/Plugin/MonitoringCollector/CoreVersion.php" timestamp="1469382630800">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,6 +132,7 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/navreffield/navreffield.info.yml" timestamp="1473617665594" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--intro.html.twig" timestamp="1473605191994">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="29" />
@@ -279,6 +286,11 @@
         <mark key="^" line="36" column="71" />
         <mark key="." line="36" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/.pre-commit-config.yaml" timestamp="1473616412955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/factorial_monitoring_connector/src/MonitoringCollectorManager.php" timestamp="1469384810373">
         <mark key="[" line="10" column="192" />
         <mark key="]" line="10" column="193" />
@@ -314,35 +326,32 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>kint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRmb3JtX3N0YXRlLT5zZXRSZWRpcmVjdFVybChfZ2FpYV9wYXRpZW50X2Zsb3dfZ2V0X2xvY2FsaXplZF9kYXNoYm9hcmRfdXJsKCRhY2NvdW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlczogXC4ocGhwfG1vZHVsZXxpbnN0YWxsKSQK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">eHh4Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGR4Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CkN1cnJlbnQgc3RhdGU6IFshW2J1aWxkIHN0YXR1c10oaHR0cHM6Ly9zb3VyY2UuZmFjdG9yaWFsLmlvL2NpL3Byb2plY3RzLzYvc3RhdHVzLnBuZz9yZWY9ZGV2ZWxvcCldKGh0dHBzOi8vc291cmNlLmZhY3RvcmlhbC5pby9jaS9wcm9qZWN0cy82P3JlZj1kZXZlbG9wKQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>The develop-branch is automatically deployed to http://dev.soba.clients.factorial.io
 * Behat-tests are automatically executed for new commits on the develop-branch</text>
-      </register>
-      <register name="4" type="4">
-        <text>[NodeJS](https://nodejs.org) to run npm locally.
-* [Grunt](http://gruntjs.com/getting-started) to run the projects tasks.</text>
-      </register>
-      <register name="5" type="4">
-        <text>[component](https://github.com/componentjs/component)
-* [PostCSS](http://postcss.org/)
-* [MtHaml](https://github.com/arnaud-lb/MtHaml)</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -390,17 +399,20 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBraW50KCRqcWwpOwo=</text>
+      <register name="6" type="4">
+        <text>[NodeJS](https://nodejs.org) to run npm locally.
+* [Grunt](http://gruntjs.com/getting-started) to run the projects tasks.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text>[component](https://github.com/componentjs/component)
+* [PostCSS](http://postcss.org/)
+* [MtHaml](https://github.com/arnaud-lb/MtHaml)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHJlbmRlcl9hcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBraW50KCRqcWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdW5zZXQoJGNvbW1lbnQtPmF1dGhvci0+YXZhdGFyVXJscyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -441,8 +453,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w!</entry>
         <entry>100</entry>
-        <entry>W</entry>
         <entry>362</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
