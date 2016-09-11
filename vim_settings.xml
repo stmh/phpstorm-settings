@@ -222,10 +222,11 @@
         <mark key="^" line="220" column="39" />
         <mark key="." line="220" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1473609723888">
-        <mark key="[" line="55" column="2" />
-        <mark key="]" line="55" column="2" />
-        <mark key="." line="55" column="2" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1473610059654">
+        <mark key="[" line="101" column="2" />
+        <mark key="]" line="101" column="23" />
+        <mark key="." line="101" column="23" />
+        <mark key="^" line="101" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/factorial_monitoring_connector/factorial_monitoring_connector.info.yml" timestamp="1469378680187">
         <mark key="[" line="0" column="6" />
@@ -313,11 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[NodeJS](https://nodejs.org) to run npm locally.
-* [Grunt](http://gruntjs.com/getting-started) to run the projects tasks.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>sonne</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>kint</text>
@@ -325,23 +325,24 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRmb3JtX3N0YXRlLT5zZXRSZWRpcmVjdFVybChfZ2FpYV9wYXRpZW50X2Zsb3dfZ2V0X2xvY2FsaXplZF9kYXNoYm9hcmRfdXJsKCRhY2NvdW50KSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZGR4Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CkN1cnJlbnQgc3RhdGU6IFshW2J1aWxkIHN0YXR1c10oaHR0cHM6Ly9zb3VyY2UuZmFjdG9yaWFsLmlvL2NpL3Byb2plY3RzLzYvc3RhdHVzLnBuZz9yZWY9ZGV2ZWxvcCldKGh0dHBzOi8vc291cmNlLmZhY3RvcmlhbC5pby9jaS9wcm9qZWN0cy82P3JlZj1kZXZlbG9wKQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>The develop-branch is automatically deployed to http://dev.soba.clients.factorial.io
+* Behat-tests are automatically executed for new commits on the develop-branch</text>
+      </register>
+      <register name="4" type="4">
         <text>[NodeJS](https://nodejs.org) to run npm locally.
 * [Grunt](http://gruntjs.com/getting-started) to run the projects tasks.</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>[component](https://github.com/componentjs/component)
 * [PostCSS](http://postcss.org/)
 * [MtHaml](https://github.com/arnaud-lb/MtHaml)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBraW50KCRqcWwpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHJlbmRlcl9hcnJheSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -390,16 +391,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdW5zZXQoJGNvbW1lbnQtPmF1dGhvci0+YXZhdGFyVXJscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBraW50KCRqcWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICRjYW5kaWRhdGVfZGVsdGEgPSAkZGVsdGE7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRwb3MgPSBtYl9zdHJwb3MoJGJvZHksICJcbi0qLSotXG4iKTsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJHJlbmRlcl9hcnJheSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgdW5zZXQoJGNvbW1lbnQtPmF1dGhvci0+YXZhdGFyVXJscyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
