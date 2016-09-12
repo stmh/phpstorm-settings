@@ -9,6 +9,12 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" timestamp="1473699307474">
+        <mark key="[" line="108" column="42" />
+        <mark key="]" line="109" column="28" />
+        <mark key="^" line="109" column="28" />
+        <mark key="." line="109" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -219,6 +225,12 @@
         <mark key="]" line="8" column="25" />
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" timestamp="1473699820071">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-flow.html.twig" timestamp="1470828102181">
         <mark key="[" line="2" column="33" />
@@ -593,8 +605,8 @@
       <jump line="135" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Plugin/QuestionType/FreeformQuestionType.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAtIGV4ZWN1dGUoc2NyaXB0LCBkaXNhYmxlTWFpbCkK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -702,7 +714,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
