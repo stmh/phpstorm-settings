@@ -9,11 +9,12 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" timestamp="1473699307474">
-        <mark key="[" line="108" column="42" />
-        <mark key="]" line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="109" column="28" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" timestamp="1473755197480">
+        <mark key="'" line="78" column="13" />
+        <mark key="[" line="94" column="36" />
+        <mark key="]" line="94" column="49" />
+        <mark key="." line="94" column="49" />
+        <mark key="^" line="94" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -503,8 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="85" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="145" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="116" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="181" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -603,10 +602,12 @@
       <jump line="80" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
       <jump line="164" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
       <jump line="135" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Plugin/QuestionType/FreeformQuestionType.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
+      <jump line="77" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>J</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -714,43 +715,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
       </register>
-      <register name="0" type="4">
-        <text>;
-    $</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAtIGV4ZWN1dGUoc2NyaXB0LCBkaXNhYmxlTWFpbCkK</text>
+        <text encoding="base64">ICBEcnVwYWxcbm9kZVxOb2RlSW50ZXJmYWNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc2V0Ogo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRzbSgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgJGtleQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRzbSgiaGllciIpOwo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxnYWlhX3F1ZXN0aW9ubmFpcmVzXFF1ZXN0aW9uVHlwZUludGVyZmFjZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRzbSgkcmV0KTsK</text>
+        <text encoding="base64">dXNlIERydXBhbFxnYWlhX3F1ZXN0aW9ubmFpcmVzXEFubm90YXRpb25cUXVlc3Rpb25UeXBlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>@param $value
-   * @return string</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAtIGV4ZWN1dGUoc2NyaXB0LCBkaXNhYmxlTWFpbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRMYWJlbEZvclZhbHVlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIHJlc2V0Ogo=</text>
       </register>
-      <register name="8" type="4">
-        <text>@param $value
-   * @return mixed</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRzbSgkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRMYWJlbEZvclZhbHVlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIGRzbSgiaGllciIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -806,6 +804,7 @@
         <entry>132</entry>
         <entry>105</entry>
         <entry>113</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
