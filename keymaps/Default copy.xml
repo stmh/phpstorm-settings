@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Tool_External Tools_Fix PHP Code">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+</keymap>
