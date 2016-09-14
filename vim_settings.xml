@@ -41,7 +41,7 @@
         <mark key="^" line="230" column="60" />
         <mark key="." line="230" column="60" />
       </file>
-      <file name="/a.dummy" timestamp="1473841875696">
+      <file name="/a.dummy" timestamp="1473853903170">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -264,11 +264,11 @@
         <mark key="^" line="149" column="113" />
         <mark key="." line="149" column="129" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1473150997361">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1473854485049">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="6" />
+        <mark key="^" line="49" column="6" />
+        <mark key="." line="49" column="6" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/meta-country-selection/meta-country-selection.js" timestamp="1472813234758">
         <mark key="[" line="18" column="6" />
@@ -378,6 +378,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.css" timestamp="1473854630817">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tickets/public/modules/custom/jira/src/Form/CreateIssueForm.php" timestamp="1471528972732">
         <mark key="[" line="166" column="67" />
         <mark key="]" line="167" column="6" />
@@ -437,11 +442,24 @@
         <mark key="." line="86" column="34" />
         <mark key="^" line="86" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-caption.tpl.haml" timestamp="1473853961029">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/subscribe_newsletter.php" timestamp="1473267506998">
         <mark key="[" line="29" column="51" />
         <mark key="]" line="29" column="50" />
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1473853595388">
+        <mark key="'" line="450" column="20" />
+        <mark key="[" line="95" column="52" />
+        <mark key="]" line="95" column="57" />
+        <mark key="^" line="95" column="57" />
+        <mark key="." line="95" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/dashboard.feature" timestamp="1470405206760">
         <mark key="[" line="16" column="7" />
@@ -524,8 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
-      <jump line="116" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="181" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="159" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="145" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -624,10 +640,15 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
       <jump line="77" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
+      <jump line="272" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
+      <jump line="449" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3NpdGUnKQ==</text>
+        <text>.js-Navigation {
+  transform: translateY(0);
+  transition: all .2s ease-in-out;
+}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -738,48 +759,51 @@
         <text encoding="base64">Zm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3NpdGUnKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>dsm</text>
+        <text>ht</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
+      <register name="1" type="4">
+        <text>.js-Navigation {
+  transform: translateY(0);
+  transition: all .2s ease-in-out;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJHVzZXItPmdldCgnZmllbGRfc3RhdGUnKS0+dmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBIZWxwZXIgZnVuY3Rpb24gdG8gZXh0cmFjdCBSZXN1bHRzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBEcnVwYWxcbm9kZVxOb2RlSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkc20oJHVzZXItPmdldCgnZmllbGRfc3RhdGUnKS0+dmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgJGtleQo=</text>
+        <text encoding="base64">ICAgKiBIZWxwZXIgZnVuY3Rpb24gdG8gZXh0cmFjdCBSZXN1bHRzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxnYWlhX3F1ZXN0aW9ubmFpcmVzXFF1ZXN0aW9uVHlwZUludGVyZmFjZTsK</text>
+        <text encoding="base64">ICBEcnVwYWxcbm9kZVxOb2RlSW50ZXJmYWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxnYWlhX3F1ZXN0aW9ubmFpcmVzXEFubm90YXRpb25cUXVlc3Rpb25UeXBlOwo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAtIGV4ZWN1dGUoc2NyaXB0LCBkaXNhYmxlTWFpbCkK</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgJGtleQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dsm</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern>dsm</last-pattern>
+      <last-search>ht</last-search>
+      <last-offset />
+      <last-pattern>ht</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -803,6 +827,8 @@
         <entry>error</entry>
         <entry>displayerror</entry>
         <entry>dsm</entry>
+        <entry>frontpage</entry>
+        <entry>ht</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -825,6 +851,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>146</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
