@@ -29,6 +29,12 @@
         <mark key="^" line="25" column="82" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.module" timestamp="1473956281772">
+        <mark key="[" line="250" column="39" />
+        <mark key="]" line="250" column="39" />
+        <mark key="^" line="240" column="23" />
+        <mark key="." line="250" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/composer.json" timestamp="1471624829993">
         <mark key="[" line="104" column="139" />
         <mark key="]" line="104" column="138" />
@@ -100,6 +106,12 @@
         <mark key="]" line="13" column="11" />
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
+      </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.stores.inc" timestamp="1473956164797">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
@@ -545,7 +557,6 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" timestamp="1473839289831" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
         <mark key="]" line="138" column="6" />
@@ -657,7 +668,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>stores</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -765,46 +776,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>stores</text>
       </register>
       <register name="/" type="4">
         <text>translationmanager</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR0cmFuc2xhdGlvbl9tYW5hZ2VyLT5zZXREZWZhdWx0TGFuZ2NvZGUoJ2VuJyk7Cg==</text>
+        <text encoding="base64">ICAgIGFycmF5KAogICAgICAndGl0bGUnID0+IHQoJ0NvbmZpZ3VyZScpLAogICAgICAna2V5JyA9PiAnb3JkZXItb2NjaGlvJywKICAgICAgJ2hyZWYnID0+ICdidXkvYWxsL2J5LXNlcmllcycsCiAgICAgICd0ZW1wbGF0ZV9zdWdnZXN0aW9ucycgPT4gYXJyYXkoJ3N0b3JlJyksCiAgICAgICdzaG93X2FzX2Ryb3Bkb3duJyA9PiBGQUxTRSwKICAgICksCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">YXJyYXkoCiAgICAgICd0aXRsZScgPT4gdCgnRmluZCBhIGRlYWxlcicpLAogICAgICAnaHJlZicgPT4gJ2NvbXBhbnkvc3RvcmUtbG9jYXRvcicsCiAgICAgICd0ZW1wbGF0ZV9zdWdnZXN0aW9ucycgPT4gYXJyYXkoJ3N0b3JlJyksCiAgICAgICdzaG93X2FzX2Ryb3Bkb3duJyA9PiBGQUxTRSwKICAgICksCiAgICBhcnJheSgKICAgICAgJ3RpdGxlJyA9PiB0KCdPY2NoaW8gc3RvcmUgTVVDJyksCiAgICAgICdocmVmJyA9PiAnaHR0cDovL3d3dy5vY2NoaW8uZGUvc3RvcmUvbXVjJywKICAgICAgJ3RlbXBsYXRlX3N1Z2dlc3Rpb25zJyA9PiBhcnJheSgnc3RvcmUnKSwKICAgICAgJ3Nob3dfYXNfZHJvcGRvd24nID0+IEZBTFNFLAogICAgKSwKICAgIGFycmF5KAogICAgICAndGl0bGUnID0+IHQoJ09jY2hpbyBzdG9yZSBDR04nKSwKICAgICAgJ2hyZWYnID0+ICdodHRwOi8vd3d3Lm9jY2hpby5kZS9zdG9yZS9jZ24nLAogICAgICAndGVtcGxhdGVfc3VnZ2VzdGlvbnMnID0+IGFycmF5KCdzdG9yZScpLAogICAgICAnc2hvd19hc19kcm9wZG93bicgPT4gRkFMU0UsCiAgICApLA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICRkZWZhdWx0X2xhbmd1YWdlID0gJHRyYW5zbGF0aW9uX21hbmFnZXItPjsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>.js-Navigation {
   transform: translateY(0);
   transition: all .2s ease-in-out;
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJHVzZXItPmdldCgnZmllbGRfc3RhdGUnKS0+dmFsdWUpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgKiBIZWxwZXIgZnVuY3Rpb24gdG8gZXh0cmFjdCBSZXN1bHRzLgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBEcnVwYWxcbm9kZVxOb2RlSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxub2RlXE5vZGVJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>46</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -812,13 +823,10 @@
       <last-offset />
       <last-pattern>translationmanager</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>mail(</entry>
-        <entry>hook_mail</entry>
         <entry>user</entry>
         <entry>prefix</entry>
         <entry encoding="base64">XDxFWFBJUllfVElNRVw+</entry>
@@ -841,9 +849,6 @@
         <entry>translationmanager</entry>
       </history-search>
       <history-cmd>
-        <entry>42</entry>
-        <entry>83</entry>
-        <entry>28</entry>
         <entry>107</entry>
         <entry>257</entry>
         <entry>177</entry>
@@ -861,9 +866,9 @@
         <entry>W</entry>
         <entry>146</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>46</entry>
         <entry>tabNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
