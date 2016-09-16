@@ -52,7 +52,7 @@
         <mark key="^" line="230" column="60" />
         <mark key="." line="230" column="60" />
       </file>
-      <file name="/a.dummy" timestamp="1473870049344">
+      <file name="/a.dummy" timestamp="1474023713413">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -275,6 +275,11 @@
         <mark key="^" line="149" column="113" />
         <mark key="." line="149" column="129" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/layout/br-projects.tpl.haml" timestamp="1474024050093">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1473854485049">
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="6" />
@@ -298,6 +303,12 @@
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--award-listing.tpl.haml" timestamp="1474023632825">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_shop_integration/occhio_shop_integration.module" timestamp="1473081804660">
         <mark key="[" line="83" column="66" />
@@ -448,11 +459,6 @@
         <mark key="." line="35" column="23" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/fabfile.yaml" timestamp="1473669658962">
-        <mark key="]" line="135" column="3" />
-        <mark key="^" line="135" column="3" />
-        <mark key="." line="135" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_recruit_chart/src/Plugin/Block/GaiaRecruitChartBlock.php" timestamp="1473762433595">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="34" />
@@ -471,12 +477,12 @@
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1473853595388">
-        <mark key="'" line="450" column="20" />
-        <mark key="[" line="95" column="52" />
-        <mark key="]" line="95" column="57" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1474023830437">
+        <mark key="'" line="95" column="57" />
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="451" column="0" />
         <mark key="^" line="95" column="57" />
-        <mark key="." line="95" column="57" />
+        <mark key="." line="451" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/dashboard.feature" timestamp="1470405206760">
         <mark key="[" line="16" column="7" />
@@ -514,11 +520,11 @@
         <mark key="^" line="56" column="22" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/modules/custom/br_frontpage/br_frontpage.module" timestamp="1473249220057">
-        <mark key="[" line="395" column="44" />
-        <mark key="]" line="395" column="44" />
-        <mark key="^" line="395" column="44" />
-        <mark key="." line="395" column="44" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/modules/custom/br_frontpage/br_frontpage.module" timestamp="1474023798897">
+        <mark key="[" line="118" column="2" />
+        <mark key="]" line="119" column="3" />
+        <mark key="^" line="119" column="3" />
+        <mark key="." line="119" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Plugin/QueueWorker/GaiaExportWorkerBase.php" timestamp="1473870400996">
         <mark key="[" line="113" column="45" />
@@ -564,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="145" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="148" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="0" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" />
@@ -664,10 +669,11 @@
       <jump line="272" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="449" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="722" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/core.services.yml" />
+      <jump line="95" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">Jm5ic3A7</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -775,7 +781,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">Jm5ic3A7</text>
       </register>
       <register name="/" type="4">
         <text>translationmanager</text>
@@ -783,35 +789,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFycmF5KAogICAgICAndGl0bGUnID0+IHQoJ0NvbmZpZ3VyZScpLAogICAgICAna2V5JyA9PiAnb3JkZXItb2NjaGlvJywKICAgICAgJ2hyZWYnID0+ICdidXkvYWxsL2J5LXNlcmllcycsCiAgICAgICd0ZW1wbGF0ZV9zdWdnZXN0aW9ucycgPT4gYXJyYXkoJ3N0b3JlJyksCiAgICAgICdzaG93X2FzX2Ryb3Bkb3duJyA9PiBGQUxTRSwKICAgICksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXJyYXkoCiAgICAgICd0aXRsZScgPT4gdCgnRmluZCBhIGRlYWxlcicpLAogICAgICAnaHJlZicgPT4gJ2NvbXBhbnkvc3RvcmUtbG9jYXRvcicsCiAgICAgICd0ZW1wbGF0ZV9zdWdnZXN0aW9ucycgPT4gYXJyYXkoJ3N0b3JlJyksCiAgICAgICdzaG93X2FzX2Ryb3Bkb3duJyA9PiBGQUxTRSwKICAgICksCiAgICBhcnJheSgKICAgICAgJ3RpdGxlJyA9PiB0KCdPY2NoaW8gc3RvcmUgTVVDJyksCiAgICAgICdocmVmJyA9PiAnaHR0cDovL3d3dy5vY2NoaW8uZGUvc3RvcmUvbXVjJywKICAgICAgJ3RlbXBsYXRlX3N1Z2dlc3Rpb25zJyA9PiBhcnJheSgnc3RvcmUnKSwKICAgICAgJ3Nob3dfYXNfZHJvcGRvd24nID0+IEZBTFNFLAogICAgKSwKICAgIGFycmF5KAogICAgICAndGl0bGUnID0+IHQoJ09jY2hpbyBzdG9yZSBDR04nKSwKICAgICAgJ2hyZWYnID0+ICdodHRwOi8vd3d3Lm9jY2hpby5kZS9zdG9yZS9jZ24nLAogICAgICAndGVtcGxhdGVfc3VnZ2VzdGlvbnMnID0+IGFycmF5KCdzdG9yZScpLAogICAgICAnc2hvd19hc19kcm9wZG93bicgPT4gRkFMU0UsCiAgICApLA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>if (drupal_get_path_alias() == 'projekte') {
+    return TRUE;
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LXNtLXNpemUzb2YxMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LWJlZm9yZTFvZjMudS1zbS1zaXplOG9mMTIudS1zbS1iZWZvcmVOb25lCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">YXJyYXkoCiAgICAgICd0aXRsZScgPT4gdCgnRmluZCBhIGRlYWxlcicpLAogICAgICAnaHJlZicgPT4gJ2NvbXBhbnkvc3RvcmUtbG9jYXRvcicsCiAgICAgICd0ZW1wbGF0ZV9zdWdnZXN0aW9ucycgPT4gYXJyYXkoJ3N0b3JlJyksCiAgICAgICdzaG93X2FzX2Ryb3Bkb3duJyA9PiBGQUxTRSwKICAgICksCiAgICBhcnJheSgKICAgICAgJ3RpdGxlJyA9PiB0KCdPY2NoaW8gc3RvcmUgTVVDJyksCiAgICAgICdocmVmJyA9PiAnaHR0cDovL3d3dy5vY2NoaW8uZGUvc3RvcmUvbXVjJywKICAgICAgJ3RlbXBsYXRlX3N1Z2dlc3Rpb25zJyA9PiBhcnJheSgnc3RvcmUnKSwKICAgICAgJ3Nob3dfYXNfZHJvcGRvd24nID0+IEZBTFNFLAogICAgKSwKICAgIGFycmF5KAogICAgICAndGl0bGUnID0+IHQoJ09jY2hpbyBzdG9yZSBDR04nKSwKICAgICAgJ2hyZWYnID0+ICdodHRwOi8vd3d3Lm9jY2hpby5kZS9zdG9yZS9jZ24nLAogICAgICAndGVtcGxhdGVfc3VnZ2VzdGlvbnMnID0+IGFycmF5KCdzdG9yZScpLAogICAgICAnc2hvd19hc19kcm9wZG93bicgPT4gRkFMU0UsCiAgICApLA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRkZWZhdWx0X2xhbmd1YWdlID0gJHRyYW5zbGF0aW9uX21hbmFnZXItPjsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.js-Navigation {
-  transform: translateY(0);
-  transition: all .2s ease-in-out;
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
