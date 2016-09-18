@@ -16,6 +16,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="94" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GridCell.vue" timestamp="1474210370165">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -33,6 +39,12 @@
         <mark key="]" line="230" column="60" />
         <mark key="^" line="230" column="60" />
         <mark key="." line="230" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Grid.vue" timestamp="1474210184011">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1473762143777">
         <mark key="'" line="0" column="0" />
@@ -287,11 +299,11 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1474207635557">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1474210321298">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/grid.vue" timestamp="1474206910812">
         <mark key="[" line="6" column="0" />
@@ -647,8 +659,8 @@
       <jump line="77" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sICdoZWlnaHQnLCAnYmFja2dyb3VuZENvbG9yJ10sCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -756,7 +768,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Grid-cell {{width}} {{height}} {{backgroundColor}}</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
@@ -765,31 +777,31 @@
         <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9jb21wb25lbnRzL2dyaWQudnVlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sICdoZWlnaHQnLCAnYmFja2dyb3VuZENvbG9yJ10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbXNnOiAnSGVsbG8gVnVlIDIuMCEnCg==</text>
+        <text encoding="base64">ICBkYXRhICgpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgIHN0aDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6I2ZmMDAwMDsK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib2R5ewo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib2R5ewo=</text>
+        <text encoding="base64">ICAgICgpewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -844,8 +856,8 @@
         <entry>113</entry>
         <entry>1</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>15</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
