@@ -20,7 +20,7 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
-      <file name="/a.dummy" timestamp="1474023713413">
+      <file name="/a.dummy" timestamp="1474273380957">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -61,6 +61,12 @@
         <mark key="]" line="51" column="38" />
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/.gitignore" timestamp="1474273089170">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/patient-state.feature" timestamp="1471435121001">
         <mark key="[" line="0" column="1" />
@@ -116,6 +122,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/locales/de.yml" timestamp="1474272968836">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="85" />
+        <mark key="." line="11" column="85" />
+        <mark key="^" line="11" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" timestamp="1473699820071">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="24" column="26" />
@@ -145,6 +157,12 @@
         <mark key="]" line="18" column="48" />
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/source/source/components/partner/partner.css" timestamp="1474273412406">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/field.field.node.interview_data.field_bicams_3.yml" timestamp="1471617273005">
         <mark key="[" line="19" column="7" />
@@ -277,6 +295,12 @@
         <mark key="]" line="138" column="6" />
         <mark key="^" line="138" column="6" />
         <mark key="." line="138" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/source/localizable/partner.haml" timestamp="1474273188289">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.css" timestamp="1472724332747">
         <mark key="[" line="2" column="1" />
@@ -525,6 +549,11 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/locales/en.yml" timestamp="1474273261405">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_recruit_chart/src/Plugin/Block/GaiaRecruitChartBlock.php" timestamp="1473762433595">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="34" />
@@ -679,7 +708,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>We work together with the following partners.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -787,7 +816,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>We work together with the following partners.</text>
       </register>
       <register name="/" type="4">
         <text>translationmanager</text>
