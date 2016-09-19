@@ -152,11 +152,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1474280850976">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="3" />
-        <mark key="^" line="49" column="3" />
-        <mark key="." line="49" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1474281412091">
+        <mark key="[" line="74" column="27" />
+        <mark key="]" line="74" column="29" />
+        <mark key="^" line="74" column="29" />
+        <mark key="." line="74" column="29" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/meta-country-selection/meta-country-selection.js" timestamp="1472813234758">
         <mark key="[" line="18" column="6" />
@@ -508,10 +508,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.css" timestamp="1473854630817">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.css" timestamp="1474281834680">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tickets/public/modules/custom/jira/src/Form/CreateIssueForm.php" timestamp="1471528972732">
         <mark key="[" line="166" column="67" />
@@ -721,7 +722,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3600</text>
+        <text>all</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -829,42 +830,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3600</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text>translationmanager</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYXJ0bmVyX2NhdGVnb3J5X2NhcHRpb246IEthdGVnb3JpZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudC5jbGFzc0xpc3QucmVtb3ZlKCdOYXZpZ2F0aW9uLS1zaG93Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IEkxOG4udChkYXRhLnBhcnRuZXIuY2F0ZWdvcnlfY2FwdGlvbikgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXJ0bmVyX2NhdGVnb3J5X2NhcHRpb246IEthdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IEkxOG4udChkYXRhLnBhcnRuZXIuY2F0ZWdvcnlfY2FwdGlvbikgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgUGF0dGVybmxhYiAKIyMjIHJlLWluc3RhbGwKaW4gb3JkZXIgdG8gcnVuIHBhdHRlcm4tbGFiIGxvY2FsbHksIHJlLWluc3RhbGwgaXQuCjEuIGluIHBhdHRlcm5sYWIgZm9sZGVyIGB3ZWIvdGhlbWVzL2N1c3RvbS9taWRvcmkvcGF0dGVybi1sYWI6IGAkIHJtIC1yZiB2ZW5kb3JgCjIuIGAkIGNvbXBvc2VyIGluc3RhbGwKMy4gcHJlc3MgTSBmb3IgZXZlcnkgIm1lcmdlIG9yIHJlcGxhY2Ugd2l0aCB0aGUgY29udGVudHMgb2YiCjQuIHByZXNzIFkgZm9yICJ1cGRhdGUgdGhlIGNvbmZpZyBvcHRpb24gc3R5bGVndWlkZUtpdFBhdGgiCgojIyMgZ2VuZXJhdGUKMS4gYCQgY29tcG9zZXIgZ2VuZXJhdGVgCg==</text>
+        <text encoding="base64">ICBwYXJ0bmVyX2NhdGVnb3J5X2NhcHRpb246IEthdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Mi4gYCQgY29tcG9zZXIgaW5zdGFsbAo=</text>
+        <text encoding="base64">IyMgUGF0dGVybmxhYiAKIyMjIHJlLWluc3RhbGwKaW4gb3JkZXIgdG8gcnVuIHBhdHRlcm4tbGFiIGxvY2FsbHksIHJlLWluc3RhbGwgaXQuCjEuIGluIHBhdHRlcm5sYWIgZm9sZGVyIGB3ZWIvdGhlbWVzL2N1c3RvbS9taWRvcmkvcGF0dGVybi1sYWI6IGAkIHJtIC1yZiB2ZW5kb3JgCjIuIGAkIGNvbXBvc2VyIGluc3RhbGwKMy4gcHJlc3MgTSBmb3IgZXZlcnkgIm1lcmdlIG9yIHJlcGxhY2Ugd2l0aCB0aGUgY29udGVudHMgb2YiCjQuIHByZXNzIFkgZm9yICJ1cGRhdGUgdGhlIGNvbmZpZyBvcHRpb24gc3R5bGVndWlkZUtpdFBhdGgiCgojIyMgZ2VuZXJhdGUKMS4gYCQgY29tcG9zZXIgZ2VuZXJhdGVgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIHJlLWluc3RhbGwK</text>
+        <text encoding="base64">Mi4gYCQgY29tcG9zZXIgaW5zdGFsbAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IyMjIHJlLWluc3RhbGwK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (drupal_get_path_alias() == 'projekte') {
     return TRUE;
   }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LXNtLXNpemUzb2YxMgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LWJlZm9yZTFvZjMudS1zbS1zaXplOG9mMTIudS1zbS1iZWZvcmVOb25lCg==</text>
+        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LXNtLXNpemUzb2YxMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -915,11 +916,11 @@
         <entry>113</entry>
         <entry>1</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>146</entry>
         <entry>:w</entry>
         <entry>46</entry>
         <entry>tabNext</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
