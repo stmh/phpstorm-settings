@@ -38,6 +38,11 @@
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/core.extension.yml" timestamp="1474305123448">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigatgion.js" timestamp="1472737117092">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="28" column="26" />
@@ -236,11 +241,10 @@
         <mark key="." line="35" column="23" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/fabfile.yaml" timestamp="1474296972642">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="156" column="39" />
-        <mark key="^" line="156" column="39" />
-        <mark key="." line="156" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/fabfile.yaml" timestamp="1474304956202">
+        <mark key="]" line="145" column="39" />
+        <mark key="^" line="145" column="39" />
+        <mark key="." line="145" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1474029870331">
         <mark key="[" line="87" column="61" />
@@ -727,8 +731,8 @@
       <jump line="95" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdXBlcmNhY2hlOiAwCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -845,33 +849,31 @@
         <text encoding="base64">ICAgIHRoaXMuZWxlbWVudC5jbGFzc0xpc3QucmVtb3ZlKCdOYXZpZ2F0aW9uLS1zaG93Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdXBlcmNhY2hlOiAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IEkxOG4udChkYXRhLnBhcnRuZXIuY2F0ZWdvcnlfY2FwdGlvbikgCg==</text>
+        <text encoding="base64">ICAgICAtIGRydXNoIHBtLXVuaW5zdGFsbCBzdXBjZXJjYWNoZSAteQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXJ0bmVyX2NhdGVnb3J5X2NhcHRpb246IEthdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgUGF0dGVybmxhYiAKIyMjIHJlLWluc3RhbGwKaW4gb3JkZXIgdG8gcnVuIHBhdHRlcm4tbGFiIGxvY2FsbHksIHJlLWluc3RhbGwgaXQuCjEuIGluIHBhdHRlcm5sYWIgZm9sZGVyIGB3ZWIvdGhlbWVzL2N1c3RvbS9taWRvcmkvcGF0dGVybi1sYWI6IGAkIHJtIC1yZiB2ZW5kb3JgCjIuIGAkIGNvbXBvc2VyIGluc3RhbGwKMy4gcHJlc3MgTSBmb3IgZXZlcnkgIm1lcmdlIG9yIHJlcGxhY2Ugd2l0aCB0aGUgY29udGVudHMgb2YiCjQuIHByZXNzIFkgZm9yICJ1cGRhdGUgdGhlIGNvbmZpZyBvcHRpb24gc3R5bGVndWlkZUtpdFBhdGgiCgojIyMgZ2VuZXJhdGUKMS4gYCQgY29tcG9zZXIgZ2VuZXJhdGVgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IEkxOG4udChkYXRhLnBhcnRuZXIuY2F0ZWdvcnlfY2FwdGlvbikgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gYCQgY29tcG9zZXIgaW5zdGFsbAo=</text>
+        <text encoding="base64">ICBwYXJ0bmVyX2NhdGVnb3J5X2NhcHRpb246IEthdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIHJlLWluc3RhbGwK</text>
+        <text encoding="base64">IyMgUGF0dGVybmxhYiAKIyMjIHJlLWluc3RhbGwKaW4gb3JkZXIgdG8gcnVuIHBhdHRlcm4tbGFiIGxvY2FsbHksIHJlLWluc3RhbGwgaXQuCjEuIGluIHBhdHRlcm5sYWIgZm9sZGVyIGB3ZWIvdGhlbWVzL2N1c3RvbS9taWRvcmkvcGF0dGVybi1sYWI6IGAkIHJtIC1yZiB2ZW5kb3JgCjIuIGAkIGNvbXBvc2VyIGluc3RhbGwKMy4gcHJlc3MgTSBmb3IgZXZlcnkgIm1lcmdlIG9yIHJlcGxhY2Ugd2l0aCB0aGUgY29udGVudHMgb2YiCjQuIHByZXNzIFkgZm9yICJ1cGRhdGUgdGhlIGNvbmZpZyBvcHRpb24gc3R5bGVndWlkZUtpdFBhdGgiCgojIyMgZ2VuZXJhdGUKMS4gYCQgY29tcG9zZXIgZ2VuZXJhdGVgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Mi4gYCQgY29tcG9zZXIgaW5zdGFsbAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>if (drupal_get_path_alias() == 'projekte') {
-    return TRUE;
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyMjIHJlLWluc3RhbGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5HcmlkLWNlbGwudS1zaXplMm9mMy51LXNtLXNpemUzb2YxMgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
