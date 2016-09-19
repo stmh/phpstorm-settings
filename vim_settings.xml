@@ -592,11 +592,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" timestamp="1474278399241">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" timestamp="1474279425741">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/layout/br-navigation.tpl.haml" timestamp="1472740187219">
         <mark key="[" line="0" column="26" />
@@ -721,7 +721,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>3600</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -829,7 +829,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>3600</text>
       </register>
       <register name="/" type="4">
         <text>translationmanager</text>
