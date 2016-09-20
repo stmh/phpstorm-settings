@@ -230,10 +230,10 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1470647863069">
-        <mark key="[" line="25" column="80" />
-        <mark key="]" line="25" column="87" />
-        <mark key="." line="25" column="87" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
         <mark key="^" line="25" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/modules/custom/br_responsive_image_styles/br_responsive_image_styles.module" timestamp="1472815325931">
@@ -276,6 +276,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" timestamp="1474381902352">
+        <mark key="[" line="34" column="103" />
+        <mark key="]" line="34" column="103" />
+        <mark key="." line="34" column="103" />
+        <mark key="^" line="43" column="140" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block--views.html.twig" timestamp="1470907732715">
         <mark key="[" line="56" column="22" />
@@ -325,20 +331,6 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" timestamp="1473760680799">
-        <mark key="'" line="78" column="13" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="94" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" timestamp="1473839127244">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="718" column="0" />
-        <mark key="]" line="718" column="1" />
-        <mark key="^" line="718" column="1" />
-        <mark key="." line="718" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/kgslkhgfsa" timestamp="1474379622742" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.module" timestamp="1473958779256">
         <mark key="[" line="241" column="43" />
@@ -364,7 +356,7 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/test.html" timestamp="1474380671052" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/test.html" timestamp="1474381671824" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_patient_flow.state_mapping.yml" timestamp="1473069314581">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="11" />
@@ -376,13 +368,6 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" timestamp="1473763030956">
-        <mark key="'" line="176" column="23" />
-        <mark key="[" line="141" column="17" />
-        <mark key="]" line="141" column="24" />
-        <mark key="^" line="141" column="24" />
-        <mark key="." line="141" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/pages/page.tpl.haml" timestamp="1472740296839">
         <mark key="[" line="21" column="27" />
@@ -592,13 +577,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1474023830437">
-        <mark key="'" line="95" column="57" />
-        <mark key="[" line="451" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="^" line="95" column="57" />
-        <mark key="." line="451" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/page.html.twig" timestamp="1470304704980">
         <mark key="[" line="102" column="53" />
@@ -854,8 +832,8 @@
       <register name="/" type="4">
         <text>translationmanager</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudC5jbGFzc0xpc3QucmVtb3ZlKCdOYXZpZ2F0aW9uLS1zaG93Jyk7Cg==</text>
+      <register name="0" type="4">
+        <text>’</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzdXBlcmNhY2hlOiAwCg==</text>
