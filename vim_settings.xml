@@ -49,6 +49,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1474632605200">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/r4032login.settings.yml" timestamp="1469722625984">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="43" />
@@ -289,7 +294,6 @@
         <mark key="." line="34" column="103" />
         <mark key="^" line="43" column="140" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.module" timestamp="1474623795547" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block--views.html.twig" timestamp="1470907732715">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="56" column="22" />
@@ -460,11 +464,11 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/05-detail-section.twig" timestamp="1474380766213">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/05-detail-section.twig" timestamp="1474632451409">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/reminder-mails.feature" timestamp="1471270691120">
         <mark key="[" line="9" column="48" />
@@ -745,8 +749,8 @@
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$country</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -863,28 +867,28 @@
         <text encoding="base64">ICAgIGFycmF5KAogICAgICAnbGFiZWwnID0+IHQoJ0ZhY2Vib29rJyksCiAgICAgICd1cmwnID0+ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vQk1XP3JlZj1icl90ZicKICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
+        <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
+        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRtYXJrZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXJyYXkoCg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRtYXJrZXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gYXJyYXkoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG1lbnVfaXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG1lbnVfaXRlbXMpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -898,15 +902,10 @@
       <last-offset />
       <last-pattern>social_media</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry>prefix</entry>
-        <entry encoding="base64">XDxFWFBJUllfVElNRVw+</entry>
-        <entry>::service</entry>
-        <entry encoding="base64">XDw7XD4=</entry>
         <entry>patient_data</entry>
         <entry>hook_inline</entry>
         <entry>items</entry>
@@ -929,13 +928,6 @@
         <entry>social_media</entry>
       </history-search>
       <history-cmd>
-        <entry>257</entry>
-        <entry>177</entry>
-        <entry>136</entry>
-        <entry>12</entry>
-        <entry>157</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>190</entry>
         <entry>106</entry>
         <entry>132</entry>
         <entry>105</entry>
