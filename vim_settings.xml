@@ -253,11 +253,6 @@
         <mark key="." line="35" column="23" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/fabfile.yaml" timestamp="1474304956202">
-        <mark key="]" line="145" column="39" />
-        <mark key="^" line="145" column="39" />
-        <mark key="." line="145" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1474029870331">
         <mark key="[" line="87" column="61" />
         <mark key="]" line="87" column="61" />
@@ -455,11 +450,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" timestamp="1474635161449">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="57" column="2" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" timestamp="1474642452104">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="2" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" timestamp="1470847577427">
         <mark key="[" line="45" column="0" />
@@ -630,6 +625,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1474642874657">
+        <mark key="[" line="91" column="18" />
+        <mark key="]" line="91" column="19" />
+        <mark key="." line="91" column="19" />
+        <mark key="^" line="93" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1474620881963">
         <mark key="[" line="907" column="14" />
         <mark key="]" line="907" column="14" />
@@ -758,8 +759,8 @@
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -867,40 +868,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFycmF5KAogICAgICAnbGFiZWwnID0+IHQoJ0ZhY2Vib29rJyksCiAgICAgICd1cmwnID0+ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vQk1XP3JlZj1icl90ZicKICAgICksCg==</text>
+        <text encoding="base64">ICAgICcxJyA9PiBbICdsYXJnZScgPT4gJzJvZjYnLCAnbWVkaXVtJyA9PiAnMW9mMycsICdzbWFsbCcgPT4gJzFvZjInIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
+        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
+        <text encoding="base64">ICBkc20oJHZhcnNbJ3N0eWxlcyddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
+        <text encoding="base64">ICBraW50KCR2YXJzKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRtYXJrZXQpOwo=</text>
+      <register name="4" type="4">
+        <text>{%
+
+set alignment_classes = [
+    'block-element-order-' ~ content['#block_content'].field_element_order.value,
+    'block-image-h-' ~ content['#block_content'].field_image_horizontal_position.value,
+    'block-image-v-' ~ content['#block_content'].field_image_vertical_position.value,
+    'block-image-width-' ~ content['#block_content'].field_image_size.value,
+    'block-text-v-' ~ content['#block_content'].field_text_vertical_position.value,
+    'block-text-h-' ~ content['#block_content'].field_text_horizontal_position.value
+    ]
+
+%}
+
+{%
+set styles = {
+  'reverse': [ 'false'],
+  'text_align_middle': ['false'],
+  'image_width': [
+    {'large': '6of6', 'medium': '3of3', 'small': '2of2'}
+  ]
+}
+%}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXJyYXkoCg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkZnVuY3Rpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG1lbnVfaXRlbXMpOwo=</text>
+        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -958,6 +980,7 @@
         <entry>933</entry>
         <entry>72</entry>
         <entry>87</entry>
+        <entry>95</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
