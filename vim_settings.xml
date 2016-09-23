@@ -450,11 +450,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" timestamp="1474642452104">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="36" column="2" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" timestamp="1474644499858">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" timestamp="1470847577427">
         <mark key="[" line="45" column="0" />
@@ -625,11 +626,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1474642874657">
-        <mark key="[" line="91" column="18" />
-        <mark key="]" line="91" column="19" />
-        <mark key="." line="91" column="19" />
-        <mark key="^" line="93" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1474644101229">
+        <mark key="[" line="249" column="55" />
+        <mark key="]" line="256" column="1" />
+        <mark key="^" line="256" column="1" />
+        <mark key="." line="256" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1474620881963">
         <mark key="[" line="907" column="14" />
@@ -657,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="191" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="732" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
@@ -757,10 +757,11 @@
       <jump line="438" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="1019" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>CTA Headline</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -868,7 +869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>CTA Headline</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -877,15 +878,18 @@
         <text encoding="base64">ICAgICcxJyA9PiBbICdsYXJnZScgPT4gJzJvZjYnLCAnbWVkaXVtJyA9PiAnMW9mMycsICdzbWFsbCcgPT4gJzFvZjInIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJHZhcnNbJ3N0eWxlcyddKTsK</text>
+        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBkc20oJHZhcnNbJ3N0eWxlcyddKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBraW50KCR2YXJzKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{%
 
 set alignment_classes = [
@@ -909,20 +913,17 @@ set styles = {
 }
 %}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBdCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRzbSgkZnVuY3Rpb24pOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
+        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -981,6 +982,7 @@ set styles = {
         <entry>72</entry>
         <entry>87</entry>
         <entry>95</entry>
+        <entry>250</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
