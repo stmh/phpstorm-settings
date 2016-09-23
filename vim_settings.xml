@@ -312,6 +312,9 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" timestamp="1474620231277">
+        <mark key="'" line="304" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
         <mark key="]" line="138" column="6" />
@@ -366,7 +369,6 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--headline-with-text--two-columns.tpl.haml" timestamp="1474472863919" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/pages/page.tpl.haml" timestamp="1472740296839">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="89" />
@@ -607,6 +609,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1474620881963">
+        <mark key="[" line="907" column="14" />
+        <mark key="]" line="907" column="14" />
+        <mark key="." line="907" column="14" />
+        <mark key="^" line="780" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/layout/br-navigation.tpl.haml" timestamp="1472740187219">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="28" />
@@ -627,50 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="0" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" />
-      <jump line="56" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/gaia_chat.module" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="92" column="96" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/contrib/yorkshire/templates/layout/page.html.twig" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/contrib/yorkshire/templates/layout/page.html.twig" />
-      <jump line="179" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
-      <jump line="50" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
-      <jump line="53" column="60" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
-      <jump line="64" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/fabfile.yaml" />
-      <jump line="52" column="112" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Form/GaiaPatientRegistrationForm.php" />
-      <jump line="24" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="25" column="159" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="186" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="197" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="183" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="159" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/bootstrap/FeatureContext.php" />
-      <jump line="6" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/bootstrap/FeatureContext.php" />
-      <jump line="15" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/views.view.list_of_unanswered_messages.yml" />
-      <jump line="317" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/views.view.list_of_unanswered_messages.yml" />
-      <jump line="331" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/views.view.list_of_unanswered_messages.yml" />
-      <jump line="384" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/views.view.list_of_unanswered_messages.yml" />
-      <jump line="14" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/views.view.list_of_unanswered_messages.yml" />
-      <jump line="159" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" />
-      <jump line="79" column="62" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_recruit_chart/src/Plugin/Block/GaiaRecruitChartBlock.php" />
-      <jump line="155" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="61" column="154" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="183" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="233" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="646" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="742" column="130" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/user/user.module" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/comment.html.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" />
-      <jump line="55" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block--views-block--gaia-red-flags-block-4.html.twig" />
-      <jump line="17" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block--views-block--gaia-red-flags-block-4.html.twig" />
-      <jump line="191" column="114" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
-      <jump line="139" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patent_flow.behat.inc" />
-      <jump line="125" column="71" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/QuestionnaireEntityHelper.php" />
-      <jump line="47" column="62" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/QuestionnaireEntityHelper.php" />
       <jump line="67" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/css/style.css" />
       <jump line="163" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/deprexis_ms_trial_deploy/deprexis_ms_trial_deploy.install" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
@@ -727,10 +691,54 @@
       <jump line="722" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/core.services.yml" />
       <jump line="95" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="359" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="175" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="177" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="199" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="201" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="332" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="333" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="334" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="38" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="62" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="254" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="256" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="262" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="269" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="276" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="284" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="297" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="305" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="315" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="325" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="334" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="341" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="351" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="353" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="359" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="385" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="394" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="396" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="192" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="194" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="196" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="207" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="256" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="257" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="260" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="263" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="265" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="300" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="304" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
+      <jump line="440" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="438" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -838,51 +846,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>translationmanager</text>
+        <text>country</text>
       </register>
-      <register name="0" type="4">
-        <text>’</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFycmF5KAogICAgICAnbGFiZWwnID0+IHQoJ0ZhY2Vib29rJyksCiAgICAgICd1cmwnID0+ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vQk1XP3JlZj1icl90ZicKICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRzbSgkZWxlbVska2V5XVsnI2VudGl0eSddKTsK</text>
+        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICBkc20oJHZhcmlhYmxlc1snY29udGVudCddWydmaWVsZF90YWJsZSddWyRuZHhdKTsKICAgICAgICAgICR2YXJpYWJsZXNbJ2NvbnRlbnQnXVsnZmllbGRfdGFibGUnXVskbmR4XVsnI2VudGl0eSdd</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gJ2FjdGlvbnMnID0+IGFycmF5KCd0eXBlJyA9PiAnbG9jYWwtYWN0aW9ucycsICd0aXRsZScgPT4gdCgnQmFja2VuZCBhY3Rpb25zJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJGNoaWxkcmVuKTsK</text>
+        <text encoding="base64">ICBwcmludF9yKCRtYXJrZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgJHNhdmVkX2NvbHVtbl90eXBlID0gRkFMU0U7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gYXJyYXkoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaG93IG5hdmJhcicpOwo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaWRlIG5hdmJhcicpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJGNvbHVtbl90eXBlKTsK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG1lbnVfaXRlbXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdmFyaWFibGVzWydmaWVsZF90YWJsZSddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdXBlcmNhY2hlOiAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translationmanager</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern>translationmanager</last-pattern>
+      <last-pattern>country</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -906,9 +914,12 @@
         <entry>frontpage</entry>
         <entry>ht</entry>
         <entry>translationmanager</entry>
+        <entry>list</entry>
+        <entry>menur</entry>
+        <entry>menu</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
-        <entry>107</entry>
         <entry>257</entry>
         <entry>177</entry>
         <entry>136</entry>
@@ -924,10 +935,17 @@
         <entry>146</entry>
         <entry>:w</entry>
         <entry>46</entry>
-        <entry>tabNext</entry>
-        <entry>W</entry>
-        <entry>1</entry>
         <entry>31</entry>
+        <entry>W</entry>
+        <entry>tabNext</entry>
+        <entry>1</entry>
+        <entry>598</entry>
+        <entry>660</entry>
+        <entry>934</entry>
+        <entry>909</entry>
+        <entry>816</entry>
+        <entry>781</entry>
+        <entry>933</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
