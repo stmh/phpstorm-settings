@@ -67,6 +67,13 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" timestamp="1474627604649">
+        <mark key="'" line="1421" column="0" />
+        <mark key="[" line="435" column="54" />
+        <mark key="]" line="438" column="78" />
+        <mark key="." line="438" column="78" />
+        <mark key="^" line="438" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/.gitignore" timestamp="1474273089170">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -636,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/css/style.css" />
-      <jump line="163" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/deprexis_ms_trial_deploy/deprexis_ms_trial_deploy.install" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="191" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="732" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
@@ -736,10 +741,12 @@
       <jump line="304" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
       <jump line="440" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="438" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="1019" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
+      <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$country</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -847,10 +854,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$country</text>
       </register>
       <register name="/" type="4">
-        <text>country</text>
+        <text>social_media</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFycmF5KAogICAgICAnbGFiZWwnID0+IHQoJ0ZhY2Vib29rJyksCiAgICAgICd1cmwnID0+ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vQk1XP3JlZj1icl90ZicKICAgICksCg==</text>
@@ -887,9 +894,9 @@
       </register>
     </registers>
     <search>
-      <last-search>country</last-search>
+      <last-search>social_media</last-search>
       <last-offset />
-      <last-pattern>country</last-pattern>
+      <last-pattern>social_media</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -919,6 +926,7 @@
         <entry>menur</entry>
         <entry>menu</entry>
         <entry>country</entry>
+        <entry>social_media</entry>
       </history-search>
       <history-cmd>
         <entry>257</entry>
