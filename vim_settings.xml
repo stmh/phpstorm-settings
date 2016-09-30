@@ -322,6 +322,13 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" timestamp="1474620231277">
         <mark key="'" line="304" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" timestamp="1475268606501">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="110" column="67" />
+        <mark key="]" line="112" column="96" />
+        <mark key="^" line="112" column="96" />
+        <mark key="." line="112" column="96" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
         <mark key="]" line="138" column="6" />
@@ -370,14 +377,12 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/05-image-text-section.json" timestamp="1474634171622" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/05-image-text-section.twig" timestamp="1474634281265" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/pages/page.tpl.haml" timestamp="1472740296839">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="89" />
@@ -564,7 +569,6 @@
         <mark key="]" line="986" column="9" />
         <mark key="." line="986" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--lists.html.twig" timestamp="1474634962048" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.workflows.yml" timestamp="1469721718597">
         <mark key="[" line="130" column="13" />
         <mark key="]" line="130" column="18" />
@@ -620,11 +624,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" timestamp="1474279425741">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" timestamp="1475268582649">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="9" />
+        <mark key="^" line="58" column="9" />
+        <mark key="." line="58" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1474644101229">
         <mark key="[" line="249" column="55" />
@@ -660,7 +664,6 @@
     <jumps>
       <jump line="191" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="732" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="256" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -758,10 +761,11 @@
       <jump line="1019" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CTA Headline</text>
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -869,7 +873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CTA Headline</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -960,10 +964,6 @@ set styles = {
         <entry>social_media</entry>
       </history-search>
       <history-cmd>
-        <entry>106</entry>
-        <entry>132</entry>
-        <entry>105</entry>
-        <entry>113</entry>
         <entry>e</entry>
         <entry>146</entry>
         <entry>:w</entry>
