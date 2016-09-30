@@ -92,6 +92,13 @@
         <mark key="^" line="34" column="2" />
         <mark key="." line="34" column="2" />
       </file>
+      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/BlockForm.php" timestamp="1475232958787">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
+        <mark key="^" line="294" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_audit_trail/gaia_audit_trail.services.yml" timestamp="1469724942131">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="23" />
@@ -116,7 +123,7 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Entity/Block.php" timestamp="1475230835887">
+      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Entity/Block.php" timestamp="1475232830763">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
@@ -403,11 +410,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Tests/BlockTest.php" timestamp="1475228256735">
-        <mark key="[" line="275" column="24" />
-        <mark key="]" line="275" column="28" />
-        <mark key="." line="275" column="28" />
-        <mark key="^" line="275" column="28" />
+      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Tests/BlockTest.php" timestamp="1475233669329">
+        <mark key="'" line="557" column="35" />
+        <mark key="[" line="275" column="30" />
+        <mark key="]" line="275" column="35" />
+        <mark key="." line="275" column="35" />
+        <mark key="^" line="275" column="35" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/common/main.scss" timestamp="1473260705844">
         <mark key="[" line="1004" column="20" />
@@ -642,10 +650,6 @@
       <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/lib/Drupal/Core/Entity/EntityDeleteFormTrait.php" timestamp="1475230487368" />
     </filemarks>
     <jumps>
-      <jump line="0" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" />
-      <jump line="56" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/gaia_chat.module" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" />
       <jump line="92" column="96" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/contrib/yorkshire/templates/layout/page.html.twig" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/contrib/yorkshire/templates/layout/page.html.twig" />
@@ -742,10 +746,14 @@
       <jump line="95" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/sites/default/settings.php" />
       <jump line="672" column="13" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/sites/default/settings.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/BlockForm.php" />
+      <jump line="15" column="33" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Tests/BlockTest.php" />
+      <jump line="498" column="7" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Tests/BlockTest.php" />
+      <jump line="557" column="35" filename="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Tests/BlockTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEZvcm1cRm9ybVN0YXRlSW50ZXJmYWNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVtb3ZlIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -853,51 +861,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text encoding="base64">UmVtb3ZlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>translationmanager</text>
+        <text>Delete</text>
       </register>
       <register name="0" type="4">
         <text>’</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEZvcm1cRm9ybVN0YXRlSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgIGtpbnQoJGFjdGlvbnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtpbnQoJGFjdGlvbnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEZvcm1cRm9ybVN0YXRlSW50ZXJmYWNlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJ1aWxkRm9ybShhcnJheSAkZm9ybSwgRm9ybVN0YXRlSW50ZXJmYWNlICRmb3JtX3N0YXRlKSB7CiAgICAkZm9ybSA9ICBwYXJlbnQ6OmJ1aWxkRm9ybSgkZm9ybSwgJGZvcm1fc3RhdGUpOwogICAga2ludCgkZm9ybSk7CiAgICAvLyRmb3JtWydhY3Rpb25zJ11bJ3N1Ym1pdCddWycjdmFsdWUnXSA9ICR0aGlzLT50KCdSZW1vdmUnKTsKICAgIHJldHVybiAkZm9ybTsKCiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJ1aWxkRm9ybShhcnJheSAkZm9ybSwgRm9ybVN0YXRlSW50ZXJmYWNlICRmb3JtX3N0YXRlKSB7CiAgICAkZm9ybSA9ICBwYXJlbnQ6OmJ1aWxkRm9ybSgkZm9ybSwgJGZvcm1fc3RhdGUpOwogICAga2ludCgkZm9ybSk7CiAgICAvLyRmb3JtWydhY3Rpb25zJ11bJ3N1Ym1pdCddWycjdmFsdWUnXSA9ICR0aGlzLT50KCdSZW1vdmUnKTsKICAgIHJldHVybiAkZm9ybTsKCiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBraW50KCRvcGVyYXRpb25zKTsK</text>
+        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translationmanager</last-search>
+      <last-search>Delete</last-search>
       <last-offset />
-      <last-pattern>translationmanager</last-pattern>
+      <last-pattern>Delete</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -921,6 +929,8 @@
         <entry>frontpage</entry>
         <entry>ht</entry>
         <entry>translationmanager</entry>
+        <entry>actions</entry>
+        <entry>Delete</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
@@ -942,8 +952,11 @@
         <entry>tabNext</entry>
         <entry>1</entry>
         <entry>18</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>268</entry>
+        <entry>393</entry>
+        <entry>276</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
