@@ -149,11 +149,11 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Form/BlockDeleteForm.php" timestamp="1475231716636">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Sites/devdesktop/drupal-8.3.x-2016-09-30.09.32.28/core/modules/block/src/Form/BlockDeleteForm.php" timestamp="1475245259064">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/services.yml" timestamp="1473699820071">
         <mark key="[" line="18" column="23" />
@@ -743,7 +743,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J2NyZWF0ZScgPT4gJ0NyZWF0ZScsIA==</text>
+        <text>Gets the message to display to the user after removing the block.
+   *
+   * @return string
+   *   The translated string of the deletion message.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -859,32 +862,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBAZGF0YVByb3ZpZGVyIHByb3ZpZGVyVGVzdEZpZWxkCiAgICovCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Gets the message to display to the user after removing the block.
+   *
+   * @return string
+   *   The translated string of the deletion message.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogQGRhdGFQcm92aWRlciBwcm92aWRlclNldGFibGVPcHRpb25zCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHRlc3RTZXR0YWJsZU9wdGlvbnMoJGluaXRpYWxfc3RhdGUsICRhdmFpbGFibGVfb3B0aW9ucykgewogICAgJGVudGl0eSA9IEVudGl0eVRlc3Q6OmNyZWF0ZShbJ3Rlc3Rfc3RhdGUnID0+IFsndmFsdWUnID0+ICRpbml0aWFsX3N0YXRlXV0pOwogICAgJHRoaXMtPmFzc2VydEVxdWFscygkaW5pdGlhbF9zdGF0ZSwgJGVudGl0eS0+dGVzdF9zdGF0ZS0+dmFsdWUpOwogICAgLy8gQW4gaW52YWxpZCBzdGF0ZSBzaG91bGQgbm90IGhhdmUgYW55IHNldHRhYmxlIG9wdGlvbnMuCiAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRhdmFpbGFibGVfb3B0aW9ucywgJGVudGl0eS0+dGVzdF9zdGF0ZS0+Z2V0KDApLT5nZXRTZXR0YWJsZU9wdGlvbnMoKSk7CiAgfQo=</text>
+      <register name="2" type="4">
+        <text>Gets the message to display to the user after removing the block.
+   *
+   * @return string
+   *   The translated string of the deletion message.
+   */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAZGF0YVByb3ZpZGVyIHByb3ZpZGVyVGVzdEZpZWxkCiAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHZhbHVlID0+ICR3b3JrZmxvdy0+Z2V0U3RhdGUoJHZhbHVlKSwK</text>
+        <text encoding="base64">CiAgLyoqCiAgICogQGRhdGFQcm92aWRlciBwcm92aWRlclNldGFibGVPcHRpb25zCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHRlc3RTZXR0YWJsZU9wdGlvbnMoJGluaXRpYWxfc3RhdGUsICRhdmFpbGFibGVfb3B0aW9ucykgewogICAgJGVudGl0eSA9IEVudGl0eVRlc3Q6OmNyZWF0ZShbJ3Rlc3Rfc3RhdGUnID0+IFsndmFsdWUnID0+ICRpbml0aWFsX3N0YXRlXV0pOwogICAgJHRoaXMtPmFzc2VydEVxdWFscygkaW5pdGlhbF9zdGF0ZSwgJGVudGl0eS0+dGVzdF9zdGF0ZS0+dmFsdWUpOwogICAgLy8gQW4gaW52YWxpZCBzdGF0ZSBzaG91bGQgbm90IGhhdmUgYW55IHNldHRhYmxlIG9wdGlvbnMuCiAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRhdmFpbGFibGVfb3B0aW9ucywgJGVudGl0eS0+dGVzdF9zdGF0ZS0+Z2V0KDApLT5nZXRTZXR0YWJsZU9wdGlvbnMoKSk7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhlIGN1cnJlbnQgc3RhdGUgaXMgYWx3YXlzIGFsbG93ZWQuCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBAZGF0YVByb3ZpZGVyIHByb3ZpZGVyVGVzdEZpZWxkCiAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF07Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgJHZhbHVlID0+ICR3b3JrZmxvdy0+Z2V0U3RhdGUoJHZhbHVlKSwK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLy8gVGhlIGN1cnJlbnQgc3RhdGUgaXMgYWx3YXlzIGFsbG93ZWQuCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIF07Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRhbGxvd2VkX3N0YXRlcyA9IFsK</text>
+        <text encoding="base64">ICAgICAgJHZhbHVlID0+ICR3b3JrZmxvdy0+Z2V0U3RhdGUoJHZhbHVlKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -950,8 +960,8 @@
         <entry>tabNext</entry>
         <entry>205</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
