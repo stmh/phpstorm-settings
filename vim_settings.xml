@@ -241,6 +241,12 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475425979163">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
@@ -377,6 +383,12 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475425702293">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="54" />
@@ -400,6 +412,12 @@
         <mark key="]" line="1004" column="19" />
         <mark key="^" line="1004" column="19" />
         <mark key="." line="1004" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GridLabel.vue" timestamp="1475423652185">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/dprxs_york.theme" timestamp="1470674255138">
         <mark key="[" line="29" column="24" />
@@ -485,6 +503,11 @@
         <mark key="." line="9" column="117" />
         <mark key="^" line="9" column="117" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475424966241">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--two-columns--without-spacing.tpl.haml" timestamp="1474473908119">
         <mark key="[" line="2" column="73" />
         <mark key="]" line="2" column="55" />
@@ -526,6 +549,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Widget.vue" timestamp="1475426024203">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/gulpfile.babel.js" timestamp="1473166547941">
         <mark key="[" line="55" column="21" />
@@ -604,6 +632,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/WidgetLabel.vue" timestamp="1475423811138">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1474474705416">
         <mark key="'" line="360" column="8" />
@@ -765,7 +799,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -873,61 +907,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>u-alignMiddle</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICcxJyA9PiBbICdsYXJnZScgPT4gJzJvZjYnLCAnbWVkaXVtJyA9PiAnMW9mMycsICdzbWFsbCcgPT4gJzFvZjInIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3JpZC1sYWJlbCB2YWx1ZT0iSGFtYnVyZyIgLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJGJsb2NrLT5nZXQoJ2ZpZWxkX2VsZW1lbnRfb3JkZXInKS0+dmFsdWUpOwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgInN1aXRjc3MtdXRpbHMtYWxpZ24iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkc20oJHZhcnNbJ3N0eWxlcyddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBraW50KCR2YXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{%
-
-set alignment_classes = [
-    'block-element-order-' ~ content['#block_content'].field_element_order.value,
-    'block-image-h-' ~ content['#block_content'].field_image_horizontal_position.value,
-    'block-image-v-' ~ content['#block_content'].field_image_vertical_position.value,
-    'block-image-width-' ~ content['#block_content'].field_image_size.value,
-    'block-text-v-' ~ content['#block_content'].field_text_vertical_position.value,
-    'block-text-h-' ~ content['#block_content'].field_text_horizontal_position.value
-    ]
-
-%}
-
-{%
-set styles = {
-  'reverse': [ 'false'],
-  'text_align_middle': ['false'],
-  'image_width': [
-    {'large': '6of6', 'medium': '3of3', 'small': '2of2'}
-  ]
-}
-%}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAaW1wb3J0ICIuLi8uLi9ub2RlX21vZHVsZXMvc3VpdGNzcy11dGlscy1hbGlnbi9pbmRleC5jc3MiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc3VpdGNzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZnVuY3Rpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkc3RyaW5nX3ZhbGlkYXRlKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBkbXAoYXJyYXkoJ2NvdW50cnknID0+ICRjb3VudHJ5LCAnbGFuZycgPT4gJGxhbmdfY29kZSksICdkZXRlY3RlZCBjb3VudHJ5JywgRkFMU0UpOy4K</text>
+        <text encoding="base64">ICAgIHNyYzogdXJsKCcuL2Fzc2V0cy9mb250cy9TdWlzc2VJbnRsTW9uby1UaGluLVdlYlMud29mZicpIGZvcm1hdCgnd29mZicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -970,7 +983,6 @@ set styles = {
         <entry>46</entry>
         <entry>31</entry>
         <entry>W</entry>
-        <entry>tabNext</entry>
         <entry>1</entry>
         <entry>598</entry>
         <entry>660</entry>
@@ -983,6 +995,7 @@ set styles = {
         <entry>87</entry>
         <entry>95</entry>
         <entry>250</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
