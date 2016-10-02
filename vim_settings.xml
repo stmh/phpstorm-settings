@@ -241,11 +241,16 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475425979163">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475428396798">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475427966145">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
@@ -383,11 +388,11 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475425702293">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="48" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475428296808">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
         <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
@@ -799,7 +804,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
+        <text>type</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -907,7 +912,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u-alignMiddle</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -915,32 +920,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Z3JpZC1sYWJlbCB2YWx1ZT0iSGFtYnVyZyIgLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgInN1aXRjc3MtdXRpbHMtYWxpZ24iCg==</text>
+      <register name="2" type="4">
+        <text>data() {
+        return {
+          time: '...',
+          fontSize: 0
+        }
+      },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRlbC5jbGllbnRIZWlnaHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ2dWUtbG9hZGVyIjogIiIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICIuLi8uLi9ub2RlX21vZHVsZXMvc3VpdGNzcy11dGlscy1hbGlnbi9pbmRleC5jc3MiOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3VpdGNzcwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgInN1aXRjc3MtdXRpbHMtYWxpZ24iCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNyYzogdXJsKCcuL2Fzc2V0cy9mb250cy9TdWlzc2VJbnRsTW9uby1UaGluLVdlYlMud29mZicpIGZvcm1hdCgnd29mZicpOwo=</text>
+        <text encoding="base64">ICBAaW1wb3J0ICIuLi8uLi9ub2RlX21vZHVsZXMvc3VpdGNzcy11dGlscy1hbGlnbi9pbmRleC5jc3MiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
