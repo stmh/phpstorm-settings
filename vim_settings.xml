@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" timestamp="1475432587309">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" timestamp="1475435377297">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -810,8 +810,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -919,7 +919,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logs</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -928,31 +928,31 @@
         <text encoding="base64">ICAgICAgICA8Z3JpZC1sYWJlbCB2YWx1ZT0iSGFtYnVyZyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1vbml0b3JpbmcgZnJvbSAnLi9zdG9yZS9tb25pdG9yaW5nJzsK</text>
+        <text encoding="base64">ICAgIHRoYXQuaG9zdERldGFpbENhbGxiYWNrID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoYXQuaG9zdERldGFpbENhbGxiYWNrKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAodGhhdC5ob3N0RGV0YWlsQ2FsbGJhY2spIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGF0LnNldEhvc3REZXRhaWwoZGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aGF0LnVwZGF0ZUhvc3QoZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aGF0LnNldERhdGEoZGF0YSk7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aGF0LmlvLmVtaXQoJ3JlcXVlc3QgcmVsb2FkJywgdGhhdC5ncm91cCk7Cg==</text>
+        <text encoding="base64">ICB0aGF0LnVwZGF0ZUhvc3QoZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbmV3IGhvc3QnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
