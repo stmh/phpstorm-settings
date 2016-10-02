@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" timestamp="1475432587309">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -19,12 +26,6 @@
         <mark key="]" line="104" column="138" />
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
-      </file>
-      <file name="/a.dummy" timestamp="1474474990340">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
         <mark key="[" line="13" column="17" />
@@ -248,9 +249,9 @@
         <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475429980719">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
@@ -602,17 +603,11 @@
         <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/core.services.yml" timestamp="1473870220042">
-        <mark key="'" line="722" column="19" />
-        <mark key="[" line="986" column="8" />
-        <mark key="]" line="986" column="9" />
-        <mark key="." line="986" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475429935198">
-        <mark key="[" line="3" column="59" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="59" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475432463318">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.workflows.yml" timestamp="1469721718597">
         <mark key="[" line="130" column="13" />
@@ -713,7 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" />
       <jump line="732" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -813,10 +807,11 @@
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>logs</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -924,7 +919,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>logs</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -933,31 +928,31 @@
         <text encoding="base64">ICAgICAgICA8Z3JpZC1sYWJlbCB2YWx1ZT0iSGFtYnVyZyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvdmVydmlldycsIG92ZXJ2aWV3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLmdldHRlcnMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1vbml0b3JpbmcgZnJvbSAnLi9zdG9yZS9tb25pdG9yaW5nJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLmdldHRlcnMuY291bnQodGhpcy53aGF0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb25pdG9yaW5nT3ZlcnZpZXc6IHN0YXRlID0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZ2V0dGVycyBhcmUgZnVuY3Rpb25zCg==</text>
+        <text encoding="base64">ICB0aGF0LnVwZGF0ZUhvc3QoZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gYW5kIGdldHRlcnMuCg==</text>
+        <text encoding="base64">ICB0aGF0LnNldERhdGEoZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQSBWdWV4IGluc3RhbmNlIGlzIGNyZWF0ZWQgYnkgY29tYmluaW5nIHRoZSBzdGF0ZSwgbXV0YXRpb25zLCBhY3Rpb25zLAo=</text>
+        <text encoding="base64">ICB0aGF0LmlvLmVtaXQoJ3JlcXVlc3QgcmVsb2FkJywgdGhhdC5ncm91cCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZWFjaCBWdWV4IGluc3RhbmNlIGlzIGp1c3QgYSBzaW5nbGUgc3RhdGUgdHJlZS4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
