@@ -241,16 +241,16 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475428396798">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475430751166">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475427966145">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475429980719">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
@@ -299,6 +299,12 @@
         <mark key="]" line="34" column="103" />
         <mark key="." line="34" column="103" />
         <mark key="^" line="43" column="140" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring-overview.js" timestamp="1475430422359">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block--views.html.twig" timestamp="1470907732715">
         <mark key="[" line="56" column="22" />
@@ -602,6 +608,12 @@
         <mark key="]" line="986" column="9" />
         <mark key="." line="986" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475429935198">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.workflows.yml" timestamp="1469721718597">
         <mark key="[" line="130" column="13" />
         <mark key="]" line="130" column="18" />
@@ -804,7 +816,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>let</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -912,7 +924,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>social_media</text>
@@ -921,36 +933,31 @@
         <text encoding="base64">ICAgICAgICA8Z3JpZC1sYWJlbCB2YWx1ZT0iSGFtYnVyZyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdvdmVydmlldycsIG92ZXJ2aWV3KTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>data() {
-        return {
-          time: '...',
-          fontSize: 0
-        }
-      },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLmdldHRlcnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRlbC5jbGllbnRIZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLmdldHRlcnMuY291bnQodGhpcy53aGF0KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ2dWUtbG9hZGVyIjogIiIK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiBj</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtb25pdG9yaW5nT3ZlcnZpZXc6IHN0YXRlID0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgInN1aXRjc3MtdXRpbHMtYWxpZ24iCg==</text>
+        <text encoding="base64">Ly8gZ2V0dGVycyBhcmUgZnVuY3Rpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gYW5kIGdldHRlcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQSBWdWV4IGluc3RhbmNlIGlzIGNyZWF0ZWQgYnkgY29tYmluaW5nIHRoZSBzdGF0ZSwgbXV0YXRpb25zLCBhY3Rpb25zLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICIuLi8uLi9ub2RlX21vZHVsZXMvc3VpdGNzcy11dGlscy1hbGlnbi9pbmRleC5jc3MiOwo=</text>
+        <text encoding="base64">Ly8gZWFjaCBWdWV4IGluc3RhbmNlIGlzIGp1c3QgYSBzaW5nbGUgc3RhdGUgdHJlZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -961,7 +968,7 @@
       <last-offset />
       <last-pattern>social_media</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -989,7 +996,6 @@
       <history-cmd>
         <entry>e</entry>
         <entry>146</entry>
-        <entry>:w</entry>
         <entry>46</entry>
         <entry>31</entry>
         <entry>W</entry>
@@ -1006,6 +1012,7 @@
         <entry>95</entry>
         <entry>250</entry>
         <entry>tabNext</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
