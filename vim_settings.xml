@@ -133,6 +133,12 @@
         <mark key="^" line="45" column="5" />
         <mark key="." line="45" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/LogoSymbol.vue" timestamp="1475497413556">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="40" column="24" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Booklist.class.php" timestamp="1473266892258">
         <mark key="[" line="135" column="55" />
         <mark key="]" line="135" column="54" />
@@ -253,9 +259,9 @@
         <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475429980719">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
@@ -516,11 +522,11 @@
         <mark key="." line="9" column="117" />
         <mark key="^" line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475494735168">
-        <mark key="[" line="92" column="24" />
-        <mark key="]" line="92" column="24" />
-        <mark key="." line="92" column="24" />
-        <mark key="^" line="95" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475496594565">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--two-columns--without-spacing.tpl.haml" timestamp="1474473908119">
         <mark key="[" line="2" column="73" />
@@ -727,6 +733,12 @@
         <mark key="." line="107" column="9" />
         <mark key="^" line="107" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475497095134">
+        <mark key="[" line="2" column="145" />
+        <mark key="]" line="2" column="151" />
+        <mark key="." line="2" column="151" />
+        <mark key="^" line="2" column="151" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="256" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -831,8 +843,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLndvcmtpbmdWYWx1ZSwgdGhpcy50YXJnZXRWYWx1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
