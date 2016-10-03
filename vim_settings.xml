@@ -246,11 +246,11 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475440841627">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475495567136">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1475429980719">
         <mark key="[" line="13" column="19" />
@@ -396,11 +396,11 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475439094055">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475493200036">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
@@ -516,11 +516,11 @@
         <mark key="." line="9" column="117" />
         <mark key="^" line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475438903625">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="40" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475494735168">
+        <mark key="[" line="92" column="24" />
+        <mark key="]" line="92" column="24" />
+        <mark key="." line="92" column="24" />
+        <mark key="^" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--two-columns--without-spacing.tpl.haml" timestamp="1474473908119">
         <mark key="[" line="2" column="73" />
@@ -557,6 +557,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/AutoScalingText.vue" timestamp="1475493656842">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/.gitignore" timestamp="1473261152399">
         <mark key="[" line="0" column="27" />
@@ -622,6 +628,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="10" column="61" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" timestamp="1475495856508">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/fields/field--one-column.tpl.haml" timestamp="1473248503994">
         <mark key="[" line="17" column="0" />
@@ -716,8 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
-      <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="256" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="32" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="34" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
@@ -816,10 +827,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
       <jump line="39" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
+      <jump line="1" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplOiA3MnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLndvcmtpbmdWYWx1ZSwgdGhpcy50YXJnZXRWYWx1ZSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -927,40 +940,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>font-weight</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>io</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxncmlkLWNlbGwgd2lkdGg9IjQiIGhlaWdodD0iNiI+CiAgICAgICAgICAgIDx3aWRnZXQgbGFiZWw9IkVycm9ycyIgPgogICAgICAgICAgICAgIDxtb25pdG9yaW5nLW92ZXJ2aWV3IHdoYXQ9ImVycm9yIiAvPgogICAgICAgICAgICA8L3dpZGdldD4KICAgICAgICAgIDwvZ3JpZC1jZWxsPgo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Jlc2l6ZScsIHRoaXMuaGFuZGxlUmVzaXplLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplOiA3MnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLndvcmtpbmdWYWx1ZSwgdGhpcy50YXJnZXRWYWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU6IHRoaXMuZm9udFNpemUK</text>
+        <text encoding="base64">ICAgICAgQ291bnRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZXMgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy50aW1lcik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      <register name="7" type="4">
+        <text>if (this.timer) {
+            clearInterval(this.timer);
+          }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRlbCA/IDMyIDogdGhpcy4kZWwuY2xpZW50SGVpZ2h0IC8gMy4wOwo=</text>
+      <register name="8" type="4">
+        <text>components:{
+      'other-component':OtherComponent,
+      HeaderComponent,
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb250U2l6ZSAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtc2c6J2hlbGxvIHZ1ZScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
