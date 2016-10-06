@@ -26,7 +26,7 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
-      <file name="/a.dummy" timestamp="1475742877520">
+      <file name="/a.dummy" timestamp="1475771715332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -110,6 +110,12 @@
         <mark key="]" line="125" column="34" />
         <mark key="^" line="125" column="34" />
         <mark key="." line="125" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article-cover.tpl.mustache" timestamp="1475771269276">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/data/partner.yml" timestamp="1474274550912">
         <mark key="[" line="2" column="25" />
@@ -403,6 +409,13 @@
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="64" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" timestamp="1475771745213">
+        <mark key="'" line="288" column="35" />
+        <mark key="[" line="450" column="8" />
+        <mark key="]" line="450" column="9" />
+        <mark key="." line="450" column="9" />
+        <mark key="^" line="455" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
@@ -736,6 +749,9 @@
         <mark key="." line="107" column="9" />
         <mark key="^" line="107" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475772070733">
+        <mark key="[" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475505948982">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="60" column="0" />
@@ -750,8 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="118" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="119" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="172" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
@@ -850,10 +864,12 @@
       <jump line="54" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" />
+      <jump line="229" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" />
+      <jump line="288" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>warning</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhdC10YWJsZXQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -961,51 +977,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>light</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>theme</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlcmVnaXN0ZXJIb3N0cyhzdG9yZS5zdGF0ZS5nZXR0ZXJzW21vbml0b3JpbmcuZ2V0dGVycy5ob3N0c10pOwo=</text>
+        <text encoding="base64">ICBbZGF0YS10aGVtZT0ibGlnaHQiXSAmCiAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDAwMDBBQTsK</text>
+        <text encoding="base64">ICBhdC10YWJsZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOjs1Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXRlbVN0eWxlIChpdGVtKSB7IHJldHVybiB9Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsK</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogOXB4Owo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im0tY292ZXItZGltbWVyZGQ+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDAwMDBBQTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOjs1Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgaXRlbVN0eWxlIChpdGVtKSB7IHJldHVybiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>theme</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>theme</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1029,6 +1045,7 @@
         <entry>social_media</entry>
         <entry>io</entry>
         <entry>console</entry>
+        <entry>theme</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
