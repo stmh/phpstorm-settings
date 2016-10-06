@@ -26,6 +26,9 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
+      <file name="/a.dummy" timestamp="1475742877520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="20" />
@@ -1002,12 +1005,10 @@
       <last-offset />
       <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>patient_data</entry>
-        <entry>hook_inline</entry>
         <entry>items</entry>
         <entry>width</entry>
         <entry>mapElement</entry>
@@ -1030,9 +1031,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>146</entry>
-        <entry>46</entry>
         <entry>31</entry>
         <entry>598</entry>
         <entry>660</entry>
