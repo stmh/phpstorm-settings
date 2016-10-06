@@ -26,7 +26,7 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
-      <file name="/a.dummy" timestamp="1475771715332">
+      <file name="/a.dummy" timestamp="1475775809465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -483,6 +483,7 @@
         <mark key="^" line="3" column="105" />
         <mark key="." line="3" column="105" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/composer.lock" timestamp="1475775928455" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_terms_condition/src/Form/GaiaTermsConditionForm.php" timestamp="1471626437638">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="14" />
@@ -573,6 +574,7 @@
         <mark key="." line="41" column="81" />
         <mark key="^" line="41" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/config/staging/field.field.block_content.intro.field_intro_video.yml" timestamp="1475775564062" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/.gitignore" timestamp="1473261152399">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="28" />
@@ -651,6 +653,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="46" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/file_plus/src/Form/FileCreateForm.php" timestamp="1475775274159">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/fields/field--one-column.tpl.haml" timestamp="1473248503994">
         <mark key="[" line="17" column="0" />
@@ -1025,12 +1033,10 @@
       <last-offset />
       <last-pattern>ga</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry>width</entry>
         <entry>mapElement</entry>
         <entry>is_front</entry>
         <entry>form_alter</entry>
