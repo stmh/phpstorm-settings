@@ -26,7 +26,7 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
-      <file name="/a.dummy" timestamp="1475775809465">
+      <file name="/a.dummy" timestamp="1475779526421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -153,6 +153,7 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" timestamp="1475778804950" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/locales/de.yml" timestamp="1474274437540">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="37" />
@@ -320,6 +321,11 @@
         <mark key="." line="34" column="103" />
         <mark key="^" line="43" column="140" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_anchor_navigation/amidori_anchor_navigation.module" timestamp="1475778970932">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring-overview.js" timestamp="1475430422359">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="8" column="29" />
@@ -477,13 +483,18 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/node/node.html.twig" timestamp="1475779305730">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="72" column="7" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/gaia_questionnaire_flow.services.yml" timestamp="1471251629023">
         <mark key="[" line="3" column="105" />
         <mark key="]" line="3" column="105" />
         <mark key="^" line="3" column="105" />
         <mark key="." line="3" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/composer.lock" timestamp="1475775928455" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_terms_condition/src/Form/GaiaTermsConditionForm.php" timestamp="1471626437638">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="14" />
@@ -709,6 +720,11 @@
         <mark key="^" line="102" column="58" />
         <mark key="." line="102" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/contrib/panelizer/src/Plugin/PanelsStorage/PanelizerFieldPanelsStorage.php" timestamp="1475779128554">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/development.services.yml" timestamp="1471276356619">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="2" />
@@ -881,7 +897,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhdC10YWJsZXQK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -998,31 +1014,31 @@
         <text encoding="base64">ICBbZGF0YS10aGVtZT0ibGlnaHQiXSAmCiAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdC10YWJsZXQK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
+        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxCg==</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im0tY292ZXItZGltbWVyZGQ+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDAwMDBBQTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOjs1Owo=</text>
+        <text encoding="base64">ICBhdC10YWJsZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXRlbVN0eWxlIChpdGVtKSB7IHJldHVybiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
