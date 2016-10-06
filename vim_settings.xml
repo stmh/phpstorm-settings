@@ -749,8 +749,12 @@
         <mark key="." line="107" column="9" />
         <mark key="^" line="107" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475772070733">
-        <mark key="[" line="8" column="36" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475772944530">
+        <mark key="'" line="159" column="35" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="19" />
+        <mark key="^" line="35" column="19" />
+        <mark key="." line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475505948982">
         <mark key="'" line="79" column="0" />
@@ -766,12 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="172" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
-      <jump line="16" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
-      <jump line="152" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
-      <jump line="151" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
       <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
       <jump line="1" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
       <jump line="121" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
@@ -866,6 +864,12 @@
       <jump line="80" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" />
       <jump line="229" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" />
       <jump line="288" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" />
+      <jump line="8" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="35" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="40" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="58" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="132" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="159" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -980,7 +984,7 @@
         <text>light</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>ga</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbZGF0YS10aGVtZT0ibGlnaHQiXSAmCiAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
@@ -1017,9 +1021,9 @@
       </register>
     </registers>
     <search>
-      <last-search>theme</last-search>
+      <last-search>ga</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>ga</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1046,6 +1050,7 @@
         <entry>io</entry>
         <entry>console</entry>
         <entry>theme</entry>
+        <entry>ga</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -1060,13 +1065,13 @@
         <entry>87</entry>
         <entry>95</entry>
         <entry>250</entry>
-        <entry>:w</entry>
         <entry>w:w</entry>
         <entry>1</entry>
         <entry>noh</entry>
         <entry>W</entry>
         <entry>w+:w</entry>
         <entry>tabNext</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
