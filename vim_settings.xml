@@ -9,6 +9,12 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1475838264674">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -26,7 +32,7 @@
         <mark key="." line="104" column="138" />
         <mark key="^" line="104" column="138" />
       </file>
-      <file name="/a.dummy" timestamp="1475779526421">
+      <file name="/a.dummy" timestamp="1475837729550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -74,6 +80,12 @@
         <mark key="]" line="51" column="38" />
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" timestamp="1475837692069">
+        <mark key="[" line="228" column="67" />
+        <mark key="]" line="228" column="60" />
+        <mark key="^" line="228" column="60" />
+        <mark key="." line="228" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/.gitignore" timestamp="1474273089170">
         <mark key="[" line="9" column="0" />
@@ -153,7 +165,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" timestamp="1475778804950" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/locales/de.yml" timestamp="1474274437540">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="37" />
@@ -231,6 +242,12 @@
         <mark key="]" line="227" column="5" />
         <mark key="." line="227" column="5" />
         <mark key="^" line="227" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/default/settings.php" timestamp="1475836600813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
+        <mark key="." line="599" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/EventSubscriber/PatientStateSubscriber.php" timestamp="1473761790175">
         <mark key="[" line="99" column="28" />
@@ -362,6 +379,13 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1475837328066">
+        <mark key="'" line="844" column="44" />
+        <mark key="[" line="1062" column="65" />
+        <mark key="]" line="1063" column="1" />
+        <mark key="." line="1063" column="1" />
+        <mark key="^" line="1063" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
         <mark key="]" line="138" column="6" />
@@ -404,6 +428,9 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_base.mixins.css.sass" timestamp="1475836487760">
+        <mark key="'" line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_patient_flow.state_mapping.yml" timestamp="1473069314581">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="11" />
@@ -418,10 +445,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_module/_cover.css.sass" timestamp="1475771745213">
         <mark key="'" line="288" column="35" />
-        <mark key="[" line="450" column="8" />
-        <mark key="]" line="450" column="9" />
-        <mark key="." line="450" column="9" />
-        <mark key="^" line="455" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
@@ -585,7 +608,6 @@
         <mark key="." line="41" column="81" />
         <mark key="^" line="41" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/config/staging/field.field.block_content.intro.field_intro_video.yml" timestamp="1475775564062" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/.gitignore" timestamp="1473261152399">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="28" />
@@ -695,6 +717,12 @@
         <mark key="." line="86" column="34" />
         <mark key="^" line="86" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article-lead.tpl.mustache" timestamp="1475836749827">
+        <mark key="[" line="3" column="75" />
+        <mark key="]" line="3" column="90" />
+        <mark key="^" line="3" column="74" />
+        <mark key="." line="3" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-caption.tpl.haml" timestamp="1473853961029">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="20" />
@@ -773,12 +801,12 @@
         <mark key="." line="107" column="9" />
         <mark key="^" line="107" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475772944530">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475837489542">
         <mark key="'" line="159" column="35" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475505948982">
         <mark key="'" line="79" column="0" />
@@ -794,11 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
-      <jump line="1" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
-      <jump line="121" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="245" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
-      <jump line="31" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="33" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/grid/grid-text-columns.css" />
       <jump line="257" column="41" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
@@ -894,10 +917,15 @@
       <jump line="58" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
       <jump line="132" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
       <jump line="159" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" />
+      <jump line="20" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_base.mixins.css.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/default/settings.php" />
+      <jump line="831" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="832" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="844" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1005,51 +1033,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>light</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>ga</text>
+        <text>data-theme</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbZGF0YS10aGVtZT0ibGlnaHQiXSAmCiAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzWydhcnRpY2xlJ10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhdC10YWJsZXQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ga</last-search>
+      <last-search>data-theme</last-search>
       <last-offset />
-      <last-pattern>ga</last-pattern>
+      <last-pattern>data-theme</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1073,6 +1101,7 @@
         <entry>console</entry>
         <entry>theme</entry>
         <entry>ga</entry>
+        <entry>data-theme</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -1094,6 +1123,8 @@
         <entry>w+:w</entry>
         <entry>tabNext</entry>
         <entry>:w</entry>
+        <entry>e!</entry>
+        <entry>w!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
