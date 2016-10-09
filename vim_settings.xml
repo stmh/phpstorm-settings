@@ -226,11 +226,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" timestamp="1476029847669">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" timestamp="1476034787307">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/questionnaires.feature" timestamp="1471432467510">
         <mark key="[" line="34" column="35" />
@@ -786,11 +787,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOneliner.vue" timestamp="1476029428481">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOneliner.vue" timestamp="1476035248683">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475505948982">
         <mark key="'" line="79" column="0" />
@@ -806,8 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
-      <jump line="16" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
       <jump line="152" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
       <jump line="151" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
       <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/map/map.js" />
@@ -906,6 +905,8 @@
       <jump line="197" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" />
       <jump line="878" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" />
       <jump line="54" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/modules/custom/tp_frontpage/tp_frontpage.module" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -933,8 +934,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1042,40 +1043,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGhlYWRlci1jb21wb25lbnQvPgogICAgICAgIDxkaXY+dGhpcyBpcyB0ZW1wbGF0ZSBib2R5PC9kaXY+CiAgICAgICAgPG90aGVyLWNvbXBvbmVudC8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRyYW5zaXRpb246ICh0aGlzLmlnbm9yZVRyYW5zaXRpb24pID8gIm5vbmUgIWltcG9ydGFudCIgOiBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHMgPSBlbGVtLmhvc3Q7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7CiAgICAgICAgICB0aGlzLmlnbm9yZVRyYW5zaXRpb24gPSBmYWxzZTsKICAgICAgICB9KTs=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiB2LWJpbmQ6cmVmPSJzZWNvbmQiPgogICAgICA8c2xvdD48L3Nsb3Q+CiAgICA8L2Rpdj4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmNvbnRlbnQuc3R5bGUudHJhbnNpdGlvbiA9ICdub25lJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIgTW9uaXRvcmluZ09uZWxpbmVyIiBzdHlsZT0iaGVpZ2h0OiAxMDAlIj4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLmNvbnRlbnQudAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAuTW9uaXRvcmluZ1RhYmxlLXdyYXBwZXIgewogICAgcGFkZGluZzogMi41cmVtIDFyZW0gMXJlbSAxcmVtOwogICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLDAsMCwwLjUpOwogICAgaGVpZ2h0OiAxMDAlOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7CiAgICB0YWJsZS1sYXlvdXQ6IGZpeGVkOwogICAgd2lkdGg6IDEwMCU7CiAgICBib3JkZXItY29sbGFwc2U6IGNvbGxhcHNlOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRyIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7CgogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRkIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDJweCA2cHggM3B4IDZweDsKICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMik7CiAgfQogIC5Nb25pdG9yaW5nVGFibGUgdGQ6Zmlyc3QtY2hpbGQgewogICAgcGFkZGluZy1sZWZ0OiAwOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRkOmxhc3QtY2hpbGQgewogICAgcGFkZGluZy1yaWdodDogMDsKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDp3aGlsZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyZWZzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICA8c3BhbiB2LWlmPSJoYXNXYXJuaW5ncyI+LyB7e2l0ZW0ubnVtV2FybmluZ3N9fSAvIHt7aXRlbS5udW1FcnJvcnN9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZSBjbGFzcz0iQXJyYW5nZS1zaXplRmlsbCBNb25pdG9yaW5nVGFibGUiIHdpZHRoPSIxMDAlIj4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnggPSB0aGlzLnggLSB0aGlzLnNwZWVkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1127,10 +1128,10 @@
         <entry>:w</entry>
         <entry>w:w</entry>
         <entry>1</entry>
-        <entry>W</entry>
         <entry>w+:w</entry>
         <entry>noh</entry>
         <entry>tabNext</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
