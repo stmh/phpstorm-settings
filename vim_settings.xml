@@ -406,11 +406,16 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/styles/base/base.css" timestamp="1476019075972">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="2" />
-        <mark key="^" line="89" column="2" />
-        <mark key="." line="89" column="2" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/styles/base/base.css" timestamp="1476022314134">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/components_local/footer/footer.css" timestamp="1476025441367">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_patient_flow.state_mapping.yml" timestamp="1473069314581">
         <mark key="[" line="13" column="12" />
@@ -534,11 +539,11 @@
         <mark key="." line="9" column="117" />
         <mark key="^" line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/block/block--footer-block.html.twig" timestamp="1476020898756">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="." line="17" column="2" />
-        <mark key="^" line="17" column="112" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/block/block--footer-block.html.twig" timestamp="1476025663547">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="66" />
+        <mark key="^" line="19" column="66" />
+        <mark key="." line="19" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475514513832">
         <mark key="'" line="55" column="0" />
@@ -892,8 +897,33 @@
       <jump line="54" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/modules/custom/tp_frontpage/tp_frontpage.module" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IHUtdGV4dFJpZ2h0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1001,40 +1031,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IHUtdGV4dFJpZ2h0</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlcmVnaXN0ZXJIb3N0cyhzdG9yZS5zdGF0ZS5nZXR0ZXJzW21vbml0b3JpbmcuZ2V0dGVycy5ob3N0c10pOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJHcmlkLWNlbGwgdS1zaXplM29mMTAgdS1tZC1zaXplMm9mNSB1LXNtLXNpemVGdWxsIj4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">PC9kaXY+CiAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtc2l6ZTFvZjUgdS1zbS1zaXplRnVsbCI+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRzbSgiZ2VodCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PGgyIGNsYXNzPSJNaXNzaW9uLWhlYWRsaW5lIj4KICAgICAgRHJhbWF0dXJnaXNjaGVzIExla3RvcmF0PGJyIC8+CiAgICAgIEF1dG9yZW4tQ29hY2hpbmc8YnIgLz4KICAgICAgQmVyYXR1bmcgYmVpIGRlciBTdG9mZmVudHdpY2tsdW5nCiAgICAgIDxzcGFuIGNsYXNzPSJNaXNzaW9uLXVuZGVybGluZSI+CiAgICAgICAgS3JhZnR2b2xsZSBQbG90cyBzaW5kIG1laW5lIExlaWRlbnNjaGFmdC4gPGJyIC8+RGVzaGFsYiB1bnRlcnN0w7x0emUgaWNoIEF1dG9yZW4gYmVpIGRlciBBcmJlaXQgYW4gaWhyZW4gR2VzY2hpY2h0ZW4uCiAgICAgIDwvc3Bhbj4KICAgIDwvaDI+</text>
+        <text>.Footer a {
+  display: inline;
+  text-decoration: underline;
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2RkZGl2Pgo=</text>
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogLTEwMDBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGRkaXYgY2xhc3M9IkdyaWQtY2VsbCB1LXNpemUzb2YxMCB1LW1kLXNpemUyb2Y1IHUtc20tc2l6ZUZ1bGwgTWlzc2lvbi1pbWFnZSI+Cg==</text>
+        <text encoding="base64">LkZvb3RlciBhLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdG9rZW5zKTsK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkc20oJHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
