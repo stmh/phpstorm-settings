@@ -57,6 +57,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/content/node--blog-page--full.html.twig" timestamp="1476020836075" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/r4032login.settings.yml" timestamp="1469722625984">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="43" />
@@ -405,11 +406,11 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/styles/base/base.css" timestamp="1476018153699">
-        <mark key="[" line="71" column="1" />
-        <mark key="]" line="74" column="20" />
-        <mark key="^" line="74" column="20" />
-        <mark key="." line="74" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/styles/base/base.css" timestamp="1476019075972">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="2" />
+        <mark key="^" line="89" column="2" />
+        <mark key="." line="89" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_patient_flow.state_mapping.yml" timestamp="1473069314581">
         <mark key="[" line="13" column="12" />
@@ -533,6 +534,12 @@
         <mark key="." line="9" column="117" />
         <mark key="^" line="9" column="117" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/block/block--footer-block.html.twig" timestamp="1476020898756">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="112" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475514513832">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="9" column="36" />
@@ -563,6 +570,11 @@
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/modules/custom/tp_frontpage/src/Plugin/Block/FooterBlock.php" timestamp="1476020592782">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" timestamp="1473329451687">
         <mark key="[" line="43" column="40" />
@@ -881,7 +893,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auf</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -989,7 +1001,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auf</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -998,31 +1010,31 @@
         <text encoding="base64">ICAgIGRlcmVnaXN0ZXJIb3N0cyhzdG9yZS5zdGF0ZS5nZXR0ZXJzW21vbml0b3JpbmcuZ2V0dGVycy5ob3N0c10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdG9rZW5zKTsK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdXJsKTsK</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJHcmlkLWNlbGwgdS1zaXplM29mMTAgdS1tZC1zaXplMm9mNSB1LXNtLXNpemVGdWxsIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkc20oJG1hdGNoZXMpOwo=</text>
+        <text encoding="base64">ICAgIGRzbSgiZ2VodCIpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBtYWdlU3R5bGU7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGgyIGNsYXNzPSJNaXNzaW9uLWhlYWRsaW5lIj4KICAgICAgRHJhbWF0dXJnaXNjaGVzIExla3RvcmF0PGJyIC8+CiAgICAgIEF1dG9yZW4tQ29hY2hpbmc8YnIgLz4KICAgICAgQmVyYXR1bmcgYmVpIGRlciBTdG9mZmVudHdpY2tsdW5nCiAgICAgIDxzcGFuIGNsYXNzPSJNaXNzaW9uLXVuZGVybGluZSI+CiAgICAgICAgS3JhZnR2b2xsZSBQbG90cyBzaW5kIG1laW5lIExlaWRlbnNjaGFmdC4gPGJyIC8+RGVzaGFsYiB1bnRlcnN0w7x0emUgaWNoIEF1dG9yZW4gYmVpIGRlciBBcmJlaXQgYW4gaWhyZW4gR2VzY2hpY2h0ZW4uCiAgICAgIDwvc3Bhbj4KICAgIDwvaDI+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZW50aXR5KTsK</text>
+        <text encoding="base64">ICA8L2RkZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJGJvZHkpOwo=</text>
+        <text encoding="base64">ICA8ZGRkaXYgY2xhc3M9IkdyaWQtY2VsbCB1LXNpemUzb2YxMCB1LW1kLXNpemUyb2Y1IHUtc20tc2l6ZUZ1bGwgTWlzc2lvbi1pbWFnZSI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">ICAgIGRzbSgkdG9rZW5zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHRwX2Zyb250cGFnZQo=</text>
+        <text encoding="base64">ICBkc20oJHR5cGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
