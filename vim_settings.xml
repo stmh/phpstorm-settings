@@ -461,6 +461,9 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" timestamp="1476011769346">
+        <mark key="'" line="878" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/gaia_questionnaire_flow.services.yml" timestamp="1471251629023">
         <mark key="[" line="3" column="105" />
         <mark key="]" line="3" column="105" />
@@ -747,9 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="118" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="119" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="172" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
       <jump line="16" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/index.js" />
@@ -847,6 +847,9 @@
       <jump line="54" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" />
+      <jump line="197" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" />
+      <jump line="878" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/composer.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -961,7 +964,7 @@
         <text>warning</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>core</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlcmVnaXN0ZXJIb3N0cyhzdG9yZS5zdGF0ZS5nZXR0ZXJzW21vbml0b3JpbmcuZ2V0dGVycy5ob3N0c10pOwo=</text>
@@ -998,16 +1001,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>core</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>patient_data</entry>
-        <entry>hook_inline</entry>
         <entry>items</entry>
         <entry>width</entry>
         <entry>mapElement</entry>
@@ -1028,11 +1029,10 @@
         <entry>social_media</entry>
         <entry>io</entry>
         <entry>console</entry>
+        <entry>drupal</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>146</entry>
-        <entry>46</entry>
         <entry>31</entry>
         <entry>598</entry>
         <entry>660</entry>
