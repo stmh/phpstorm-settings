@@ -57,7 +57,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/content/node--blog-page--full.html.twig" timestamp="1476020836075" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/r4032login.settings.yml" timestamp="1469722625984">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="43" />
@@ -227,6 +226,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" timestamp="1476029847669">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/questionnaires.feature" timestamp="1471432467510">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="34" column="36" />
@@ -263,7 +268,7 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1476029209015">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="50" column="54" />
         <mark key="." line="50" column="54" />
@@ -423,7 +428,7 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1475504048972">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" timestamp="1476029188081">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="0" />
@@ -545,12 +550,12 @@
         <mark key="^" line="19" column="66" />
         <mark key="." line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1475514513832">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="36" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1476029029208">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--two-columns--without-spacing.tpl.haml" timestamp="1474473908119">
         <mark key="[" line="2" column="73" />
@@ -781,6 +786,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOneliner.vue" timestamp="1476029428481">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" timestamp="1475505948982">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="60" column="0" />
@@ -922,8 +933,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHUtdGV4dFJpZ2h0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1031,43 +1042,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHUtdGV4dFJpZ2h0</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+        <text encoding="base64">PGhlYWRlci1jb21wb25lbnQvPgogICAgICAgIDxkaXY+dGhpcyBpcyB0ZW1wbGF0ZSBib2R5PC9kaXY+CiAgICAgICAgPG90aGVyLWNvbXBvbmVudC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PC9kaXY+CiAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtc2l6ZTFvZjUgdS1zbS1zaXplRnVsbCI+</text>
+        <text encoding="base64">PGRpdiB2LWJpbmQ6cmVmPSJzZWNvbmQiPgogICAgICA8c2xvdD48L3Nsb3Q+CiAgICA8L2Rpdj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>.Footer a {
-  display: inline;
-  text-decoration: underline;
-}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0ZXh0LWluZGVudDogLTEwMDBweDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LkZvb3RlciBhLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIgTW9uaXRvcmluZ09uZWxpbmVyIiBzdHlsZT0iaGVpZ2h0OiAxMDAlIj4K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAuTW9uaXRvcmluZ1RhYmxlLXdyYXBwZXIgewogICAgcGFkZGluZzogMi41cmVtIDFyZW0gMXJlbSAxcmVtOwogICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLDAsMCwwLjUpOwogICAgaGVpZ2h0OiAxMDAlOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7CiAgICB0YWJsZS1sYXlvdXQ6IGZpeGVkOwogICAgd2lkdGg6IDEwMCU7CiAgICBib3JkZXItY29sbGFwc2U6IGNvbGxhcHNlOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRyIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7CgogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRkIHsKICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDJweCA2cHggM3B4IDZweDsKICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMik7CiAgfQogIC5Nb25pdG9yaW5nVGFibGUgdGQ6Zmlyc3QtY2hpbGQgewogICAgcGFkZGluZy1sZWZ0OiAwOwogIH0KICAuTW9uaXRvcmluZ1RhYmxlIHRkOmxhc3QtY2hpbGQgewogICAgcGFkZGluZy1yaWdodDogMDsKICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDx0YWJsZSBjbGFzcz0iQXJyYW5nZS1zaXplRmlsbCBNb25pdG9yaW5nVGFibGUiIHdpZHRoPSIxMDAlIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1082,8 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry>width</entry>
         <entry>mapElement</entry>
         <entry>is_front</entry>
         <entry>form_alter</entry>
@@ -1123,8 +1129,8 @@
         <entry>1</entry>
         <entry>W</entry>
         <entry>w+:w</entry>
-        <entry>tabNext</entry>
         <entry>noh</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
