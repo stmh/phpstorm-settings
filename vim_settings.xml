@@ -802,7 +802,6 @@
         <mark key="^" line="107" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.EventTracker.coffee" timestamp="1475837489542">
-        <mark key="'" line="159" column="35" />
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="51" />
         <mark key="^" line="8" column="51" />
@@ -1077,11 +1076,10 @@
       <last-offset />
       <last-pattern>data-theme</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mapElement</entry>
         <entry>is_front</entry>
         <entry>form_alter</entry>
         <entry>swallow</entry>
@@ -1104,8 +1102,6 @@
         <entry>data-theme</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>598</entry>
         <entry>660</entry>
         <entry>934</entry>
         <entry>909</entry>
