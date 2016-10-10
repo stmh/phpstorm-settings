@@ -314,6 +314,12 @@
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
       </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" timestamp="1476098100950">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="59" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/dashboard.feature" timestamp="1470405206760">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="16" column="7" />
@@ -923,8 +929,8 @@
       <jump line="844" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1032,7 +1038,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>data-theme</text>
@@ -1041,31 +1047,31 @@
         <text encoding="base64">ICBbZGF0YS10aGVtZT0ibGlnaHQiXSAmCiAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQocmdiYSgwLDAsMCwgMC4wKSwgcmdiYSgwLDAsMCwgMC44KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdHlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICItd2Via2l0LXRyYW5zaXRpb24tZHVyYXRpb24iOiAodGhpcy5pZ25vcmVUcmFuc2l0aW9uKSA/ICIwICAhaW1wb3J0YW50IiA6IG51bGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJzWydhcnRpY2xlJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzWydhcnRpY2xlJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRmcm9udHBhZ2VfbmlkKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSGllciIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1076,7 +1082,7 @@
       <last-offset />
       <last-pattern>data-theme</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
