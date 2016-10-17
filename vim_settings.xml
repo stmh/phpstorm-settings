@@ -38,11 +38,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/composer.json" timestamp="1471624829993">
-        <mark key="[" line="104" column="139" />
-        <mark key="]" line="104" column="138" />
-        <mark key="." line="104" column="138" />
-        <mark key="^" line="104" column="138" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/composer.json" timestamp="1476744401121">
+        <mark key="[" line="103" column="139" />
+        <mark key="]" line="103" column="138" />
+        <mark key="." line="103" column="138" />
+        <mark key="^" line="103" column="138" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/pubsub.js" timestamp="1476630082796">
         <mark key="[" line="90" column="4" />
@@ -275,11 +275,10 @@
         <mark key="." line="34" column="36" />
         <mark key="^" line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/vendor/drupal/drupal-extension/src/Drupal/DrupalExtension/Context/RawDrupalContext.php" timestamp="1471626844132">
-        <mark key="[" line="241" column="3" />
-        <mark key="]" line="227" column="5" />
-        <mark key="." line="227" column="5" />
-        <mark key="^" line="227" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/vendor/drupal/drupal-extension/src/Drupal/DrupalExtension/Context/RawDrupalContext.php" timestamp="1476743954698">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" timestamp="1476733518496">
         <mark key="'" line="135" column="5" />
@@ -651,6 +650,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/therapist-access-3.feature" timestamp="1476743808538">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/gaia_mail_notification.services.yml" timestamp="1471428950570">
         <mark key="[" line="5" column="18" />
@@ -1064,8 +1068,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHByaW50ICJEZWxldGlvbiBvZiB1c2VyICIgLiAkYWNjb3VudC0+aWQoKSAuICIgdG9vayAiIC4gKG1pY3JvdGltZSh0cnVlKSAtICR0aWNrKSAuICJcbiI7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1173,7 +1177,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>$user</text>
       </register>
       <register name="/" type="4">
         <text>tick</text>
@@ -1182,31 +1186,31 @@
         <text encoding="base64">ICAgIHRpbWVvdXQ6IDYwCiAgICBpbnRlcnZhbDogZXZlcnkgMTAgbWlucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50ICJEZWxldGlvbiBvZiB1c2VyICIgLiAkYWNjb3VudC0+aWQoKSAuICIgdG9vayAiIC4gKG1pY3JvdGltZSh0cnVlKSAtICR0aWNrKSAuICJcbiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRoZW4gcHJpbnQgbGFzdCByZXNwb25zZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcm9wczogewogICAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0KICAgIGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgIHByaW50ICJFeGNlcHRpb24gIiAuICRlLT5nZXRNZXNzYWdlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2RhdGVPbmx5JzogeyBkZWZhdWx0OiBmYWxzZX0K</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhdGVEaXNwbGF5LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGVEaXNwbGF5IGZyb20gJy4vY29tcG9uZW50cy9EYXRlRGlzcGxheS52dWUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHdpZGdldCBsYWJlbD0iSW5kaWVuIiA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudC10aW1lem9uZScKICBpbXBvcnQgQXV0b1NjYWxpbmdUZXh0IGZyb20gJy4vQXV0b1NjYWxpbmdUZXh0LnZ1ZScKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgY29tcG9uZW50czogewogICAgICBBdXRvU2NhbGluZ1RleHQKICAgIH0sCgogICAgYmVmb3JlTW91bnQgKCkgewogICAgICB0aGlzLnRpbWVvdXQgPSBzZXRJbnRlcnZhbCggKCkgPT4gewogICAgICAgIHRoaXMudXBkYXRlVGltZXIoKQogICAgICB9LCAyNTApCiAgICB9LAoKICAgIGJlZm9yZURlc3Ryb3kgKCkgewogICAgICBjbGVhckludGVydmFsKHRoaXMudGltZW91dCk7CiAgICB9LAoKICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgOiAnLi4uJywKICAgICAgfQogICAgfSwKCiAgICBwcm9wczogewogICAgICAndGltZXpvbmUnIDogeyBkZWZhdWx0OiAnRXVyb3BlL0Jlcmxpbid9LAogICAgICAnc2V0TWFzdGVyQmFja2dyb3VuZENvbG9yJzogeyBkZWZhdWx0OiBmYWxzZX0KICAgIH0sCgogICAgbWV0aG9kczogewogICAgICB1cGRhdGVUaW1lciAoKSB7CiAgICAgICAgbGV0IHJlc3VsdCA9IG1vbWVudCgpLnR6KHRoaXMudGltZXpvbmUpLmZvcm1hdCgnbCcpCiAgICAgICAgdGhpcy5kYXRlID0gcmVzdWx0CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo8L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1262,6 +1266,8 @@
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>236</entry>
+        <entry>1635</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
