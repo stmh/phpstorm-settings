@@ -15,12 +15,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/config.yml" timestamp="1476627466549">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="32" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="37" column="32" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/config.yml" timestamp="1476733600856">
+        <mark key="'" line="123" column="14" />
+        <mark key="[" line="209" column="10" />
+        <mark key="]" line="209" column="16" />
+        <mark key="^" line="209" column="16" />
+        <mark key="." line="209" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GridCell.vue" timestamp="1476631820674">
         <mark key="[" line="9" column="2" />
@@ -278,12 +278,12 @@
         <mark key="." line="227" column="5" />
         <mark key="^" line="227" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" timestamp="1476627106401">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" timestamp="1476733518496">
         <mark key="'" line="135" column="5" />
-        <mark key="[" line="131" column="26" />
-        <mark key="]" line="131" column="33" />
-        <mark key="." line="131" column="33" />
-        <mark key="^" line="131" column="33" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="18" />
+        <mark key="." line="121" column="18" />
+        <mark key="^" line="121" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor-default.js" timestamp="1476626131321">
         <mark key="[" line="11" column="0" />
@@ -934,7 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
       <jump line="171" column="11" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
       <jump line="344" column="15" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
       <jump line="52" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
@@ -1034,6 +1033,7 @@
       <jump line="130" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" />
       <jump line="26" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" />
       <jump line="62" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/TimeDisplay.vue" />
+      <jump line="123" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1062,7 +1062,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>default</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1170,40 +1170,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>tick</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KTsK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRpbWVvdXQ6IDYwCiAgICBpbnRlcnZhbDogZXZlcnkgMTAgbWlucwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBwcm9wczogewogICAgfSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgJ2RhdGVPbmx5JzogeyBkZWZhdWx0OiBmYWxzZX0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIERhdGVEaXNwbGF5LAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IERhdGVEaXNwbGF5IGZyb20gJy4vY29tcG9uZW50cy9EYXRlRGlzcGxheS52dWUnCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHdpZGdldCBsYWJlbD0iSW5kaWVuIiA+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudC10aW1lem9uZScKICBpbXBvcnQgQXV0b1NjYWxpbmdUZXh0IGZyb20gJy4vQXV0b1NjYWxpbmdUZXh0LnZ1ZScKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgY29tcG9uZW50czogewogICAgICBBdXRvU2NhbGluZ1RleHQKICAgIH0sCgogICAgYmVmb3JlTW91bnQgKCkgewogICAgICB0aGlzLnRpbWVvdXQgPSBzZXRJbnRlcnZhbCggKCkgPT4gewogICAgICAgIHRoaXMudXBkYXRlVGltZXIoKQogICAgICB9LCAyNTApCiAgICB9LAoKICAgIGJlZm9yZURlc3Ryb3kgKCkgewogICAgICBjbGVhckludGVydmFsKHRoaXMudGltZW91dCk7CiAgICB9LAoKICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgOiAnLi4uJywKICAgICAgfQogICAgfSwKCiAgICBwcm9wczogewogICAgICAndGltZXpvbmUnIDogeyBkZWZhdWx0OiAnRXVyb3BlL0Jlcmxpbid9LAogICAgICAnc2V0TWFzdGVyQmFja2dyb3VuZENvbG9yJzogeyBkZWZhdWx0OiBmYWxzZX0KICAgIH0sCgogICAgbWV0aG9kczogewogICAgICB1cGRhdGVUaW1lciAoKSB7CiAgICAgICAgbGV0IHJlc3VsdCA9IG1vbWVudCgpLnR6KHRoaXMudGltZXpvbmUpLmZvcm1hdCgnbCcpCiAgICAgICAgdGhpcy5kYXRlID0gcmVzdWx0CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo8L3NjcmlwdD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudC10aW1lem9uZScKICBpbXBvcnQgQXV0b1NjYWxpbmdUZXh0IGZyb20gJy4vQXV0b1NjYWxpbmdUZXh0LnZ1ZScKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgY29tcG9uZW50czogewogICAgICBBdXRvU2NhbGluZ1RleHQKICAgIH0sCgogICAgYmVmb3JlTW91bnQgKCkgewogICAgICB0aGlzLnRpbWVvdXQgPSBzZXRJbnRlcnZhbCggKCkgPT4gewogICAgICAgIHRoaXMudXBkYXRlVGltZXIoKQogICAgICB9LCAyNTApCiAgICB9LAoKICAgIGJlZm9yZURlc3Ryb3kgKCkgewogICAgICBjbGVhckludGVydmFsKHRoaXMudGltZW91dCk7CiAgICB9LAoKICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgOiAnLi4uJywKICAgICAgfQogICAgfSwKCiAgICBwcm9wczogewogICAgICAndGltZXpvbmUnIDogeyBkZWZhdWx0OiAnRXVyb3BlL0Jlcmxpbid9LAogICAgICAnc2V0TWFzdGVyQmFja2dyb3VuZENvbG9yJzogeyBkZWZhdWx0OiBmYWxzZX0KICAgIH0sCgogICAgbWV0aG9kczogewogICAgICB1cGRhdGVUaW1lciAoKSB7CiAgICAgICAgbGV0IHJlc3VsdCA9IG1vbWVudCgpLnR6KHRoaXMudGltZXpvbmUpLmZvcm1hdCgnbCcpCiAgICAgICAgdGhpcy5kYXRlID0gcmVzdWx0CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1214,7 +1214,7 @@
       <last-offset />
       <last-pattern>tick</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
