@@ -75,11 +75,11 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.TeaserAnimation.coffee" timestamp="1476803018844">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.TeaserAnimation.coffee" timestamp="1476805352971">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/r4032login.settings.yml" timestamp="1469722625984">
         <mark key="[" line="3" column="34" />
@@ -423,6 +423,13 @@
         <mark key="]" line="38" column="41" />
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1476804759179">
+        <mark key="'" line="1511" column="6" />
+        <mark key="[" line="622" column="23" />
+        <mark key="]" line="622" column="23" />
+        <mark key="^" line="1628" column="5" />
+        <mark key="." line="622" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
@@ -859,22 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="15" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
-      <jump line="52" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
-      <jump line="139" column="87" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
-      <jump line="80" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
-      <jump line="164" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
-      <jump line="135" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Plugin/QuestionType/FreeformQuestionType.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
-      <jump line="77" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.php" />
-      <jump line="272" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="449" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="722" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/core.services.yml" />
-      <jump line="95" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="359" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="175" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="177" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="199" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
@@ -959,10 +950,26 @@
       <jump line="54" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="55" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
+      <jump line="1095" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1492" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1498" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1503" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1506" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1516" column="51" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1517" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1521" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1524" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1525" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1552" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1554" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1580" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="622" column="81" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="621" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="1508" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIEBpbWFnZVswXS5zcmMgPSAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1070,49 +1077,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>answer</text>
+        <text>$animation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoaXNzZXQoJGZvcm1fZWxlbVsnI29wdGlvbnMnXVskdmFsdWVdKSkgPyAkZm9ybV9lbGVtWycjb3B0aW9ucyddWyR2YWx1ZV0gOiBGQUxTRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBpbWFnZVswXS5zcmMgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXJscwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQHVybHMpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQGltYWdlcywgQGFsbEZyYW1lc0F2YWlsYWJsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAndGFnZGRzJyA9PiBhcnJheSgndXNlcjonIC4gJHVpZCksCg==</text>
+        <text encoding="base64">ICAgICAgICBAaW1hZ2VzLnB1c2goZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCRtYXJrdXBfdHlwZSA9PSAndXJsJyAmJiAkZGV2aWNlID09ICd3ZWInKSB7CiAgICByZXR1cm4gdXJsKGltYWdlX3N0eWxlX3VybCgnZGVza3RvcF9zbWFsbCcsICRmaWxlWyd1cmknXSksIGFycmF5KCdhYnNvbHV0ZScgPT4gVFJVRSkpOwogIH0=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRmb3JtX2VsZW1bJyNvcHRpb25zJ10gYXMgJGtleSA9PiAkbGFiZWwpIHsKICAgICAgaWYgKCRrZXkgPT0gJHZhbHVlKSB7CiAgICAgICAgcmV0dXJuICRsYWJlbDsKICAgICAgfQogICAgfQogICAgcmV0dXJuIEZBTFNFOwogIH0K</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgaWYgKCRrZXkgPT0gJHZhbHVlKSB7CiAgICAgICAgcmV0dXJuICRsYWJlbCAuICcoJyAuICR2YWx1ZSAuICcpJzsKICAgICAgfQogICAgfQogICAgcmV0dXJuIEZBTFNFOw==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkdGhpcy0+Z2V0QW5zd2VyTGFiZWwoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgdXJscwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoJGkgPSAwOyAkaSA8IHNlbGY6TUFYX1FVKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQHVybHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>answer</last-search>
+      <last-search>$animation</last-search>
       <last-offset />
-      <last-pattern>answer</last-pattern>
+      <last-pattern>$animation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1138,6 +1145,8 @@
         <entry>ga</entry>
         <entry>data-theme</entry>
         <entry>answer</entry>
+        <entry>teaser</entry>
+        <entry>$animation</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
