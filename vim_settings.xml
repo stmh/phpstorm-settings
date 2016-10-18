@@ -69,6 +69,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/paragraph/paragraph--accordeon.html.twig" timestamp="1476785803892">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/r4032login.settings.yml" timestamp="1469722625984">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="43" />
@@ -132,6 +138,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="^" line="48" column="44" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" timestamp="1476785961849">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="715" column="0" />
+        <mark key="]" line="715" column="0" />
+        <mark key="." line="715" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Field/FieldType/GaiaPatientDMT.php" timestamp="1473341598398">
         <mark key="[" line="124" column="94" />
@@ -235,7 +247,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/RatingQuestionTypeBase.php" timestamp="1476724784045" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_shop_integration/occhio_shop_integration.module" timestamp="1473081804660">
         <mark key="[" line="83" column="66" />
         <mark key="]" line="83" column="68" />
@@ -312,6 +323,18 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.local.php" timestamp="1476785992101">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="97" column="9" />
+        <mark key="^" line="97" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/development.services.yml" timestamp="1476786010074">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1474029870331">
         <mark key="[" line="87" column="61" />
@@ -419,8 +442,6 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/src/Normalizer/GaiaExportQuestionnaireResultNormalizer.php" timestamp="1476724537409" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/modules/node/src/Entity/Node.php" timestamp="1476700681919" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.module" timestamp="1473958779256">
         <mark key="[" line="241" column="43" />
         <mark key="]" line="241" column="43" />
@@ -450,6 +471,12 @@
         <mark key="]" line="33" column="5" />
         <mark key="^" line="33" column="5" />
         <mark key="." line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/accordeon_item.twig" timestamp="1476786047785">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_patient_flow.state_mapping.yml" timestamp="1473069314581">
         <mark key="[" line="13" column="12" />
@@ -826,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="11" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
       <jump line="344" column="15" filename="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/Klinkhardt.class.php" />
       <jump line="52" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_devel_generate/src/Plugin/DevelGenerate/PatientDevelGenerate.php" />
@@ -926,10 +952,11 @@
       <jump line="53" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="54" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="55" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FALSE</text>
+        <text>q</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1037,7 +1064,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FALSE</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
@@ -1081,11 +1108,10 @@
       <last-offset />
       <last-pattern>answer</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is_front</entry>
         <entry>form_alter</entry>
         <entry>swallow</entry>
         <entry encoding="base64">XDx7XD4=</entry>
@@ -1108,7 +1134,6 @@
         <entry>answer</entry>
       </history-search>
       <history-cmd>
-        <entry>660</entry>
         <entry>934</entry>
         <entry>909</entry>
         <entry>816</entry>
@@ -1154,6 +1179,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
