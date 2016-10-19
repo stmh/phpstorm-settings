@@ -15,11 +15,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476897808746">
-        <mark key="[" line="109" column="46" />
-        <mark key="]" line="109" column="46" />
-        <mark key="." line="109" column="46" />
-        <mark key="^" line="109" column="46" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476906137476">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="111" column="62" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -144,8 +144,8 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" timestamp="1476785961849">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" timestamp="1476905676459">
+        <mark key="'" line="715" column="0" />
         <mark key="[" line="715" column="0" />
         <mark key="]" line="715" column="0" />
         <mark key="." line="715" column="0" />
@@ -330,7 +330,7 @@
         <mark key="." line="97" column="9" />
         <mark key="^" line="97" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/development.services.yml" timestamp="1476786010074">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/development.services.yml" timestamp="1476905704168">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
@@ -586,7 +586,7 @@
         <mark key="." line="148" column="21" />
         <mark key="^" line="148" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/image-text/image-text.twig" timestamp="1476897871663">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/image-text/image-text.twig" timestamp="1476905661601">
         <mark key="[" line="110" column="33" />
         <mark key="]" line="110" column="36" />
         <mark key="^" line="110" column="36" />
@@ -842,7 +842,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/05-image-text-section.twig" timestamp="1476896992943" />
     </filemarks>
     <jumps>
-      <jump line="201" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="332" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="333" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
       <jump line="334" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
@@ -942,10 +941,11 @@
       <jump line="924" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1067" column="68" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1281" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="715" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtpbnQoJHZhcnMpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1053,7 +1053,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>article_6</text>
@@ -1062,13 +1062,13 @@
         <text encoding="base64">ICAgICAgYm13X21hZ2F6aW5lX2Zyb250ZW5kX2FkZF9ib2R5X2F0dHJpYnV0ZSgnY2xhc3MnLCAnbC1hcnRpY2xlLS10eXBlLScgLiBzdHJfcmVwbGFjZSgnXycsICctJywgJHR5cGUpIC4gJy1sYXJnZScpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGtpbnQoJHZhcnMpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICRyYXRpbyA9ICdsYW5kc2NhcGUnOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAkaW1hZ2Vfc2l6ZV9tYXBwaW5ncyA9IFsKICAgICAgJzEnID0+IFsnbGFyZ2UnID0+ICc0b2YxMicsICdtZWRpdW0nID0+ICc2b2YxMicsICdzbWFsbCcgPT4gJzJvZjInXSwKICAgICAgJzInID0+IFsnbGFyZ2UnID0+ICc1b2YxMicsICdtZWRpdW0nID0+ICc2b2YxMicsICdzbWFsbCcgPT4gJzJvZjInXSwKICAgICAgJzMnID0+IFsnbGFyZ2UnID0+ICc0b2YxMicsICdtZWRpdW0nID0+ICc0b2YxMicsICdzbWFsbCcgPT4gJzJvZjInXSwKICAgICAgJzQnID0+IFsnbGFyZ2UnID0+ICc1MHBjdCcsICdtZWRpdW0nID0+ICc1MHBjdCcsICdzbWFsbCcgPT4gJzEwMHBjdCddLAogICAgXTsKCiAgICAvLyBJZiB0aGUgaW1hZ2UgaXMgc3F1YXJlIHJlc3BlY3QgZmllbGQgdmFsdWUsIGlmIG5vdCBzZWxlY3QgaW1hZ2Ugc2l6ZSBiYXNlZAogICAgLy8gb24gaXQncyBhc3BlY3QgcmF0aW8uCiAgICBpZigkaW1hZ2Vfb2JqLT5nZXRXaWR0aCgpID09ICRpbWFnZV9vYmotPmdldEhlaWdodCgpKSB7CiAgICAgIC8vIFNpemUgMyBvciA0LgogICAgICAkaW1hZ2Vfc2l6ZSA9ICFlbXB0eSgkYmxvY2stPmdldCgnZmllbGRfaXRiX2ltYWdlX3N0eWxlJyktPnZhbHVlKSA/ICRibG9jay0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2Vfc3R5bGUnKS0+dmFsdWUgOiAzOwogICAgfQogICAgZWxzZSB7CiAgICAgICRpbWFnZV9zaXplID0gJGltYWdlX29iai0+Z2V0V2lkdGgoKSA+ICRpbWFnZV9vYmotPmdldEhlaWdodCgpID8gMiA6IDE7CiAgICB9CgogICAgLy8gVmFsaWRhdGUgd2UgaGF2ZSBhIGFuIGltYWdlIHNpemUgbWFwcGVkLgogICAgJGltYWdlX3dpZHRoID0gIWVtcHR5KCRpbWFnZV9zaXplX21hcHBpbmdzWyRpbWFnZV9zaXplXSkgPyAkaW1hZ2Vfc2l6ZV9tYXBwaW5nc1skaW1hZ2Vfc2l6ZV0gOiAkaW1hZ2Vfc2l6ZV9tYXBwaW5nc1szXTsKCiAgICAkdmFyc1snc3R5bGVzJ10gPSBbCiAgICAgICdhbGlnbicgPT4gWyRibG9jay0+Z2V0KCdmaWVsZF9pdGJfZWxlbWVudF9vcmRlcicpLT52YWx1ZSA9PSAnbGVmdCddLAogICAgICAnc21hbGwnID0+IFswICsgKCRibG9jay0+Z2V0KCdmaWVsZF9pdGJfZWxlbWVudF9vcmRlcicpLT52YWx1ZSA9PSAndG9wJyldLAogICAgICAnaW1hZ2Vfd2lkdGgnID0+IFskaW1hZ2Vfd2lkdGhdLAogICAgXTsKCiAgICAvLyBSZXNwb25zaXZlIEltYWdlLgogICAgJHJlc3BvbnNpdmVfc3R5bGUgPSAiaXRiIiAuICIkaW1hZ2Vfc2l6ZSI7CiAgICAkY2xhc3NfYXJyID0gYXJyYXkoJ2xhenlsb2FkJyk7CgogICAgJHZhcmlhYmxlcyA9IGFycmF5KAogICAgICAncmVzcG9uc2l2ZV9pbWFnZV9zdHlsZV9pZCcgPT4gJHJlc3BvbnNpdmVfc3R5bGUsCiAgICAgICd1cmknID0+ICR1cmksCiAgICAgICdoZWlnaHQnID0+ICAkaW1hZ2Vfb2JqLT5nZXRIZWlnaHQoKSwKICAgICAgJ3dpZHRoJyA9PiAkaW1hZ2Vfb2JqLT5nZXRXaWR0aCgpLAogICAgICAnYXR0cmlidXRlcycgPT4gYXJyYXkoJ2NsYXNzZXMnID0+ICRjbGFzc19hcnIpLAogICAgKTsKCiAgICAkaW1hZ2VfYnVpbGQgPSBbCiAgICAgICcjdGhlbWUnID0+ICdyZXNwb25zaXZlX2ltYWdlJywKICAgICAgJyN3aWR0aCcgPT4gJHZhcmlhYmxlc1snd2lkdGgnXSwKICAgICAgJyNoZWlnaHQnID0+ICR2YXJpYWJsZXNbJ2hlaWdodCddLAogICAgICAnI3Jlc3BvbnNpdmVfaW1hZ2Vfc3R5bGVfaWQnID0+ICR2YXJpYWJsZXNbJ3Jlc3BvbnNpdmVfaW1hZ2Vfc3R5bGVfaWQnXSwKICAgICAgJyN1cmknID0+ICR2YXJpYWJsZXNbJ3VyaSddLAogICAgICAnI2F0dHJpYnV0ZXMnID0+ICR2YXJpYWJsZXNbJ2F0dHJpYnV0ZXMnXSwKICAgIF07CgogICAgLy8gQWRkIHRoZSBmaWxlIGVudGl0eSB0byB0aGUgY2FjaGUgZGVwZW5kZW5jaWVzLgogICAgLy8gVGhpcyB3aWxsIGNsZWFyIG91ciBjYWNoZSB3aGVuIHRoaXMgZW50aXR5IHVwZGF0ZXMuCiAgICAkcmVuZGVyZXIgPSBcRHJ1cGFsOjpzZXJ2aWNlKCdyZW5kZXJlcicpOwogICAgJHJlbmRlcmVyLT5hZGRDYWNoZWFibGVEZXBlbmRlbmN5KCRpbWFnZV9idWlsZCwgJGltYWdlX29iaik7CgogICAgLy8gUmVzcG9uc2l2ZSBpbWFnZSBodG1sLgogICAgJHZhcnNbJ3Jlc3BvbnNpdmVfaW1hZ2UnXSA9ICRpbWFnZV9idWlsZDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1077,16 +1077,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdmFyc1sndGhlbWVfaG9va19zdWdnZXN0aW9ucyddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQGltYWdlLnBhcmVudCgpLmFwcGVuZChAY2xvbmVkKQo=</text>
+        <text encoding="base64">ICAgIGRzbSgkdmFyc1sndGhlbWVfaG9va19zdWdnZXN0aW9ucyddKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgQGltYWdlLnBhcmVudCgpLmFwcGVuZChAY2xvbmVkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudCgkYW5pbWF0aW9uKSA+IDApIHsKICAgICAgZHNtKCRhbmltYXRpb24pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1139,10 +1139,10 @@
         <entry>:w</entry>
         <entry>e!</entry>
         <entry>w!</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>tabNext</entry>
         <entry>110</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
