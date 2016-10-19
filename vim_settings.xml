@@ -424,11 +424,11 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1476806728258">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1476867132291">
         <mark key="'" line="622" column="23" />
-        <mark key="[" line="1627" column="0" />
-        <mark key="]" line="1627" column="0" />
-        <mark key="." line="1627" column="0" />
+        <mark key="[" line="943" column="0" />
+        <mark key="]" line="943" column="0" />
+        <mark key="." line="943" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Block/GaiaPatientInfoBlock.php" timestamp="1470901928314">
         <mark key="[" line="121" column="7" />
@@ -816,6 +816,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article--article-6--image-layout-big-images.tpl.mustache" timestamp="1476867106747">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/main.js" timestamp="1475504175566">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="12" />
@@ -967,8 +973,8 @@
       <jump line="622" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1000 / 10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1085,31 +1091,31 @@
         <text encoding="base64">ICAgIHJldHVybiAoaXNzZXQoJGZvcm1fZWxlbVsnI29wdGlvbnMnXVskdmFsdWVdKSkgPyAkZm9ybV9lbGVtWycjb3B0aW9ucyddWyR2YWx1ZV0gOiBGQUxTRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQGltYWdlLnBhcmVudCgpLmFwcGVuZChAY2xvbmVkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpCg==</text>
+        <text encoding="base64">ICAgIGRzbSgkdmFyc1sndGhlbWVfaG9va19zdWdnZXN0aW9ucyddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudCgkYW5pbWF0aW9uKSA+IDApIHsKICAgICAgZHNtKCRhbmltYXRpb24pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgQGltYWdlLnBhcmVudCgpLmFwcGVuZChAY2xvbmVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQGltYWdlLm9uKCdsb2FkJywgJC5wcm94eSh0aGlzLmhhbmRsZUxvYWQsIHRoaXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBpbWFnZVswXS5zcmMgPSAK</text>
+        <text encoding="base64">ICAgIGlmIChjb3VudCgkYW5pbWF0aW9uKSA+IDApIHsKICAgICAgZHNtKCRhbmltYXRpb24pOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEAK</text>
+        <text encoding="base64">ICAgICAgQGltYWdlLm9uKCdsb2FkJywgJC5wcm94eSh0aGlzLmhhbmRsZUxvYWQsIHRoaXMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQGltYWdlcywgQGFsbEZyYW1lc0F2YWlsYWJsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIEBpbWFnZVswXS5zcmMgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAaW1hZ2VzLnB1c2goZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQGltYWdlcywgQGFsbEZyYW1lc0F2YWlsYWJsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1120,12 +1126,10 @@
       <last-offset />
       <last-pattern>dsm</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>form_alter</entry>
-        <entry>swallow</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>error</entry>
         <entry>displayerror</entry>
