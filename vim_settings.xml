@@ -38,7 +38,7 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1476868827875">
+      <file name="/a.dummy" timestamp="1476871646041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -454,6 +454,12 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/sass/_layout.article.css.sass" timestamp="1476871613502">
+        <mark key="[" line="306" column="1" />
+        <mark key="]" line="306" column="16" />
+        <mark key="." line="306" column="16" />
+        <mark key="^" line="306" column="16" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.module" timestamp="1473958779256">
         <mark key="[" line="241" column="43" />
         <mark key="]" line="241" column="43" />
@@ -816,11 +822,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article--article-6--image-layout-big-images.tpl.mustache" timestamp="1476869408640">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article--article-6--image-layout-big-images.tpl.mustache" timestamp="1476871627662">
         <mark key="[" line="1" column="20" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/main.js" timestamp="1475504175566">
         <mark key="[" line="9" column="0" />
@@ -973,8 +979,8 @@
       <jump line="622" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>node-type-article-6</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1082,10 +1088,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1000 / 10</text>
+        <text>node-type-article-6</text>
       </register>
       <register name="/" type="4">
-        <text>dsm</text>
+        <text>l-article</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoaXNzZXQoJGZvcm1fZWxlbVsnI29wdGlvbnMnXVskdmFsdWVdKSkgPyAkZm9ybV9lbGVtWycjb3B0aW9ucyddWyR2YWx1ZV0gOiBGQUxTRTsK</text>
@@ -1122,11 +1128,11 @@
       </register>
     </registers>
     <search>
-      <last-search>dsm</last-search>
+      <last-search>l-article</last-search>
       <last-offset />
-      <last-pattern>dsm</last-pattern>
+      <last-pattern>l-article</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1150,6 +1156,7 @@
         <entry>teaser</entry>
         <entry>$animation</entry>
         <entry>dsm</entry>
+        <entry>l-article</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
