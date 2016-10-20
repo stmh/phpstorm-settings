@@ -15,11 +15,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476959428120">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="20" />
-        <mark key="^" line="80" column="20" />
-        <mark key="." line="80" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476976210328">
+        <mark key="'" line="79" column="20" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -409,7 +409,7 @@
         <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1476874462876">
-        <mark key="'" line="1275" column="29" />
+        <mark key="'" line="1303" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1476958845350">
         <mark key="[" line="36" column="0" />
@@ -853,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="32" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="38" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="62" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
@@ -953,10 +952,11 @@
       <jump line="111" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/_tools/fabalicious/lib/methods/__init__.py" />
+      <jump line="80" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Finished</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1067,46 +1067,46 @@
         <text>Finished</text>
       </register>
       <register name="/" type="4">
-        <text>finished</text>
+        <text>suggest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYm13X21hZ2F6aW5lX2Zyb250ZW5kX2FkZF9ib2R5X2F0dHJpYnV0ZSgnY2xhc3MnLCAnbC1hcnRpY2xlLS10eXBlLScgLiBzdHJfcmVwbGFjZSgnXycsICctJywgJHR5cGUpIC4gJy1sYXJnZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAkaW1hZ2Vfb2JqID0gXERydXBhbDo6c2VydmljZSgnaW1hZ2UuZmFjdG9yeScpLT5nZXQoJHVyaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAvLyAkaW1hZ2Vfb2JqID0gXERydXBhbDo6c2VydmljZSgnaW1hZ2UuZmFjdG9yeScpLT5nZXQoJHVyaSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAvLyAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>finished</last-search>
+      <last-search>suggest</last-search>
       <last-offset />
-      <last-pattern>finished</last-pattern>
+      <last-pattern>suggest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1134,6 +1134,7 @@
         <entry>article_6</entry>
         <entry>styles</entry>
         <entry>finished</entry>
+        <entry>suggest</entry>
       </history-search>
       <history-cmd>
         <entry>909</entry>
