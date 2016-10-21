@@ -9,6 +9,12 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--rich-text-editor-block.html.twig" timestamp="1477073884865">
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1475838264674">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="7" column="23" />
@@ -647,6 +653,11 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/text-module.twig" timestamp="1477073587142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/templates/block.html.twig" timestamp="1470675588095">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -731,7 +742,7 @@
         <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1477064682382">
+      <file name="/PHP Console" timestamp="1477064814343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475505519520">
@@ -969,8 +980,8 @@
       <jump line="80" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZShGaWx0ZXJIdG1sRXNjYXBlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>text</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1078,7 +1089,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Finished</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>suggest</text>
