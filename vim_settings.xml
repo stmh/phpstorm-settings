@@ -396,6 +396,12 @@
         <mark key="^" line="113" column="73" />
         <mark key="." line="113" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/filter/src/Element/ProcessedText.php" timestamp="1477063297855">
+        <mark key="[" line="86" column="33" />
+        <mark key="]" line="87" column="49" />
+        <mark key="^" line="87" column="49" />
+        <mark key="." line="87" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/behat.yml" timestamp="1470405834418">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="37" column="15" />
@@ -473,6 +479,7 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/filter/src/Plugin/Filter/FilterHtml.php" timestamp="1477062774277" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/Field/FieldWidget/GaiaPatientDMTWidget.php" timestamp="1476716491472">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="33" column="5" />
@@ -531,6 +538,7 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/celebrate/src/Plugin/Filter/FilterCelebrate.php" timestamp="1477063516552" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/dprxs_york.theme" timestamp="1470674255138">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="30" column="3" />
@@ -723,6 +731,9 @@
         <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
       </file>
+      <file name="/PHP Console" timestamp="1477063453768">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475505519520">
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="12" />
@@ -849,6 +860,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/filter/src/Plugin/Filter/FilterHtmlEscape.php" timestamp="1477062765259">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="32" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
@@ -954,7 +970,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZShGaWx0ZXJIdG1sRXNjYXBlKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1071,31 +1087,31 @@
         <text encoding="base64">ICAgICAgYm13X21hZ2F6aW5lX2Zyb250ZW5kX2FkZF9ib2R5X2F0dHJpYnV0ZSgnY2xhc3MnLCAnbC1hcnRpY2xlLS10eXBlLScgLiBzdHJfcmVwbGFjZSgnXycsICctJywgJHR5cGUpIC4gJy1sYXJnZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZShGaWx0ZXJIdG1sRXNjYXBlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAkaW1hZ2Vfb2JqID0gXERydXBhbDo6c2VydmljZSgnaW1hZ2UuZmFjdG9yeScpLT5nZXQoJHVyaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAvLyAkaW1hZ2Vfb2JqID0gXERydXBhbDo6c2VydmljZSgnaW1hZ2UuZmFjdG9yeScpLT5nZXQoJHVyaSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAvLyAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
