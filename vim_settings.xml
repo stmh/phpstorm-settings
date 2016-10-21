@@ -16,7 +16,7 @@
         <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476976210328">
-        <mark key="'" line="79" column="20" />
+        <mark key="'" line="80" column="20" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -408,9 +408,6 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" timestamp="1476874462876">
-        <mark key="'" line="1303" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1476958845350">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -503,6 +500,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/_tools/fabalicious/lib/methods/__init__.py" timestamp="1476959618669">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1477037018049" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/templates/gaia-questionnaire-intro.html.twig" timestamp="1470827788270">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="54" />
@@ -1108,13 +1106,10 @@
       <last-offset />
       <last-pattern>suggest</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>displayerror</entry>
-        <entry>frontpage</entry>
-        <entry>ht</entry>
         <entry>translationmanager</entry>
         <entry>list</entry>
         <entry>menur</entry>
@@ -1137,11 +1132,6 @@
         <entry>suggest</entry>
       </history-search>
       <history-cmd>
-        <entry>909</entry>
-        <entry>816</entry>
-        <entry>781</entry>
-        <entry>933</entry>
-        <entry>72</entry>
         <entry>87</entry>
         <entry>95</entry>
         <entry>250</entry>
