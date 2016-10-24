@@ -21,12 +21,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1477328754512">
-        <mark key="'" line="80" column="20" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="^" line="161" column="38" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1477331051876">
+        <mark key="[" line="120" column="76" />
+        <mark key="]" line="121" column="6" />
+        <mark key="." line="121" column="6" />
+        <mark key="^" line="121" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -341,6 +340,12 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.pre-commit-config.yaml" timestamp="1477330901340">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/language/de/gaia_mail_notification.templates.yml" timestamp="1474381974089">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
@@ -579,11 +584,11 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-rte/components-rte.css" timestamp="1477326070367">
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="54" column="1" />
-        <mark key="." line="54" column="1" />
-        <mark key="^" line="54" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-rte/components-rte.css" timestamp="1477330417826">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/dprxs_york.theme" timestamp="1470674255138">
         <mark key="[" line="29" column="24" />
@@ -917,9 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
-      <jump line="254" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
-      <jump line="256" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="262" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="269" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="276" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
@@ -1017,10 +1019,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
       <jump line="238" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/sites/default/settings.override.php" />
+      <jump line="222" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="119" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="70" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR2aWRlb191cmwgPSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1128,66 +1133,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>form_alter</text>
+        <text>image_size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeyUgYmxvY2sgY29udGFjdF9mb3JtICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR2aWRlb191cmwgPSA7Cg==</text>
+        <text encoding="base64">ICBraW50KCR2YXJzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAkYmxvY2sgPSAmJGJsb2NrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-
-$vars['content']['#block_content']-</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>$vars['content']['#block_content']
-$vars['content']['#block_content']
-$vars['content']['#block_content']
-$vars['content']['#block_content']
-$vars['content']['#block_content']
-$vars['content']['#block_content']</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQWxsIHRoZW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YS5CdXR0b24gewo=</text>
+        <text encoding="base64">ICogQGZpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICogYW5kIG9wZW4gdGhlIHRlbXBsYXRlIGluIHRoZSBlZGl0b3IuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICogVG8gY2hhbmdlIHRoaXMgdGVtcGxhdGUgZmlsZSwgY2hvb3NlIFRvb2xzIHwgVGVtcGxhdGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form_alter</last-search>
+      <last-search>image_size</last-search>
       <last-offset />
-      <last-pattern>form_alter</last-pattern>
+      <last-pattern>image_size</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1212,6 +1202,9 @@ $vars['content']['#block_content']</text>
         <entry>finished</entry>
         <entry>suggest</entry>
         <entry>form_alter</entry>
+        <entry>responsive_style</entry>
+        <entry>$image_obj</entry>
+        <entry>image_size</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
@@ -1219,13 +1212,11 @@ $vars['content']['#block_content']</text>
         <entry>250</entry>
         <entry>w:w</entry>
         <entry>1</entry>
-        <entry>noh</entry>
         <entry>w+:w</entry>
         <entry>:w</entry>
         <entry>e!</entry>
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>tabNext</entry>
         <entry>110</entry>
         <entry>W</entry>
         <entry>119</entry>
@@ -1235,6 +1226,11 @@ $vars['content']['#block_content']</text>
         <entry>132</entry>
         <entry>e</entry>
         <entry>222</entry>
+        <entry>tabNext</entry>
+        <entry>noh</entry>
+        <entry>190</entry>
+        <entry>165</entry>
+        <entry>121</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
