@@ -21,11 +21,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1476976210328">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1477328754512">
         <mark key="'" line="80" column="20" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="161" column="38" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -45,7 +46,7 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1477325982108">
+      <file name="/a.dummy" timestamp="1477328679922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/js/ui-helper.js" timestamp="1470657738855">
@@ -1019,7 +1020,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YS5CdXR0b24gewo=</text>
+        <text encoding="base64">ICAgICR2aWRlb191cmwgPSA7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1136,45 +1137,46 @@
         <text encoding="base64">ICAgICAgICAgICAgeyUgYmxvY2sgY29udGFjdF9mb3JtICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YS5CdXR0b24gewo=</text>
+        <text encoding="base64">ICAgICR2aWRlb191cmwgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAkYmxvY2sgPSAmJGJsb2NrOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="8">
+        <text>$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+      <register name="4" type="8">
+        <text>$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-
+$vars['content']['#block_content']-</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>$vars['content']['#block_content']
+$vars['content']['#block_content']
+$vars['content']['#block_content']
+$vars['content']['#block_content']
+$vars['content']['#block_content']
+$vars['content']['#block_content']</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1lZGlhICgtLW1kLWxnLXZpZXdwb3J0KSB7CiAgLlJ0ZS0taW5kZW50IC5CdXR0b24gewogICAgbWFyZ2luLWxlZnQ6IGNhbGMoMSAvIDYgKiAxMDAlICsgdmFyKC0tR3JpZC1ndXR0ZXItc2l6ZSkgLyAyKTsKICB9Cn0KCkBtZWRpYSAoLS1tZC1sZy12aWV3cG9ydCkgewogIC5SdGUtLWluZGVudCBwIHsKICAgIHBhZGRpbmctbGVmdDogY2FsYygxIC8gNiAqIDEwMCUgKyB2YXIoLS1HcmlkLWd1dHRlci1zaXplKSAvIDIpOwogIH0KfQo=</text>
+        <text encoding="base64">YS5CdXR0b24gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9mb290ZXI+Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGZvb3RlciByb2xlPSJjb250ZW50aW5mbyI+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{% block atoms_button %}
-      {% embed &quot;@atoms/02-button/03-button.twig&quot;
-        with {
-          &quot;styles&quot;: {
-            &quot;color&quot;: [
-              &quot;white&quot;
-            ]
-          },
-          &quot;text&quot;: &quot;Hello Amidori&quot;|t,
-          &quot;url&quot;: &quot;mailto:social.media@amidori.com&quot;
-        }
-      %}
-      {% endembed %}
-
-    {% endblock %}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1231,6 +1233,8 @@
         <entry>92</entry>
         <entry>108</entry>
         <entry>132</entry>
+        <entry>e</entry>
+        <entry>222</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
