@@ -203,11 +203,11 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-status-messages/components-status-messages.css" timestamp="1477580576225">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-status-messages/components-status-messages.css" timestamp="1477583753585">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_audit_trail/gaia_audit_trail.services.yml" timestamp="1469724942131">
         <mark key="[" line="9" column="22" />
@@ -1009,11 +1009,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1477577365502">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1477583787911">
         <mark key="'" line="240" column="74" />
-        <mark key="[" line="236" column="41" />
-        <mark key="]" line="239" column="40" />
-        <mark key="." line="239" column="40" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
         <mark key="^" line="239" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_chat/src/Plugin/Block/GaiaChatBlock.php" timestamp="1475268582649">
@@ -1171,8 +1171,8 @@
       <jump line="727" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/sites/default/settings.override.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkcnVwYWxfc2V0X21lc3NhZ2UoJ3N0YXR1cycsICdzdGF0dXMnKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1280,7 +1280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
@@ -1289,31 +1289,34 @@
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkcnVwYWxfc2V0X21lc3NhZ2UoJ3N0YXR1cycsICdzdGF0dXMnKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkcnVwYWxfc2V0X21lc3NhZ2UoJ3N0YXR1cycsICdzdGF0dXMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogTW9kaWZpZXIgZm9yIHNsaWdodCB2YXJpYXRpb25zIG9mIHRoZSBjb21wb25lbnQgKi8K</text>
+        <text encoding="base64">ICBkcnVwYWxfc2V0X21lc3NhZ2UoJ3dhcm5pbmcnLCAnd2FybmluZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtLUV4YW1wbGVDb21wb25lbnQtdmFyaWFibGU6IDA7Cg==</text>
+        <text encoding="base64">ICBkcnVwYWxfc2V0X21lc3NhZ2UoJ2Vycm9yJywgJ2Vycm9yJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogQmFzaWMgY29tcG9uZW50IG5hbWUgc3BhY2UgKi8K</text>
+        <text encoding="base64">ICBvcGFjaXR5OiAxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICBwb3NpdGlvbjpyZWxhdGl2ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IG1lc3NhZ2VzfGZpcnN0IH19Cg==</text>
+        <text encoding="base64">ICBhbmltYXRpb246IGNzc0FuaW1hdGlvbiAxcyBlYXNlLWluIDVzIGZvcndhcmRzOwogIGFuaW1hdGlvbi1maWxsLW1vZGU6IGZvcndhcmRzOwogIG9wYWNpdHk6IDE7CiAgcG9zaXRpb246cmVsYXRpdmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbHNlICV9Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiB2YXIoLS1zcGFjZS0xKTsKICBhbmltYXRpb246IGNzc0FuaW1hdGlvbiAxcyBlYXNlLWluIDVzIGZvcndhcmRzOwogIGFuaW1hdGlvbi1maWxsLW1vZGU6IGZvcndhcmRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBtZXNzYWdlc3xsZW5ndGggPiAxICV9Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjpyZWxhdGl2ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1321,7 +1324,7 @@
     </registers>
     <search>
       <last-search>menu</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>menu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
