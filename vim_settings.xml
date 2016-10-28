@@ -165,6 +165,11 @@
         <mark key="^" line="135" column="54" />
         <mark key="." line="135" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" timestamp="1477666389318">
+        <mark key="[" line="45" column="126" />
+        <mark key="]" line="45" column="126" />
+        <mark key="." line="45" column="126" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/locales/de.yml" timestamp="1474274437540">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="37" />
@@ -852,11 +857,6 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-video/components-video.js" timestamp="1477661395852">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--link-list-block.html.twig" timestamp="1477557913078">
         <mark key="[" line="43" column="7" />
         <mark key="]" line="43" column="11" />
@@ -1193,8 +1193,8 @@
       <jump line="2" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAncGljdHVyZWZpbGwnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHdpdGggZGVsaWNpb3VzIHJlY2lwZXM=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1302,7 +1302,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IHdpdGggZGVsaWNpb3VzIHJlY2lwZXM=</text>
       </register>
       <register name="/" type="4">
         <text>picture</text>
