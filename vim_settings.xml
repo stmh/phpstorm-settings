@@ -26,7 +26,7 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1477576882788">
+      <file name="/a.dummy" timestamp="1477652733753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/organisims/offcanvas/offcanvas.css" timestamp="1472740135614">
@@ -852,6 +852,7 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-video/components-video.js" timestamp="1477655086680" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--link-list-block.html.twig" timestamp="1477557913078">
         <mark key="[" line="43" column="7" />
         <mark key="]" line="43" column="11" />
@@ -1085,8 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
-      <jump line="341" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="351" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="353" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="359" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
@@ -1185,6 +1184,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/sites/default/settings.local.php" />
       <jump line="727" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/sites/default/settings.override.php" />
       <jump line="8" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/youtube/youtube.twig" />
+      <jump line="58" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-video/components-video.js" />
+      <jump line="81" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-video/components-video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1299,7 +1300,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>menu</text>
+        <text>handleTogglePlay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
@@ -1339,11 +1340,11 @@
       </register>
     </registers>
     <search>
-      <last-search>menu</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern>menu</last-pattern>
+      <last-search>handleTogglePlay</last-search>
+      <last-offset />
+      <last-pattern>handleTogglePlay</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1367,6 +1368,7 @@
         <entry>link_list</entry>
         <entry>validateForm</entry>
         <entry>menu</entry>
+        <entry>handleTogglePlay</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
