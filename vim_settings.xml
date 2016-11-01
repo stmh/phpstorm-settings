@@ -189,7 +189,7 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.module" timestamp="1478003321567">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.module" timestamp="1478005163098">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="59" column="0" />
@@ -794,6 +794,12 @@
       <file name="/PHP Console" timestamp="1477143984013">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/src/Plugin/Block/DistributionBlock.php" timestamp="1478005997421">
+        <mark key="[" line="104" column="28" />
+        <mark key="]" line="104" column="39" />
+        <mark key="^" line="104" column="39" />
+        <mark key="." line="104" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1475505519520">
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="12" />
@@ -1051,7 +1057,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stark</text>
+        <text>Live</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1159,40 +1165,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stark</text>
+        <text>Live</text>
       </register>
       <register name="/" type="4">
         <text>suggest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYm13X21hZ2F6aW5lX2Zyb250ZW5kX2FkZF9ib2R5X2F0dHJpYnV0ZSgnY2xhc3MnLCAnbC1hcnRpY2xlLS10eXBlLScgLiBzdHJfcmVwbGFjZSgnXycsICctJywgJHR5cGUpIC4gJy1sYXJnZScpOwo=</text>
+        <text encoding="base64">ICAgICAgJGRpc3RyaWJ1dGlvblska2V5XVsncGVyY2VudF90b3RhbCddID0gMTAwICogJGRpc3RyaWJ1dGlvblska2V5XVsndXNlZCddIC8gJHRvdGFsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sga2ludChjb250ZW50LmZpZWxkX2l0Yl9leGNlcnB0KSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdzaGFyZScgPT4gMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZShGaWx0ZXJIdG1sRXNjYXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBraW50KCRzdWdnZXN0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICR0eXBlID0gJGNvbmZpZy0+Z2V0KCdhY3RpdmVfdG9rZW5fdHlwZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRjb25maWcgPSBcRHJ1cGFsOjpjb25maWcoJ2dhaWFfdG9rZW4uc2V0dGluZ3MnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLT5jb25kaXRpb24oJ2ZpZWxkX3VzZWQnLCAnMScsICc8PicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAkaW1hZ2Vfb2JqID0gXERydXBhbDo6c2VydmljZSgnaW1hZ2UuZmFjdG9yeScpLT5nZXQoJHVyaSk7Cg==</text>
+        <text encoding="base64">ICAgICRxdWVyeS0+YWRkVGFnKCdyYW5kb20nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAtPnVyaSkgJHZhcnNbJ2NvbnRlbnQnXVsnI2Jsb2NrX2NvbnRlbnQnXS0+Z2V0KCdmaWVsZF9pdGJfaW1hZ2UnKS0+ZW50aXR5LT51cmktPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICRxdWVyeS0+cmFuZ2UoMCwgMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBraW50KCRlbnRpdHkpOwo=</text>
+        <text encoding="base64">e3sga2ludChjb250ZW50LmZpZWxkX2l0Yl9leGNlcnB0KSB9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZShGaWx0ZXJIdG1sRXNjYXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1248,6 +1254,8 @@
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz43Mw==</entry>
+        <entry>73</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
