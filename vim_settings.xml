@@ -93,6 +93,12 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/src/Controller/DistributionController.php" timestamp="1478006942556">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.TeaserAnimation.coffee" timestamp="1476807783478">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="24" />
@@ -373,6 +379,12 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.routing.yml" timestamp="1478006911078">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1474029870331">
         <mark key="[" line="87" column="61" />
@@ -794,7 +806,7 @@
       <file name="/PHP Console" timestamp="1477143984013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/src/Plugin/Block/DistributionBlock.php" timestamp="1478005997421">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/src/Plugin/Block/DistributionBlock.php" timestamp="1478006931080">
         <mark key="[" line="104" column="28" />
         <mark key="]" line="104" column="39" />
         <mark key="^" line="104" column="39" />
@@ -1057,7 +1069,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Live</text>
+        <text>build</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1165,7 +1177,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Live</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>suggest</text>
