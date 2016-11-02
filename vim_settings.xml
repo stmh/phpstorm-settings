@@ -21,11 +21,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478103484296">
-        <mark key="[" line="182" column="60" />
-        <mark key="]" line="184" column="8" />
-        <mark key="^" line="184" column="8" />
-        <mark key="." line="184" column="8" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478104328541">
+        <mark key="[" line="184" column="1" />
+        <mark key="]" line="184" column="3" />
+        <mark key="^" line="184" column="3" />
+        <mark key="." line="184" column="3" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.buy.inc" timestamp="1473958579873">
         <mark key="[" line="10" column="41" />
@@ -1193,7 +1193,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsKICBleGl0KCk7</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1309,26 +1309,26 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAncGljdHVyZWZpbGwnOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsKICBleGl0KCk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwaWN0dXJlZmlsbCc7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAncGljdHVyZWZpbGwnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwaWN0dXJlZmlsbCc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHN0cmluZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHN0cmluZ192YWxpZGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGtpbnQoJHN0cmluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGtpbnQoJHN0cmluZ192YWxpZGF0ZSk7Cg==</text>
