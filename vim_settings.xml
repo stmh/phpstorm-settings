@@ -21,12 +21,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478110000248">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478112876031">
         <mark key="'" line="78" column="35" />
-        <mark key="[" line="199" column="53" />
-        <mark key="]" line="199" column="57" />
-        <mark key="." line="199" column="57" />
-        <mark key="^" line="199" column="57" />
+        <mark key="[" line="199" column="14" />
+        <mark key="]" line="199" column="7" />
+        <mark key="." line="199" column="7" />
+        <mark key="^" line="199" column="7" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.buy.inc" timestamp="1473958579873">
         <mark key="[" line="10" column="41" />
@@ -352,6 +352,12 @@
         <mark key="]" line="227" column="5" />
         <mark key="." line="227" column="5" />
         <mark key="^" line="227" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/layout/page.html.twig" timestamp="1478112995047">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="53" column="21" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/EventSubscriber/PatientStateSubscriber.php" timestamp="1473761790175">
         <mark key="[" line="99" column="28" />
@@ -1223,8 +1229,8 @@
       <jump line="78" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$menu_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1332,7 +1338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$menu_name</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
@@ -1341,34 +1347,34 @@
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkbWVudV9uYW1lID0gJ2hlYWRlci1tZW51JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRzbSgkbGF5b3V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkcmVzdWx0ID0gcGFuZWxzX2dldF9jdXJyZW50X3BhZ2VfZGlzcGxheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAiaXRlbXMiOiBoZWFkZXJfbWVudQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJG5vZGUpOwo=</text>
+        <text encoding="base64">IHt7ICBraW50KHBhZ2UpIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoJG5vZGUpIHsK</text>
+        <text encoding="base64">ICBISUVSSElFUgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJHJlc3VsdCwgImh1aHUiKTsK</text>
+        <text encoding="base64">ICBraW50KCRtZW51X2Fycik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICBraW50KCR0cmVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
