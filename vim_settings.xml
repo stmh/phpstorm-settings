@@ -312,6 +312,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/page_manager/src/Plugin/DisplayVariant/PageBlockDisplayVariant.php" timestamp="1478254912602" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.layouts.yml" timestamp="1478107506231">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="19" />
@@ -1027,7 +1028,7 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="/PHP Console" timestamp="1477143984013">
+      <file name="/PHP Console" timestamp="1478254605685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/layouts/onecol60/panels-onecol.html.twig" timestamp="1478107191862">
@@ -1065,6 +1066,11 @@
         <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/block/tests/src/Kernel/BlockViewBuilderTest.php" timestamp="1478252419411" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/block/src/BlockViewBuilder.php" timestamp="1478254570518">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_recruit_chart/src/Plugin/Block/GaiaRecruitChartBlock.php" timestamp="1473762433595">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="34" />
@@ -1227,8 +1233,8 @@
       <jump line="160" column="58" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/block_content/src/Plugin/Block/BlockContentBlock.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1345,34 +1351,34 @@
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmludF9yKCRpdGVtLT5nZXRWYWx1ZSgpLCBUUlVFKTsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiaHVodSI7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcmludF9yKCRpdGVtLT5nZXRWYWx1ZSgpLCBUUlVFKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAiaHVodSI7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGtpbnQoJGl0ZW0pOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIC8vIFRoZSB0ZXh0IHZhbHVlIGhhcyBubyB0ZXh0IGZvcm1hdCBhc3NpZ25lZCB0byBpdCwgc28gdGhlIHVzZXIgaW5wdXQKICAgIC8vIHNob3VsZCBlcXVhbCB0aGUgb3V0cHV0LCBpbmNsdWRpbmcgbmV3bGluZXMuCiAgICByZXR1cm4gbmwyYnIoSHRtbDo6ZXNjYXBlKCRpdGVtLT52YWx1ZSkpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8gVGhvc2UgdmFsdWVzIGFyZSBjb2xsZWN0ZWQgb24gY2FsY3VsYXRvciBwYWdlLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3Jvb2ZfYXJlYSddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2lzX293bmVyJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2NvbnN1bXB0aW9uJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3BseiddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2NvbnN1bXB0aW9uJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1428,6 +1434,8 @@
         <entry>188</entry>
         <entry>bd</entry>
         <entry>tabNext</entry>
+        <entry>155</entry>
+        <entry>135</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
