@@ -26,7 +26,7 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1478196649507">
+      <file name="/a.dummy" timestamp="1478252351214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/organisims/offcanvas/offcanvas.css" timestamp="1472740135614">
@@ -793,6 +793,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Plugin/Field/FieldFormatter/BlockReferenceFieldFormatter.php" timestamp="1478252160437">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="83" column="48" />
+        <mark key="." line="83" column="48" />
+        <mark key="^" line="83" column="48" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/subscribe_newsletter.php" timestamp="1473267506998">
         <mark key="[" line="29" column="51" />
         <mark key="]" line="29" column="50" />
@@ -1058,6 +1064,7 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/block/tests/src/Kernel/BlockViewBuilderTest.php" timestamp="1478252419411" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_recruit_chart/src/Plugin/Block/GaiaRecruitChartBlock.php" timestamp="1473762433595">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="34" />
@@ -1221,7 +1228,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mail</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1329,7 +1336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mail</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRFbnRpdHlUeXBlSWRcPg==</text>
@@ -1338,34 +1345,34 @@
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhvc2UgdmFsdWVzIGFyZSBjb2xsZWN0ZWQgb24gY2FsY3VsYXRvciBwYWdlLgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcmludF9yKCRpdGVtLT5nZXRWYWx1ZSgpLCBUUlVFKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3Jvb2ZfYXJlYSddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiaHVodSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2lzX293bmVyJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJGl0ZW0pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2NvbnN1bXB0aW9uJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8vIFRoZSB0ZXh0IHZhbHVlIGhhcyBubyB0ZXh0IGZvcm1hdCBhc3NpZ25lZCB0byBpdCwgc28gdGhlIHVzZXIgaW5wdXQKICAgIC8vIHNob3VsZCBlcXVhbCB0aGUgb3V0cHV0LCBpbmNsdWRpbmcgbmV3bGluZXMuCiAgICByZXR1cm4gbmwyYnIoSHRtbDo6ZXNjYXBlKCRpdGVtLT52YWx1ZSkpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3BseiddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVGhvc2UgdmFsdWVzIGFyZSBjb2xsZWN0ZWQgb24gY2FsY3VsYXRvciBwYWdlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3Jvb2ZfYXJlYSddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2lzX293bmVyJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2NvbnN1bXB0aW9uJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3BseiddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1376,15 +1383,10 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXRFbnRpdHlUeXBlSWRcPg==</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>l-article</entry>
-        <entry>article_6</entry>
-        <entry>styles</entry>
-        <entry>finished</entry>
-        <entry>suggest</entry>
         <entry>form_alter</entry>
         <entry>responsive_style</entry>
         <entry>$image_obj</entry>
@@ -1407,7 +1409,6 @@
         <entry encoding="base64">XDxnZXRFbnRpdHlUeXBlSWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>110</entry>
         <entry>119</entry>
@@ -1422,11 +1423,11 @@
         <entry>165</entry>
         <entry>121</entry>
         <entry>403</entry>
-        <entry>tabNext</entry>
         <entry>W</entry>
         <entry>.,.+187188</entry>
         <entry>188</entry>
         <entry>bd</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
