@@ -241,11 +241,11 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1477144360546">
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="41" column="38" />
-        <mark key="." line="41" column="38" />
-        <mark key="^" line="41" column="38" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1478256607498">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/node_modules/smooth-scroll/package.json" timestamp="1477576461489">
         <mark key="[" line="4" column="13" />
@@ -794,11 +794,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Plugin/Field/FieldFormatter/BlockReferenceFieldFormatter.php" timestamp="1478252160437">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="83" column="48" />
-        <mark key="." line="83" column="48" />
-        <mark key="^" line="83" column="48" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Plugin/Field/FieldFormatter/BlockReferenceFieldFormatter.php" timestamp="1478256049606">
+        <mark key="[" line="102" column="10" />
+        <mark key="]" line="103" column="26" />
+        <mark key="." line="103" column="26" />
+        <mark key="^" line="103" column="26" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/subscribe_newsletter.php" timestamp="1473267506998">
         <mark key="[" line="29" column="51" />
@@ -1234,7 +1234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
+        <text encoding="base64">e3sgIGtpbnQoY29udGVudCkgfX0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1351,34 +1351,35 @@
         <text encoding="base64">QGltcG9ydCAiLi9jb21wb25lbnRzLXZpZGVvL2NvbXBvbmVudHMtdmlkZW8uY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
+        <text encoding="base64">e3sgIGtpbnQoY29udGVudCkgfX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmludF9yKCRpdGVtLT5nZXRWYWx1ZSgpLCBUUlVFKTsK</text>
+        <text encoding="base64">ICAgICAgICBraW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiaHVodSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIF0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJGl0ZW0pOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnI21hcmt1cCcgPT4g</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8vIFRoZSB0ZXh0IHZhbHVlIGhhcyBubyB0ZXh0IGZvcm1hdCBhc3NpZ25lZCB0byBpdCwgc28gdGhlIHVzZXIgaW5wdXQKICAgIC8vIHNob3VsZCBlcXVhbCB0aGUgb3V0cHV0LCBpbmNsdWRpbmcgbmV3bGluZXMuCiAgICByZXR1cm4gbmwyYnIoSHRtbDo6ZXNjYXBlKCRpdGVtLT52YWx1ZSkpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICcjYmxvY2tfcGx1Z2luJyA9PiAkYmxvY2ssCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhvc2UgdmFsdWVzIGFyZSBjb2xsZWN0ZWQgb24gY2FsY3VsYXRvciBwYWdlLgo=</text>
+      <register name="6" type="4">
+        <text>return print_r(array_keys($content), TRUE);
+        return $content;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX3Jvb2ZfYXJlYSddWycjdHlwZSddID0gJ2hpZGRlbic7Cg==</text>
+        <text encoding="base64">ICAgIGtpbnQoJGVudGl0eSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2lzX293bmVyJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcmludF9yKCRpdGVtLT5nZXRWYWx1ZSgpLCBUUlVFKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2ZpZWxkX2NmX2NvbnN1bXB0aW9uJ11bJyN0eXBlJ10gPSAnaGlkZGVuJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAiaHVodSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1433,9 +1434,10 @@
         <entry>.,.+187188</entry>
         <entry>188</entry>
         <entry>bd</entry>
-        <entry>tabNext</entry>
         <entry>155</entry>
         <entry>135</entry>
+        <entry>96</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
