@@ -614,8 +614,8 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478112876031">
-        <mark key="'" line="78" column="35" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478466493437">
+        <mark key="'" line="288" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -1155,8 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1421" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.articles.inc" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--image_text_block.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/sites/default/settings.local.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
       <jump line="39" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
@@ -1255,6 +1253,8 @@
       <jump line="9" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/gulpfile.babel.js" />
       <jump line="17" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/pagination.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" />
+      <jump line="275" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="288" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1413,11 +1413,10 @@
       <last-offset />
       <last-pattern>plumber</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>form_alter</entry>
         <entry>responsive_style</entry>
         <entry>$image_obj</entry>
         <entry>image_size</entry>
@@ -1440,7 +1439,6 @@
         <entry>plumber</entry>
       </history-search>
       <history-cmd>
-        <entry>73</entry>
         <entry>92</entry>
         <entry>108</entry>
         <entry>132</entry>
