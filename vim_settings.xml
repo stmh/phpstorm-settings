@@ -385,11 +385,11 @@
         <mark key="^" line="17" column="102" />
         <mark key="." line="17" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-2.js" timestamp="1478283553952">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-2.js" timestamp="1478534558367">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/NewBooklist.class.php" timestamp="1473264543735">
         <mark key="[" line="35" column="0" />
@@ -653,11 +653,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-1.js" timestamp="1478531993313">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-1.js" timestamp="1478534015386">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/layout/html.html.twig" timestamp="1477577090961">
         <mark key="[" line="47" column="13" />
@@ -767,12 +767,12 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478532037895">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478534280387">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="42" column="57" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="93" column="58" />
+        <mark key="]" line="94" column="28" />
+        <mark key="^" line="94" column="28" />
+        <mark key="." line="94" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
         <mark key="[" line="37" column="9" />
@@ -1063,11 +1063,11 @@
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1478279662926">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1478534324209">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/layouts/onecol80/panels-onecol.html.twig" timestamp="1477644855928">
         <mark key="[" line="11" column="10" />
@@ -1258,8 +1258,8 @@
       <jump line="45" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2LWVsPSJwbHoiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1367,7 +1367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>gaia_patient_flow_user_login_form_submit</text>
@@ -1375,35 +1375,35 @@
       <register name="0" type="4">
         <text>[0-9]{5}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2LWVsPSJwbHoiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bGxsbGxsbGV3UG9zdGFsQ29kZS5sZW5ndGggPT0gNSAmJiByZy50ZXN0KG5ld1Bvc3RhbENvZGUpOwogICAgaQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcgo=</text>
+        <text encoding="base64">ICAgIGxldCByZyA9IC9bMC05XXs1fS87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlMCIK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlMCIK</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2F0Y2ggKGVycikgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIDxkaXY+CiAgICAgICAgU2xpZGUgMwoKICAgICAgPC9kaXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNDVmNzA4ZGZjY2JhMzU0NjMzMTFkYjQ4ZWQ2MjE3ZTRmYzAzNmY4Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnZhbGlkYXRlZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1458,9 +1458,9 @@
         <entry>135</entry>
         <entry>96</entry>
         <entry>90</entry>
-        <entry>W</entry>
         <entry>88</entry>
         <entry>tabNext</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
