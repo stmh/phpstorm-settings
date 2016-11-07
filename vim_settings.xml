@@ -385,11 +385,11 @@
         <mark key="^" line="17" column="102" />
         <mark key="." line="17" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-2.js" timestamp="1478534558367">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-2.js" timestamp="1478537876284">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/NewBooklist.class.php" timestamp="1473264543735">
         <mark key="[" line="35" column="0" />
@@ -767,12 +767,10 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478534280387">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="93" column="58" />
-        <mark key="]" line="94" column="28" />
-        <mark key="^" line="94" column="28" />
-        <mark key="." line="94" column="28" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478538051834">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
         <mark key="[" line="37" column="9" />
@@ -1063,11 +1061,11 @@
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1478534324209">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1478534914130">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/layouts/onecol80/panels-onecol.html.twig" timestamp="1477644855928">
         <mark key="[" line="11" column="10" />
@@ -1258,8 +1256,8 @@
       <jump line="45" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7JSByYXcgJX17eyB0ZXN0IH19eyUgZW5kcmF3ICV9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1367,7 +1365,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>gaia_patient_flow_user_login_form_submit</text>
@@ -1375,35 +1373,35 @@
       <register name="0" type="4">
         <text>[0-9]{5}</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bGxsbGxsbGV3UG9zdGFsQ29kZS5sZW5ndGggPT0gNSAmJiByZy50ZXN0KG5ld1Bvc3RhbENvZGUpOwogICAgaQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB7JSByYXcgJX17eyB0ZXN0IH19eyUgZW5kcmF3ICV9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCByZyA9IC9bMC05XXs1fS87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibW9kaWZpZXIiOiAiQnV0dG9uLS1zbWFsbCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaXNfZGlzYWJsZWQiOiB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaXNfZGlzYWJsZWQiOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibW9kaWZpZXIiOiAiQnV0dG9uLS1zbWFsbCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2F0Y2ggKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICB7JSAgcmF3ICV9e3sgcG9zZGR0YWxDb2RlIH19e3sgdmFsaWRhdGVkIH19eyUgZW5kcmF3ICV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29uc3VtcHRpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnZhbGlkYXRlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
