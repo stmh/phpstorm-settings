@@ -46,11 +46,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/components-calculator.js" timestamp="1478607830708">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="7" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/components-calculator.js" timestamp="1478611130815">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="39" column="10" />
+        <mark key="^" line="39" column="10" />
+        <mark key="." line="39" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/assets/javascripts/BMW.TeaserAnimation.coffee" timestamp="1476807783478">
         <mark key="[" line="12" column="11" />
@@ -767,11 +767,11 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478607271951">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478610892969">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
         <mark key="[" line="37" column="9" />
@@ -1257,8 +1257,8 @@
       <jump line="45" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobXlTd2lwZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1366,7 +1366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>visited</text>
@@ -1460,6 +1460,7 @@
         <entry>88</entry>
         <entry>tabNext</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
