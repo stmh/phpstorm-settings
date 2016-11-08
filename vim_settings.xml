@@ -222,6 +222,7 @@
         <mark key="." line="35" column="23" />
         <mark key="^" line="35" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--form_block.html.twig" timestamp="1478620123817" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/README.md" timestamp="1474029870331">
         <mark key="[" line="87" column="61" />
         <mark key="]" line="87" column="61" />
@@ -737,6 +738,12 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.json" timestamp="1478620209952">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/_tools/behat/features/questionnaires.feature" timestamp="1471432467510">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="34" column="36" />
@@ -767,11 +774,11 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478614461299">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="3" column="56" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478620233390">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
         <mark key="[" line="37" column="9" />
@@ -825,6 +832,12 @@
         <mark key="]" line="89" column="39" />
         <mark key="." line="89" column="39" />
         <mark key="^" line="89" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--calculator-block.html.twig" timestamp="1478620322861">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="43" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="43" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/subscribe_newsletter.php" timestamp="1473267506998">
         <mark key="[" line="29" column="51" />
@@ -1258,7 +1271,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>&quot;content&quot;: {
+  &quot;markup&quot;: dz4_form
+  }</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1366,7 +1381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Kein Ergebnis</text>
       </register>
       <register name="/" type="4">
         <text>visited</text>
@@ -1374,35 +1389,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0ZS5yZXN1bHRzLmVhc3kgPSBzdGF0ZS5jb3N0c1tyZXN1bHRLZXldLmVhc3k7IAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uQ2xpY2thYmxlOiB0cnVlLAo=</text>
+      <register name="1" type="4">
+        <text>&quot;content&quot;: {
+  &quot;markup&quot;: dz4_form
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uOiAnLnN3aXBlci1wYWdpbmF0aW9uJywK</text>
+      <register name="2" type="4">
+        <text>Ergebnis
+    {% raw %}
+    
+    {% endraw %}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItcGFnaW5hdGlvbiI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uQ2xpY2thYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJDYWxjdWxhdG9yLXdyYXBQYWdpbmF0aW9uIj4KICAgIDxwYWdpbmF0aW9uPjwvcGFnaW5hdGlvbj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uOiAnLnN3aXBlci1wYWdpbmF0aW9uJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2V0Q29uc3VtcHRpb24oc3RhdGUsIHN0YXRlLmNvbnN1bXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItcGFnaW5hdGlvbiI+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3JlcXVlc3RDYWxjdWxhdGlvbicK</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJDYWxjdWxhdG9yLXdyYXBQYWdpbmF0aW9uIj4KICAgIDxwYWdpbmF0aW9uPjwvcGFnaW5hdGlvbj4KICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FsY3VsYXRpb25SZXF1ZXN0ZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgc2V0Q29uc3VtcHRpb24oc3RhdGUsIHN0YXRlLmNvbnN1bXB0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobXlTd2lwZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgJ3JlcXVlc3RDYWxjdWxhdGlvbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobXlTd2lwZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgY2FsY3VsYXRpb25SZXF1ZXN0ZWQ6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
