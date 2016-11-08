@@ -654,11 +654,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-1.js" timestamp="1478624089797">
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="41" column="5" />
-        <mark key="^" line="41" column="5" />
-        <mark key="." line="41" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/components/question-1.js" timestamp="1478625836841">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="50" column="6" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/layout/html.html.twig" timestamp="1477577090961">
         <mark key="[" line="47" column="13" />
@@ -774,11 +774,11 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478624214028">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1478625516965">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="67" column="34" />
+        <mark key="^" line="67" column="34" />
+        <mark key="." line="67" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1475505926922">
         <mark key="[" line="37" column="9" />
@@ -1270,10 +1270,8 @@
       <jump line="45" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;content&quot;: {
-  &quot;markup&quot;: dz4_form
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2xhc3NlcywgdGhpcy52YWxpZGF0ZWQsIHRoaXMuc2xpZGVBdmFpbGFibGUoMSkpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1381,7 +1379,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Kein Ergebnis</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>visited</text>
@@ -1389,40 +1387,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0ZS5yZXN1bHRzLmVhc3kgPSBzdGF0ZS5jb3N0c1tyZXN1bHRLZXldLmVhc3k7IAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;content&quot;: {
-  &quot;markup&quot;: dz4_form
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2xhc3NlcywgdGhpcy52YWxpZGF0ZWQsIHRoaXMuc2xpZGVBdmFpbGFibGUoMSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiaXMtZGlzYWJsZWQiOiAhdGhpcy52YWxpZGF0ZWQgJiYgIXRoaXMuc2xpZGVBdmFpbGFibGUoMSksCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;content&quot;: {
+  &quot;markup&quot;: dz4_form
+  }</text>
+      </register>
+      <register name="5" type="4">
         <text>Ergebnis
     {% raw %}
     
     {% endraw %}</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uQ2xpY2thYmxlOiB0cnVlLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uOiAnLnN3aXBlci1wYWdpbmF0aW9uJywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzd2lwZXItcGFnaW5hdGlvbiI+PC9kaXY+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJDYWxjdWxhdG9yLXdyYXBQYWdpbmF0aW9uIj4KICAgIDxwYWdpbmF0aW9uPjwvcGFnaW5hdGlvbj4KICA8L2Rpdj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0Q29uc3VtcHRpb24oc3RhdGUsIHN0YXRlLmNvbnN1bXB0aW9uKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ3JlcXVlc3RDYWxjdWxhdGlvbicK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FsY3VsYXRpb25SZXF1ZXN0ZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJDYWxjdWxhdG9yLXdyYXBQYWdpbmF0aW9uIj4KICAgIDxwYWdpbmF0aW9uPjwvcGFnaW5hdGlvbj4KICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
