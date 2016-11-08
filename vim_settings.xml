@@ -87,6 +87,13 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1478629630343">
+        <mark key="'" line="268" column="72" />
+        <mark key="[" line="298" column="122" />
+        <mark key="]" line="298" column="122" />
+        <mark key="." line="298" column="122" />
+        <mark key="^" line="297" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image_text_block.html.twig" timestamp="1476897213886">
         <mark key="[" line="39" column="33" />
         <mark key="]" line="39" column="43" />
@@ -695,6 +702,7 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.module" timestamp="1478629403594" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-table.tpl.haml" timestamp="1472651225591">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -971,6 +979,12 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/config/dzvier_utils.settings.yml" timestamp="1478629639668">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-article-teaser.tpl.mustache" timestamp="1476798744999">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="43" />
@@ -1166,9 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
-      <jump line="39" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring.js" />
-      <jump line="1" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Counter.vue" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Logo.vue" />
       <jump line="64" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" />
@@ -1266,10 +1277,13 @@
       <jump line="275" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="288" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="45" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
+      <jump line="208" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="265" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="268" column="72" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHN0eWxlPgogIGlucHV0LmlzLWVycm9yIHsKICAgIGJvcmRlci1jb2xvcjogI2YwMDsKICB9CiAgaW5wdXQgeyBvdXRsaW5lOiBub25lO30KPC9zdHlsZT4=</text>
+        <text>p</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1377,10 +1391,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>background</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>visited</text>
+        <text>crm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2LWJpbmQ6Y2xhc3M9ImlucHV0Q2xhc3NlcyIK</text>
@@ -1422,9 +1436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>visited</last-search>
+      <last-search>crm</last-search>
       <last-offset />
-      <last-pattern>visited</last-pattern>
+      <last-pattern>crm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1452,6 +1466,7 @@
         <entry>gaia_patient_flow_user_login_form_submit</entry>
         <entry>test</entry>
         <entry>visited</entry>
+        <entry>crm</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
