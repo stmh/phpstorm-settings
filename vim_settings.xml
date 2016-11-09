@@ -851,11 +851,11 @@
         <mark key="." line="89" column="39" />
         <mark key="^" line="89" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--calculator-block.html.twig" timestamp="1478626838506">
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--calculator-block.html.twig" timestamp="1478706052641">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="9" />
         <mark key="^" line="41" column="39" />
-        <mark key="." line="41" column="39" />
+        <mark key="." line="32" column="9" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/subscribe_newsletter.php" timestamp="1473267506998">
         <mark key="[" line="29" column="51" />
@@ -1300,7 +1300,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5nZXRNZXNzYWdlKCk=</text>
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1408,7 +1408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXRNZXNzYWdlKCk=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Button</text>
