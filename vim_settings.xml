@@ -898,6 +898,12 @@
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block.html.twig" timestamp="1478702882160">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="9" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/config/staging/gaia_mail_notification.templates.yml" timestamp="1474381902352">
         <mark key="[" line="34" column="103" />
         <mark key="]" line="34" column="103" />
@@ -1307,8 +1313,8 @@
       <jump line="69" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-rte/components-rte.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1416,7 +1422,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Button</text>
