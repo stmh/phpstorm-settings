@@ -628,10 +628,10 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1478632650174">
         <mark key="'" line="200" column="7" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="^" line="316" column="3" />
-        <mark key="." line="317" column="0" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="^" line="314" column="3" />
+        <mark key="." line="315" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -716,7 +716,6 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.module" timestamp="1478629403594" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-table.tpl.haml" timestamp="1472651225591">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -1453,17 +1452,10 @@
       <last-offset />
       <last-pattern>is-error</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$image_obj</entry>
-        <entry>image_size</entry>
-        <entry>download</entry>
-        <entry>link_list</entry>
-        <entry>validateForm</entry>
-        <entry>menu</entry>
-        <entry>handleTogglePlay</entry>
         <entry>pictur</entry>
         <entry encoding="base64">XDxvYmplY3RGaXRJbWFnZXNcPg==</entry>
         <entry>picture</entry>
@@ -1486,10 +1478,6 @@
         <entry>is-error</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
-        <entry>132</entry>
-        <entry>e</entry>
-        <entry>222</entry>
         <entry>noh</entry>
         <entry>190</entry>
         <entry>165</entry>
