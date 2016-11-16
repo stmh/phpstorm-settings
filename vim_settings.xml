@@ -21,7 +21,7 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1479226662657">
+      <file name="/a.dummy" timestamp="1479297206092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/organisims/offcanvas/offcanvas.css" timestamp="1472740135614">
@@ -872,11 +872,12 @@
         <mark key="^" line="44" column="117" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1473841870757">
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1479297473469">
+        <mark key="'" line="66" column="13" />
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="122" column="5" />
+        <mark key="^" line="122" column="5" />
+        <mark key="." line="122" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block.html.twig" timestamp="1478702882160">
         <mark key="[" line="32" column="9" />
@@ -1184,8 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
-      <jump line="52" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="53" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="54" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
       <jump line="55" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaires/src/Form/QuestionnaireForm.php" />
@@ -1284,10 +1283,12 @@
       <jump line="11" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-scrollindicator/components-scrollindicator.js" />
       <jump line="14" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/index.js" />
       <jump line="235" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="104" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" />
+      <jump line="66" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1395,54 +1396,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>truck</text>
+        <text>sendNotif</text>
       </register>
       <register name="0" type="4">
         <text>ScrollIndicator js-ScrollIndicator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnU2VudCBtYWlsIG5vdGlmaWNhdGlvbiBAdGVtcGxhdGUgdG8gQHVzZXInLCBhcnJheSgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtICItLWNvbmZpZyAuL3dlYi90aGVtZXMvY3VzdG9tL2R6NC9wYXR0ZXJuLWxhYi9mcm9udGVuZC8uZXNsaW50cmMiCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtICItLWRlYnVnIgo=</text>
+        <text encoding="base64">ICAgICAgICAtICItLWNvbmZpZyAuL3dlYi90aGVtZXMvY3VzdG9tL2R6NC9wYXR0ZXJuLWxhYi9mcm9udGVuZC8uZXNsaW50cmMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeGFyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICItLWRlYnVnIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeGFyZ3M6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIGZvciAoY29uc3Qga2V5IGluIE9iamVjdC5rZXlzKHRoaXMudHlwaWNhbENvbnN1bXB0aW9ucykp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>truck</last-search>
+      <last-search>sendNotif</last-search>
       <last-offset />
-      <last-pattern>truck</last-pattern>
+      <last-pattern>sendNotif</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1466,18 +1467,9 @@
         <entry>menu</entry>
         <entry encoding="base64">XDxfZHo0X2dldF9tZW51X2xpbmtzXD4=</entry>
         <entry>truck</entry>
+        <entry>sendNotif</entry>
       </history-search>
       <history-cmd>
-        <entry>202</entry>
-        <entry>w:w</entry>
-        <entry>82</entry>
-        <entry>83</entry>
-        <entry>84</entry>
-        <entry>76</entry>
-        <entry>Dash</entry>
-        <entry>93</entry>
-        <entry>96</entry>
-        <entry>130</entry>
         <entry>138</entry>
         <entry>46</entry>
         <entry>ew</entry>
