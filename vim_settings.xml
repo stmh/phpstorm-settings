@@ -21,8 +21,10 @@
         <mark key="." line="50" column="91" />
         <mark key="^" line="50" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1479297206092">
+      <file name="/a.dummy" timestamp="1479464645208">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/organisims/offcanvas/offcanvas.css" timestamp="1472740135614">
         <mark key="[" line="67" column="2" />
@@ -1288,7 +1290,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>mail</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1396,7 +1398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
         <text>sendNotif</text>
@@ -1443,11 +1445,10 @@
       <last-offset />
       <last-pattern>sendNotif</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gaia_patient_flow_user_login_form_submit</entry>
         <entry>test</entry>
         <entry>visited</entry>
         <entry>crm</entry>
