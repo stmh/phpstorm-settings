@@ -1361,11 +1361,10 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479734629122">
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="96" />
-        <mark key="^" line="33" column="96" />
-        <mark key="." line="33" column="96" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479736931600">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Routing/RouteSubscriber.php" timestamp="1478185178550">
         <mark key="[" line="16" column="0" />
@@ -1482,8 +1481,8 @@
       <jump line="31" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>midori_responsive</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1591,7 +1590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>midori_responsive</text>
+        <text encoding="base64">XERydXBhbDo6dGhlbWUoKS0+Z2V0QWN0aXZlVGhlbWUoKS0+Z2V0UGF0aCgpIC4=</text>
       </register>
       <register name="/" type="4">
         <text>blog</text>
@@ -1600,34 +1599,34 @@
         <text>ScrollIndicator js-ScrollIndicator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBSZXNwb25zaXZlIGltYWdlIGh0bWwuCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkdmFyc1sncmVzcG9uc2l2ZV9pbWFnZSddID0gX21pZG9yaV9nZXRfcmVzcG9uc2l2ZV9pbWFnZSgkcmVzcG9uc2l2ZV9zdHlsZSwgJHVyaSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkbm9kZSA9ICR2YXJzWydub2RlJ107Cg==</text>
+        <text encoding="base64">ICAvLyBSZXNwb25zaXZlIGltYWdlIGh0bWwuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRub2RlLT4pCg==</text>
+        <text encoding="base64">ICAkdmFyc1sncmVzcG9uc2l2ZV9pbWFnZSddID0gX21pZG9yaV9nZXRfcmVzcG9uc2l2ZV9pbWFnZSgkcmVzcG9uc2l2ZV9zdHlsZSwgJHVyaSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRub2RlLT4gICR2YXJzWydhdXRob3JfbmFtZSddID0gJG5vZGUtPmdldE93bmVyKCktPmdldFVzZXJuYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAkbm9kZSA9ICR2YXJzWydub2RlJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
