@@ -1361,11 +1361,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479733919680">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="33" column="101" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479734629122">
+        <mark key="[" line="33" column="76" />
+        <mark key="]" line="33" column="96" />
+        <mark key="^" line="33" column="96" />
+        <mark key="." line="33" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Routing/RouteSubscriber.php" timestamp="1478185178550">
         <mark key="[" line="16" column="0" />
@@ -1482,8 +1482,8 @@
       <jump line="31" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="&quot;" type="4">
+        <text>midori_responsive</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1591,7 +1591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/themes/custom/midori'</text>
+        <text>midori_responsive</text>
       </register>
       <register name="/" type="4">
         <text>blog</text>
