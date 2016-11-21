@@ -1361,11 +1361,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479738109267">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" timestamp="1479739824254">
+        <mark key="'" line="224" column="24" />
+        <mark key="[" line="180" column="22" />
+        <mark key="]" line="180" column="20" />
+        <mark key="." line="180" column="20" />
+        <mark key="^" line="180" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/src/Routing/RouteSubscriber.php" timestamp="1478185178550">
         <mark key="[" line="16" column="0" />
@@ -1380,15 +1381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1503" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1506" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1516" column="51" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1517" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1521" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1524" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1525" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1552" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="1554" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1580" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="621" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1508" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
@@ -1480,10 +1472,19 @@
       <jump line="164" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
       <jump line="173" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
       <jump line="31" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="27" column="72" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="30" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="83" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="90" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="113" column="138" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="172" column="69" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="215" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="216" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="225" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1591,52 +1592,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XERydXBhbDo6dGhlbWUoKS0+Z2V0QWN0aXZlVGhlbWUoKS0+Z2V0UGF0aCgpIC4=</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>blog</text>
+        <text>blog(</text>
       </register>
       <register name="0" type="4">
         <text>ScrollIndicator js-ScrollIndicator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBSZXNwb25zaXZlIGltYWdlIGh0bWwuCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkdmFyc1sncmVzcG9uc2l2ZV9pbWFnZSddID0gX21pZG9yaV9nZXRfcmVzcG9uc2l2ZV9pbWFnZSgkcmVzcG9uc2l2ZV9zdHlsZSwgJHVyaSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkbm9kZSA9ICR2YXJzWydub2RlJ107Cg==</text>
+        <text encoding="base64">ICAvLyBSZXNwb25zaXZlIGltYWdlIGh0bWwuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blog</last-search>
+      <last-search>blog(</last-search>
       <last-offset />
-      <last-pattern>blog</last-pattern>
+      <last-pattern>blog(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1665,6 +1666,8 @@
         <entry>preprocess_node</entry>
         <entry>author_name</entry>
         <entry>blog</entry>
+        <entry>entity</entry>
+        <entry>blog(</entry>
       </history-search>
       <history-cmd>
         <entry>138</entry>
@@ -1677,7 +1680,6 @@
         <entry>86</entry>
         <entry>26</entry>
         <entry>13</entry>
-        <entry>33</entry>
         <entry>61</entry>
         <entry>56</entry>
         <entry>9</entry>
@@ -1690,6 +1692,12 @@
         <entry>:w</entry>
         <entry>22</entry>
         <entry>%!phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme</entry>
+        <entry>33</entry>
+        <entry>171</entry>
+        <entry>:180</entry>
+        <entry>180</entry>
+        <entry>wq</entry>
+        <entry>179</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
