@@ -1257,11 +1257,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1479909627419">
-        <mark key="[" line="93" column="29" />
-        <mark key="]" line="94" column="72" />
-        <mark key="." line="94" column="72" />
-        <mark key="^" line="94" column="72" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1479911731649">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/layouts/onecol60/panels-onecol.html.twig" timestamp="1478107191862">
         <mark key="[" line="26" column="10" />
@@ -1481,7 +1481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>easy</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1589,7 +1589,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>easy</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1682,6 +1682,8 @@
         <entry>180</entry>
         <entry>wq</entry>
         <entry>179</entry>
+        <entry>21</entry>
+        <entry>11</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
