@@ -134,11 +134,11 @@
         <mark key="." line="133" column="91" />
         <mark key="^" line="133" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1479223626163">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1479910776175">
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="51" column="60" />
+        <mark key="^" line="51" column="60" />
+        <mark key="." line="51" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/frontend/lib/components/components-status-messages/components-status-messages.css" timestamp="1477643339891">
         <mark key="[" line="7" column="0" />
@@ -1110,11 +1110,11 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-rte/components-rte.css" timestamp="1479901691784">
-        <mark key="[" line="125" column="20" />
-        <mark key="]" line="125" column="26" />
-        <mark key="." line="125" column="26" />
-        <mark key="^" line="125" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-rte/components-rte.css" timestamp="1479910906261">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="9" />
+        <mark key="." line="71" column="9" />
+        <mark key="^" line="71" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/00-header.twig" timestamp="1477643144855">
         <mark key="[" line="58" column="0" />
@@ -1257,11 +1257,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1479228501966">
-        <mark key="[" line="77" column="55" />
-        <mark key="]" line="77" column="101" />
-        <mark key="^" line="77" column="101" />
-        <mark key="." line="77" column="101" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1479909627419">
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="94" column="72" />
+        <mark key="." line="94" column="72" />
+        <mark key="^" line="94" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/layouts/onecol60/panels-onecol.html.twig" timestamp="1478107191862">
         <mark key="[" line="26" column="10" />
@@ -1481,7 +1481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>easy</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1589,54 +1589,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>easy</text>
       </register>
       <register name="/" type="4">
-        <text>blog(</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ScrollIndicator js-ScrollIndicator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRuZXdfdGV4dCA9IHByZWdfcmVwbGFjZV9jYWxsYmFjaygiL1x7XCJDT1NUU19FQVNZXH0vIiwgZnVuY3Rpb24gKCRtYXRjaCkgewogICAgICByZXR1cm4gJzxzcGFuIHYtaHRtbD0iY29zdHMoXCdlYXN5XCcpIiAvPic7CiAgICB9LCAkbmV3X3RleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgYCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blog(</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>blog(</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1660,6 +1660,7 @@
         <entry>blog</entry>
         <entry>entity</entry>
         <entry>blog(</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
