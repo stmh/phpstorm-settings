@@ -49,7 +49,6 @@
         <mark key="^" line="38" column="76" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1479893710175" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" timestamp="1478797617165">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="127" column="0" />
@@ -1193,6 +1192,9 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="9" column="117" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1479932436190">
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/.eslintrc" timestamp="1479228635776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1648,11 +1650,10 @@
       <last-offset />
       <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>is-error</entry>
         <entry>video</entry>
         <entry>button</entry>
@@ -1675,8 +1676,6 @@
         <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
-        <entry>61</entry>
         <entry>56</entry>
         <entry>9</entry>
         <entry>6</entry>
