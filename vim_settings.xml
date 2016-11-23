@@ -1365,6 +1365,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/paragraph/paragraph--profile-instance.html.twig" timestamp="1479894527155">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/layout/br-navigation.tpl.haml" timestamp="1472740187219">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="28" />
@@ -1475,8 +1480,8 @@
       <jump line="225" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1584,7 +1589,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>blog(</text>
