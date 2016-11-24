@@ -525,6 +525,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/fabfile.yaml" timestamp="1480009898626">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" timestamp="1478530760302">
         <mark key="'" line="45" column="28" />
         <mark key="[" line="43" column="40" />
@@ -1205,9 +1211,6 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1479932436190">
-        <mark key="[" line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/.eslintrc" timestamp="1479228635776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1509,7 +1512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paragraph</text>
+        <text encoding="base64">IElGIE5PVCBFWElTVFM=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1617,7 +1620,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paragraph</text>
+        <text encoding="base64">IElGIE5PVCBFWElTVFM=</text>
       </register>
       <register name="/" type="4">
         <text>page(</text>
