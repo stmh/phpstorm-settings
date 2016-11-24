@@ -91,11 +91,6 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1479996250517">
-        <mark key="[" line="523" column="0" />
-        <mark key="]" line="523" column="0" />
-        <mark key="." line="523" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image_text_block.html.twig" timestamp="1476897213886">
         <mark key="[" line="39" column="33" />
         <mark key="]" line="39" column="43" />
@@ -579,11 +574,11 @@
         <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/services.yml" timestamp="1479995592781">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/services.yml" timestamp="1479997795237">
         <mark key="[" line="127" column="44" />
-        <mark key="]" line="127" column="47" />
-        <mark key="." line="127" column="47" />
-        <mark key="^" line="127" column="47" />
+        <mark key="]" line="127" column="48" />
+        <mark key="." line="127" column="48" />
+        <mark key="^" line="127" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/views/views-view--blog.html.twig" timestamp="1479724886247">
         <mark key="[" line="49" column="0" />
@@ -735,12 +730,8 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1479995889984">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="254" column="1" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1479997325994">
+        <mark key="'" line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/EventSubscriber/RedirectToUserEditEventSubscriber.php" timestamp="1470663639818">
         <mark key="[" line="25" column="0" />
@@ -1511,8 +1502,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRwYWdlWycjY2FjaGUnXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1620,7 +1611,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>page(</text>
