@@ -1067,6 +1067,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" timestamp="1479983172281">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/source/styles/base/base.css" timestamp="1479649145613">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="96" column="4" />
@@ -1392,8 +1397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1580" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
-      <jump line="621" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1508" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="622" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="924" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
@@ -1492,10 +1495,12 @@
       <jump line="215" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
       <jump line="216" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
       <jump line="225" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/midori.theme" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
+      <jump line="78" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://kompass.dz-4.org/postPR67118445l16ws.php'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAkbGVuZ3RoID0gc3RybGVuKCRuZWVkbGUpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1606,51 +1611,51 @@
         <text>http://kompass.dz-4.org/postPR67118445l16ws.php'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>needle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRuZXdfdGV4dCA9IHByZWdfcmVwbGFjZV9jYWxsYmFjaygiL1x7XCJDT1NUU19FQVNZXH0vIiwgZnVuY3Rpb24gKCRtYXRjaCkgewogICAgICByZXR1cm4gJzxzcGFuIHYtaHRtbD0iY29zdHMoXCdlYXN5XCcpIiAvPic7CiAgICB9LCAkbmV3X3RleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgYCwK</text>
+        <text encoding="base64">ICAkbGVuZ3RoID0gc3RybGVuKCRuZWVkbGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgYCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoJGltYWdlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF0aCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>needle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>needle</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1674,6 +1679,7 @@
         <entry>entity</entry>
         <entry>blog(</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>needle</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
