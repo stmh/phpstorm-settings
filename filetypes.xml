@@ -8,6 +8,7 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="kgslkhgfsa" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
