@@ -1162,15 +1162,19 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480092990196">
-        <mark key="a" line="348" column="47" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480095653883">
         <mark key="'" line="272" column="26" />
-        <mark key="[" line="348" column="55" />
-        <mark key="]" line="348" column="72" />
-        <mark key="." line="348" column="72" />
-        <mark key="^" line="348" column="72" />
+        <mark key="[" line="360" column="41" />
+        <mark key="]" line="360" column="44" />
+        <mark key="^" line="360" column="44" />
+        <mark key="." line="360" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480083246080" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480095024305">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/.eslintrc" timestamp="1479228635776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1472,7 +1476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>all</text>
+        <text>add</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1580,7 +1584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1595,28 +1599,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGFjLT5hcGkoJ2xpc3QvbGlzdCcsIGFycmF5KCdpZHMnID0+ICdhbGwnKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEZBTFNFOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkY29udGFjdF9zeW5jKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkY29udGFjdCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUUlVFOwo=</text>
+        <text encoding="base64">QXJyYXkgKCBbZmllbGRbJUdFTkRFUiUsMF1dID0+IEZyYXUgW2ZpcnN0X25hbWVdID0+IGxqayBbbGFzdF9uYW1lXSA9PiBmZmYgW2VtYWlsXSA9PiBzdGVwaGFuQGZhY3RvcmlhbC5pbyBbZW1haWxfYWx0XSA9PiBzdGVwaGFuQGZhY3RvcmlhbC5pbyBbZm9ybV0gPT4gMTEwNyBbcFs3XV0gPT4gNyBbc3RhdHVzWzddXSA9PiAxICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">QXJyYXkgKCBbZmllbGRbJUdFTkRFUiUsMF1dID0+IEZyYXUgW2ZpcnN0X25hbWVdID0+IGZmZiBbbGFzdF9uYW1lXSA9PiBmZmYgW2VtYWlsXSA9PiBzdGVwaGFuLmh1YmVyQG1lLmNvbSBbZW1haWxfYWx0XSA9PiBzdGVwaGFuLmh1YmVyQG1lLmNvbSBbZm9ybV0gPT4gMTEwNyBbcFs3XV0gPT4gNyBbc3RhdHVzWzddXSA9PiAxICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGNvbnRhY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkY29udGFjdF9zeW5jKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7ZGQlICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRyZW5kZXJbJ21lc3NhZ2UnXVtdID0gJ0tvbm50ZSBCZXN0w6R0aWd1bmdzbWFpbCBuaWNodCB2ZXJzZW5kZW4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1683,6 +1687,7 @@
         <entry>tabNext</entry>
         <entry>347</entry>
         <entry>361</entry>
+        <entry>386</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
