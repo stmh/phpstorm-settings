@@ -416,6 +416,12 @@
         <mark key="^" line="1004" column="19" />
         <mark key="." line="1004" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.dist.php" timestamp="1480063540133">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/dprxs_york.theme" timestamp="1470674255138">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="30" column="3" />
@@ -603,6 +609,11 @@
         <mark key="^" line="34" column="34" />
         <mark key="." line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/composer.json" timestamp="1480061232086">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-scrollindicator/components-scrollindicator.js" timestamp="1478857967876">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -718,6 +729,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/README.md" timestamp="1480061460230">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/hero/hero.twig" timestamp="1479223897459">
         <mark key="[" line="34" column="35" />
@@ -847,6 +863,12 @@
         <mark key="^" line="714" column="0" />
         <mark key="." line="714" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" timestamp="1480063597877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-table.tpl.haml" timestamp="1472651225591">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -864,12 +886,6 @@
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/pattern-lab/source/_patterns/02-organisms/blog-teaser-list/blog-teaser-list.twig" timestamp="1479728494547">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/source/components/molecules/navigation/navigation.js" timestamp="1474474075970">
         <mark key="[" line="75" column="0" />
@@ -983,6 +999,7 @@
         <mark key="." line="97" column="9" />
         <mark key="^" line="97" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/.pre-commit-config.yaml" timestamp="1480062436088" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/development.services.yml" timestamp="1476905704168">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="14" />
@@ -1211,6 +1228,18 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="9" column="117" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480062111777">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480063695577">
+        <mark key="[" line="295" column="12" />
+        <mark key="]" line="286" column="48" />
+        <mark key="." line="286" column="48" />
+        <mark key="^" line="286" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/.eslintrc" timestamp="1479228635776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1409,7 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="924" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1067" column="68" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1281" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
@@ -1509,10 +1537,11 @@
       <jump line="276" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
       <jump line="715" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IElGIE5PVCBFWElTVFM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGh0bWw+CiAgPGhlYWQ+CiAgICA8dGl0bGU+PC90aXRsZT4KICA8L2hlYWQ+CiAgPGJvZHk+CiAgICB7JSBibG9jayBjb250ZW50ICV9CiAgICB7JSBsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1620,7 +1649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IElGIE5PVCBFWElTVFM=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>page(</text>
@@ -1629,34 +1658,35 @@
         <text encoding="base64">ICAgICRuZXdfdGV4dCA9IHByZWdfcmVwbGFjZV9jYWxsYmFjaygiL1x7XCJDT1NUU19FQVNZXH0vIiwgZnVuY3Rpb24gKCRtYXRjaCkgewogICAgICByZXR1cm4gJzxzcGFuIHYtaHRtbD0iY29zdHMoXCdlYXN5XCcpIiAvPic7CiAgICB9LCAkbmV3X3RleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRwYWdlWycjY2FjaGUnXSk7Cg==</text>
+        <text encoding="base64">PGh0bWw+CiAgPGhlYWQ+CiAgICA8dGl0bGU+PC90aXRsZT4KICA8L2hlYWQ+CiAgPGJvZHk+CiAgICB7JSBibG9jayBjb250ZW50ICV9CiAgICB7JSBsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHBhZ2UpKTsK</text>
+      <register name="2" type="4">
+        <text>username',
+  '</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gcmVxdWVzdCBmYWlsZWQKICAgICAgZWNobyAiPHA+U3luY2luZyBjb250YWN0IGZhaWxlZC4gRXJyb3IgcmV0dXJuZWQ6ICIgLiAkY29udGFjdF9zeW5jLT5lcnJvciAuICI8L3A+IjsKICAgICAgZXhpdCgpOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWNobyAiPHA+QWNjZXNzIGRlbmllZDogSW52YWxpZCBjcmVkZW50aWFscyAoVVJMIGFuZC9vciBBUEkga2V5KS48L3A+IjsKICAgICAgZXhpdCgpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRwYWdlWycjY2FjaGUnXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkbGVuZ3RoID0gc3RybGVuKCRuZWVkbGUpOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHBhZ2UpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgYCwK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
+        <text encoding="base64">ICBwcmludF8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1664,15 +1694,13 @@
     </registers>
     <search>
       <last-search>page(</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>page(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is-error</entry>
-        <entry>video</entry>
         <entry>button</entry>
         <entry>Button</entry>
         <entry>checkRed</entry>
@@ -1700,7 +1728,6 @@
         <entry>6</entry>
         <entry>34</entry>
         <entry>18</entry>
-        <entry>1</entry>
         <entry>78</entry>
         <entry>79</entry>
         <entry>:w</entry>
@@ -1714,6 +1741,8 @@
         <entry>179</entry>
         <entry>21</entry>
         <entry>11</entry>
+        <entry>W</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
