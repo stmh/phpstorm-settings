@@ -840,7 +840,7 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" timestamp="1480004155103">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" timestamp="1480073520706">
         <mark key="'" line="715" column="1" />
         <mark key="[" line="715" column="0" />
         <mark key="]" line="714" column="0" />
@@ -888,6 +888,11 @@
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_raw_html/dzvier_raw_html.module" timestamp="1480074034879">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_shop_integration/occhio_shop_integration.module" timestamp="1473081804660">
         <mark key="[" line="83" column="66" />
@@ -1511,8 +1516,8 @@
       <jump line="715" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IElGIE5PVCBFWElTVFM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1629,34 +1634,34 @@
         <text encoding="base64">ICAgICRuZXdfdGV4dCA9IHByZWdfcmVwbGFjZV9jYWxsYmFjaygiL1x7XCJDT1NUU19FQVNZXH0vIiwgZnVuY3Rpb24gKCRtYXRjaCkgewogICAgICByZXR1cm4gJzxzcGFuIHYtaHRtbD0iY29zdHMoXCdlYXN5XCcpIiAvPic7CiAgICB9LCAkbmV3X3RleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRwYWdlWycjY2FjaGUnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHBhZ2UpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICogSW1wbGVtZW50cyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF8K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkbGVuZ3RoID0gc3RybGVuKCRuZWVkbGUpOwo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb21wb25lbnRcVXRpbGl0eVxTdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgYCwK</text>
+        <text encoding="base64">ICBwcmludF9yKCRwYWdlWycjY2FjaGUnXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3sgbGFiZWwgfX0K</text>
+        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHBhZ2UpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1667,12 +1672,10 @@
       <last-offset />
       <last-pattern>page(</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is-error</entry>
-        <entry>video</entry>
         <entry>button</entry>
         <entry>Button</entry>
         <entry>checkRed</entry>
@@ -1710,10 +1713,11 @@
         <entry>171</entry>
         <entry>:180</entry>
         <entry>180</entry>
-        <entry>wq</entry>
         <entry>179</entry>
         <entry>21</entry>
         <entry>11</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
