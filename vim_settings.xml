@@ -37,8 +37,12 @@
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480166918542">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480168863865">
         <mark key="'" line="232" column="0" />
+        <mark key="[" line="730" column="21" />
+        <mark key="]" line="730" column="25" />
+        <mark key="^" line="730" column="25" />
+        <mark key="." line="730" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/paragraph/paragraph--accordeon.html.twig" timestamp="1476785803892">
         <mark key="[" line="4" column="42" />
@@ -236,11 +240,11 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/application/views/pages/calendar_view.php" timestamp="1480164242825">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/application/views/pages/calendar_view.php" timestamp="1480168768921">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/modules/custom/br_responsive_image_styles/br_responsive_image_styles.module" timestamp="1472815325931">
         <mark key="[" line="35" column="22" />
@@ -1522,8 +1526,8 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/lib/snowfall.min.jquery.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmYwMDAwJywK</text>
+      <register name="&quot;" type="4">
+        <text>50% 50%</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1631,7 +1635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b1b5be</text>
+        <text>50% 50%</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
