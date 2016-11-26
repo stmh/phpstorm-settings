@@ -37,12 +37,8 @@
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480166481335">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480166918542">
         <mark key="'" line="232" column="0" />
-        <mark key="[" line="724" column="30" />
-        <mark key="]" line="725" column="27" />
-        <mark key="." line="725" column="27" />
-        <mark key="^" line="725" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/paragraph/paragraph--accordeon.html.twig" timestamp="1476785803892">
         <mark key="[" line="4" column="42" />
@@ -898,7 +894,6 @@
         <mark key="." line="34" column="36" />
         <mark key="^" line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/application/controllers/calendar.php" timestamp="1480163704241" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/vendor/drupal/drupal-extension/src/Drupal/DrupalExtension/Context/RawDrupalContext.php" timestamp="1471626844132">
         <mark key="[" line="241" column="3" />
         <mark key="]" line="227" column="5" />
@@ -1076,7 +1071,6 @@
         <mark key="^" line="96" column="4" />
         <mark key="." line="96" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/generate_db.sh" timestamp="1480163635032" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/accordeon_item.twig" timestamp="1476786047785">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
@@ -1418,11 +1412,11 @@
         <mark key="^" line="249" column="90" />
         <mark key="." line="249" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/snowfall.js" timestamp="1480166425433">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="42" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="15" column="42" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/snowfall.js" timestamp="1480167217586">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -1528,8 +1522,8 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/lib/snowfall.min.jquery.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>btn_close</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmYwMDAwJywK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1637,7 +1631,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>btn_close</text>
+        <text>b1b5be</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
@@ -1646,34 +1640,34 @@
         <text encoding="base64">ICAgICRuZXdfdGV4dCA9IHByZWdfcmVwbGFjZV9jYWxsYmFjaygiL1x7XCJDT1NUU19FQVNZXH0vIiwgZnVuY3Rpb24gKCRtYXRjaCkgewogICAgICByZXR1cm4gJzxzcGFuIHYtaHRtbD0iY29zdHMoXCdlYXN5XCcpIiAvPic7CiAgICB9LCAkbmV3X3RleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCX07Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmYwMDAwJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQlkOiBwLmQK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQlyOiBwLnIsCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCX07Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHVybCguLi9pbWFnZXMvc25vd2ZsYWtlLnBuZykgbm8tcmVwZWF0IGNlbnRlciBjZW50ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQlkOiBwLmQK</text>
+        <text encoding="base64">CQkJCQkJCX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQlyOiBwLnIsCg==</text>
+        <text encoding="base64">CQkJCQkJCQlkOiBwLmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJfTsK</text>
+        <text encoding="base64">CQkJCQkJCQlyOiBwLnIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWQ6IHAuZAo=</text>
+        <text encoding="base64">CQkJCQkJCX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCXI6IHAuciwK</text>
+        <text encoding="base64">CQkJCQkJCQlkOiBwLmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1684,13 +1678,10 @@
       <last-offset />
       <last-pattern>canvas</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Button</entry>
-        <entry>checkRed</entry>
-        <entry>timezone</entry>
         <entry>image</entry>
         <entry>image_tes</entry>
         <entry>image_text</entry>
@@ -1713,9 +1704,6 @@
         <entry>canvas</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
-        <entry>171</entry>
-        <entry>:180</entry>
         <entry>180</entry>
         <entry>179</entry>
         <entry>21</entry>
