@@ -3,18 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_lost.txt.twig" timestamp="1480343695296">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="97" />
+        <mark key="^" line="9" column="97" />
+        <mark key="." line="9" column="97" />
+      </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480347466109">
+        <mark key="[" line="268" column="25" />
+        <mark key="]" line="268" column="33" />
+        <mark key="^" line="268" column="33" />
+        <mark key="." line="268" column="33" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480343916960">
         <mark key="'" line="113" column="17" />
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
         <mark key="^" line="210" column="14" />
         <mark key="." line="216" column="0" />
-      </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_lost.txt.twig" timestamp="1480343695296">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="97" />
-        <mark key="^" line="9" column="97" />
-        <mark key="." line="9" column="97" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/fabfile.yaml" timestamp="1480334655490">
         <mark key="[" line="50" column="13" />
@@ -41,16 +52,8 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480347466109">
-        <mark key="[" line="268" column="25" />
-        <mark key="]" line="268" column="33" />
-        <mark key="^" line="268" column="33" />
-        <mark key="." line="268" column="33" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480353385059">
+        <mark key="'" line="10" column="19" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/you_lost.html.twig" timestamp="1480343145466">
         <mark key="[" line="5" column="10" />
@@ -66,6 +69,10 @@
       <jump line="252" column="24" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="328" column="16" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="113" column="17" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
+      <jump line="281" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="29" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="80" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="10" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -75,7 +82,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxbXD4=</text>
+        <text>validator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
@@ -112,11 +119,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxbXD4=</last-search>
+      <last-search>validator</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxbXD4=</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>validator</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -124,6 +131,7 @@
         <entry>email_again</entry>
         <entry>thanks</entry>
         <entry encoding="base64">XDxbXD4=</entry>
+        <entry>validator</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
