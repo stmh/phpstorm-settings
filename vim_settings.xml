@@ -4,12 +4,31 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/application/views/includes/footer_view.php" timestamp="1480329792904" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480334828080">
+        <mark key="[" line="148" column="9" />
+        <mark key="]" line="148" column="10" />
+        <mark key="^" line="148" column="29" />
+        <mark key="." line="148" column="10" />
+      </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/fabfile.yaml" timestamp="1480334655490">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480330106660">
         <mark key="[" line="742" column="4" />
         <mark key="]" line="742" column="11" />
         <mark key="^" line="742" column="11" />
         <mark key="." line="742" column="11" />
         <mark key="o" line="757" column="4" />
+      </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/config.dist.php" timestamp="1480334093767">
+        <mark key="i" line="13" column="43" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480329872483">
         <mark key="'" line="247" column="50" />
@@ -33,40 +52,47 @@
       <jump line="247" column="50" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogc2NhbGUoMC41LCAwLjUpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybS1vcmdpbjogMTYwMHB4IDE2MTBweDsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogc2NhbGUoMC41LCAwLjUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDAuNSwgMC41KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>function resizeLayer2016() {
-        
-    }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpemVMYXllcjIwMTYoKTsgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbGF5ZXJfYmdfMjAxNi5jc3MoCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>calendar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>initView</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnTGFiZWwnID0+ICdWb3JuYW1lOicsCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLT5hZGQoJ3N0cmFzc2UnLCBUZXh0VHlwZTo6Y2xhc3MsIGFycmF5KAogICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICBuZXcgQXNzZXJ0XE5vdEJsYW5rKCksCiAgICAgICAgICBuZXcgQXNzZXJ0XExlbmd0aChhcnJheSgnbWluJyA9PiAzLCAnbWF4JyA9PiAxMjApKSwKICAgICAgICApLAogICAgICApKQogICAgICAtPmFkZCgnaGF1c251bW1lcicsIFRleHRUeXBlOjpjbGFzcywgYXJyYXkoCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcTm90QmxhbmsoKSwKICAgICAgICAgIG5ldyBBc3NlcnRcTGVuZ3RoKGFycmF5KCdtaW4nID0+IDEsICdtYXgnID0+IDQ1KSksCiAgICAgICAgKSwKICAgICAgKSkKICAgICAgLT5hZGQoJ3BseicsIFRleHRUeXBlOjpjbGFzcywgYXJyYXkoCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcTm90QmxhbmsoKSwKICAgICAgICAgIG5ldyBBc3NlcnRcTGVuZ3RoKGFycmF5KCdtaW4nID0+IDMsICdtYXgnID0+IDIwKSksCiAgICAgICAgKSwKICAgICAgKSkKICAgICAgLT5hZGQoJ29ydCcsIFRleHRUeXBlOjpjbGFzcywgYXJyYXkoCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcTm90QmxhbmsoKSwKICAgICAgICAgIG5ldyBBc3NlcnRcTGVuZ3RoKGFycmF5KCdtaW4nID0+IDMsICdtYXgnID0+IDEyMCkpLAogICAgICAgICksCiAgICAgICkpCiAgICAgIC0+YWRkKCdsYW5kJywgVGV4dFR5cGU6OmNsYXNzLCBhcnJheSgKICAgICAgICAnZGlzYWJsZWQnID0+IFRSVUUsCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcTm90QmxhbmsoKSwKICAgICAgICAgIG5ldyBBc3NlcnRcTGVuZ3RoKGFycmF5KCdtaW4nID0+IDMsICdtYXgnID0+IDQ1KSksCiAgICAgICAgKSwKICAgICAgKSkKICAgICAgLT5hZGQoJ3RlZWFydCcsIENob2ljZVR5cGU6OmNsYXNzLCBhcnJheSgKICAgICAgICAnbGFiZWwnID0+ICdJY2ggdHJpbmtlIGhhdXB0c8OkY2hsaWNoJywKICAgICAgICAnY2hvaWNlcycgPT4gYXJyYXkoCiAgICAgICAgICAnU2Nod2FyemVyIFRlZScgPT4gJ1NjaHdhcnplciBUZWUnLAogICAgICAgICAgJ0dyw7xuZXIgVGVlJyA9PiAnR3LDvG5lciBUZWUnLAogICAgICAgICAgJ1dlacOfZXIgVGVlJyA9PiAnV2Vpw59lciBUZWUnLAogICAgICAgICAgJ0tyw6R1dGVydGVlJyA9PiAnS3LDpHV0ZXJ0ZWUnLAogICAgICAgICAgJ0Zyw7xjaHRldGVlJyA9PiAnRnLDvGNodGV0ZWUnLAogICAgICAgICAgJ1JvaWJvc3RlZScgPT4gJ1JvaWJvc3RlZScsCiAgICAgICAgKSwKICAgICAgICAnZXhwYW5kZWQnID0+IFRSVUUsCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcTm90QmxhbmsoKSwKICAgICAgICApLAogICAgICApKQogICAgICAtPmFkZCgnYWxsZXJnaWUnLCBDaG9pY2VUeXBlOjpjbGFzcywgYXJyYXkoCiAgICAgICAgJ2xhYmVsJyA9PiAnSWNoIGhhYmUgZWluZSBMZWJlbnNtaXR0ZWxhbGxlcmdpZS4uLionLAogICAgICAgICdjaG9pY2VzJyA9PiBhcnJheSgKICAgICAgICAgICdKYScgPT4gMSwKICAgICAgICAgICdOZWluJyA9PiAwLAogICAgICAgICksCiAgICAgICAgJ2V4cGFuZGVkJyA9PiBUUlVFLAogICAgICAgICdyZXF1aXJlZCcgPT4gVFJVRSwKICAgICAgKSkKICAgICAgLT5hZGQoJ2Jlc2NocmVpYnVuZycsIFRleHRhcmVhVHlwZTo6Y2xhc3MsIGFycmF5KAogICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICBuZXcgQXNzZXJ0XE5vdEJsYW5rKCksCiAgICAgICAgKSwKICAgICAgKSkKICAgICAgLT5hZGQoJ2Jsb2d1cmwnLCBVcmxUeXBlOjpjbGFzcywgYXJyYXkoCiAgICAgICAgJ2NvbnN0cmFpbnRzJyA9PiBhcnJheSgKICAgICAgICAgIG5ldyBBc3NlcnRcVXJsKCksCiAgICAgICAgKSwKICAgICAgKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLT5hZGQoJ2dlYnVydHN0YWcnLCBEYXRlVHlwZTo6Y2xhc3MsIGFycmF5KAogICAgICAgICd3aWRnZXQnID0+ICdzaW5nbGVfdGV4dCcsCiAgICAgICAgJ2Zvcm1hdCcgPT4gJ2RkLk1NLnl5eXknLAogICAgICAgICdjb25zdHJhaW50cycgPT4gYXJyYXkoCiAgICAgICAgICBuZXcgQXNzZXJ0XE5vdEJsYW5rKCksCiAgICAgICAgICBuZXcgQXNzZXJ0XERhdGUoKSwKICAgICAgICAgIG5ldyBBc3NlcnRcTGVzc1RoYW5PckVxdWFsKGFycmF5KAogICAgICAgICAgICAndmFsdWUnID0+ICctMTh5ZWFycycsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnU2llIG3DvHNzZW4gbWluZGVzdGVucyAxOCBKYWhyZSBhbHQgc2Vpbi4nLAogICAgICAgICAgKSksCiAgICAgICAgKSwKICAgICAgKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ2Jsb2d1cmwnID0+ICcnLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJ2Jlc2NocmVpYnVuZycgPT4gJycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJ2FsbGVyZ2llJyA9PiBGQUxTRSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJ3RlZWFydCcgPT4gJycsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJ2xhbmQnID0+ICdEZXV0c2NobGFuZCcsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJ29ydCcgPT4gJycsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -84,6 +110,7 @@
         <entry>tabNext</entry>
         <entry>:w</entry>
         <entry>248</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
