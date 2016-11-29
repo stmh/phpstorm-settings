@@ -25,12 +25,12 @@
       <file name="/a.dummy" timestamp="1480356133977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480431758019">
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480433771722">
         <mark key="'" line="322" column="0" />
-        <mark key="[" line="349" column="14" />
-        <mark key="]" line="349" column="28" />
-        <mark key="." line="349" column="28" />
-        <mark key="^" line="349" column="28" />
+        <mark key="[" line="746" column="67" />
+        <mark key="]" line="747" column="30" />
+        <mark key="." line="747" column="30" />
+        <mark key="^" line="747" column="30" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/config.php" timestamp="1480343805496">
         <mark key="[" line="16" column="8" />
@@ -50,12 +50,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480432234520">
-        <mark key="'" line="218" column="13" />
-        <mark key="[" line="285" column="34" />
-        <mark key="]" line="285" column="32" />
-        <mark key="." line="285" column="32" />
-        <mark key="^" line="285" column="32" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480434101295">
+        <mark key="'" line="314" column="12" />
+        <mark key="[" line="283" column="19" />
+        <mark key="]" line="283" column="20" />
+        <mark key="." line="283" column="20" />
+        <mark key="^" line="283" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480357355362">
         <mark key="'" line="10" column="19" />
@@ -76,7 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="30" column="4" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="247" column="50" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="252" column="24" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
@@ -90,16 +89,19 @@
       <jump line="23" column="19" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="215" column="8" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="218" column="13" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
+      <jump line="0" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
+      <jump line="309" column="12" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
+      <jump line="314" column="12" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>checkScale</text>
+        <text>$bg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
@@ -161,9 +163,9 @@
       </register>
     </registers>
     <search>
-      <last-search>checkScale</last-search>
+      <last-search>$bg</last-search>
       <last-offset />
-      <last-pattern>checkScale</last-pattern>
+      <last-pattern>$bg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -176,6 +178,7 @@
         <entry>validator</entry>
         <entry>overlay-bg</entry>
         <entry>checkScale</entry>
+        <entry>$bg</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -188,6 +191,8 @@
         <entry>216</entry>
         <entry>tabNext</entry>
         <entry>275</entry>
+        <entry>1</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
