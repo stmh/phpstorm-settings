@@ -25,12 +25,11 @@
       <file name="/a.dummy" timestamp="1480356133977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480440314517">
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480445100487">
         <mark key="'" line="322" column="0" />
-        <mark key="[" line="744" column="13" />
-        <mark key="]" line="747" column="30" />
-        <mark key="." line="747" column="30" />
-        <mark key="^" line="747" column="30" />
+        <mark key="[" line="753" column="0" />
+        <mark key="]" line="753" column="0" />
+        <mark key="." line="753" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/config.php" timestamp="1480343805496">
         <mark key="[" line="16" column="8" />
@@ -50,12 +49,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480440350397">
-        <mark key="'" line="281" column="30" />
-        <mark key="[" line="249" column="87" />
-        <mark key="]" line="249" column="90" />
-        <mark key="." line="249" column="90" />
-        <mark key="^" line="249" column="90" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480445464970">
+        <mark key="'" line="280" column="30" />
+        <mark key="[" line="281" column="20" />
+        <mark key="]" line="281" column="19" />
+        <mark key="." line="281" column="19" />
+        <mark key="^" line="281" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480357355362">
         <mark key="'" line="10" column="19" />
@@ -95,11 +94,11 @@
       <jump line="281" column="30" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3BhY2l0eTogWyAwLCAnZWFzZU91dEV4cG8nXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3200</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>3200</text>
@@ -108,56 +107,33 @@
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBbmltYXRlIHZpYSBDU1MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BhY2l0eTogWyAwLCAnZWFzZU91dEV4cG8nXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbGF5ZXJfYmdfMjAxNi50cmFuc2l0aW9uZGQoKQo=</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDE7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>#background-2016 .bg.is-animating {
-    -moz-animation: zoom-in 4s linear;
-    -webkit-animation: zoom-in 4s linear;
-    animation: zoom-in 4s linear;
-
-    -moz-animation-fill-mode: forwards;
-    -webkit-animation-fill-mode: forwards;
-    animation-fill-mode: forwards;
-
-    -webkit-animation-delay: 1s;
-    animation-delay: 1s;
-
-}
-
-@keyframes zoom-in {
-    80% {
-        opacity: 1;
-        transform: scale(26,26) translate(-102px, -486px);
-    }
-    95% {
-    }
-    100% {
-        transform: scale(26,26) translate(-102px, -486px);
-        opacity: 0.0;
-    }
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IG9wYWNpdHksIDJzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNpdGlvbjogb3BhY2l0eSwgMnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDEwMCUgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDAlIHsKICAgICAgICAtbW96LWFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7CiAgICAgICAgLXdlYmtpdC1hbmltYXRpb24tdGltaW5nLWZ1bmN0aW9uOiBlYXNlOwogICAgICAgIGFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7CiAgICB9CiAgICAyMCUgewogICAgICAgIC1tb3otYW5pbWF0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZTsKICAgICAgICAtd2Via2l0LWFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7CiAgICAgICAgYW5pbWF0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZTsKICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEuNywxLjcpIHRyYW5zbGF0ZSgtMjQwcHgsIC01MTBweCk7CiAgICB9CiAgICA2MCUgewogICAgICAgIC1tb3otYW5pbWF0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZTsKICAgICAgICAtd2Via2l0LWFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7CiAgICAgICAgYW5pbWF0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZTsKICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEuNywxLjcpIHRyYW5zbGF0ZSgtMjQwcHgsIC01MTBweCk7OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYXRpb24tdGltaW5nLWZ1bmN0aW9uOiBlYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtd2Via2l0LWFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7Cg==</text>
+        <text encoding="base64">eHgK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtbW96LWFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2U7Cg==</text>
+      <register name="9" type="4">
+        <text>#background-2016 .bg.is-fading {
+    opacity: 0;
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -191,10 +167,10 @@
         <entry>w:w</entry>
         <entry>210</entry>
         <entry>216</entry>
-        <entry>tabNext</entry>
         <entry>275</entry>
         <entry>1</entry>
         <entry>W</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
