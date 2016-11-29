@@ -25,9 +25,9 @@
       <file name="/a.dummy" timestamp="1480356133977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480433771722">
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480440314517">
         <mark key="'" line="322" column="0" />
-        <mark key="[" line="746" column="67" />
+        <mark key="[" line="744" column="13" />
         <mark key="]" line="747" column="30" />
         <mark key="." line="747" column="30" />
         <mark key="^" line="747" column="30" />
@@ -50,12 +50,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480434101295">
-        <mark key="'" line="314" column="12" />
-        <mark key="[" line="283" column="19" />
-        <mark key="]" line="283" column="20" />
-        <mark key="." line="283" column="20" />
-        <mark key="^" line="283" column="19" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" timestamp="1480440350397">
+        <mark key="'" line="281" column="30" />
+        <mark key="[" line="249" column="87" />
+        <mark key="]" line="249" column="90" />
+        <mark key="." line="249" column="90" />
+        <mark key="^" line="249" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480357355362">
         <mark key="'" line="10" column="19" />
@@ -92,16 +92,17 @@
       <jump line="0" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="309" column="12" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="314" column="12" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
+      <jump line="281" column="30" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>500</text>
+        <text>3200</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>3200</text>
       </register>
       <register name="/" type="4">
-        <text>$bg</text>
+        <text>3200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
@@ -163,9 +164,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$bg</last-search>
+      <last-search>3200</last-search>
       <last-offset />
-      <last-pattern>$bg</last-pattern>
+      <last-pattern>3200</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -179,6 +180,7 @@
         <entry>overlay-bg</entry>
         <entry>checkScale</entry>
         <entry>$bg</entry>
+        <entry>3200</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
