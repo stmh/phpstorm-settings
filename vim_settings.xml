@@ -12,6 +12,12 @@
         <mark key="^" line="9" column="97" />
         <mark key="." line="9" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.dist.php" timestamp="1480524196658">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1480515879092">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,11 +70,17 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480357355362">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480524424549">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480524439663">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/you_lost.html.twig" timestamp="1480343145466">
         <mark key="[" line="5" column="10" />
@@ -98,11 +110,11 @@
       <jump line="324" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IjIwMTYtMTItMDEiLCAvLyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IjIwMTYtMTItMDEiLCAvLyA=</text>
+        <text>FALSE</text>
       </register>
       <register name="/" type="4">
         <text>3200</text>
@@ -111,31 +123,31 @@
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2lkJyA9PiAkbGlzdF9pZCwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmFwcFsnc3dpZnRtYWlsZXIudHJhbnNwb3J0J10gPSBuZXcgXFN3aWZ0X1RyYW5zcG9ydF9NYWlsVHJhbnNwb3J0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKCR0aGlzLT5hcHBbJ21haWwudXNlX3BocCddKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgJ2lkJyA9PiAkbGlzdF9pZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3NlbmRfd2VsY29tZScgICAgICA9PiBUUlVFLAo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3JlcGxhY2VfaW50ZXJlc3RzJyA9PiBGQUxTRSwK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3VwZGF0ZV9leGlzdGluZycgICA9PiBUUlVFLAo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHBheWxvYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2RvdWJsZV9vcHRpbicgICAgICA9PiBGQUxTRSwK</text>
+        <text encoding="base64">ICAgICAgJ3NlbmRfd2VsY29tZScgICAgICA9PiBUUlVFLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgJ3JlcGxhY2VfaW50ZXJlc3RzJyA9PiBGQUxTRSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
