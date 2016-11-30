@@ -32,11 +32,11 @@
         <mark key="]" line="97" column="45" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480502687984">
-        <mark key="[" line="301" column="11" />
-        <mark key="]" line="301" column="21" />
-        <mark key="." line="301" column="21" />
-        <mark key="^" line="301" column="21" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480503574690">
+        <mark key="[" line="350" column="29" />
+        <mark key="]" line="350" column="33" />
+        <mark key="." line="350" column="33" />
+        <mark key="^" line="350" column="33" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/fabfile.yaml" timestamp="1480334655490">
         <mark key="[" line="50" column="13" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gewinncode</text>
+        <text>TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>gewinncode</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>3200</text>
