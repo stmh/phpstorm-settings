@@ -27,16 +27,22 @@
         <mark key="." line="281" column="19" />
         <mark key="^" line="281" column="19" />
       </file>
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/you_won.html.twig" timestamp="1480505433215">
+        <mark key="[" line="23" column="87" />
+        <mark key="]" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+        <mark key="^" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/index.js" timestamp="1480357025263">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="45" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480503574690">
-        <mark key="[" line="350" column="29" />
-        <mark key="]" line="350" column="33" />
-        <mark key="." line="350" column="33" />
-        <mark key="^" line="350" column="33" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480507705618">
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="^" line="342" column="25" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/fabfile.yaml" timestamp="1480334655490">
         <mark key="[" line="50" column="13" />
@@ -56,7 +62,7 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/config.dist.php" timestamp="1480502714289">
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/config.dist.php" timestamp="1480507488501">
         <mark key="i" line="13" column="43" />
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="17" />
@@ -97,11 +103,11 @@
       <jump line="324" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TRUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ2lkJyA9PiAkbGlzdF9pZCwK</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>unsubscribe</text>
       </register>
       <register name="/" type="4">
         <text>3200</text>
@@ -110,31 +116,31 @@
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRjb25uZWN0LT5iaW5kVmFsdWUoJ2NvZGUnLCAkZGF0YVsnY29kZSddKTsK</text>
+        <text encoding="base64">ICAgICAgJ2lkJyA9PiAkbGlzdF9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRhYyA9IG5ldyBBY3RpdmVDYW1wYWlnbigkdGhpcy0+YXBwWydsaXN0LmFwaV91cmwnXSwgJHRoaXMtPmFwcFsnbGlzdC5hcGlfa2V5J10pOwogICAgaWYgKCEoaW50KSRhYy0+Y3JlZGVudGlhbHNfdGVzdCgpKSB7CiAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJ0ludmFsaWQgTGlzdCBjcmVkZW50aWFscycpOwogICAgfQoKICAgICRsaXN0X2lkID0gJHRoaXMtPmFwcFsnbGlzdC5pZCddOwogICAgJGNvbnRhY3QgPSBhcnJheSgKICAgICAgImVtYWlsIiAgICAgICAgICAgICAgPT4gJGRhdGFbJ2VtYWlsJ10sCiAgICAgICJlbWFpbF9hbHQiICAgICAgICAgID0+ICRkYXRhWydlbWFpbCddLAogICAgICAiZmllbGRbJUdFTkRFUiUsMF0iICA9PiAkZGF0YVsnYW5yZWRlJ10sCiAgICAgICJmaXJzdF9uYW1lIiAgICAgICAgID0+ICRkYXRhWyd2b3JuYW1lJ10sCiAgICAgICJsYXN0X25hbWUiICAgICAgICAgID0+ICRkYXRhWyduYWNobmFtZSddLAogICAgICAicFt7JGxpc3RfaWR9XSIgICAgICA9PiAkbGlzdF9pZCwKICAgICAgInN0YXR1c1t7JGxpc3RfaWR9XSIgPT4gMSwKICAgICAgImZvcm0iICAgICAgICAgICAgICAgPT4gJHRoaXMtPmFwcFsnbGlzdC5mb3JtX2lkJ10sCiAgICApOwoKICAgICRjb250YWN0X3N5bmMgPSAkYWMtPmFwaSgic3Vic2NyaWJlci9zeW5jIiwgJGNvbnRhY3QpOwogICAgaWYgKCEoaW50KSRjb250YWN0X3N5bmMtPnN1Y2Nlc3MpIHsKICAgICAgJG1lc3NhZ2VzW10gPSAnS29ubnRlIE1haWwgbmljaHQgaW0gTmV3c2xldHRlciBhbm1lbGRlbjogJy4gJGNvbnRhY3Rfc3luYy0+ZXJyb3I7CiAgICAgIHJldHVybiBGQUxTRTsKICAgIH0KCiAgICByZXR1cm4gVFJVRTsK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHBheWxvYWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgJ3NlbmRfd2VsY29tZScgICAgICA9PiBUUlVFLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgJ3JlcGxhY2VfaW50ZXJlc3RzJyA9PiBGQUxTRSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BhY2l0eTogWyAwLCAnZWFzZU91dEV4cG8nXQo=</text>
+        <text encoding="base64">ICAgICAgJ3VwZGF0ZV9leGlzdGluZycgICA9PiBUUlVFLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgJ2RvdWJsZV9vcHRpbicgICAgICA9PiBGQUxTRSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IG9wYWNpdHksIDJzOwo=</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
