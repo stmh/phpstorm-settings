@@ -60,6 +60,13 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="88" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1480685264752">
+        <mark key="'" line="143" column="17" />
+        <mark key="[" line="235" column="41" />
+        <mark key="]" line="235" column="42" />
+        <mark key="^" line="235" column="42" />
+        <mark key="." line="235" column="42" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/fabfile.yaml" timestamp="1480334655490">
         <mark key="[" line="50" column="13" />
         <mark key="]" line="50" column="13" />
@@ -127,6 +134,11 @@
       <jump line="281" column="30" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="324" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
+      <jump line="123" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
+      <jump line="136" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
+      <jump line="141" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
+      <jump line="143" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -136,7 +148,7 @@
         <text>Username</text>
       </register>
       <register name="/" type="4">
-        <text>sendmail</text>
+        <text>winning_code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
@@ -173,11 +185,11 @@
       </register>
     </registers>
     <search>
-      <last-search>sendmail</last-search>
+      <last-search>winning_code</last-search>
       <last-offset />
-      <last-pattern>sendmail</last-pattern>
+      <last-pattern>winning_code</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -191,6 +203,7 @@
         <entry>$bg</entry>
         <entry>3200</entry>
         <entry>sendmail</entry>
+        <entry>winning_code</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
