@@ -38,6 +38,11 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" timestamp="1480959223350">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/index.js" timestamp="1480357025263">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="45" />
@@ -60,7 +65,6 @@
         <mark key="." line="50" column="13" />
         <mark key="^" line="50" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/vendor/drupal/drupal-extension/src/Drupal/DrupalExtension/Context/RawDrupalContext.php" timestamp="1480529001419" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480445100487">
         <mark key="'" line="322" column="0" />
       </file>
@@ -77,11 +81,11 @@
         <mark key="^" line="20" column="81" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480526782982">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="0" />
-        <mark key="." line="399" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1480959169655">
+        <mark key="'" line="185" column="22" />
+        <mark key="[" line="316" column="8" />
+        <mark key="]" line="316" column="8" />
+        <mark key="." line="316" column="8" />
         <mark key="^" line="85" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480526097740">
@@ -122,55 +126,66 @@
       <jump line="281" column="30" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
       <jump line="324" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="82" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="83" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="86" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="87" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="88" column="139" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="132" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="181" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="182" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="185" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfCBVc2VybmFtZSAgICAgIHwK</text>
+      <register name="&quot;" type="4">
+        <text>[Vorname Nachname],</text>
       </register>
       <register name="-" type="4">
-        <text>Username</text>
+        <text>[Vorname Nachname],</text>
       </register>
       <register name="/" type="4">
-        <text>sendmail</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDI2LDI2KSB0cmFuc2xhdGUoLTEwMnB4LCAtNDg2cHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfCBVc2VybmFtZSAgICAgIHwK</text>
+        <text encoding="base64">IGV4dGVuZHMgImJhc2UuaHRtbC50d2lnIiAlfQoKeyUgYmxvY2sgY29udGVudCAlfQoKPGgxPkRhbmtlITwvaDE+Cgo8cD5WaWVsZW4gRGFuaywgZGFzcyBTaWUgc2ljaCBkaWUgWmVpdCBnZW5vbW1lbiBoYWJlbi4gV2lyIGZyZXVlbiB1bnMgYXVmIElocmUgQW50d29ydGVuIHVuZCB3w7xuc2NoZW4gSWhuZW4gdmllbCBHbMO8Y2sgZsO8ciBkaWUgV2FobCB6dW0gZXhrbHVzaXZlbiBNZcOfbWVyLVRlZXRlc3RlciEgU29sbHRlbiBTaWUgdW50ZXIgZGVuIGdsw7xja2xpY2hlbiBHZXdpbm5lcm4gc2Vpbiwgd2VyZGVuIFNpZSBpbSBKYW51YXIgdm9uIElocmVtIGdhbnogcGVyc8O2bmxpY2hlbiBUZWV0ZXN0ZXItUGFrZXQgw7xiZXJyYXNjaHQuPC9wPgoKPGRpdiBjbGFzcz0iR3JpZCBHcmlkLS13aXRoR3V0dGVyIj4KICA8ZGl2IGNsYXNzPSJHcmlkLWNlbGwgdS1tZC1zaXplMW9mMiI+CiAgICB7JSBpbmNsdWRlICJjb21wb25lbnRzL3RlYXNlci5odG1sLnR3aWciICV9CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTFvZjIiPgogICAgeyUgaW5jbHVkZSAiY29tcG9uZW50cy90ZWFzZXIuaHRtbC50d2lnIiAlfQogIDwvZGl2Pgo8L2Rpdj4KCnslIGVuZGJsb2NrICV9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZV9maWVsZDogIkUtbWFpbCIK</text>
+        <text encoding="base64">ICAgICAgfCBVc2VybmFtZSAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoIm9rIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZV9maWVsZDogIkUtbWFpbCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoIm9rIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAndHJhbnNwb3J0JyA9PiAnbWFpbCcsCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAndHJhbnNwb3J0JyA9PiAnbWFpbCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmFwcFsnc3dpZnRtYWlsZXIudHJhbnNwb3J0J10gPSBuZXcgXFN3aWZ0X1RyYW5zcG9ydF9NYWlsVHJhbnNwb3J0KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKCR0aGlzLT5hcHBbJ21haWwudXNlX3BocCddKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmFwcFsnc3dpZnRtYWlsZXIudHJhbnNwb3J0J10gPSBuZXcgXFN3aWZ0X1RyYW5zcG9ydF9NYWlsVHJhbnNwb3J0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2lkJyA9PiAkbGlzdF9pZCwK</text>
+        <text encoding="base64">ICAgIGlmKCR0aGlzLT5hcHBbJ21haWwudXNlX3BocCddKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sendmail</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>sendmail</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -186,6 +201,7 @@
         <entry>$bg</entry>
         <entry>3200</entry>
         <entry>sendmail</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
