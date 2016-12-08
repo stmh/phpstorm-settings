@@ -24,13 +24,37 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/components/teaser2.html.twig" timestamp="1481147016314">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1480528779207">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/test_iframe/index.html" timestamp="1481147962064">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/base/base.css" timestamp="1481146407159">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" timestamp="1481196690235">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
         <mark key="[" line="14" column="0" />
@@ -47,6 +71,11 @@
         <mark key="]" line="97" column="45" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/components/teaser.html.twig" timestamp="1481146984232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/application/controllers/calendar.php" timestamp="1480515899648">
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="22" />
@@ -56,8 +85,14 @@
         <mark key="'" line="359" column="21" />
         <mark key="[" line="234" column="23" />
         <mark key="]" line="234" column="23" />
-        <mark key="." line="234" column="23" />
         <mark key="^" line="234" column="23" />
+        <mark key="." line="234" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/components/components-teaser/components-teaser.css" timestamp="1481147327160">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480445100487">
         <mark key="'" line="322" column="0" />
@@ -129,11 +164,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>$user</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>csrf</text>
@@ -192,8 +227,7 @@
         <entry>3200</entry>
         <entry>sendmail</entry>
         <entry>mail</entry>
-        <entry>CRSF</entry>
-        <entry>csrf</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
