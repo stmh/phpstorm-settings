@@ -93,6 +93,12 @@
         <mark key="." line="15" column="54" />
         <mark key="^" line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1481207169844">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/test_iframe/index.html" timestamp="1481147962064">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
@@ -171,11 +177,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/module.js" timestamp="1481203314006">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/module.js" timestamp="1481206970585">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -213,11 +219,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>csrf</text>
@@ -226,35 +232,31 @@
         <text encoding="base64">ICAgICAgPGdyaWQtY2VsbCB3aWR0aD0iNiIgaGVpZ2h0PSI5Ij4KICAgICAgICA8d2lkZ2V0IGxhYmVsPSJIYW1idXJnIj4KICAgICAgICAgIDx0aW1lLWRpc3BsYXkgc2V0TWFzdGVyQmFja2dyb3VuZENvbG9yPSJ0cnVlIiB0aW1lem9uZT0iRXVyb3BlL0JlcmxpbiIgLz4KICAgICAgICA8L3dpZGdldD4KICAgICAgPC9ncmlkLWNlbGw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0bzogJzIwMTUtMDctMjVUMDA6MDA6MDAuMDAwWicsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tOiAnMjAxNS0wNy1kZDI0VDAwOjAwOjAwLjAwMFonLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQ29tcG9uZW50LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ290aGVyLWNvbXBvbmVudCc6T3RoZXJDb21wb25lbnQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50czp7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if (error) {
-        return callback([error, body]);
-      }
-
-      try {</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBIZWFkZXJDb21wb25lbnQgZnJvbSAnLi9jb21wb25lbnRzL2hlYWRlci52dWUnCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCBmdW5jdGlvbihlcnJvciwgcmVzcG9uc2UsIGJvZHkpIHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmV0dXJuIGNhbGxiYWNrKFtlcnJvciwgYm9keV0pOwogICAgICB9CgogICAgICB0cnkgewogICAgICAgIGNhbGxiYWNrKG51bGwsIEpTT04ucGFyc2UoYm9keSkpOwogICAgICB9CiAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBPdGhlckNvbXBvbmVudCBmcm9tICcuL2NvbXBvbmVudHMvb3RoZXIudnVlJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiByZXFVcmksCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBib2R5ewogICAgICAgIGJhY2tncm91bmQtY29sb3I6I2ZmMDAwMDsKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICBtZXRob2RzOiB7CiAgICAgIC4uLm1hcEFjdGlvbnMoWwogICAgICAgIHRlc3Q6IGdyYXlsb2cuYWN0aW9ucy5uZXdUZXN0CiAgICAgIF0pCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGhlYWRlci1jb21wb25lbnQvPgogICAgICAgIDxkaXY+dGhpcyBpcyB0ZW1wbGF0ZSBib2R5PC9kaXY+CiAgICAgICAgPG90aGVyLWNvbXBvbmVudC8+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IG1hcEFjdGlvbnMgfSBmcm9tICd2dWV4JzsK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0OiAndGltZXN0YW1wOmRlc2MnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
