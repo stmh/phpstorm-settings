@@ -30,11 +30,11 @@
       <file name="/a.dummy" timestamp="1481200565812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.babelrc" timestamp="1481208653087">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.babelrc" timestamp="1481221076139">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/base/base.css" timestamp="1481146407159">
         <mark key="[" line="12" column="1" />
@@ -46,6 +46,12 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="45" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/webpack.config.js" timestamp="1481220747437">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/frontend/lib/components/components-teaser/components-teaser.css" timestamp="1481147327160">
         <mark key="[" line="1" column="8" />
@@ -65,9 +71,10 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1481221302165" />
       <file name="$USER_HOME$/Desktop/test/package.json" timestamp="1481216415375" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1481216520481">
-        <mark key="[" line="26" column="38" />
+        <mark key="[" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/config.js" timestamp="1481203443119">
         <mark key="[" line="8" column="13" />
@@ -95,10 +102,11 @@
         <mark key="." line="15" column="54" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1481208245856">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1481221638790">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/test_iframe/index.html" timestamp="1481147962064">
         <mark key="[" line="8" column="39" />
@@ -171,11 +179,11 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/module.js" timestamp="1481207589372">
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="40" column="12" />
-        <mark key="." line="40" column="12" />
-        <mark key="^" line="40" column="12" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/module.js" timestamp="1481221773078">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -214,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>range</text>
+        <text>dispatch</text>
       </register>
       <register name="-" type="4">
-        <text>range</text>
+        <text>dispatch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -226,35 +234,35 @@
         <text encoding="base64">aW1wb3J0IEdyYXlsb2dUZXN0IGZyb20gJy4vY29tcG9uZW50cy9HcmF5bG9nVGVzdC52dWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>histogram () {
       
       }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgIH0sIDUwMDApOwogICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnRlcnZhbCgoKSA9PiB7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5rZXkgPSBNYXRoLnJhbmRkZG9tCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>return{
       msg:'hello vue'
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQ29tcG9uZW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
