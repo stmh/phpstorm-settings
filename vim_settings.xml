@@ -75,18 +75,16 @@
         <mark key="^" line="20" column="81" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1481041548276">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="239" column="10" />
-        <mark key="]" line="240" column="20" />
-        <mark key="." line="240" column="20" />
-        <mark key="^" line="240" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" timestamp="1481303465131">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480526097740">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1481303041600">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
         <mark key="^" line="21" column="38" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/behat.yml" timestamp="1480529040333">
         <mark key="[" line="36" column="0" />
@@ -127,13 +125,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" />
       <jump line="344" column="21" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="322" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$user</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>csrf</text>
@@ -142,31 +141,31 @@
         <text encoding="base64">ICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigiSEVIIik7IGV4aXQoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LT5hZGRFdmVudExpc3RlbmVyKEZvcm1FdmVudHM6OlBSRV9TRVRfREFUQSwgZnVuY3Rpb24gKEZvcm1FdmVudCAkZXZlbnQpIHsKICAgICAgICAkdXNlciA9ICRldmVudC0+Z2V0RGF0YSgpOwogICAgICAgIGlmICghJHVzZXIpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgJGZvcm0gPSAkZXZlbnQtPmdldEZvcm0oKTsKICAgICAgICBpZiAoJHVzZXJbJ2VtYWlsJ10gIT09ICR1c2VyWydlbWFpbDInXSkgewogICAgICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwogICAgICAgIH0KICAgICAgfSk=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCR1c2VyKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gQ2hlY2sgd2hldGhlciB0aGUgdXNlciBoYXMgY2hvc2VuIHRvIGRpc3BsYXkgaGlzIGVtYWlsIG9yIG5vdC4KICAgICAgICAvLyBJZiB0aGUgZGF0YSB3YXMgc3VibWl0dGVkIHByZXZpb3VzbHksIHRoZSBhZGRpdGlvbmFsIHZhbHVlIHRoYXQgaXMKICAgICAgICAvLyBpbmNsdWRlZCBpbiB0aGUgcmVxdWVzdCB2YXJpYWJsZXMgbmVlZHMgdG8gYmUgcmVtb3ZlZC4KICAgICAgICBpZiAodHJ1ZSA9PT0gJHVzZXJbJ3Nob3dfZW1haWwnXSkgewogICAgICAgICAgJGZvcm0tPmFkZCgnZW1haWwnLCBFbWFpbFR5cGU6OmNsYXNzKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdW5zZXQoJHVzZXJbJ2VtYWlsJ10pOwogICAgICAgICAgJGV2ZW50LT5zZXREYXRhKCR1c2VyKTsKICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZW5kZXJbJ21lc3NhZ2UnXSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGV4aXQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlbmRlclsnbWVzc2FnZSddKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSEVIIik7IGV4aXQoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">LT5hZGRFdmVudExpc3RlbmVyKEZvcm1FdmVudHM6OlBSRV9TRVRfREFUQSwgZnVuY3Rpb24gKEZvcm1FdmVudCAkZXZlbnQpIHsKICAgICAgICAkdXNlciA9ICRldmVudC0+Z2V0RGF0YSgpOwogICAgICAgIGlmICghJHVzZXIpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgJGZvcm0gPSAkZXZlbnQtPmdldEZvcm0oKTsKICAgICAgICBpZiAoJHVzZXJbJ2VtYWlsJ10gIT09ICR1c2VyWydlbWFpbDInXSkgewogICAgICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwogICAgICAgIH0KICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
