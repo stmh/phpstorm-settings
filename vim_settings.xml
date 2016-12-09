@@ -28,7 +28,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481294584594">
+      <file name="/a.dummy" timestamp="1481297306406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.babelrc" timestamp="1481221076139">
@@ -177,8 +177,12 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/carissa-webshop/public_html/application/views/template.php" timestamp="1481293324658" />
-      <file name="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" timestamp="1481296649671">
+      <file name="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" timestamp="1481297274307">
         <mark key="'" line="454" column="79" />
+        <mark key="[" line="373" column="16" />
+        <mark key="]" line="232" column="33" />
+        <mark key="^" line="232" column="33" />
+        <mark key="." line="373" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480526097740">
         <mark key="[" line="25" column="0" />
@@ -203,6 +207,9 @@
         <mark key="]" line="17" column="13" />
         <mark key="." line="17" column="13" />
         <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/carissa-webshop/application/controllers/main.php" timestamp="1481296851981">
+        <mark key="'" line="22" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -255,6 +262,7 @@
       <jump line="442" column="80" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
       <jump line="449" column="31" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
       <jump line="454" column="79" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="22" column="6" filename="$USER_HOME$/Desktop/carissa-webshop/application/controllers/main.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +272,7 @@
         <text>86400</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">dGhpcy0+dXNlcg==</text>
+        <text encoding="base64">XDxNYWluXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEdyYXlsb2dUZXN0IGZyb20gJy4vY29tcG9uZW50cy9HcmF5bG9nVGVzdC52dWUnCg==</text>
@@ -303,14 +311,14 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>347</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">dGhpcy0+dXNlcg==</last-search>
+      <last-search encoding="base64">XDxNYWluXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">dGhpcy0+dXNlcg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxNYWluXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -331,6 +339,7 @@
         <entry>user</entry>
         <entry>'user'</entry>
         <entry encoding="base64">dGhpcy0+dXNlcg==</entry>
+        <entry encoding="base64">XDxNYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
@@ -344,7 +353,6 @@
         <entry>W</entry>
         <entry>321</entry>
         <entry>41</entry>
-        <entry>tabNext</entry>
         <entry>:w</entry>
         <entry>noh</entry>
         <entry>53</entry>
@@ -354,6 +362,9 @@
         <entry>33</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>tabNext</entry>
+        <entry>374</entry>
+        <entry>347</entry>
       </history-cmd>
       <history-expr />
       <history-input />
