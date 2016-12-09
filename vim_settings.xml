@@ -177,6 +177,9 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/carissa-webshop/public_html/application/views/template.php" timestamp="1481293324658" />
+      <file name="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" timestamp="1481296649671">
+        <mark key="'" line="454" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1480526097740">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -235,6 +238,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" />
       <jump line="344" column="21" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="27" column="44" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="48" column="28" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="71" column="24" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="73" column="34" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="79" column="42" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="80" column="47" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="145" column="19" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="166" column="19" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="369" column="27" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="371" column="18" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="373" column="28" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="380" column="33" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="436" column="13" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="442" column="80" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="449" column="31" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
+      <jump line="454" column="79" filename="$USER_HOME$/Desktop/carissa-webshop/public_html/application/controllers/cart.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -244,7 +264,7 @@
         <text>86400</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text encoding="base64">dGhpcy0+dXNlcg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEdyYXlsb2dUZXN0IGZyb20gJy4vY29tcG9uZW50cy9HcmF5bG9nVGVzdC52dWUnCg==</text>
@@ -283,15 +303,15 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search encoding="base64">dGhpcy0+dXNlcg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">dGhpcy0+dXNlcg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -308,6 +328,9 @@
         <entry>mail</entry>
         <entry>body</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry>user</entry>
+        <entry>'user'</entry>
+        <entry encoding="base64">dGhpcy0+dXNlcg==</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
@@ -319,7 +342,6 @@
         <entry>216</entry>
         <entry>275</entry>
         <entry>W</entry>
-        <entry>1</entry>
         <entry>321</entry>
         <entry>41</entry>
         <entry>tabNext</entry>
@@ -331,6 +353,7 @@
         <entry>36</entry>
         <entry>33</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
