@@ -52,12 +52,12 @@
         <mark key="]" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1481133961435">
-        <mark key="'" line="359" column="21" />
-        <mark key="[" line="234" column="23" />
-        <mark key="]" line="234" column="23" />
-        <mark key="." line="234" column="23" />
-        <mark key="^" line="234" column="23" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" timestamp="1481552694896">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="232" column="23" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/css/style.css" timestamp="1480445100487">
         <mark key="'" line="322" column="0" />
@@ -126,10 +126,11 @@
       <jump line="344" column="21" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
       <jump line="322" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
+      <jump line="19" column="0" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hcHAtPnJlZ2lzdGVyKG5ldyBDc3JmU2VydmljZVByb3ZpZGVyKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>TRUE</text>
@@ -141,34 +142,34 @@
         <text encoding="base64">ICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hcHAtPnJlZ2lzdGVyKG5ldyBDc3JmU2VydmljZVByb3ZpZGVyKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZW5kZXJbJ21lc3NhZ2UnXSk7Cg==</text>
+        <text encoding="base64">dXNlIFNpbGV4XFByb3ZpZGVyXENzcmZTZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHJlbmRlclsnbWVzc2FnZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZW5kZXJbJ21lc3NhZ2UnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigiSEVIIik7IGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIC8vIGV4aXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlbmRlclsnbWVzc2FnZSddKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigiSEVIIik7IGV4aXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LT5hZGRFdmVudExpc3RlbmVyKEZvcm1FdmVudHM6OlBSRV9TRVRfREFUQSwgZnVuY3Rpb24gKEZvcm1FdmVudCAkZXZlbnQpIHsKICAgICAgICAkdXNlciA9ICRldmVudC0+Z2V0RGF0YSgpOwogICAgICAgIGlmICghJHVzZXIpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgJGZvcm0gPSAkZXZlbnQtPmdldEZvcm0oKTsKICAgICAgICBpZiAoJHVzZXJbJ2VtYWlsJ10gIT09ICR1c2VyWydlbWFpbDInXSkgewogICAgICAgICAgJGZvcm0tPmdldCgnZW1haWwnKS0+YWRkRXJyb3IobmV3IEZvcm1FcnJvcignRS1NYWlsLUFkcmVzc2VuIHN0aW1tZW4gbmljaHQgw7xiZXJlaW4hJykpOwogICAgICAgIH0KICAgICAgfSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -176,7 +177,7 @@
       <last-offset />
       <last-pattern>csrf</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -210,6 +211,7 @@
         <entry>tabNext</entry>
         <entry>41</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
