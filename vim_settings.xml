@@ -9,14 +9,14 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" timestamp="1481723246584" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" timestamp="1481726146908" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_lost.txt.twig" timestamp="1480343695296">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="9" column="97" />
         <mark key="^" line="9" column="97" />
         <mark key="." line="9" column="97" />
       </file>
-      <file name="/a.dummy" timestamp="1481641913576">
+      <file name="/a.dummy" timestamp="1481725163241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,11 +75,11 @@
         <mark key="^" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1481723546539">
-        <mark key="[" line="139" column="9" />
-        <mark key="]" line="140" column="5" />
-        <mark key="." line="140" column="5" />
-        <mark key="^" line="140" column="5" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1481726702035">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="219" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.dist.php" timestamp="1480961180027">
         <mark key="[" line="20" column="27" />
@@ -87,7 +87,12 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/gaia_mail_notification.services.yml" timestamp="1481722564156" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/gaia_mail_notification.services.yml" timestamp="1481726232539">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="91" />
+        <mark key="^" line="3" column="91" />
+        <mark key="." line="3" column="91" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -138,11 +143,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" timestamp="1481723306397">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="40" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" timestamp="1481726833692">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Controller/Unlock12WeekQuestionnaireController.php" timestamp="1481641231361">
         <mark key="[" line="71" column="4" />
@@ -199,44 +204,44 @@
       <jump line="45" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/src/Plugin/Field/FieldWidget/ProfilePortalIEFWidget.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>queue</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAkZm9ybVsnZmllbGRfMTJ3ZWVrX3Flc3Rpb25uYWlyZXMnXVsnI2FjY2VzcyddID0gJGFjY2VzczsK</text>
+      <register name="0" type="4">
+        <text>gaia_mail_notification.mail_notification_service</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgJG5ld19zdGF0ZSA9ICRzZXJ2aWNlLT5nZXROZXdTdGF0ZUZvckRhdGUoJGFjY291bnQsICRkYXRhLT5kYXRlKTsKICAgICAgaWYgKCRuZXdfc3RhdGUpIHsKICAgICAgICAkYWNjb3VudC0+c2V0KCdmaWVsZF9zdGF0ZScsICRuZXdfc3RhdGUpOwogICAgICB9CiAgICAgICRhY2NvdW50LT5zZXQoJ2ZpZWxkX2xhc3Rfc3RhdGVfY2hlY2snLCAkZGF0YS0+ZGF0ZSk7CiAgICAgICRhY2NvdW50LT5zYXZlKCk7CiAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCdDaGVja2VkIHN0YXRlIGZvciBwYXRpZW50ICV1c2VyJywgYXJyYXkoCiAgICAgICAgJyV1c2VyJyA9PiAkYWNjb3VudC0+Z2V0RGlzcGxheU5hbWUoKSwKICAgICAgKSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyoqIEB2YXIgUGF0aWVudFN0YXRlQ2hlY2tlciAkc2VydmljZSAqLwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gXERydXBhbDo6c2VydmljZSgncmVuZGVyZXInKS0+cmVuZGVyKCR2aWV3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXJyYXkoCiAgICAgICAgJyN0eXBlJyA9PiAnbWFya3VwJywKICAgICAgICAnI21hcmt1cCcgPT4gJGh0bWwsCiAgICApOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJHNlcnZpY2UgPSBcRHJ1cGFsOjpzZXJ2aWNlKCdnYWlhX21haWxfbm90aWZpY2F0aW9uLm1haWxfbm90aWZpY2F0aW9uX3NlcnZpY2UnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLyoqIEB2YXIgXERydXBhbFxnYWlhX3BhdGllbnRfZmxvd1xQYXRpZW50U3RhdGVDaGVja2VyICRzZXJ2aWNlICovCg==</text>
+        <text encoding="base64">ICAgICAgLyoqIEB2YXIgTWFpbE5vdGlmaWNhdGlvblNlcnZpY2UgJHNlcnZpY2UgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxnYWlhX3BhdGllbnRfZmxvd1xQYXRpZW50U3RhdGVDaGVja2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSh0aW1lKCkpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgJG5ld19zdGF0ZSA9ICRzZXJ2aWNlLT5nZXROZXdTdGF0ZUZvckRhdGUoJGFjY291bnQsICRkYXRhLT5kYXRlKTsKICAgICAgaWYgKCRuZXdfc3RhdGUpIHsKICAgICAgICAkYWNjb3VudC0+c2V0KCdmaWVsZF9zdGF0ZScsICRuZXdfc3RhdGUpOwogICAgICB9CiAgICAgICRhY2NvdW50LT5zZXQoJ2ZpZWxkX2xhc3Rfc3RhdGVfY2hlY2snLCAkZGF0YS0+ZGF0ZSk7CiAgICAgICRhY2NvdW50LT5zYXZlKCk7CiAgICAgICR0aGlzLT5sb2dnZXItPmRlYnVnKCdDaGVja2VkIHN0YXRlIGZvciBwYXRpZW50ICV1c2VyJywgYXJyYXkoCiAgICAgICAgJyV1c2VyJyA9PiAkYWNjb3VudC0+Z2V0RGlzcGxheU5hbWUoKSwKICAgICAgKSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -288,6 +293,9 @@
         <entry>1</entry>
         <entry>tabNext</entry>
         <entry>noh</entry>
+        <entry>39</entry>
+        <entry encoding="base64">JzwsJz4xOTk=</entry>
+        <entry>199</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
