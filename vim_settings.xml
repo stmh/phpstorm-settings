@@ -143,11 +143,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" timestamp="1481726833692">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="24" column="42" />
-        <mark key="." line="58" column="0" />
+      <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" timestamp="1481727729624">
+        <mark key="'" line="43" column="100" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="55" />
+        <mark key="^" line="69" column="55" />
+        <mark key="." line="69" column="55" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Controller/Unlock12WeekQuestionnaireController.php" timestamp="1481641231361">
         <mark key="[" line="71" column="4" />
@@ -202,13 +203,14 @@
       <jump line="159" column="75" filename="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="190" column="25" filename="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.module" />
       <jump line="45" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/src/Plugin/Field/FieldWidget/ProfilePortalIEFWidget.php" />
+      <jump line="37" column="100" filename="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sendNotification</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sendNotification</text>
       </register>
       <register name="/" type="4">
         <text>queue</text>
