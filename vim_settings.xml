@@ -95,16 +95,21 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/ph_profile_portal.module" timestamp="1481802855128">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/templates/profile_portal.html.twig" timestamp="1481800254435">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/templates/profile_portal.html.twig" timestamp="1481802503431">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
         <mark key="[" line="14" column="0" />
@@ -219,55 +224,55 @@
       <jump line="37" column="100" filename="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb3JlYWNoICgkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>au</text>
       </register>
       <register name="/" type="4">
-        <text>QueueInteface</text>
+        <text>preprocess</text>
       </register>
       <register name="0" type="4">
         <text>gaia_mail_notification.mail_notification_service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oIlJlcXVldWVkIik7Cg==</text>
+        <text encoding="base64">ICBmb3JlYWNoICgkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRpdGVtKTsK</text>
+        <text encoding="base64">ICBraW50KGFycmF5X2tleXMoJHZhcmlhYmxlc1snY29udGVudCddKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sga2ludChhdHRyaWJ1dGVzKSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">e3sga2ludChfY29udGV4dHxrZXlzKSB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICBkc20oJHZhcnNbJ2J1bmRsZSddKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBraW50KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBraW50KDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJHNlcnZpY2UgPSBcRHJ1cGFsOjpzZXJ2aWNlKCdnYWlhX21haWxfbm90aWZpY2F0aW9uLm1haWxfbm90aWZpY2F0aW9uX3NlcnZpY2UnKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>QueueInteface</last-search>
+      <last-search>preprocess</last-search>
       <last-offset />
-      <last-pattern>QueueInteface</last-pattern>
+      <last-pattern>preprocess</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -288,6 +293,7 @@
         <entry>$key</entry>
         <entry>queue</entry>
         <entry>QueueInteface</entry>
+        <entry>preprocess</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
