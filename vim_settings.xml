@@ -153,10 +153,10 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1482943649176">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1482944738608">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="51" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/EventSubscriber/PatientStateSubscriber.php" timestamp="1481644552084">
@@ -173,9 +173,9 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.babelrc" timestamp="1482940008647">
         <mark key="[" line="4" column="3" />
-        <mark key="]" line="5" column="50" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="50" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/socket-adapter.js" timestamp="1482941265646">
         <mark key="[" line="28" column="0" />
@@ -391,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>minute</text>
+        <text>1200</text>
       </register>
       <register name="-" type="4">
-        <text>minute</text>
+        <text>1200</text>
       </register>
       <register name="/" type="4">
         <text>won</text>
@@ -462,7 +462,6 @@
         <entry>#access</entry>
       </history-search>
       <history-cmd>
-        <entry>67</entry>
         <entry>w:w</entry>
         <entry>210</entry>
         <entry>216</entry>
