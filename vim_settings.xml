@@ -48,6 +48,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/svg/Polyline.vue" timestamp="1482936555475">
+        <mark key="[" line="19" column="62" />
+        <mark key="]" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/gaia_patient.routing.yml" timestamp="1481637657396">
         <mark key="[" line="24" column="46" />
         <mark key="]" line="24" column="61" />
@@ -89,7 +95,6 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/docker-compose-mbb.yml" timestamp="1481985383368" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/test_iframe/index.html" timestamp="1481147962064">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
@@ -231,12 +236,18 @@
         <mark key="^" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1482936579069">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Chart.vue" timestamp="1481233427676">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Chart.vue" timestamp="1482935989898">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="34" column="13" />
@@ -355,11 +366,11 @@
       <jump line="389" column="9" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eHh4eAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgCiAgICAgICAgcmV0dXJuewogICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGNvbXBvbmVudHM6ewogICAgICAgICAgICAnb3RoZXItY29tcG9uZW50JzpPdGhlckNvbXBvbmVudCwKICAgICAgICAgICAgSGVhZGVyQ29tcG9uZW50LAogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>, $user</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>won</text>
@@ -367,32 +378,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5hcHAtPmdldCgnL3Jlc3VsdC97bmFtZX0ve2NvZGV9JywgZnVuY3Rpb24gKCRjb2RlLCAkbmFtZSkgewogICAgICByZXR1cm4gJHRoaXMtPmhhbmRsZVJlc3VsdCgkY29kZSwgJG5hbWUpOwogICAgfSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eHh4eAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgCiAgICAgICAgcmV0dXJuewogICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGNvbXBvbmVudHM6ewogICAgICAgICAgICAnb3RoZXItY29tcG9uZW50JzpPdGhlckNvbXBvbmVudCwKICAgICAgICAgICAgSGVhZGVyQ29tcG9uZW50LAogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5oYW5kbGVSZXN1bHQoRkFMU0UsICRuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDpnJ2hlbGxvIHZ1ZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hcHAtPmdldCgnL3Jlc3VsdC97bmFtZX0nLCBmdW5jdGlvbiAoJG5hbWUpIHsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBIZWFkZXJDb21wb25lbnQgZnJvbSAnLi9jb21wb25lbnRzL2hlYWRlci52dWUnCiAgICBpbXBvcnQgT3RoZXJDb21wb25lbnQgZnJvbSAnLi9jb21wb25lbnRzL290aGVyLnZ1ZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZHl7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjojZmYwMDAwOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hcHAtPmdldCgnL3Rlc3RfbG9zdCcsIGZ1bmN0aW9uKCkgewogICAgICAkZGF0YSA9IFtdOwogICAgICAkZGF0YVsndm9ybmFtZSddID0gJ1RFU1RWT1JOQU1FJzsKICAgICAgcmV0dXJuICR0aGlzLT5hcHBbJ3R3aWcnXS0+cmVuZGVyKCd5b3VfbG9zdC5odG1sLnR3aWcnLCAkZGF0YSk7CiAgICB9KTsKCiAgICAkdGhpcy0+YXBwLT5nZXQoJy90ZXN0X3dvbicsIGZ1bmN0aW9uKCkgewogICAgICAkZGF0YSA9IFtdOwogICAgICAkZGF0YVsndm9ybmFtZSddID0gJ1RFU1RWT1JOQU1FJzsKICAgICAgJGRhdGFbJ3dpbm5pbmdfY29kZSddID0gJ1RFU1RXSU5OSU5HQ09ERSc7CiAgICAgIHJldHVybiAkdGhpcy0+YXBwWyd0d2lnJ10tPnJlbmRlcigneW91X3dvbi5odG1sLnR3aWcnLCAkZGF0YSk7CiAgICB9KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGRpdj4KICAgICAgICA8aGVhZGVyLWNvbXBvbmVudC8+CiAgICAgICAgPGRpdj50aGlzIGlzIHRlbXBsYXRlIGJvZHk8L2Rpdj4KICAgICAgICA8b3RoZXItY29tcG9uZW50Lz4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRkYXRhWyd3aW5uaW5nX2NvZGUnXSA9ICR3aW5uaW5nX2NvZGU7Cg==</text>
+        <text encoding="base64">eHh4eAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmFwcFsnc2Vzc2lvbiddLT5nZXQoJ2RhdGEnLCBbCiAgICAgICd2b3JuYW1lJyA9PiAnVXNlcicsCiAgICAgICdnZXdpbm5fY29kZScgPT4gJ1hYWFhYWFhYWFgnCiAgICBdKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR3aW5uaW5nX2NvZGUgPSAkdGhpcy0+YXBwWydzZXNzaW9uJ10tPmdldCgnd2lubmluZ19jb2RlJywgRkFMU0UpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5oYW5kbGVSZXN1bHQoRkFMU0UsICRuYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
