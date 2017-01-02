@@ -21,11 +21,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/svg/BarGraph.vue" timestamp="1483377172487">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/svg/BarGraph.vue" timestamp="1483378690584">
+        <mark key="[" line="2" column="156" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1482941253380">
         <mark key="[" line="0" column="0" />
@@ -264,11 +264,12 @@
         <mark key="^" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1483376246069">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1483379135747">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
@@ -401,11 +402,11 @@
       <jump line="44" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>queryResults.results.length)</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>queryResults.results.length)</text>
       </register>
       <register name="/" type="4">
         <text>won</text>
@@ -414,19 +415,22 @@
         <text encoding="base64">ICBpbXBvcnQgU1ZHX1BvbHlsaW5lIGZyb20gJy4vc3ZnL1BvbHlsaW5lLnZ1ZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmFyV2lkdGgoKSB7IHJldHVybiB0aGlzLndpZHRoIC8gdGhpcy5wb2ludHMubGVuZ3RoOyB9LAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>data() {
       return {
         points: [[0,0], [100,0]]
       }
     },</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
     data() {
       return {
@@ -434,20 +438,17 @@
       }
     },</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">d2F0Y2g6IHsKICAgICAgcG9pbnRzOiBmdW5jdGlvbihuZXdfdmFsdWUpIHsKICAgICAgICB0aGlzLm1heCA9IG5ld192YWx1ZS5yZWR1Y2UoIChub3csIGN1cnJlbnQpID0+IE1hdGgubWF4KG5vdywgY3VycmVudCksIDApOwogICAgICAgIGNvbnNvbGUubG9nKHRpcy5tYXgsICdtYXgnKTsKICAgICAgfQogICAgfSw=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgbWF4KCkgeyByZXR1cm4gfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvZGRsZS5sb2codGhpcy5xdWVyeSwgcXVlcnlSZXN1bHRzLnJlc3VsdHMsIGxhc3RLZXksIGtleXNbbGFzdEtleV0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmFySGVpZ2h0KHBvaW50KSB7IHJldHVybiBwb2ludFsxXSAvIHRoaXMubWF4KCkgKiB0aGlzLmhlaWdodDsgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvZGRsZS5sb2codGhpcy5xdWVyeSwgcXVlcnlSZXN1bHRzLnJlc3VsdHMsIGxhc3RLZXksIGtleXNbbGFzdEtleV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
