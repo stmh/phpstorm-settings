@@ -23,9 +23,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/svg/BarGraph.vue" timestamp="1483378690584">
         <mark key="[" line="2" column="156" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1482941253380">
         <mark key="[" line="0" column="0" />
@@ -513,6 +510,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
