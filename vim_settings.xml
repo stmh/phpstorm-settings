@@ -441,7 +441,7 @@
         <text encoding="base64">ICAgICAgYmFyV2lkdGgoKSB7IHJldHVybiB0aGlzLndpZHRoIC8gdGhpcy5wb2ludHMubGVuZ3RoOyB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>146</text>
       </register>
     </registers>
     <search>
@@ -473,7 +473,6 @@
         <entry>#access</entry>
       </history-search>
       <history-cmd>
-        <entry>210</entry>
         <entry>216</entry>
         <entry>275</entry>
         <entry>W</entry>
@@ -493,6 +492,7 @@
         <entry>39</entry>
         <entry>42</entry>
         <entry>w</entry>
+        <entry>146</entry>
       </history-cmd>
       <history-expr />
       <history-input />
