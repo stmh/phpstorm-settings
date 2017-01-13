@@ -88,6 +88,12 @@
         <mark key="^" line="240" column="28" />
         <mark key="." line="240" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1484300072878">
+        <mark key="[" line="433" column="8" />
+        <mark key="]" line="433" column="8" />
+        <mark key="." line="433" column="8" />
+        <mark key="^" line="433" column="8" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/composer.lock" timestamp="1481564012247">
         <mark key="[" line="150" column="26" />
         <mark key="]" line="150" column="31" />
@@ -475,8 +481,8 @@
       <jump line="93" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/core/lib/Drupal/Core/Entity/Controller/EntityViewController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>confgi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgXERydXBhbDo6bG9nZ2VyKCdkenZpZXJfdXRpbHMnKS0+ZGVidWcoJ1N1Ym1pc3Npb24gcmVzdWx0OicpCg==</text>
       </register>
       <register name="-" type="4">
         <text>confgi</text>
@@ -488,31 +494,31 @@
         <text encoding="base64">ICAgICAgJ3Nwb3J0JyA9PiBbCiAgICAgICAgWwogICAgICAgICAgJ3ZpZXcnID0+ICdwcm9maWxlc19wZXJfdGVybScsCiAgICAgICAgICAnZGlzcGxheV9pZCcgPT4gJ2RlZmF1bHQnLAogICAgICAgICAgJ2FyZ3VtZW50cycgPT4gYXJyYXkoJHRheG9ub215X3Rlcm0tPmlkKCkpLAogICAgICAgIF0sCiAgICAgIF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXERydXBhbDo6bG9nZ2VyKCdkenZpZXJfdXRpbHMnKS0+ZGVidWcoJ1N1Ym1pc3Npb24gcmVzdWx0OicpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CnRhYmxlW2RhdGEtZHJ1cGFsLXNlbGVjdG9yPSJlZGl0LWZpZWxkLWdhaWEtcGF0aWVudC1kbXQiXSB0ZDpmaXJzdC1jaGlsZCB7CiAgd2lkdGg6IDYwJTsKfQp0YWJsZVtkYXRhLWRydXBhbC1zZWxlY3Rvcj0iZWRpdC1maWVsZC1nYWlhLXBhdGllbnQtZG10Il0gdGQ6bnRoLWNoaWxkKDIpIHsKICB3aWR0aDogMTAlOwp9Cgp0YWJsZVtkYXRhLWRydXBhbC1zZWxlY3Rvcj0iZWRpdC1maWVsZC1nYWlhLXBhdGllbnQtZG10Il0gdGQ6bnRoLWNoaWxkKDMpIHsKICB3aWR0aDogMzAlOwp9CnRhYmxlW2RhdGEtZHJ1cGFsLXNlbGVjdG9yPSJlZGl0LWZpZWxkLWdhaWEtcGF0aWVudC1kbXQiXSB0ZDpmaXJzdC1jaGlsZCBpbnB1dCB7CiAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDsKfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGtpbnQoJHBhZ2UpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICd2aWV3JyA9PiAndGVhbV9wcm9maWxlcycsCiAgICAgICAgICAnZGlzcGxheV9pZCcgPT4gJ2VtYmVkXzEnLAogICAgICAgICAgJ2FyZ3VtZW50cycgPT4gYXJyYXkoJHRheG9ub215X3Rlcm0tPmlkKCkpLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAga2ludCgkdmlld3MpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGtpbnQoIldPUktTIik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHJlcXVlc3QpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
