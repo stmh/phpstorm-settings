@@ -105,6 +105,11 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/src/EventSubscriber/CorsResponseEventSubscriber.php" timestamp="1484770083779">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/test_iframe/index.html" timestamp="1481147962064">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
@@ -441,44 +446,44 @@
       <jump line="139" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
         <text>questionnaire_intro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHF1ZXN0aW9ubmFpcmVfaW50cm86CiAgICAgIGxhYmVsOiAnSW50cm8gdGV4dCBmb3IgcXVlc3Rpb25uYWlyZXMnCiAgICAgIHR5cGU6IGdhaWFfbWFpbF9ub3RpZmljYXRpb24udGVtcGxhdGUK</text>
+      <register name="0" type="4">
+        <text>'trim'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpZWxkX3Byb2ZpbGVfcG9ydGFsOiBudWxsCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXERydXBhbDo6bG9nZ2VyKCdkenZpZXJfdXRpbHMnKS0+ZGVidWcoJ1N1Ym1pc3Npb24gcmVzdWx0OicpCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaGVhZGRkZGVyc19wZXJfcGF0aCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnRhYmxlW2RhdGEtZHJ1cGFsLXNlbGVjdG9yPSJlZGl0LWZpZWxkLWdhaWEtcGF0aWVudC1kbXQiXSB0ZDpmaXJzdC1jaGlsZCB7CiAgd2lkdGg6IDYwJTsKfQp0YWJsZVtkYXRhLWRydXBhbC1zZWxlY3Rvcj0iZWRpdC1maWVsZC1nYWlhLXBhdGllbnQtZG10Il0gdGQ6bnRoLWNoaWxkKDIpIHsKICB3aWR0aDogMTAlOwp9Cgp0YWJsZVtkYXRhLWRydXBhbC1zZWxlY3Rvcj0iZWRpdC1maWVsZC1nYWlhLXBhdGllbnQtZG10Il0gdGQ6bnRoLWNoaWxkKDMpIHsKICB3aWR0aDogMzAlOwp9CnRhYmxlW2RhdGEtZHJ1cGFsLXNlbGVjdG9yPSJlZGl0LWZpZWxkLWdhaWEtcGF0aWVudC1kbXQiXSB0ZDpmaXJzdC1jaGlsZCBpbnB1dCB7CiAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDsKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICRoZWFkZXJzX3Blcl9wYXRoWyRwYXRoXVsnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJ10gPSBpbXBsb2RlKCcsICcsICRoZWFkZXJzX3Blcl9wYXRoWyRwYXRoXVsnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJ10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtpbnQoJHBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICd2aWV3JyA9PiAndGVhbV9wcm9maWxlcycsCiAgICAgICAgICAnZGlzcGxheV9pZCcgPT4gJ2VtYmVkXzEnLAogICAgICAgICAgJ2FyZ3VtZW50cycgPT4gYXJyYXkoJHRheG9ub215X3Rlcm0tPmlkKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga2ludCgkdmlld3MpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaGVhZGVycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtpbnQoIldPUktTIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRzZXR0aW5ncyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -515,7 +520,6 @@
         <entry>questionnaire_intro</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>36</entry>
         <entry>33</entry>
         <entry>1</entry>
@@ -528,12 +532,13 @@
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz45Mw==</entry>
         <entry>93</entry>
-        <entry>:w</entry>
         <entry>42</entry>
         <entry>W</entry>
         <entry>82</entry>
         <entry>set eb?</entry>
         <entry>noerrorbell</entry>
+        <entry>108</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
