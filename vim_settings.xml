@@ -27,7 +27,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484572998796">
+      <file name="/a.dummy" timestamp="1484747450601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -129,6 +129,12 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="49" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/config/schema/gaia_mail_notification.schema.yml" timestamp="1484747448303">
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="56" column="5" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -155,8 +161,12 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" timestamp="1484305785687">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" timestamp="1484747506991">
+        <mark key="'" line="139" column="29" />
+        <mark key="[" line="139" column="84" />
+        <mark key="]" line="139" column="112" />
+        <mark key="^" line="139" column="112" />
+        <mark key="." line="139" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/config.php" timestamp="1481303041600">
         <mark key="[" line="7" column="19" />
@@ -294,7 +304,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.drush.inc" timestamp="1484572984024" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/core/lib/Drupal/Core/Entity/Controller/EntityViewController.php" timestamp="1484158551842">
         <mark key="[" line="92" column="47" />
         <mark key="]" line="92" column="47" />
@@ -323,6 +332,12 @@
         <mark key="]" line="62" column="19" />
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1484747467250">
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="79" column="31" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/sites/development.services.yml" timestamp="1481800081630">
         <mark key="[" line="5" column="48" />
@@ -420,19 +435,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
       <jump line="415" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="215" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="139" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpZWxkX3Byb2ZpbGVfcG9ydGFsOiBudWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>confgi</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkenZpZXJfdXRpbHNfY3JtX3Jlc3BvbnNlX3ZhbGlkYXRlXD4=</text>
+        <text>questionnaire_intro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3Nwb3J0JyA9PiBbCiAgICAgICAgWwogICAgICAgICAgJ3ZpZXcnID0+ICdwcm9maWxlc19wZXJfdGVybScsCiAgICAgICAgICAnZGlzcGxheV9pZCcgPT4gJ2RlZmF1bHQnLAogICAgICAgICAgJ2FyZ3VtZW50cycgPT4gYXJyYXkoJHRheG9ub215X3Rlcm0tPmlkKCkpLAogICAgICAgIF0sCiAgICAgIF0K</text>
+        <text encoding="base64">ICAgIHF1ZXN0aW9ubmFpcmVfaW50cm86CiAgICAgIGxhYmVsOiAnSW50cm8gdGV4dCBmb3IgcXVlc3Rpb25uYWlyZXMnCiAgICAgIHR5cGU6IGdhaWFfbWFpbF9ub3RpZmljYXRpb24udGVtcGxhdGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZpZWxkX3Byb2ZpbGVfcG9ydGFsOiBudWxsCg==</text>
@@ -466,15 +482,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkenZpZXJfdXRpbHNfY3JtX3Jlc3BvbnNlX3ZhbGlkYXRlXD4=</last-search>
+      <last-search>questionnaire_intro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkenZpZXJfdXRpbHNfY3JtX3Jlc3BvbnNlX3ZhbGlkYXRlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>questionnaire_intro</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initView</entry>
         <entry>email_again</entry>
         <entry>thanks</entry>
         <entry encoding="base64">XDxbXD4=</entry>
@@ -494,10 +509,9 @@
         <entry>#access</entry>
         <entry>intro</entry>
         <entry encoding="base64">XDxkenZpZXJfdXRpbHNfY3JtX3Jlc3BvbnNlX3ZhbGlkYXRlXD4=</entry>
+        <entry>questionnaire_intro</entry>
       </history-search>
       <history-cmd>
-        <entry>53</entry>
-        <entry>.,.+254noh</entry>
         <entry>29</entry>
         <entry>36</entry>
         <entry>33</entry>
@@ -515,6 +529,8 @@
         <entry>42</entry>
         <entry>W</entry>
         <entry>82</entry>
+        <entry>set eb?</entry>
+        <entry>noerrorbell</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
