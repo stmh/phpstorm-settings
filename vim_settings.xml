@@ -282,11 +282,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1484830175237">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1484833328807">
         <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="4" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1481198156744">
         <mark key="[" line="3" column="51" />
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>leadquelle_lp</text>
@@ -482,28 +482,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGNvbmZpZ1snZ29vZ2xlX2FuYWx5dGljcy5zZXR0aW5ncyddWydhY2NvdW50J10gPSAnVUEtMjc4NTM2MjctMSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGNvbmZpZ1snbWFpbHN5c3RlbS5zZXR0aW5ncyddWydkZWZhdWx0cyddWydzZW5kZXInXSA9ICdwaHBfbWFpbCc7Cg==</text>
+        <text encoding="base64">JGNvbmZpZ1snZ29vZ2xlX2FuYWx5dGljcy5zZXR0aW5ncyddWydhY2NvdW50J10gPSAnVUEtMjc4NTM2MjctMSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JGNvbmZpZ1snbWFpbHN5c3RlbS5zZXR0aW5ncyddWydkZWZhdWx0cyddWydzZW5kZXInXSA9ICdwaHBfbWFpbCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkaGVhZGRkZGVyc19wZXJfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRoZWFkZXJzX3Blcl9wYXRoWyRwYXRoXVsnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJ10gPSBpbXBsb2RlKCcsICcsICRoZWFkZXJzX3Blcl9wYXRoWyRwYXRoXVsnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaGVhZGRkZGVyc19wZXJfcGF0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -540,7 +540,6 @@
         <entry>leadquelle_lp</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
         <entry>1</entry>
         <entry>tabNext</entry>
         <entry>374</entry>
@@ -557,8 +556,9 @@
         <entry>set eb?</entry>
         <entry>noerrorbell</entry>
         <entry>108</entry>
-        <entry>:w</entry>
+        <entry>103</entry>
         <entry>20</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -573,6 +573,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
