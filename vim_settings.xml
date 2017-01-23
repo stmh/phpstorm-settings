@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/README.md" timestamp="1484819489936">
         <mark key="[" line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1485171228176">
-        <mark key="'" line="512" column="37" />
-        <mark key="[" line="478" column="59" />
-        <mark key="]" line="478" column="67" />
-        <mark key="." line="478" column="67" />
-        <mark key="^" line="478" column="67" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1485171898114">
+        <mark key="'" line="511" column="37" />
+        <mark key="[" line="477" column="19" />
+        <mark key="]" line="477" column="19" />
+        <mark key="." line="477" column="19" />
+        <mark key="^" line="477" column="67" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/composer.lock" timestamp="1481564012247">
         <mark key="[" line="150" column="26" />
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>$result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>leadquelle_lp</text>
