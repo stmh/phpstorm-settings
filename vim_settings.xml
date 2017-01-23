@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/README.md" timestamp="1484819489936">
         <mark key="[" line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1484820530652">
-        <mark key="'" line="509" column="37" />
-        <mark key="[" line="467" column="6" />
-        <mark key="]" line="467" column="11" />
-        <mark key="." line="467" column="11" />
-        <mark key="^" line="467" column="11" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1485171228176">
+        <mark key="'" line="512" column="37" />
+        <mark key="[" line="478" column="59" />
+        <mark key="]" line="478" column="67" />
+        <mark key="." line="478" column="67" />
+        <mark key="^" line="478" column="67" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/composer.lock" timestamp="1481564012247">
         <mark key="[" line="150" column="26" />
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>$result</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>$result</text>
       </register>
       <register name="/" type="4">
         <text>leadquelle_lp</text>
@@ -479,31 +479,31 @@
         <text>'trim'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVGhlIHdob2xlIGZvcm1fc3RhdGUtPmdldFZhbHVlcygpIHRpbWVzIG91dC4KICAgICAgJHNpbXBsaWZpZWQgPSBhcnJheV9maWx0ZXIoJGZvcm1fc3RhdGUtPmdldFZhbHVlcygpLCAnaXNfc2NhbGFyJyk7CiAgICAgIG1haWwoJ3ZvbGthbkBmYWN0b3JpYWwuaW8sIGt1YmF0emtpQGR6LTQuZGUsIHN0ZXBoYW5AZmFjdG9yaWFsLmlvJywgJ0Vycm9yIG9uIENSTSBzdWJtaXNzaW9uJywgcHJpbnRfcigkc2ltcGxpZmllZCwgVFJVRSkpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGNvbmZpZ1snZ29vZ2xlX2FuYWx5dGljcy5zZXR0aW5ncyddWydhY2NvdW50J10gPSAnVUEtMjc4NTM2MjctMSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvbmZpZ1snbWFpbHN5c3RlbS5zZXR0aW5ncyddWydkZWZhdWx0cyddWydzZW5kZXInXSA9ICdwaHBfbWFpbCc7Cg==</text>
+        <text encoding="base64">JGNvbmZpZ1snZ29vZ2xlX2FuYWx5dGljcy5zZXR0aW5ncyddWydhY2NvdW50J10gPSAnVUEtMjc4NTM2MjctMSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JGNvbmZpZ1snbWFpbHN5c3RlbS5zZXR0aW5ncyddWydkZWZhdWx0cyddWydzZW5kZXInXSA9ICdwaHBfbWFpbCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkaGVhZGRkZGVyc19wZXJfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -540,7 +540,6 @@
         <entry>leadquelle_lp</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>tabNext</entry>
         <entry>374</entry>
         <entry>347</entry>
@@ -559,6 +558,7 @@
         <entry>103</entry>
         <entry>20</entry>
         <entry>:w</entry>
+        <entry>479</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
