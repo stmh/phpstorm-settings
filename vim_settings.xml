@@ -506,7 +506,7 @@
         <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>263</text>
       </register>
     </registers>
     <search>
@@ -540,8 +540,6 @@
         <entry>leadquelle_lp</entry>
       </history-search>
       <history-cmd>
-        <entry>tabNext</entry>
-        <entry>374</entry>
         <entry>347</entry>
         <entry>39</entry>
         <entry>146</entry>
@@ -560,6 +558,8 @@
         <entry>:w</entry>
         <entry>479</entry>
         <entry>w</entry>
+        <entry>:263</entry>
+        <entry>263</entry>
       </history-cmd>
       <history-expr />
       <history-input />
