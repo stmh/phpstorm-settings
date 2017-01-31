@@ -178,6 +178,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" timestamp="1485883542949">
+        <mark key="[" line="142" column="37" />
+        <mark key="]" line="142" column="37" />
+        <mark key="." line="142" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="4" filename="/Volumes/Daten/dev/web/multibasebox/projects/sf-adfriends-kalender/www/default/assets/js/scripts.js" />
@@ -269,11 +274,11 @@
       <jump line="28" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/src/Plugin/Field/FieldWidget/YearOnlyDateFieldWidget.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8.1-de</text>
       </register>
       <register name="-" type="4">
-        <text>kint</text>
+        <text>8.1-de</text>
       </register>
       <register name="/" type="4">
         <text>form_alter</text>
