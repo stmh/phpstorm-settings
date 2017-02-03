@@ -134,6 +134,12 @@
         <mark key="^" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.platform.app.yaml" timestamp="1486123492962">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+      </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -323,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
+        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
       </register>
       <register name="-" type="4">
-        <text>graphql_example_query</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>form_alter</text>
@@ -338,31 +344,31 @@
   },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
+        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L2NvbmZpZy9zdGFnaW5nL2ZpZWxkLnN0b3JhZ2Uubm9kZS5maWVsZF9wcm9maWxlX2hlcm9fdHlwZS55bWwK</text>
+        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L2NvbmZpZy9zdGFnaW5nL2ZpZWxkLnN0b3JhZ2Uubm9kZS5maWVsZF9wcm9maWxlX2hlcm9fdHlwZS55bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkaXRlbXNbJGRlbHRhXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkaXRlbXNbJGRlbHRhXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
