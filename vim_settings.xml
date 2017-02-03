@@ -8,7 +8,13 @@
         <mark key="]" line="47" column="29" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486119687200">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imageapi_optimize/src/ImageAPIOptimizeProcessorBinaryBase.php" timestamp="1486139400641">
+        <mark key="[" line="112" column="37" />
+        <mark key="]" line="112" column="37" />
+        <mark key="^" line="112" column="37" />
+        <mark key="." line="112" column="37" />
+      </file>
+      <file name="/a.dummy" timestamp="1486139315661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -18,12 +24,6 @@
         <mark key="]" line="101" column="34" />
         <mark key="^" line="101" column="34" />
         <mark key="." line="101" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" timestamp="1485856747914">
-        <mark key="'" line="22" column="70" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.platform/routes.yaml" timestamp="1486121756765">
         <mark key="[" line="8" column="0" />
@@ -74,6 +74,12 @@
         <mark key="^" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/src/Controller/ImageStyleDownloadController.php" timestamp="1486139572762">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.platform.app.yaml" timestamp="1486124137086">
         <mark key="[" line="72" column="20" />
         <mark key="]" line="72" column="20" />
@@ -84,12 +90,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/sites/default/settings.php" timestamp="1485797341568">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="754" column="0" />
-        <mark key="]" line="754" column="0" />
-        <mark key="." line="754" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" timestamp="1480959223350">
         <mark key="[" line="0" column="8" />
@@ -110,6 +110,9 @@
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/image.module" timestamp="1486138655331">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1483363182620">
         <mark key="[" line="38" column="0" />
@@ -162,6 +165,9 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1486139575646">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1486119725416">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -177,13 +183,6 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_sport/src/Form/SportTerms.php" timestamp="1485797388999">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="113" column="3" />
-        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/graylog-api.js" timestamp="1481199649223">
         <mark key="[" line="3" column="17" />
@@ -340,16 +339,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/sites/default/settings.php" />
       <jump line="22" column="70" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
       <jump line="28" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/src/Plugin/Field/FieldWidget/YearOnlyDateFieldWidget.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/image.module" />
+      <jump line="16" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/src/Controller/ImageStyleDownloadController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>form_alter</text>
+        <text>Length</text>
       </register>
       <register name="0" type="4">
         <text>&quot;config&quot;: {
@@ -358,50 +359,45 @@
   },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaW1hZ2UtPmdldEZpbGVTaXplKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
+        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L2NvbmZpZy9zdGFnaW5nL2ZpZWxkLnN0b3JhZ2Uubm9kZS5maWVsZF9wcm9maWxlX2hlcm9fdHlwZS55bWwK</text>
+        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSgkaXRlbXNbJGRlbHRhXSk7Cg==</text>
+        <text encoding="base64">L2NvbmZpZy9zdGFnaW5nL2ZpZWxkLnN0b3JhZ2Uubm9kZS5maWVsZF9wcm9maWxlX2hlcm9fdHlwZS55bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form_alter</last-search>
+      <last-search>Length</last-search>
       <last-offset />
-      <last-pattern>form_alter</last-pattern>
+      <last-pattern>Length</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$bg</entry>
-        <entry>3200</entry>
-        <entry>sendmail</entry>
-        <entry>mail</entry>
-        <entry>body</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>user</entry>
         <entry>'user'</entry>
@@ -417,6 +413,11 @@
         <entry>status</entry>
         <entry>$tid</entry>
         <entry>form_alter</entry>
+        <entry>length</entry>
+        <entry>Content-Length</entry>
+        <entry>ecit</entry>
+        <entry>exit</entry>
+        <entry>Length</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
