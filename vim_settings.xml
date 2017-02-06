@@ -224,6 +224,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_consultant/src/Plugin/views/field/FileFormatField.php" timestamp="1486382250053">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.platformsh.php" timestamp="1484819539702">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -349,11 +355,11 @@
       <jump line="139" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imageapi_optimize/src/ImageAPIOptimizeProcessorBinaryBase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>format_size</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format_size</text>
       </register>
       <register name="/" type="4">
         <text>Length</text>
