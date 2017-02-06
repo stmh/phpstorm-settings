@@ -42,6 +42,13 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1486389747300">
+        <mark key="'" line="221" column="31" />
+        <mark key="[" line="296" column="160" />
+        <mark key="]" line="295" column="8" />
+        <mark key="^" line="295" column="8" />
+        <mark key="." line="295" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/contact-message-lead-generation-form.html.twig" timestamp="1485772831384">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="35" />
@@ -353,65 +360,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/image.module" />
       <jump line="16" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/image/src/Controller/ImageStyleDownloadController.php" />
       <jump line="139" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imageapi_optimize/src/ImageAPIOptimizeProcessorBinaryBase.php" />
+      <jump line="479" column="122" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="108" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="143" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="161" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="221" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>format_size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>format_size</text>
       </register>
       <register name="/" type="4">
-        <text>Length</text>
+        <text>consumption</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;config&quot;: {
-    &quot;discard-changes&quot;: true,
-    &quot;secure-http&quot;: false
-  },</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRmb3JtX3N0YXRlLT5zZXRFcnJvckJ5TmFtZSgnZmllbGRfY2ZfY29uc3VtcHRpb24nLCB0KCdAZmllbGRfbGFiZWwgYWt6ZXB0aWVydCBudXIgWmFobGVuLicsIGFycmF5KCdAZmllbGRfbGFiZWwnID0+ICRmaWVsZF9sYWJlbCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEFzIFBIUCBjYWNoZXMgc3RhdC1pbmZvcm1hdGlvbiB0aGUgY2hhbmNlIGlzIGhpZ2ggdGhhdCBnZXRpbWFnZXNpemUgd2lsbCByZXBvcnQgdGhlIG9sZCBmaWxlLXNpemUuCiAgICAvLyBUbyBwcmV2ZW50IHRoaXMgd2UnbGwgY2xlYXIgdGhlIHN0YXQgY2FjaGUuCiAgICBjbGVhcnN0YXRjYWNoZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIC8vIEFzIFBIUCBjYWNoZXMgc3RhdC1pbmZvcm1hdGlvbiB0aGUgY2hhbmNlIGlzIGhpZ2ggdGhhdCBnZXRpbWFnZXNpemUgd2lsbCByZXBvcnQgdGhlIG9sZCBmaWxlLXNpemUuCiAgICAvLyBUbyBwcmV2ZW50IHRoaXMgd2UnbGwgY2xlYXIgdGhlIHN0YXQgY2FjaGUuCiAgICBjbGVhcnN0YXRjYWNoZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkaW1hZ2UtPmdldEZpbGVTaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaW1hZ2UtPmdldEZpbGVTaXplKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
+        <text encoding="base64">ICAgICAgICAnL3RoZW1lcy9jdXN0b20vZHp2aWVyJzoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUF1dGFyaycsIHN0YXRlLnByaWNlQXV0YXJrKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQcmljZUVhc3knLCBzdGF0ZS5wcmljZUVhc3kpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Length</last-search>
+      <last-search>consumption</last-search>
       <last-offset />
-      <last-pattern>Length</last-pattern>
+      <last-pattern>consumption</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwnXD4=</entry>
-        <entry>user</entry>
         <entry>'user'</entry>
         <entry encoding="base64">dGhpcy0+dXNlcg==</entry>
         <entry encoding="base64">XDxNYWluXD4=</entry>
@@ -430,9 +437,10 @@
         <entry>ecit</entry>
         <entry>exit</entry>
         <entry>Length</entry>
+        <entry>validate</entry>
+        <entry>consumption</entry>
       </history-search>
       <history-cmd>
-        <entry>93</entry>
         <entry>42</entry>
         <entry>82</entry>
         <entry>set eb?</entry>
@@ -451,6 +459,7 @@
         <entry>28</entry>
         <entry>w:w</entry>
         <entry>W</entry>
+        <entry>297</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
