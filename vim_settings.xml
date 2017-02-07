@@ -299,6 +299,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/composer.json" timestamp="1486464344766">
+        <mark key="[" line="141" column="7" />
+        <mark key="]" line="141" column="7" />
+        <mark key="." line="141" column="7" />
+        <mark key="^" line="141" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/node/node--press_release--full.html.twig" timestamp="1486458950355">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="0" />
@@ -512,8 +518,8 @@
       <jump line="221" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -525,31 +531,31 @@
         <text encoding="base64">ICB7eyBjb250ZW50fGNoYWNoZU9ubHkgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WFhYOiB7eyBhdXRob3JfbmFtZSB9fQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">WFhYOiB7eyBhdXRob3JfbmFtZSB9fQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjICAgLSBjb3JlL21vZGVybml6cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGRlcGVuZGVuY2llczoK</text>
+        <text encoding="base64">ICAjICAgLSBjb3JlL21vZGVybml6cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAjIGRlcGVuZGVuY2llczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
