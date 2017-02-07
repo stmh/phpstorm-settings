@@ -83,6 +83,12 @@
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1486469204770">
+        <mark key="[" line="122" column="45" />
+        <mark key="]" line="123" column="3" />
+        <mark key="." line="123" column="3" />
+        <mark key="^" line="123" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/zow_frontend.info.yml" timestamp="1486410220765">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -342,7 +348,6 @@
         <mark key="]" line="44" column="25" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/config/staging/system.site.yml" timestamp="1486424321131" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/field/field--field-accordeon-paragraph.html.twig" timestamp="1485523362432">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -518,11 +523,11 @@
       <jump line="221" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -531,31 +536,32 @@
         <text encoding="base64">ICB7eyBjb250ZW50fGNoYWNoZU9ubHkgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICRyZXN1bHRbJGVudGl0eS0+aWQoKV0gPSBbMSwyLDNdOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">WFhYOiB7eyBhdXRob3JfbmFtZSB9fQo=</text>
+      <register name="2" type="4">
+        <text>* 
+     */$</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjICAgLSBjb3JlL21vZGVybml6cgo=</text>
+        <text encoding="base64">WFhYOiB7eyBhdXRob3JfbmFtZSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIGRlcGVuZGVuY2llczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAjICAgLSBjb3JlL21vZGVybml6cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAjIGRlcGVuZGVuY2llczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVwcm9jZXNzOiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgcHJlcHJvY2VzczogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
