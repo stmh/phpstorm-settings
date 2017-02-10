@@ -302,6 +302,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-download-list/components-download-list.js" timestamp="1486738210030">
+        <mark key="[" line="58" column="3" />
+        <mark key="]" line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/sites/default/settings.php" timestamp="1486458974702">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="53" column="0" />
@@ -575,8 +581,8 @@
       <jump line="338" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -588,31 +594,31 @@
         <text encoding="base64">ICAgIC8qKiBAdmFyICAkcG9ydGFsIFxEcnVwYWxcbm9kZVxOb2RlSW50ZXJmYWNlICRwb3J0YWwgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyIEB2YXIgICRrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgICRwb3MK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuZWxlbWVudC5xdWVyeVNlbGVjdG9yKCcuc3dpcGVyLWNvbnRhaW5lcicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRwb3J0YWwtPmdldCgnZmllbGRfcG9ydGFsJyktPnRhcmdldF9pZCAuICcgLS0gJyAuICRwb3J0YWwtPmdldCgnZmllbGRfcG9ydGFsJyktPnZhbHVlKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIE5vZGUgJG9iamVjdCAqLwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGRzbSgkZGF0YSk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyIEB2YXIgICRrCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRkZXRhaWxzID0gW107Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -649,7 +655,6 @@
         <entry>dz4-login</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
         <entry>106</entry>
         <entry>118</entry>
         <entry>w:w</entry>
@@ -668,6 +673,7 @@
         <entry>43</entry>
         <entry>73</entry>
         <entry>66</entry>
+        <entry>:%s/\s\+$//e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
