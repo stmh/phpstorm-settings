@@ -3,22 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/TaxonomyTermNormalizer.php" timestamp="1486717944655">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="18" />
-        <mark key="^" line="51" column="18" />
-        <mark key="." line="51" column="18" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/TaxonomyTermNormalizer.php" timestamp="1486721016924">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--rich-text-editor-block.html.twig" timestamp="1485523286712">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="29" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" timestamp="1486717342823">
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="25" />
-        <mark key="^" line="69" column="8" />
-        <mark key="." line="69" column="25" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" timestamp="1486721160624">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imageapi_optimize/src/ImageAPIOptimizeProcessorBinaryBase.php" timestamp="1486199275178">
         <mark key="[" line="137" column="0" />
@@ -74,11 +73,11 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/NodeNormalizer.php" timestamp="1486717905770">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="18" />
-        <mark key="^" line="62" column="18" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/NodeNormalizer.php" timestamp="1486720363138">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-frontend/src/main.js" timestamp="1485988040359">
         <mark key="[" line="20" column="6" />
@@ -154,6 +153,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/ElasticsearchIndex/PHTermIndex.php" timestamp="1486720248656">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/resources/views/mail.txt.twig" timestamp="1480959223350">
         <mark key="[" line="0" column="8" />
@@ -231,12 +236,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--intro.html.twig" timestamp="1486458854330">
         <mark key="[" line="65" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.module" timestamp="1486718106110">
-        <mark key="[" line="214" column="2" />
-        <mark key="]" line="214" column="4" />
-        <mark key="." line="214" column="4" />
-        <mark key="^" line="214" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/layout/index.css" timestamp="1486396605911">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -280,11 +279,7 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.services.yml" timestamp="1486718069973">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.services.yml" timestamp="1486719458085" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/.pre-commit-config.yaml" timestamp="1486411986926">
         <mark key="[" line="34" column="88" />
         <mark key="]" line="34" column="88" />
@@ -306,6 +301,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1486720200814">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1486119725416">
         <mark key="[" line="116" column="0" />
@@ -571,44 +569,44 @@
       <jump line="338" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxDb3JkZGVcQ29uZmlnXEVudGl0eVxDb25maWdFbnRpdHlJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dz4-login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3VzZXItcGFzcyAuZm9ybS1pdGVtLAo=</text>
+        <text encoding="base64">ICAgICRkYXRhICs9IFV0aWxpdGllczo6Z2V0RmllbGRzRnJvbUNvbmZpZygkb2JqZWN0LCAkdGhpcy0+Y29uZmlnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gbm9ybWFsaXplKE5vZGUgJG9iamVjdCwgJGZvcm1hdCA9IE5VTEwsIGFycmF5ICRjb250ZXh0ID0gYXJyYXkoKSkgewo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JkZGVcQ29uZmlnXEVudGl0eVxDb25maWdFbnRpdHlJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkaWQgLiAiXG4iKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRuaWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkc20oJGZpZWxkX2Fycik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkY291bnQgICAgICAgID0gMDsK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRkYXRhICs9IHBoX2JhY2tlbmRfZWxhc3RpY3NlYXJjaF9maWVsZHNfZnJvbV9jb25maWcoJG9iamVjdCwgJHRoaXMtPmNvbmZpZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHBoX2JhY2tlbmRfZWxhc3RpY3NlYXJjaC5tYXBwaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkZW50aXR5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XERlcGVuZGVuY3lJbmplY3Rpb25cQ29udGFpbmVySW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gbm9ybWFsaXplKE5vZGUgJG9iamVjdCwgJGZvcm1hdCA9IE5VTEwsIGFycmF5ICRjb250ZXh0ID0gYXJyYXkoKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXEpzb25SZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkaWQgLiAiXG4iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRuaWRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -645,18 +643,11 @@
         <entry>dz4-login</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
-        <entry>479</entry>
-        <entry>:263</entry>
-        <entry>263</entry>
-        <entry>411</entry>
-        <entry>222</entry>
         <entry>78</entry>
         <entry>YearOnlyDateFieldWidget.php</entry>
         <entry>28</entry>
         <entry>297</entry>
         <entry>retab</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>67</entry>
         <entry>65</entry>
         <entry>106</entry>
@@ -664,6 +655,13 @@
         <entry>w:w</entry>
         <entry>191</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>56</entry>
+        <entry>35</entry>
+        <entry>38</entry>
+        <entry>15</entry>
+        <entry>9</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
