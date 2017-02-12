@@ -107,13 +107,7 @@
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1486902332696">
-        <mark key="'" line="129" column="14" />
-        <mark key="[" line="121" column="85" />
-        <mark key="]" line="121" column="91" />
-        <mark key="." line="121" column="91" />
-        <mark key="^" line="121" column="91" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1486904993855" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/zow_frontend.info.yml" timestamp="1486410220765">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -501,9 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
-      <jump line="87" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
-      <jump line="88" column="139" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
       <jump line="132" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
       <jump line="181" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
       <jump line="182" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/otg-tee-des-jahres/web/index.php" />
@@ -601,40 +592,46 @@
       <jump line="106" column="88" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="121" column="92" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="129" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
+      <jump line="109" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
+      <jump line="122" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
+      <jump line="11" column="66" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GraphQLN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxwaF9iYWNrZW5kX2dyYXBocWxcUGx1Z2luXERhdGFUeXBlXFByb2ZpbGVQb3J0YWxSb3c7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GraphQLN</text>
+        <text>ow;</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiAgICBkZWZpbml0aW9uX2NsYXNzID0gIlxEcnVwYWxcQ29yZVxUeXBlZERhdGFcTWFwRGF0YURlZmluaXRpb24iCg==</text>
+        <text encoding="base64">dXNlIERydXBhbFxwaF9iYWNrZW5kX2dyYXBocWxcUGx1Z2luXERhdGFUeXBlXFByb2ZpbGVQb3J0YWxSb3c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxub2RlXEVudGl0eVxOb2RlOwo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFByb2ZpbGVQb3J0YWxSb3cgJGRlZmluaXRpb24gKi8K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICRkZWZpbml0aW9uID0gJHRoaXMtPnR5cGVkRGF0YU1hbmFnZXItPmNyZWF0ZURhdGFEZWZpbml0aW9uKCJlbnRpdHk6cHJvZmlsZV9wb3J0YWwiKTsuCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFByb2ZpbGVQb3J0YWxSb3dJdGUkbGlzdEl0ZW1EZWZpbml0aW9uICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXFR5cGVkRGF0YVxQbHVnaW5cRGF0YVR5cGVcTWFwOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXFR5cGVkRGF0YVxQbHVnaW5cRGF0YVR5cGVcTWFwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxub2RlXEVudGl0eVxOb2RlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICRkZWZpbml0aW9uID0gJHRoaXMtPnR5cGVkRGF0YU1hbmFnZXItPmNyZWF0ZURhdGFEZWZpbml0aW9uKCJlbnRpdHk6cHJvZmlsZV9wb3J0YWwiKTsuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXFR5cGVkRGF0YVxQbHVnaW5cRGF0YVR5cGVcTWFwOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvZmlsZVBvcnRhbFJvdyBleHRlbmRzIE1hcCB7Cg==</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXFR5cGVkRGF0YVxQbHVnaW5cRGF0YVR5cGVcTWFwOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">fQo=</text>
@@ -648,15 +645,13 @@
     </registers>
     <search>
       <last-search>Node</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>Node</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>message</entry>
-        <entry>status</entry>
         <entry>$tid</entry>
         <entry>length</entry>
         <entry>Content-Length</entry>
@@ -679,10 +674,6 @@
         <entry>Node</entry>
       </history-search>
       <history-cmd>
-        <entry>43</entry>
-        <entry>73</entry>
-        <entry>66</entry>
-        <entry>:%s/\s\+$//e</entry>
         <entry>90</entry>
         <entry>42</entry>
         <entry>89</entry>
@@ -702,6 +693,7 @@
         <entry>126</entry>
         <entry>11</entry>
         <entry>129</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
