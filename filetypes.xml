@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="theme" type="PHP" />
-      <mapping pattern="kgslkhgfsa" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="kgslkhgfsa" type="PLAIN_TEXT" />
+      <mapping pattern="ProfilePortalRowItem.php" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
