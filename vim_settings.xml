@@ -30,7 +30,7 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1486983881532">
+      <file name="/a.dummy" timestamp="1487004925621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -240,12 +240,6 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/pagination/pagination.twig" timestamp="1487001291432">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1485523268554">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
@@ -452,10 +446,11 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.libraries.yml" timestamp="1486119109166">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.libraries.yml" timestamp="1487004966281">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/modules/custom/zwo_deploy/zow_deploy.info.yml" timestamp="1486395546356">
         <mark key="[" line="2" column="9" />
@@ -619,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbGVtZW50LmhyZWYpOwo=</text>
+        <text encoding="base64">ICAgIC0gY29yZS9kcnVwYWxTZXR0aW5ncwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">y5ogL3t3aW5kb2N3LmxvY2F0aW9uLmhvc3R9L8uaIA==</text>
+        <text>jquery</text>
       </register>
       <register name="/" type="4">
         <text>svg</text>
@@ -631,19 +626,19 @@
         <text encoding="base64">dXNlIERydXBhbFxwaF9iYWNrZW5kX2dyYXBocWxcUGx1Z2luXERhdGFUeXBlXFByb2ZpbGVQb3J0YWxSb3c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbGVtZW50LmhyZWYpOwo=</text>
+        <text encoding="base64">ICAgIC0gY29yZS9kcnVwYWxTZXR0aW5ncwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmUgPSBuZXcgUmVnRXhwKCcvJyArIHdpbmRvdy5sb2NhdGlvbi5ob3N0ICsgJy8nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbGVtZW50LmhyZWYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBFeHRlcm5hbExpbmtzVGFyZ2V0QmxhbmsoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmUgPSBuZXcgUmVnRXhwKCcvJyArIHdpbmRvdy5sb2NhdGlvbi5ob3N0ICsgJy8nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBFeHRlcm5hbExpbmtzVGFyZ2V0QmxhbmsoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -652,13 +647,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQmluZCBEcnVwYWwgYmVoYXZpb3JzLAovLyBhamF4IHJlc3VsdCBjaGFuZ2UgZm9yY2UgdXMgdG8gYmluZCBldmVudCBsaXN0ZW5lcnMgb24gZXZlcnkgY2hhbmdlLgpEcnVwYWwuYmVoYXZpb3JzLmRvd25sb2FkTGlzdCA9IHsKICBhdHRhY2goKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gQmluZCBEcnVwYWwgYmVoYXZpb3JzLAovLyBhamF4IHJlc3VsdCBjaGFuZ2UgZm9yY2UgdXMgdG8gYmluZCBldmVudCBsaXN0ZW5lcnMgb24gZXZlcnkgY2hhbmdlLgpEcnVwYWwuYmVoYXZpb3JzLmRvd25sb2FkTGlzdCA9IHsKICBhdHRhY2goKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
