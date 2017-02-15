@@ -71,12 +71,12 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487156228130">
-        <mark key="'" line="299" column="35" />
-        <mark key="[" line="122" column="63" />
-        <mark key="]" line="122" column="63" />
-        <mark key="." line="122" column="63" />
-        <mark key="^" line="122" column="77" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487167939414">
+        <mark key="'" line="133" column="52" />
+        <mark key="[" line="139" column="78" />
+        <mark key="]" line="139" column="78" />
+        <mark key="." line="139" column="78" />
+        <mark key="^" line="139" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/components/index.css" timestamp="1486396617094">
         <mark key="[" line="6" column="0" />
@@ -332,6 +332,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/src/Controller/UserController.php" timestamp="1487166915044">
+        <mark key="'" line="224" column="6" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/config/staging/ph_backend_elasticsearch.mapping.yml" timestamp="1484573035743">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -347,12 +352,12 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" timestamp="1487161369337">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="124" column="6" />
-        <mark key="]" line="124" column="6" />
-        <mark key="^" line="124" column="6" />
-        <mark key="." line="124" column="6" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" timestamp="1487167724514">
+        <mark key="'" line="47" column="67" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.platform.app.yaml" timestamp="1486124137086">
         <mark key="[" line="63" column="20" />
@@ -381,6 +386,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/user.routing.yml" timestamp="1487167061900" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/modules/custom/zwo_deploy/zwo_deploy.info.yml" timestamp="1486395445348">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -542,13 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="100" filename="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/Plugin/QueueWorker/MailRelayQueueWorker.php" />
-      <jump line="236" column="60" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
-      <jump line="326" column="43" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
-      <jump line="327" column="37" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
-      <jump line="388" column="5" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
-      <jump line="389" column="9" filename="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/web/index.php" />
-      <jump line="44" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" />
       <jump line="93" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/core/lib/Drupal/Core/Entity/Controller/EntityViewController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
       <jump line="415" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -642,59 +641,66 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/user-form.html.twig" />
       <jump line="48" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
       <jump line="44" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
+      <jump line="51" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
+      <jump line="53" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
+      <jump line="135" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/src/Controller/UserController.php" />
+      <jump line="225" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/src/Controller/UserController.php" />
+      <jump line="224" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/src/Controller/UserController.php" />
+      <jump line="47" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
+      <jump line="130" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbl9kZXN0aW5hdGlvbl9wZXJmb3JtX3JlZGlyZWN0XD4=</text>
+        <text>form_alter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRsaXN0SXRlbURlZmluaXRpb24tPnNldFByb3BlcnR5RGVmaW5pdGlvbigndmFsdWUnLCBEYXRhRGVmaW5pdGlvbjo6Y3JlYXRlKCdzdHJpbmcnKSk7Cg==</text>
+        <text encoding="base64">ICAgICRzZXNzaW9uID0gJHJlcXVlc3QtPmdldFNlc3Npb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkYWNjb3VudCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHZhcmlhYmxlc1snZm9ybSddKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ1LWZvbnRNaWNybyI+CiAgICB7eyAiKiBQZmxpY2h0ZmVsZCJ8dCB9fQogIDwvZGl2Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJyVkYXRhJyA9PiBwcmludF9yKCRkZXN0aW5hdGlvbiwgVFJVRSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SElFUgo=</text>
+        <text encoding="base64">ICAgICAgJyV0cmlnZ2VyJyA9PiAkdHJpZ2dlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0d2lnLmNvbmZpZzoKICAgIGRlYnVnOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIFxEcnVwYWw6OmxvZ2dlcignZGVidWcnKS0+ZGVidWcoJyV0cmlnZ2VyIC0+ICVkYXRhJywgYXJyYXkoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFyYW1ldGVyczoK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXMpOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCRzZXNzaW9uLT5nZXRCYWcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAkc2Vzc2lvbiA9IFxEcnVwYWw6OnJlcXVlc3QoKS0+Z2V0U2Vzc2lvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbl9kZXN0aW5hdGlvbl9wZXJmb3JtX3JlZGlyZWN0XD4=</last-search>
+      <last-search>form_alter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbl9kZXN0aW5hdGlvbl9wZXJmb3JtX3JlZGlyZWN0XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>form_alter</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -709,7 +715,6 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>Jetzt anmelden</entry>
         <entry>dz4-login</entry>
-        <entry>form_alter</entry>
         <entry>var</entry>
         <entry>dsm</entry>
         <entry>$data</entry>
@@ -722,6 +727,9 @@
         <entry>_theme(</entry>
         <entry>page(</entry>
         <entry encoding="base64">XDxsb2dpbl9kZXN0aW5hdGlvbl9wZXJmb3JtX3JlZGlyZWN0XD4=</entry>
+        <entry>user_login</entry>
+        <entry>debug</entry>
+        <entry>form_alter</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -746,6 +754,8 @@
         <entry>tabNext</entry>
         <entry>125</entry>
         <entry>489</entry>
+        <entry>44</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
