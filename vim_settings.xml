@@ -47,11 +47,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" timestamp="1486137052909">
-        <mark key="[" line="101" column="34" />
-        <mark key="]" line="101" column="34" />
-        <mark key="^" line="101" column="34" />
-        <mark key="." line="101" column="34" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" timestamp="1487170161374">
+        <mark key="'" line="65" column="22" />
+        <mark key="[" line="157" column="27" />
+        <mark key="]" line="157" column="35" />
+        <mark key="^" line="157" column="35" />
+        <mark key="." line="157" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1486458785899">
         <mark key="[" line="45" column="3" />
@@ -71,12 +72,12 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487167939414">
-        <mark key="'" line="133" column="52" />
-        <mark key="[" line="139" column="78" />
-        <mark key="]" line="139" column="78" />
-        <mark key="." line="139" column="78" />
-        <mark key="^" line="139" column="78" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487171116118">
+        <mark key="'" line="188" column="9" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="139" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/components/index.css" timestamp="1486396617094">
         <mark key="[" line="6" column="0" />
@@ -352,7 +353,7 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" timestamp="1487167724514">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" timestamp="1487170640339">
         <mark key="'" line="47" column="67" />
         <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="9" />
@@ -548,10 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/core/lib/Drupal/Core/Entity/Controller/EntityViewController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
-      <jump line="415" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
-      <jump line="215" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="139" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_questionnaire_flow/src/Controller/FlowController.php" />
       <jump line="509" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="51" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_twig_filter/src/TwigExtension/DefaultTwigExtension.php" />
@@ -648,59 +645,63 @@
       <jump line="224" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/src/Controller/UserController.php" />
       <jump line="47" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" />
       <jump line="130" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="167" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" />
+      <jump line="157" column="104" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" />
+      <jump line="65" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" />
+      <jump line="189" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50X3IoJGZvcm1bJyNzdWJtaXQnXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>form_alter</text>
+        <text encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzZXNzaW9uID0gJHJlcXVlc3QtPmdldFNlc3Npb24oKTsK</text>
+        <text encoding="base64">ICAgICAgJGFjY291bnQgPSBcRHJ1cGFsXHVzZXJcRW50aXR5XFVzZXI6OmxvYWQoXERydXBhbDo6Y3VycmVudFVzZXIoKS0+aWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkYWNjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGZvcm1bJyNzdWJtaXQnXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBhcnJheV91bnNoaWZ0KCRmb3JtWycjc3VibWl0J10s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJyVkYXRhJyA9PiBwcmludF9yKCRkZXN0aW5hdGlvbiwgVFJVRSksCg==</text>
+        <text encoding="base64">ICAgICAgJGFjY291bnQgPSBcRHJ1cGFsXHVzZXJcRW50aXR5XFVzZXI6OmxvYWQoXERydXBhbDo6Y3VycmVudFVzZXIoKS0+aWQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJyV0cmlnZ2VyJyA9PiAkdHJpZ2dlciwK</text>
+        <text encoding="base64">ICAgICAgJHVybCA9IFVybDo6ZnJvbVJvdXRlKCdjb250YWN0LnNpdGVfcGFnZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFxEcnVwYWw6OmxvZ2dlcignZGVidWcnKS0+ZGVidWcoJyV0cmlnZ2VyIC0+ICVkYXRhJywgYXJyYXkoCg==</text>
+        <text encoding="base64">ICAkYWNjb3VudCA9IFxEcnVwYWxcdXNlclxFbnRpdHlcVXNlcjo6bG9hZChcRHJ1cGFsOjpjdXJyZW50VXNlcigpLT5pZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAkZGVzdGluYXRpb24gPSAkc2VydmljZS0+ZmluZERlc3RpbmF0aW9uKCR0cmlnZ2VyLCAkYWNjb3VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRzZXNzaW9uLT5nZXRCYWcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJGRlc3RpbmF0aW9uID0gJHNlcnZpY2UtPmZpbmREZXN0aW5hdGlvbignbG9naW4nLCAkYWNjb3VudCk7CiAgICAgICRmb3JtX3N0YXRlLT5zZXRSZWRpcmVjdFVybCgkdXJsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkc2Vzc2lvbiA9IFxEcnVwYWw6OnJlcXVlc3QoKS0+Z2V0U2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgJGRlc3RpbmF0aW9uID0gJHNlcnZpY2UtPmZpbmREZXN0aW5hdGlvbignbG9naW4nLCAkYWNjb3VudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form_alter</last-search>
+      <last-search encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>form_alter</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -730,6 +731,9 @@
         <entry>user_login</entry>
         <entry>debug</entry>
         <entry>form_alter</entry>
+        <entry>patch</entry>
+        <entry>fix one</entry>
+        <entry encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -756,6 +760,7 @@
         <entry>489</entry>
         <entry>44</entry>
         <entry>1</entry>
+        <entry>138</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
