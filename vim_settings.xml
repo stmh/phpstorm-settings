@@ -72,12 +72,12 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487176426350">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487180209542">
         <mark key="'" line="206" column="2" />
-        <mark key="[" line="677" column="0" />
-        <mark key="]" line="677" column="0" />
-        <mark key="^" line="681" column="5" />
-        <mark key="." line="677" column="0" />
+        <mark key="[" line="683" column="26" />
+        <mark key="]" line="683" column="57" />
+        <mark key="^" line="683" column="57" />
+        <mark key="." line="683" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/components/index.css" timestamp="1486396617094">
         <mark key="[" line="6" column="0" />
@@ -256,7 +256,6 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/03-templates/panels-onecol.twig" timestamp="1487155695923" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1485523268554">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
@@ -387,7 +386,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/user/user.routing.yml" timestamp="1487167061900" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/modules/custom/zwo_deploy/zwo_deploy.info.yml" timestamp="1486395445348">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -486,7 +484,6 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/contact-message-contact-us-form.html.twig" timestamp="1487154625022" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.libraries.yml" timestamp="1487004966281">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -651,11 +648,11 @@
       <jump line="206" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>vertrieb@dz-4.de</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vertrieb@dz-4.de</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</text>
@@ -706,14 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Content-Length</entry>
-        <entry>ecit</entry>
-        <entry>exit</entry>
-        <entry>Length</entry>
-        <entry>validate</entry>
-        <entry>consumption</entry>
-        <entry>DZ</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>Jetzt anmelden</entry>
         <entry>dz4-login</entry>
         <entry>var</entry>
@@ -736,13 +725,6 @@
         <entry encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry>16</entry>
-        <entry>74</entry>
-        <entry>126</entry>
-        <entry>11</entry>
-        <entry>129</entry>
-        <entry>3</entry>
         <entry>18</entry>
         <entry>100</entry>
         <entry>36</entry>
