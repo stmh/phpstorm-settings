@@ -319,12 +319,11 @@
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1487088442057">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1487230515584">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="207" column="87" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/zow_frontend.info.yml" timestamp="1486410220765">
         <mark key="[" line="17" column="0" />
@@ -648,65 +647,64 @@
       <jump line="206" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vertrieb@dz-4.de</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>vertrieb@dz-4.de</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</text>
+        <text>dsm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJG1lc3NhZ2VbJ2Zyb20nXSA9ICd2ZXJ0cmllYkBkei00LmRlJzsKICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGlmIChpbl9hcnJheSgkbWVzc2FnZVsnaWQnXSwgYXJyYXkoCiAgICAndXNlcl9yZWdpc3Rlcl9hZG1pbl9jcmVhdGVkJywKICAgICdwYWdlX2F1dG9yZXBseScKICApKSkgewogICAgJG1lc3NhZ2VbJ2Zyb20nXSA9ICd2ZXJ0cmllYkBkei00LmRlJzsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGlmIChpbl9hcnJheSgkbWVzc2FnZVsnaWQnXSwgYXJyYXkoCiAgICAndXNlcl9yZWdpc3Rlcl9hZG1pbl9jcmVhdGVkJywKICAgICdwYWdlX2F1dG9yZXBseScKICApKSkgewogICAgJG1lc3NhZ2VbJ2Zyb20nXSA9ICd2ZXJ0cmllYkBkei00LmRlJzsKICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRtZXNzYWdlWydpZCddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCJ5b3UiKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRtZXNzYWdlWydpZCddKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</last-search>
+      <last-search>dsm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>dsm</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>Jetzt anmelden</entry>
         <entry>dz4-login</entry>
         <entry>var</entry>
-        <entry>dsm</entry>
         <entry>$data</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxnZXRQSFByb2ZpbGVQb3J0YWxDdXN0b21GaWVsZERlZmluaXRpb25cPg==</entry>
@@ -723,6 +721,7 @@
         <entry>patch</entry>
         <entry>fix one</entry>
         <entry encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</entry>
+        <entry>dsm</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
