@@ -370,6 +370,12 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/src/EventSubscriber/CorsResponseEventSubscriber.php" timestamp="1487264574281">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="16" />
+        <mark key="^" line="96" column="83" />
+        <mark key="." line="99" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/login_destination/login_destination.module" timestamp="1487170640339">
         <mark key="'" line="47" column="67" />
         <mark key="[" line="47" column="11" />
@@ -680,10 +686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>form_alter</text>
@@ -777,6 +783,7 @@
         <entry>tabNext</entry>
         <entry>noh</entry>
         <entry>W</entry>
+        <entry>97</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
