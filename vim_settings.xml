@@ -19,11 +19,12 @@
         <mark key="^" line="81" column="74" />
         <mark key="." line="81" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1487159442243">
-        <mark key="[" line="489" column="2" />
-        <mark key="]" line="489" column="41" />
-        <mark key="." line="489" column="41" />
-        <mark key="^" line="489" column="41" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1487254592286">
+        <mark key="'" line="481" column="35" />
+        <mark key="[" line="416" column="20" />
+        <mark key="]" line="416" column="20" />
+        <mark key="^" line="416" column="23" />
+        <mark key="." line="416" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imageapi_optimize/src/Entity/ImageStyleWithPipeline.php" timestamp="1486199255506">
         <mark key="[" line="22" column="8" />
@@ -36,7 +37,7 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1487176078855">
+      <file name="/a.dummy" timestamp="1487254494346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,12 +73,11 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487180209542">
-        <mark key="'" line="206" column="2" />
-        <mark key="[" line="683" column="26" />
-        <mark key="]" line="683" column="57" />
-        <mark key="^" line="683" column="57" />
-        <mark key="." line="683" column="57" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487254726394">
+        <mark key="'" line="683" column="57" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/components/index.css" timestamp="1486396617094">
         <mark key="[" line="6" column="0" />
@@ -191,6 +191,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.local.php" timestamp="1487253979477">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="1" />
+        <mark key="^" line="110" column="1" />
+        <mark key="." line="110" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--anchor_navigation_item.html.twig" timestamp="1486458826056">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="26" />
@@ -265,6 +272,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/user-pass-reset-form.html.twig" timestamp="1487254228655">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" timestamp="1486745262914">
         <mark key="'" line="105" column="17" />
@@ -545,9 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
-      <jump line="51" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_twig_filter/src/TwigExtension/DefaultTwigExtension.php" />
-      <jump line="474" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="469" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="552" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="553" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -645,58 +654,61 @@
       <jump line="65" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/composer.json" />
       <jump line="189" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="206" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="54" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.local.php" />
+      <jump line="477" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="684" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>vertrieb@dz-4.de</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>dsm</text>
+        <text>form_alter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJG1lc3NhZ2VbJ2Zyb20nXSA9ICd2ZXJ0cmllYkBkei00LmRlJzsKICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIChpbl9hcnJheSgkbWVzc2FnZVsnaWQnXSwgYXJyYXkoCiAgICAndXNlcl9yZWdpc3Rlcl9hZG1pbl9jcmVhdGVkJywKICAgICdwYWdlX2F1dG9yZXBseScKICApKSkgewogICAgJG1lc3NhZ2VbJ2Zyb20nXSA9ICd2ZXJ0cmllYkBkei00LmRlJzsKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcmludF9yKCRmb3JtX2lkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iR3JpZCBHcmlkLS13aXRoR3V0dGVyIj4KICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWIyIj4KICAgICAgICB7eyBmb3JtLmFjY291bnQubWFpbCB9fQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWIyIj4KICAgICAgICB7eyBmb3JtLmFjY291bnQuY3VycmVudF9wYXNzfX0KICAgICAgICB7eyBmb3JtLmFjY291bnQucGFzc319CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJHcmlkLWNlbGwgdS1tYjIiPgogICAgICAgIHt7IGZvcm0ubWFpbCB9fQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTFvZjQgdS1sZy1zaXplMW9mMyI+CiAgICAgICAge3sgZm9ybS5maWVsZF9jb250YWN0X2FyZWFfY29kZSB9fQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTNvZjQgdS1sZy1zaXplMm9mMyI+CiAgICAgICAge3sgZm9ybS5maWVsZF9jZl9waG9uZV9udW1iZXIgfX0KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9IkdyaWQtY2VsbCI+CiAgICAgICAge3sgZm9ybS5tZXNzYWdlIH19CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJhY3Rpb25zIHUtbWI0Ij4KICAgICAge3sgZm9ybS5hY3Rpb25zIH19CiAgICA8L2Rpdj4KICAgIHsjIFJlbmRlcnMgdGhlIHJlc3Qgb2YgdGhlIGZvcm0gI30=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRtZXNzYWdlWydpZCddKTsK</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlcRW50aXR5Vmlld0Rpc3BsYXk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dsm</last-search>
+      <last-search>form_alter</last-search>
       <last-offset />
-      <last-pattern>dsm</last-pattern>
+      <last-pattern>form_alter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -717,11 +729,13 @@
         <entry encoding="base64">XDxsb2dpbl9kZXN0aW5hdGlvbl9wZXJmb3JtX3JlZGlyZWN0XD4=</entry>
         <entry>user_login</entry>
         <entry>debug</entry>
-        <entry>form_alter</entry>
         <entry>patch</entry>
         <entry>fix one</entry>
         <entry encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</entry>
         <entry>dsm</entry>
+        <entry>user_pass</entry>
+        <entry>user_form</entry>
+        <entry>form_alter</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
