@@ -142,7 +142,12 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/host.yaml" timestamp="1487330349463" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/host.yaml" timestamp="1487335262775">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/themes/custom/ph_york/css/style.css" timestamp="1484244213553">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -522,6 +527,12 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/fabfile.yaml" timestamp="1487335183242">
+        <mark key="[" line="171" column="18" />
+        <mark key="]" line="171" column="16" />
+        <mark key="." line="171" column="16" />
+        <mark key="^" line="171" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/graylog-api.js" timestamp="1481199649223">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="11" column="0" />
@@ -704,16 +715,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGRhdGEtPnNldFZhbHVlKCRyb3cpOwo=</text>
+        <text encoding="base64">cm9vdEZvbGRlcjogL3Zhci93d3cK</text>
       </register>
       <register name="-" type="4">
-        <text>$result</text>
+        <text>ssh://git@source.factorial.io:2222/BI/cv-hub.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ25hbWUnLCBEYXRhRGVmaW5pdGlvbjo6Y3JlYXRlKCdzdHJpbmcnKSk7Cg==</text>
+        <text encoding="base64">cm9vdEZvbGRlcjogL3Zhci93d3cK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJGRhdGEtPnNldFZhbHVlKCRyb3cpOwo=</text>
@@ -746,7 +757,7 @@
         <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ2xvZ28nLCBEYXRhRGVmaW5pdGlvbjo6Y3JlYXRlKCdzdHJpbmcnKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w:w</text>
       </register>
     </registers>
     <search>
@@ -807,6 +818,7 @@
         <entry>142</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>w:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
