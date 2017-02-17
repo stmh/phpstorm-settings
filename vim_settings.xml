@@ -527,11 +527,11 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/fabfile.yaml" timestamp="1487335183242">
-        <mark key="[" line="171" column="18" />
-        <mark key="]" line="171" column="16" />
-        <mark key="." line="171" column="16" />
-        <mark key="^" line="171" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/fabfile.yaml" timestamp="1487335983531">
+        <mark key="[" line="130" column="23" />
+        <mark key="]" line="130" column="23" />
+        <mark key="." line="130" column="23" />
+        <mark key="^" line="130" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/graylog-api.js" timestamp="1481199649223">
         <mark key="[" line="3" column="17" />
@@ -757,7 +757,7 @@
         <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ2xvZ28nLCBEYXRhRGVmaW5pdGlvbjo6Y3JlYXRlKCdzdHJpbmcnKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w:w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -817,8 +817,8 @@
         <entry>121</entry>
         <entry>142</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>w:w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
