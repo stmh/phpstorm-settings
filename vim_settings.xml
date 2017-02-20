@@ -556,6 +556,13 @@
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/rmh-cv-user-profile-page.tpl.twig" timestamp="1487609672163">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/graylog-api.js" timestamp="1481199649223">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="11" column="0" />
@@ -635,7 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="137" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="168" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="171" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -735,10 +741,11 @@
       <jump line="279" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="111" column="72" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_deploy/dzvier_deploy.install" />
       <jump line="11" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/rmh-cv-user-profile-page.tpl.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyN7eyBlbGVtZW50fGR1bXAoJ2RwbScpIH19I30KeyUgaWYgaXRlbXMgaXMgbm90IGVtcHR5ICV9CiAgICB7JSBpZiBub3QgbGFiZWxfaGlkZGVuICV9CiAgICAgICAgPGRpdiBjbGFzcz0ibGFiZWwte3sgZWxlbWVudFsnI2xhYmVsX2Rpc3BsYXknXSB9fSI+e3sgbGFiZWwgfX06Jm5ic3A7PC9kaXY+CiAgICB7JSBlbmRpZiAlfQogICAge3sgaXRlbXMgfX0KeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -750,7 +757,7 @@
         <text encoding="base64">cm9vdEZvbGRlcjogL3Zhci93d3cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyN7eyBlbGVtZW50fGR1bXAoJ2RwbScpIH19I30KeyUgaWYgaXRlbXMgaXMgbm90IGVtcHR5ICV9CiAgICB7JSBpZiBub3QgbGFiZWxfaGlkZGVuICV9CiAgICAgICAgPGRpdiBjbGFzcz0ibGFiZWwte3sgZWxlbWVudFsnI2xhYmVsX2Rpc3BsYXknXSB9fSI+e3sgbGFiZWwgfX06Jm5ic3A7PC9kaXY+CiAgICB7JSBlbmRpZiAlfQogICAge3sgaXRlbXMgfX0KeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -762,22 +769,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRlbnRpdHlfaWRzKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzbSgkcG9ydGFscyk7Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRlbnRpdHlfaWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkcG9ydGFscyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkc20oJHF1ZXJ5KTsK</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkc2FuZGJveCA9IFtdOwo=</text>
+        <text encoding="base64">ICBkc20oJHF1ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
