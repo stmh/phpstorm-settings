@@ -347,6 +347,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" timestamp="1487586561034">
+        <mark key="[" line="135" column="50" />
+        <mark key="]" line="135" column="54" />
+        <mark key="^" line="135" column="54" />
+        <mark key="." line="135" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/user-form.html.twig" timestamp="1487259224458">
         <mark key="b" line="7" column="24" />
         <mark key="t" line="26" column="2" />
@@ -623,7 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="124" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="137" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="168" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -723,13 +728,14 @@
       <jump line="323" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="279" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="111" column="72" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_deploy/dzvier_deploy.install" />
+      <jump line="11" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdUaGlzIGxpbmsgY2FuIG9ubHkgYmUgdXNlZCBvbmNlIHRvIGxvZyBpbiBhbmQgd2lsbCBsZWFkIHlvdSB0byBhIHBhZ2Ugd2hlcmUgeW91IGNhbiBzZXQgeW91ciBwYXNzd29yZC4nID0+ICcnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>referencedEntities</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</text>
@@ -738,34 +744,34 @@
         <text encoding="base64">cm9vdEZvbGRlcjogL3Zhci93d3cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdUaGlzIGxpbmsgY2FuIG9ubHkgYmUgdXNlZCBvbmNlIHRvIGxvZyBpbiBhbmQgd2lsbCBsZWFkIHlvdSB0byBhIHBhZ2Ugd2hlcmUgeW91IGNhbiBzZXQgeW91ciBwYXNzd29yZC4nID0+ICcnLAo=</text>
+        <text encoding="base64">ICAgIGRzbSgkdmFsdWVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJGRhdGEtPnNldFZhbHVlKCRyb3cpOwo=</text>
+        <text encoding="base64">ICAgIH0sICRwb3J0YWxzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFsndmFsdWUnID0+ICRlbGVtXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR2YWx1ZXMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRlbGVtKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRlbnRpdHktPmdldCgnZmllbGRfJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRyZXN1bHQgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGVsZW0pIHsKICAgICAgCiAgICAgIHJldHVybiBbCiAgICAgICAgJ25hbWUnID0+ICRuYW1lLAogICAgICAgICduYXRpdmUnID0+ICRuYXRpdmUsCiAgICAgICAgJ2RpcmVjdGlvbicgPT4gZW1wdHkoJGRpcmVjdGlvbikgPyAnbHRyJyA6ICRkaXJlY3Rpb24sCiAgICAgIF0KICAgIH0sICRsYW5ndWFnZXMpOwo=</text>
+        <text encoding="base64">ICAgIGRzbSgkcG9ydGFscyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICBkc20oKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGVudGl0eSA9IE5vZGU6OmxvYWQoJG5pZCk7CiAgICAkcmVzdWx0ID0gW107CiAgICBpZiAoISRlbnRpdHkpIHsKICAgICAgcmV0dXJuIE5VTEw7CiAgICB9CiAgICAkdHlwZWREYXRhTWFuYWdlciA9IFxEcnVwYWw6OmdldENvbnRhaW5lcigpLT5nZXQoJ3R5cGVkX2RhdGFfbWFuYWdlcicpOwogICAgJGRlZmluaXRpb24gPSBzZWxmOjpnZXRQaFByb2ZpbGVQb3J0YWxDdXN0b21GaWVsZERlZmluaXRpb24oJHR5cGVkRGF0YU1hbmFnZXIpOwoKICAgIGlmICghJGVudGl0eS0+aGFzRmllbGQoJ2ZpZWxkX3Byb2ZpbGVfcG9ydGFsX2RldGFpbHMnKSkgewogICAgICByZXR1cm4gW107CiAgICB9CgogICAgLyoqIEB2YXIgXERydXBhbFxwaF9wcm9maWxlX3BvcnRhbFxFbnRpdHlcUHJvZmlsZVBvcnRhbEludGVyZmFjZSAkcG9ydGFsICovCiAgICBmb3JlYWNoICgkZW50aXR5LT5nZXQoJ2ZpZWxkX3Byb2ZpbGVfcG9ydGFsX2RldGFpbHMnKS0+cmVmZXJlbmNlZEVudGl0aWVzKCkgYXMgJHBvcyA9PiAkcG9ydGFsKSB7CiAgICAgIGlmICghJHBvcnRhbCkgewogICAgICAgIGNvbnRpbnVlOwogICAgICB9CiAgICAgIC8qKiBAdmFyIFxEcnVwYWxcQ29yZVxFbnRpdHlcRW50aXR5XEVudGl0eVZpZXdEaXNwbGF5ICR2aWV3X2Rpc3BsYXkgKi8KICAgICAgJHZpZXdfZGlzcGxheSA9IFxEcnVwYWw6OmVudGl0eVR5cGVNYW5hZ2VyKCkKICAgICAgICAtPmdldFN0b3JhZ2UoJ2VudGl0eV92aWV3X2Rpc3BsYXknKQogICAgICAgIC0+bG9hZCgncHJvZmlsZV9wb3J0YWwuJyAuICRwb3J0YWwtPmJ1bmRsZSgpIC4gJy5kZWZhdWx0Jyk7CiAgICAgICRjb21wb25lbnRzID0gJHZpZXdfZGlzcGxheSA/ICR2aWV3X2Rpc3BsYXktPmdldENvbXBvbmVudHMoKSA6IFtdOwoKICAgICAgJG91dCA9IFtdOwogICAgICAkb3V0Wydwb3MnXSA9ICRwb3M7CiAgICAgICRkYXRhID0gJHR5cGVkRGF0YU1hbmFnZXItPmNyZWF0ZSgkZGVmaW5pdGlvbik7CiAgICAgICRvdXRbJ3R5cGUnXSA9ICRwb3J0YWwgPyAkcG9ydGFsLT5nZXRUeXBlKCkgOiAnJzsKCiAgICAgIGlmICgkcG9ydGFsICYmICFlbXB0eSgkcG9ydGFsLT5nZXQoJ2ZpZWxkX3BvcnRhbCcpLT50YXJnZXRfaWQpKSB7CiAgICAgICAgJHBvcnRhbF9ub2RlID0gcmVzZXQoJHBvcnRhbC0+Z2V0KCdmaWVsZF9wb3J0YWwnKS0+cmVmZXJlbmNlZEVudGl0aWVzKCkpOwogICAgICAgICRvdXRbJ3VybCddID0gJHBvcnRhbF9ub2RlLT5nZXQoJ2ZpZWxkX3VybCcpLT51cmk7CiAgICAgICAgJG91dFsnbmFtZSddID0gJHBvcnRhbF9ub2RlLT5sYWJlbCgpOwogICAgICAgICRsb2dvID0gcmVzZXQoJHBvcnRhbF9ub2RlLT5nZXQoJ2ZpZWxkX2xvZ28nKS0+cmVmZXJlbmNlZEVudGl0aWVzKCkpOwogICAgICAgICRvdXRbJ2xvZ28nXSA9ICRsb2dvID8gJGxvZ28tPnVybCgpIDogJyc7CiAgICAgIH0KICAgICAgJHJvd3MgPSBbXTsKICAgICAgaWYgKCRwb3J0YWwpIHsKICAgICAgICBmb3JlYWNoICgkcG9ydGFsLT5nZXRGaWVsZERlZmluaXRpb25zKCkgYXMgJGsgPT4gJHYpIHsKICAgICAgICAgIGlmICgkayAhPT0gJ2ZpZWxkX3BvcnRhbCcgJiYgc3RycG9zKCRrLCAnZmllbGRfJykgPT09IDApIHsKICAgICAgICAgICAgJHJvdyA9IFsKICAgICAgICAgICAgICAna2V5JyA9PiAkaywKICAgICAgICAgICAgICAnbGFiZWwnID0+ICR2LT5nZXRMYWJlbCgpLAogICAgICAgICAgICAgICd2YWx1ZScgPT4gJHBvcnRhbC0+Z2V0KCRrKS0+dmFsdWUsCiAgICAgICAgICAgIF07CiAgICAgICAgICAgIGlmICghZW1wdHkoJGNvbXBvbmVudHNbJGtdWyd3ZWlnaHQnXSkpIHsKICAgICAgICAgICAgICAkcm93Wyd3ZWlnaHQnXSA9ICRjb21wb25lbnRzWyRrXVsnd2VpZ2h0J107CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgJHJvd1snd2VpZ2h0J10gPSBjb3VudCgkcm93cykgKyAxOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRyb3dzW10gPSAkcm93OwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgICB1c29ydCgkcm93cywgZnVuY3Rpb24gKCRhLCAkYikgewogICAgICAgIHJldHVybiAkYVsnd2VpZ2h0J10gPiAkYlsnd2VpZ2h0J107CiAgICAgIH0pOwogICAgICAkb3V0Wydyb3dzJ10gPSAkcm93czsKCiAgICAgICRkYXRhLT5zZXRWYWx1ZSgkb3V0KTsKICAgICAgJHJlc3VsdFtdID0gJGRhdGE7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3Jvd3MnLCAkbGlzdERlZmluaXRpb24pOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -807,8 +813,6 @@
         <entry>186</entry>
         <entry>489</entry>
         <entry>44</entry>
-        <entry>1</entry>
-        <entry>138</entry>
         <entry>185</entry>
         <entry>tabNext</entry>
         <entry>97</entry>
@@ -821,6 +825,8 @@
         <entry>w:w</entry>
         <entry>51</entry>
         <entry>125</entry>
+        <entry>1</entry>
+        <entry>138</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
