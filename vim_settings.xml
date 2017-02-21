@@ -608,11 +608,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_consultant/src/Plugin/views/field/FileFormatField.php" timestamp="1486382250053">
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="61" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_consultant/src/Plugin/views/field/FileFormatField.php" timestamp="1487667933872">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
+        <mark key="^" line="65" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.platformsh.php" timestamp="1484819539702">
         <mark key="[" line="109" column="0" />
@@ -757,10 +757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>langcodes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>langcodes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\'</text>
@@ -775,28 +775,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXExhbmd1YWdlXExhbmd1YWdlSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICduYXRpdmUnID0+ICRuYXRpdmUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICdkaXJlY3Rpb24nID0+IGVtcHR5KCRkaXJlY3Rpb24pID8gJ2x0cicgOiAkZGlyZWN0aW9uLAo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlXExhbmd1YWdlXExhbmd1YWdlSW50ZXJmYWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAbGlzdCgkbmFtZSwgJG5hdGl2ZSwgJGRpcmVjdGlvbikgPSAkY291bnRyeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICduYXRpdmUnID0+ICRuYXRpdmUsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGxvY2FsX0NvdW50cmllcyA9IFxEcnVwYWw6Omxhbmd1YWdlTWFuYWdlcigpLT5nZXRDb3VudHJpZXMoTGFuZ3VhZ2VJbnRlcmZhY2U6OlNUQVRFX0FMTCk7CiAgICBmb3JlYWNoICgkbG9jYWxfQ291bnRyaWVzIGFzICRjb2RlID0+ICRsYW5nKSB7CiAgICAgIGlmICghaXNzZXQoJENvdW50cmllc1skY29kZV0pKSB7CiAgICAgICAgJENvdW50cmllc1skY29kZV0gPSBbCiAgICAgICAgICAkbGFuZy0+Z2V0TmFtZSgpLAogICAgICAgICAgJGxhbmctPmdldE5hbWUoKSwKICAgICAgICAgICRsYW5nLT5nZXREaXJlY3Rpb24oKSwKICAgICAgICBdOwogICAgICB9CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICdkaXJlY3Rpb24nID0+IGVtcHR5KCRkaXJlY3Rpb24pID8gJ2x0cicgOiAkZGlyZWN0aW9uLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ2RpcmVjdGlvbicsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ3N0cmluZycpKTsK</text>
+        <text encoding="base64">ICAgICAgICBAbGlzdCgkbmFtZSwgJG5hdGl2ZSwgJGRpcmVjdGlvbikgPSAkY291bnRyeTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ25hZGRkZHReaXZlJywgRGF0YURlZmluaXRpb246OmNyZWF0ZSgnc3RyaW5nJykpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JGxvY2FsX0NvdW50cmllcyA9IFxEcnVwYWw6Omxhbmd1YWdlTWFuYWdlcigpLT5nZXRDb3VudHJpZXMoTGFuZ3VhZ2VJbnRlcmZhY2U6OlNUQVRFX0FMTCk7CiAgICBmb3JlYWNoICgkbG9jYWxfQ291bnRyaWVzIGFzICRjb2RlID0+ICRsYW5nKSB7CiAgICAgIGlmICghaXNzZXQoJENvdW50cmllc1skY29kZV0pKSB7CiAgICAgICAgJENvdW50cmllc1skY29kZV0gPSBbCiAgICAgICAgICAkbGFuZy0+Z2V0TmFtZSgpLAogICAgICAgICAgJGxhbmctPmdldE5hbWUoKSwKICAgICAgICAgICRsYW5nLT5nZXREaXJlY3Rpb24oKSwKICAgICAgICBdOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyN7eyBlbGVtZW50fGR1bXAoJ2RwbScpIH19I30KeyUgaWYgaXRlbXMgaXMgbm90IGVtcHR5ICV9CiAgICB7JSBpZiBub3QgbGFiZWxfaGlkZGVuICV9CiAgICAgICAgPGRpdiBjbGFzcz0ibGFiZWwte3sgZWxlbWVudFsnI2xhYmVsX2Rpc3BsYXknXSB9fSI+e3sgbGFiZWwgfX06Jm5ic3A7PC9kaXY+CiAgICB7JSBlbmRpZiAlfQogICAge3sgaXRlbXMgfX0KeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ2RpcmVjdGlvbicsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ3N0cmluZycpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -807,11 +807,10 @@
       <last-offset />
       <last-pattern>\\'</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Node</entry>
         <entry>arrow</entry>
         <entry>svg</entry>
         <entry>_theme(</entry>
@@ -834,10 +833,6 @@
         <entry>\\'</entry>
       </history-search>
       <history-cmd>
-        <entry>tabNext</entry>
-        <entry>wq</entry>
-        <entry>117</entry>
-        <entry>noh</entry>
         <entry>121</entry>
         <entry>142</entry>
         <entry>w:w</entry>
