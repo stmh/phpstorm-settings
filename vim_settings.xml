@@ -504,7 +504,7 @@
         <text>Number of followers</text>
       </register>
       <register name="/" type="4">
-        <text>\\'</text>
+        <text>para</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gZW50aXR5X2xvYWQoJ3VzZXInLCAkdWlkKTsK</text>
@@ -544,11 +544,11 @@
       </register>
     </registers>
     <search>
-      <last-search>\\'</last-search>
+      <last-search>para</last-search>
       <last-offset />
-      <last-pattern>\\'</last-pattern>
+      <last-pattern>para</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -572,6 +572,7 @@
         <entry>LANGUAGEFIELD_LANGUAGES_PREDEFINED</entry>
         <entry encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</entry>
         <entry>\\'</entry>
+        <entry>para</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
