@@ -9,19 +9,13 @@
         <mark key="^" line="81" column="74" />
         <mark key="." line="81" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1487259642923">
-        <mark key="'" line="481" column="35" />
-        <mark key="[" line="502" column="0" />
-        <mark key="]" line="502" column="0" />
-        <mark key="." line="502" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/.gitignore" timestamp="1486410823660">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="15" />
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1487777471943">
+      <file name="/a.dummy" timestamp="1487784816696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -105,23 +99,17 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/config/staging/core.extension.yml" timestamp="1487266372643">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/host.yaml" timestamp="1487335262775">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/ph_backend_graphql.services.yml" timestamp="1487627788171">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="62" />
-        <mark key="^" line="12" column="62" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/ph_backend_graphql.services.yml" timestamp="1487783843902">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="17" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/base/base.css" timestamp="1486410363089">
         <mark key="[" line="19" column="24" />
@@ -180,6 +168,12 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" timestamp="1487784694012">
+        <mark key="[" line="120" column="67" />
+        <mark key="]" line="120" column="72" />
+        <mark key="^" line="120" column="72" />
+        <mark key="." line="120" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/fabfile.yaml" timestamp="1486424392379">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
@@ -218,13 +212,26 @@
         <mark key="." line="198" column="21" />
         <mark key="^" line="142" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/graphql/src/SchemaProvider/EntitySchemaProvider.php" timestamp="1487785134597">
+        <mark key="'" line="100" column="11" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="191" column="39" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-frontend/src/main.js" timestamp="1485988040359">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="6" />
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1487277877513">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PhSearchResult.php" timestamp="1487784323270">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1487783995619">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -387,16 +394,14 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhCountriesSchemaProvider.php" timestamp="1487627887971">
-        <mark key="[" line="78" column="9" />
-        <mark key="]" line="78" column="20" />
-        <mark key="." line="78" column="20" />
-        <mark key="^" line="78" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhCountriesSchemaProvider.php" timestamp="1487784061599">
+        <mark key="[" line="95" column="43" />
+        <mark key="]" line="95" column="54" />
+        <mark key="." line="95" column="54" />
+        <mark key="^" line="95" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
-      <jump line="183" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="199" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="202" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="296" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -495,58 +500,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/rmh-cv-user-profile-page.tpl.twig" />
       <jump line="198" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
       <jump line="74" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_tools/factorial_tools.module" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/graphql/src/SchemaProvider/EntitySchemaProvider.php" />
+      <jump line="100" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/graphql/src/SchemaProvider/EntitySchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Number of followers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Number of followers</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
-        <text>para</text>
+        <text>offset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gZW50aXR5X2xvYWQoJ3VzZXInLCAkdWlkKTsK</text>
+        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3RpdGxlJywgRGF0YURlZmluaXRpb246OmNyZWF0ZSgnc3RyaW5nJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gZW50aXR5X2xvYWQoJ3VzZXInLCAkdWlkKTsK</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gJGZvcm1bJ2ZpZWxkX25vZGUnXVsnd2lkZ2V0J11bJyNhY2Nlc3MnXSA9IEZBTFNFOwogICAgICAvLyRmb3JtWydmaWVsZF90ZXJtJ11bJ3dpZGdldCddWycjYWNjZXNzJ10gPSBGQUxTRTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkYXJnc1snb2Zmc2V0J10gPzogTlVMTCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkYXJnc1snbGltaXQnXSA/OiBOVUxMKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcXVlcnktPnJhbmdlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlXExhbmd1YWdlXExhbmd1YWdlSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICduYXRpdmUnID0+ICRuYXRpdmUsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGNvdW50cmllcyA9IHBoX2JhY2tlbmRfdXRpbHNfZ2V0X2NvdW50cmllcygpOwoKICAgIGZvcmVhY2ggKCRjb3VudHJpZXMgYXMgJGNvZGUgPT4gJGNvdW50cnkpIHsKICAgICAgJGRhdGEgPSAkdHlwZWREYXRhTWFuYWdlci0+Y3JlYXRlKCRkZWZpbml0aW9uKTsKICAgICAgaWYgKGNvdW50KCRjb3VudHJ5X2NvZGVzKSA9PSAwIHx8IGluX2FycmF5KCRjb2RlLCAkY291bnRyeV9jb2RlcykpIHsKICAgICAgICAkcm93ID0gWwogICAgICAgICAgJ2NvdW50cnlDb2RlJyA9PiAkY29kZSwKICAgICAgICAgICduYW1lJyA9PiAkY291bnRyeSwKICAgICAgICBdOwogICAgICAgICRkYXRhLT5zZXRWYWx1ZSgkcm93KTsKICAgICAgICAkcmVzdWx0W10gPSAkZGF0YTsKICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdkaXJlY3Rpb24nID0+IGVtcHR5KCRkaXJlY3Rpb24pID8gJ2x0cicgOiAkZGlyZWN0aW9uLAo=</text>
+      <register name="8" type="4">
+        <text>Countries($source, array $args = NULL, $root, GraphQLNode $field, $a, $b, $c, $data) {
+    return self::getPhCountriesImpl($ar</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAbGlzdCgkbmFtZSwgJG5hdGl2ZSwgJGRpcmVjdGlvbikgPSAkY291bnRyeTsK</text>
+        <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gZW50aXR5X2xvYWQoJ3VzZXInLCAkdWlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>para</last-search>
+      <last-search>offset</last-search>
       <last-offset />
-      <last-pattern>para</last-pattern>
+      <last-pattern>offset</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -573,6 +581,8 @@
         <entry encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</entry>
         <entry>\\'</entry>
         <entry>para</entry>
+        <entry>FI</entry>
+        <entry>offset</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
