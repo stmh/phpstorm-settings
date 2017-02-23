@@ -29,7 +29,7 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1487853937597">
+      <file name="/a.dummy" timestamp="1487888176218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -273,11 +273,11 @@
         <mark key="]" line="44" column="25" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" timestamp="1487884082700">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="124" column="42" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" timestamp="1487888432106">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="164" column="48" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/index.html.twig" timestamp="1480961227974">
         <mark key="[" line="45" column="0" />
@@ -646,12 +646,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" timestamp="1487885249743">
-        <mark key="'" line="104" column="26" />
-        <mark key="[" line="126" column="12" />
-        <mark key="]" line="126" column="11" />
-        <mark key="^" line="126" column="11" />
-        <mark key="." line="126" column="11" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" timestamp="1487886729190">
+        <mark key="'" line="125" column="11" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/main.js" timestamp="1481229200188">
         <mark key="[" line="7" column="0" />
@@ -716,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="181" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="84" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
@@ -816,58 +815,59 @@
       <jump line="679" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="488" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="99" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" />
+      <jump line="125" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtpbnQoJHJlc3BvbnNlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>tid</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>getPhNav</text>
+        <text>dsm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3RpZCcsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ2ludGVnZXInKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndGVybScgPT4gWydmaWVsZF90b3VybmFtZW50LmlkJyA9PiAkaW5wdXRdLAogICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJHJlc3BvbnNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGhhc19jaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGhpZXJhcmNoeSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd0ZXJtJyA9PiBbJ3N0YXR1cycgPT4gVFJVRV0sCiAgICAgICAgICAgICAgXSw=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyb3cpOwo=</text>
+        <text encoding="base64">ICAgICAga2ludCgkaGl0Wydfc291cmNlJ11bJ2ZpZWxkX3RvdXJuYW1lbnQnXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAga2ludCgkaGl0Wydfc291cmNlJ11bJ2ZpZWxkX2ludGVyZXN0ZWRfc3BvcnRzJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcm93KTsK</text>
+        <text encoding="base64">ICAgIGtpbnQoJHJlc3BvbnNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRyb3cpOwo=</text>
+        <text encoding="base64">ICAgICRyZXN1bHQgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRyb3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICdtYXRjaCcgPT4gWwogICAgICAgICAgICAgICAgJ19hbGwnID0+ICRpbnB1dCwKICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getPhNav</last-search>
+      <last-search>dsm</last-search>
       <last-offset />
-      <last-pattern>getPhNav</last-pattern>
+      <last-pattern>dsm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -883,7 +883,6 @@
         <entry>patch</entry>
         <entry>fix one</entry>
         <entry encoding="base64">XDxkenZpZXJfdXRpbHNfcmVkaXJlY3RfYWZ0ZXJfcGFzc19jaGFuZ2VcPg==</entry>
-        <entry>dsm</entry>
         <entry>user_pass</entry>
         <entry>user_form</entry>
         <entry>form_alter</entry>
@@ -904,6 +903,7 @@
         <entry>send_to</entry>
         <entry>getCoun</entry>
         <entry>getPhNav</entry>
+        <entry>dsm</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
@@ -943,6 +943,9 @@
         <entry>120</entry>
         <entry>146</entry>
         <entry>112</entry>
+        <entry>Se</entry>
+        <entry>242</entry>
+        <entry>165</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
