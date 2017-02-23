@@ -71,6 +71,12 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PHNavigation.php" timestamp="1487878632367">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1487863853769">
         <mark key="'" line="488" column="49" />
         <mark key="[" line="693" column="0" />
@@ -169,11 +175,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/ph_backend_graphql.services.yml" timestamp="1487792637185">
-        <mark key="[" line="18" column="101" />
-        <mark key="]" line="17" column="59" />
-        <mark key="." line="17" column="59" />
-        <mark key="^" line="17" column="59" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/ph_backend_graphql.services.yml" timestamp="1487878321438">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="62" />
+        <mark key="^" line="22" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/base/base.css" timestamp="1486410363089">
         <mark key="[" line="19" column="24" />
@@ -628,6 +634,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" timestamp="1487879083239">
+        <mark key="'" line="100" column="26" />
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="23" />
+        <mark key="." line="106" column="23" />
+        <mark key="^" line="107" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/main.js" timestamp="1481229200188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -691,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="85" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="181" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" />
@@ -791,58 +803,59 @@
       <jump line="687" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="679" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="488" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="99" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>$message['from']</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>send_to</text>
+        <text>getCoun</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAndGVybScgPT4gWyd0eXBlJyA9PiAncHJvZmlsZSddLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KCR0eXBlZERhdGFNYW5hZ2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ2xhYmVsJywgRGF0YURlZmluaXRpb246OmNyZWF0ZSgnc3RyaW5nJykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG1lc3NhZ2VbJ2hlYWRlcnMnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG1lc3NhZ2VbJ2hlYWRlcnMnXSk7Cg==</text>
+        <text encoding="base64">ICAgICRjb3VudHJpZXMgPSBwaF9iYWNrZW5kX3V0aWxzX2dldF9jb3VudHJpZXMoKTsKCiAgICBmb3JlYWNoICgkY291bnRyaWVzIGFzICRjb2RlID0+ICRjb3VudHJ5KSB7CiAgICAgICRkYXRhID0gJHR5cGVkRGF0YU1hbmFnZXItPmNyZWF0ZSgkZGVmaW5pdGlvbik7CiAgICAgIGlmIChjb3VudCgkY291bnRyeV9jb2RlcykgPT0gMCB8fCBpbl9hcnJheSgkY29kZSwgJGNvdW50cnlfY29kZXMpKSB7CiAgICAgICAgJHJvdyA9IFsKICAgICAgICAgICdjb3VudHJ5Q29kZScgPT4gJGNvZGUsCiAgICAgICAgICAnbmFtZScgPT4gJGNvdW50cnksCiAgICAgICAgXTsKICAgICAgICAkZGF0YS0+c2V0VmFsdWUoJHJvdyk7CiAgICAgICAgJHJlc3VsdFtdID0gJGRhdGE7CiAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBcZHJpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgJ2NvdW50cnljb2RlcycgPT4gWwogICAgICAgICAgJ3R5cGUnID0+IG5ldyBMaXN0TW9kaWZpZXIoVHlwZTo6c3RyaW5nVHlwZSgpKSwKICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG1lc3NhZ2VbJ2hlYWRlcnMnXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG1lc3NhZ2VbJ2hlYWRlcnMnXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>send_to</last-search>
+      <last-search>getCoun</last-search>
       <last-offset />
-      <last-pattern>send_to</last-pattern>
+      <last-pattern>getCoun</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -877,6 +890,7 @@
         <entry>crm</entry>
         <entry>send_to_crm</entry>
         <entry>send_to</entry>
+        <entry>getCoun</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
@@ -904,10 +918,12 @@
         <entry>156</entry>
         <entry>198</entry>
         <entry>99</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>noh</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>79</entry>
+        <entry>107</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
