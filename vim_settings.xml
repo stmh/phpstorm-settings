@@ -218,6 +218,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_tools/src/TranslationTools.php" timestamp="1488230276403">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--form_block.html.twig" timestamp="1485523258907">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
@@ -505,10 +511,10 @@
         <mark key="]" line="42" column="18" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" timestamp="1485883542949">
-        <mark key="[" line="142" column="37" />
-        <mark key="]" line="142" column="37" />
-        <mark key="." line="142" column="37" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" timestamp="1488230527134">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose.yml" timestamp="1486136842424">
         <mark key="[" line="1" column="37" />
@@ -816,11 +822,11 @@
       <jump line="125" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>dsm</text>
