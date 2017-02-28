@@ -195,11 +195,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/dzvier_map.html.twig" timestamp="1488281379663">
-        <mark key="[" line="144" column="30" />
-        <mark key="]" line="144" column="29" />
-        <mark key="." line="144" column="29" />
-        <mark key="^" line="144" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/dzvier_map.html.twig" timestamp="1488293411959">
+        <mark key="[" line="140" column="57" />
+        <mark key="]" line="140" column="95" />
+        <mark key="." line="140" column="95" />
+        <mark key="^" line="140" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchController.php" timestamp="1487793114229">
         <mark key="[" line="41" column="67" />
@@ -904,10 +904,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>project_name</text>
+        <text>AIzaSyCdmrRzpXEC5gkgeY_elg6KmsRXYn9hOS8</text>
       </register>
       <register name="-" type="4">
-        <text>project_name</text>
+        <text>AIzaSyCdmrRzpXEC5gkgeY_elg6KmsRXYn9hOS8</text>
       </register>
       <register name="/" type="4">
         <text>panels</text>
@@ -954,12 +954,10 @@
       <last-offset />
       <last-pattern>panels</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user_form</entry>
-        <entry>form_alter</entry>
         <entry>web</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NPcHRpb25zXD4=</entry>
         <entry>v</entry>
@@ -982,11 +980,6 @@
         <entry>panels</entry>
       </history-search>
       <history-cmd>
-        <entry>156</entry>
-        <entry>198</entry>
-        <entry>99</entry>
-        <entry>noh</entry>
-        <entry>wq</entry>
         <entry>79</entry>
         <entry>107</entry>
         <entry>:w</entry>
