@@ -201,6 +201,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Plugin/Block/MapBlock.php" timestamp="1488275856746">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--form_block.html.twig" timestamp="1486458847762">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -249,6 +255,12 @@
         <mark key="]" line="110" column="1" />
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/dzvier_map.routing.yml" timestamp="1488274990514">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--anchor_navigation_item.html.twig" timestamp="1486458826056">
         <mark key="[" line="39" column="0" />
@@ -337,6 +349,12 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/dzvier_map.module" timestamp="1488275803405">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="35" column="59" />
+        <mark key="^" line="35" column="59" />
+        <mark key="." line="35" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/utils/index.css" timestamp="1486396558580">
         <mark key="[" line="5" column="0" />
@@ -596,6 +614,12 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/templates/dzvier_map.html.twig" timestamp="1488274687508">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--dz4-local-tasks.html.twig" timestamp="1486639598472">
         <mark key="[" line="34" column="38" />
         <mark key="]" line="34" column="38" />
@@ -661,6 +685,12 @@
         <mark key="]" line="135" column="0" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1488275967757">
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="47" column="37" />
+        <mark key="^" line="47" column="37" />
+        <mark key="." line="47" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/main.js" timestamp="1481229200188">
         <mark key="[" line="7" column="0" />
@@ -827,17 +857,17 @@
       <jump line="125" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Response</text>
       </register>
       <register name="-" type="4">
-        <text>_add_localisation</text>
+        <text>Response</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndGVybScgPT4gWydmaWVsZF90b3VybmFtZW50LmlkJyA9PiAkaW5wdXRdLAogICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ZHp2aWVyX21hcC5tYXBfYWpheF9jb250cm9sbGVyX2FjdGl2ZU1hcmtlcjoKICBwYXRoOiAnL2FqYXgvZHp2aWVyLW1hcC1kYXRhJwogIGRlZmF1bHRzOgogICAgX2NvbnRyb2xsZXI6ICdcRHJ1cGFsXGR6dmllcl9tYXBcQ29udHJvbGxlclxNYXBBamF4Q29udHJvbGxlcjo6YWN0aXZlTWFya2VyJwogICAgX3RpdGxlOiAnZ2V0RGF0YScKICByZXF1aXJlbWVudHM6CiAgICBfcGVybWlzc2lvbjogJ2FjY2VzcyBjb250ZW50Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -846,28 +876,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlCiAqLwoK</text>
+        <text encoding="base64">ICAgIHJldHVybiAkcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxmYWN0b3JpYWxfdG9vbHNcVHJhbnNsYXRpb25Ub29sczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyZXNwb25zZSA9ICRyZXF1ZXN0LT5nZXRCb2R5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxmYWN0b3JpYWxfdG9vbHNcVHJhbnNsYXRpb25Ub29sczsK</text>
+        <text encoding="base64">ICAgICRyZXF1ZXN0ID0gJGNsaWVudC0+Z2V0KFBBU1MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAgIFJldHVybiBIZWxsbyBzdHJpbmcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGZpZWxkcyk7Cg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bGVpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIFsKICAgICAgJyN0eXBlJyA9PiAnbWFya3VwJywKICAgICAgJyNtYXJrdXAnID0+ICR0aGlzLT50KCdJbXBsZW1lbnQgbWV0aG9kOiBnZXREYXRhJykKICAgIF07</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -924,6 +954,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%!phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme</entry>
+        <entry>23</entry>
+        <entry>43</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
