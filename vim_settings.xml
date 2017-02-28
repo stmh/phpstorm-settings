@@ -36,7 +36,7 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1488301896569">
+      <file name="/a.dummy" timestamp="1488306627102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,6 +192,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/vendor/pattern-lab/core/src/PatternLab/InstallerUtil.php" timestamp="1488306338855" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/ph_backend_graphql.services.yml" timestamp="1487878321438">
         <mark key="[" line="22" column="59" />
         <mark key="]" line="22" column="62" />
@@ -976,12 +977,10 @@
       <last-offset />
       <last-pattern>theme(</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry encoding="base64">XDxfc2V0dGluZ3NPcHRpb25zXD4=</entry>
         <entry>v</entry>
         <entry>LANGUAGEFIELD_LANGUAGES_PREDEFINED</entry>
         <entry encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</entry>
