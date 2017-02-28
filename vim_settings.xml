@@ -239,6 +239,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/_tools/fabalicious/lib/blueprints/__init__.py" timestamp="1488283765570">
+        <mark key="[" line="75" column="63" />
+        <mark key="]" line="75" column="63" />
+        <mark key="." line="75" column="63" />
+        <mark key="^" line="75" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_tools/src/TranslationTools.php" timestamp="1488230276403">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
@@ -393,12 +399,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" timestamp="1486745262914">
-        <mark key="'" line="105" column="17" />
-        <mark key="[" line="106" column="28" />
-        <mark key="]" line="106" column="26" />
-        <mark key="." line="106" column="26" />
-        <mark key="^" line="106" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" timestamp="1488283793966">
+        <mark key="'" line="106" column="17" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/index.css" timestamp="1486396549943">
         <mark key="[" line="10" column="0" />
@@ -702,6 +708,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.gitlab-ci.yml" timestamp="1488284076079">
+        <mark key="[" line="40" column="88" />
+        <mark key="]" line="40" column="87" />
+        <mark key="^" line="40" column="87" />
+        <mark key="." line="40" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/modules/custom/zwo_deploy/zow_deploy.info.yml" timestamp="1486395546356">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="11" />
@@ -891,47 +903,47 @@
       <jump line="240" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+      <register name="&quot;" type="4">
+        <text>project_name</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>project_name</text>
       </register>
       <register name="/" type="4">
         <text>panels</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZHp2aWVyX21hcC5tYXBfYWpheF9jb250cm9sbGVyX2FjdGl2ZU1hcmtlcjoKICBwYXRoOiAnL2FqYXgvZHp2aWVyLW1hcC1kYXRhJwogIGRlZmF1bHRzOgogICAgX2NvbnRyb2xsZXI6ICdcRHJ1cGFsXGR6dmllcl9tYXBcQ29udHJvbGxlclxNYXBBamF4Q29udHJvbGxlcjo6YWN0aXZlTWFya2VyJwogICAgX3RpdGxlOiAnZ2V0RGF0YScKICByZXF1aXJlbWVudHM6CiAgICBfcGVybWlzc2lvbjogJ2FjY2VzcyBjb250ZW50Jwo=</text>
+        <text encoding="base64">ICByZXBsYWNlbWVudHNbJyVwcm9qZWN0LXNsdWcud2l0aC1oeXBlbnMlJ10gPSBzbHVnaWZ5KHByb2plY3RfbmFtZSwgcmVwbGFjZW1lbnQ9Jy0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">ICBwcm9qZWN0X2tleSA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmNhY2hlLT5zZXQoJGNpZCwgJHBheWxvYWQsIHRpbWUoKSArIHNlbGY6OkNBQ0hFX0xJRkVUSU1FKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmNhY2hlLT5zZXQoJGNpZCwgJHBheWxvYWQsIHRpbWUoKSArIHNlbGY6OkNBQ0hFX0xJRkVUSU1FKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkdXJsKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdXJsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
