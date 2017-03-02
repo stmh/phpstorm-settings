@@ -105,7 +105,6 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/config/staging/field.storage.contact_message.field_mkt_num_vertragsmappen.yml" timestamp="1488465773909" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_profile_portal/src/Plugin/Field/FieldFormatter/ProfilePortalShortDescription.php" timestamp="1487354603234">
         <mark key="[" line="48" column="55" />
         <mark key="]" line="48" column="54" />
@@ -466,7 +465,6 @@
         <mark key="." line="198" column="21" />
         <mark key="^" line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/core/modules/system/templates/input.html.twig" timestamp="1488463911500" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/NodeNormalizer.php" timestamp="1487802341788">
         <mark key="[" line="58" column="39" />
         <mark key="]" line="58" column="47" />
@@ -530,12 +528,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/map-style.js" timestamp="1488474266892">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/map-style.js" timestamp="1488474550622">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_mail_notification/src/MailNotificationService.php" timestamp="1481736459981">
         <mark key="[" line="215" column="0" />
@@ -566,7 +564,6 @@
         <mark key="." line="63" column="20" />
         <mark key="^" line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/170302 DZ-4 Map Design Assets/DZ-4_Map_Marker-01.svg" timestamp="1488472336061" />
       <file name="/Volumes/Daten/dev/web/multibasebox/projects/otg-milford-ritzenhof-campaign/resources/views/mail_you_won.txt.twig" timestamp="1480343620114">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -648,12 +645,13 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" timestamp="1488474118976">
-        <mark key="a" line="86" column="12" />
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" timestamp="1488478058675">
+        <mark key="a" line="98" column="12" />
+        <mark key="'" line="45" column="62" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="4" />
+        <mark key="." line="58" column="4" />
+        <mark key="^" line="44" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/base/drupal-overrides.css" timestamp="1487260636214">
         <mark key="'" line="139" column="0" />
@@ -870,8 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldWidget/LanguageSelectWidget.php" />
-      <jump line="50" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="61" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="89" column="84" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
       <jump line="124" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/languagefield/src/Plugin/Field/FieldType/LanguageItem.php" />
@@ -968,64 +964,60 @@
       <jump line="114" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="699" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/map-style.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/map-style.js" />
+      <jump line="2" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/map-style.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
+      <jump line="45" column="62" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>* eslint-disable *</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbHBlciBtZXRob2QgdG8gZ2V0IGFsbG93ZWQgdmFsdWVzIGZvciBudW0gZmx5ZXJzLgogKi8K</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgcXVvdGUtcHJvcHMgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQ2RkT0xPUiA9ICcjMjNlNzc1JzsK</text>
+      <register name="2" type="4">
+        <text>console.log('should: ', this.bounds.getNorthEast().toJSON(), this.bounds.getSouthWest().toJSON());
+    const bounds = this.map.getBounds();
+    if (bounds) {
+      console.log('is: ', bounds.getNorthEast().toJSON(), bounds.getSouthWest().toJSON());
+    }</text>
       </register>
-      <register name="3" type="4">
-        <text>path: 'M -8,0 0,-8 8,0 0,8 z',
-    fillColor: COLOR,
-    fillOpacity: 0.4,
-    strokeColor: COLOR,
-    strokeWeight: 1,
-    scale: 1,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>path: 'M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z M -2,-30 a 2,2 0 1,1 4,0 2,2 0 1,1 -4,0',
-    fillColor: COLOR,
-    fillOpacity: 1,
-    strokeColor: '#666',
-    strokeWeight: 1,
-    scale: 1,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2lzOiAnLCBib3VuZHMuZ2V0Tm9ydGhFYXN0KCkudG9KU09OKCksIGJvdW5kcy5nZXRTb3V0aFdlc3QoKS50b0pTT04oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmIChib3VuZHMpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJvdW5kcyA9IHRoaXMubWFwLmdldEJvdW5kcygpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC0KICAgICAgdmFsdWU6IDAKICAgICAgbGFiZWw6ICcwJwogICAgLQogICAgICB2YWx1ZTogMQogICAgICBsYWJlbDogJzEnCiAgICAtCiAgICAgIHZhbHVlOiAyCiAgICAgIGxhYmVsOiAnMicKICAgIC0KICAgICAgdmFsdWU6IDMKICAgICAgbGFiZWw6ICczJwogICAgLQogICAgICB2YWx1ZTogNAogICAgICBsYWJlbDogJzQnCiAgICAtCiAgICAgIHZhbHVlOiA1CiAgICAgIGxhYmVsOiAnNScKICAgIC0KICAgICAgdmFsdWU6IDYKICAgICAgbGFiZWw6ICc2JwogICAgLQogICAgICB2YWx1ZTogNwogICAgICBsYWJlbDogJzcnCiAgICAtCiAgICAgIHZhbHVlOiA4CiAgICAgIGxhYmVsOiAnOCcKICAgIC0KICAgICAgdmFsdWU6IDkKICAgICAgbGFiZWw6ICc5JwogICAgLQogICAgICB2YWx1ZTogMTAKICAgICAgbGFiZWw6ICcxMCcKICAgIC0KICAgICAgdmFsdWU6IDExCiAgICAgIGxhYmVsOiAnMTEnCiAgICAtCiAgICAgIHZhbHVlOiAxMgogICAgICBsYWJlbDogJzEyJwogICAgLQogICAgICB2YWx1ZTogMTMKICAgICAgbGFiZWw6ICcxMycKICAgIC0KICAgICAgdmFsdWU6IDE0CiAgICAgIGxhYmVsOiAnMTQnCiAgICAtCiAgICAgIHZhbHVlOiAxNQogICAgICBsYWJlbDogJzE1JwogICAgLQogICAgICB2YWx1ZTogMTYKICAgICAgbGFiZWw6ICcxNicKICAgIC0KICAgICAgdmFsdWU6IDE3CiAgICAgIGxhYmVsOiAnMTcnCiAgICAtCiAgICAgIHZhbHVlOiAxOAogICAgICBsYWJlbDogJzE4JwogICAgLQogICAgICB2YWx1ZTogMTkKICAgICAgbGFiZWw6ICcxOScKICAgIC0KICAgICAgdmFsdWU6IDIwCiAgICAgIGxhYmVsOiAnMjAnCiAgICAtCiAgICAgIHZhbHVlOiAyMQogICAgICBsYWJlbDogJzIxJwogICAgLQogICAgICB2YWx1ZTogMjIKICAgICAgbGFiZWw6ICcyMicKICAgIC0KICAgICAgdmFsdWU6IDIzCiAgICAgIGxhYmVsOiAnMjMnCiAgICAtCiAgICAgIHZhbHVlOiAyNAogICAgICBsYWJlbDogJzI0JwogICAgLQogICAgICB2YWx1ZTogMjUKICAgICAgbGFiZWw6ICcyNScKICAgIC0KICAgICAgdmFsdWU6IDI2CiAgICAgIGxhYmVsOiAnMjYnCiAgICAtCiAgICAgIHZhbHVlOiAyNwogICAgICBsYWJlbDogJzI3JwogICAgLQogICAgICB2YWx1ZTogMjgKICAgICAgbGFiZWw6ICcyOCcKICAgIC0KICAgICAgdmFsdWU6IDI5CiAgICAgIGxhYmVsOiAnMjknCiAgICAtCiAgICAgIHZhbHVlOiAzMAogICAgICBsYWJlbDogJzMwJwogICAgLQogICAgICB2YWx1ZTogMzEKICAgICAgbGFiZWw6ICczMScKICAgIC0KICAgICAgdmFsdWU6IDMyCiAgICAgIGxhYmVsOiAnMzInCiAgICAtCiAgICAgIHZhbHVlOiAzMwogICAgICBsYWJlbDogJzMzJwogICAgLQogICAgICB2YWx1ZTogMzQKICAgICAgbGFiZWw6ICczNCcKICAgIC0KICAgICAgdmFsdWU6IDM1CiAgICAgIGxhYmVsOiAnMzUnCiAgICAtCiAgICAgIHZhbHVlOiAzNgogICAgICBsYWJlbDogJzM2JwogICAgLQogICAgICB2YWx1ZTogMzcKICAgICAgbGFiZWw6ICczNycKICAgIC0KICAgICAgdmFsdWU6IDM4CiAgICAgIGxhYmVsOiAnMzgnCiAgICAtCiAgICAgIHZhbHVlOiAzOQogICAgICBsYWJlbDogJzM5JwogICAgLQogICAgICB2YWx1ZTogNDAKICAgICAgbGFiZWw6ICc0MCcKICAgIC0KICAgICAgdmFsdWU6IDQxCiAgICAgIGxhYmVsOiAnNDEnCiAgICAtCiAgICAgIHZhbHVlOiA0MgogICAgICBsYWJlbDogJzQyJwogICAgLQogICAgICB2YWx1ZTogNDMKICAgICAgbGFiZWw6ICc0MycKICAgIC0KICAgICAgdmFsdWU6IDQ0CiAgICAgIGxhYmVsOiAnNDQnCiAgICAtCiAgICAgIHZhbHVlOiA0NQogICAgICBsYWJlbDogJzQ1JwogICAgLQogICAgICB2YWx1ZTogNDYKICAgICAgbGFiZWw6ICc0NicKICAgIC0KICAgICAgdmFsdWU6IDQ3CiAgICAgIGxhYmVsOiAnNDcnCiAgICAtCiAgICAgIHZhbHVlOiA0OAogICAgICBsYWJlbDogJzQ4JwogICAgLQogICAgICB2YWx1ZTogNDkKICAgICAgbGFiZWw6ICc0OScKICAgIC0KICAgICAgdmFsdWU6IDUwCiAgICAgIGxhYmVsOiAnNTAnCiAgICAtCiAgICAgIHZhbHVlOiA1MQogICAgICBsYWJlbDogJzUxJwogICAgLQogICAgICB2YWx1ZTogNTIKICAgICAgbGFiZWw6ICc1MicKICAgIC0KICAgICAgdmFsdWU6IDUzCiAgICAgIGxhYmVsOiAnNTMnCiAgICAtCiAgICAgIHZhbHVlOiA1NAogICAgICBsYWJlbDogJzU0JwogICAgLQogICAgICB2YWx1ZTogNTUKICAgICAgbGFiZWw6ICc1NScKICAgIC0KICAgICAgdmFsdWU6IDU2CiAgICAgIGxhYmVsOiAnNTYnCiAgICAtCiAgICAgIHZhbHVlOiA1NwogICAgICBsYWJlbDogJzU3JwogICAgLQogICAgICB2YWx1ZTogNTgKICAgICAgbGFiZWw6ICc1OCcKICAgIC0KICAgICAgdmFsdWU6IDU5CiAgICAgIGxhYmVsOiAnNTknCiAgICAtCiAgICAgIHZhbHVlOiA2MAogICAgICBsYWJlbDogJzYwJwogICAgLQogICAgICB2YWx1ZTogNjEKICAgICAgbGFiZWw6ICc2MScKICAgIC0KICAgICAgdmFsdWU6IDYyCiAgICAgIGxhYmVsOiAnNjInCiAgICAtCiAgICAgIHZhbHVlOiA2MwogICAgICBsYWJlbDogJzYzJwogICAgLQogICAgICB2YWx1ZTogNjQKICAgICAgbGFiZWw6ICc2NCcKICAgIC0KICAgICAgdmFsdWU6IDY1CiAgICAgIGxhYmVsOiAnNjUnCiAgICAtCiAgICAgIHZhbHVlOiA2NgogICAgICBsYWJlbDogJzY2JwogICAgLQogICAgICB2YWx1ZTogNjcKICAgICAgbGFiZWw6ICc2NycKICAgIC0KICAgICAgdmFsdWU6IDY4CiAgICAgIGxhYmVsOiAnNjgnCiAgICAtCiAgICAgIHZhbHVlOiA2OQogICAgICBsYWJlbDogJzY5JwogICAgLQogICAgICB2YWx1ZTogNzAKICAgICAgbGFiZWw6ICc3MCcKICAgIC0KICAgICAgdmFsdWU6IDcxCiAgICAgIGxhYmVsOiAnNzEnCiAgICAtCiAgICAgIHZhbHVlOiA3MgogICAgICBsYWJlbDogJzcyJwogICAgLQogICAgICB2YWx1ZTogNzMKICAgICAgbGFiZWw6ICc3MycKICAgIC0KICAgICAgdmFsdWU6IDc0CiAgICAgIGxhYmVsOiAnNzQnCiAgICAtCiAgICAgIHZhbHVlOiA3NQogICAgICBsYWJlbDogJzc1JwogICAgLQogICAgICB2YWx1ZTogNzYKICAgICAgbGFiZWw6ICc3NicKICAgIC0KICAgICAgdmFsdWU6IDc3CiAgICAgIGxhYmVsOiAnNzcnCiAgICAtCiAgICAgIHZhbHVlOiA3OAogICAgICBsYWJlbDogJzc4JwogICAgLQogICAgICB2YWx1ZTogNzkKICAgICAgbGFiZWw6ICc3OScKICAgIC0KICAgICAgdmFsdWU6IDgwCiAgICAgIGxhYmVsOiAnODAnCiAgICAtCiAgICAgIHZhbHVlOiA4MQogICAgICBsYWJlbDogJzgxJwogICAgLQogICAgICB2YWx1ZTogODIKICAgICAgbGFiZWw6ICc4MicKICAgIC0KICAgICAgdmFsdWU6IDgzCiAgICAgIGxhYmVsOiAnODMnCiAgICAtCiAgICAgIHZhbHVlOiA4NAogICAgICBsYWJlbDogJzg0JwogICAgLQogICAgICB2YWx1ZTogODUKICAgICAgbGFiZWw6ICc4NScKICAgIC0KICAgICAgdmFsdWU6IDg2CiAgICAgIGxhYmVsOiAnODYnCiAgICAtCiAgICAgIHZhbHVlOiA4NwogICAgICBsYWJlbDogJzg3JwogICAgLQogICAgICB2YWx1ZTogODgKICAgICAgbGFiZWw6ICc4OCcKICAgIC0KICAgICAgdmFsdWU6IDg5CiAgICAgIGxhYmVsOiAnODknCiAgICAtCiAgICAgIHZhbHVlOiA5MAogICAgICBsYWJlbDogJzkwJwogICAgLQogICAgICB2YWx1ZTogOTEKICAgICAgbGFiZWw6ICc5MScKICAgIC0KICAgICAgdmFsdWU6IDkyCiAgICAgIGxhYmVsOiAnOTInCiAgICAtCiAgICAgIHZhbHVlOiA5MwogICAgICBsYWJlbDogJzkzJwogICAgLQogICAgICB2YWx1ZTogOTQKICAgICAgbGFiZWw6ICc5NCcKICAgIC0KICAgICAgdmFsdWU6IDk1CiAgICAgIGxhYmVsOiAnOTUnCiAgICAtCiAgICAgIHZhbHVlOiA5NgogICAgICBsYWJlbDogJzk2JwogICAgLQogICAgICB2YWx1ZTogOTcKICAgICAgbGFiZWw6ICc5NycKICAgIC0KICAgICAgdmFsdWU6IDk4CiAgICAgIGxhYmVsOiAnOTgnCiAgICAtCiAgICAgIHZhbHVlOiA5OQogICAgICBsYWJlbDogJzk5JwogICAgLQogICAgICB2YWx1ZTogMTAwCiAgICAgIGxhYmVsOiAnMTAwJwogICAgLQogICAgICB2YWx1ZTogMTAxCiAgICAgIGxhYmVsOiAnMTAxJwogICAgLQogICAgICB2YWx1ZTogMTAyCiAgICAgIGxhYmVsOiAnMTAyJwogICAgLQogICAgICB2YWx1ZTogMTAzCiAgICAgIGxhYmVsOiAnMTAzJwogICAgLQogICAgICB2YWx1ZTogMTA0CiAgICAgIGxhYmVsOiAnMTA0JwogICAgLQogICAgICB2YWx1ZTogMTA1CiAgICAgIGxhYmVsOiAnMTA1JwogICAgLQogICAgICB2YWx1ZTogMTA2CiAgICAgIGxhYmVsOiAnMTA2JwogICAgLQogICAgICB2YWx1ZTogMTA3CiAgICAgIGxhYmVsOiAnMTA3JwogICAgLQogICAgICB2YWx1ZTogMTA4CiAgICAgIGxhYmVsOiAnMTA4JwogICAgLQogICAgICB2YWx1ZTogMTA5CiAgICAgIGxhYmVsOiAnMTA5JwogICAgLQogICAgICB2YWx1ZTogMTEwCiAgICAgIGxhYmVsOiAnMTEwJwogICAgLQogICAgICB2YWx1ZTogMTExCiAgICAgIGxhYmVsOiAnMTExJwogICAgLQogICAgICB2YWx1ZTogMTEyCiAgICAgIGxhYmVsOiAnMTEyJwogICAgLQogICAgICB2YWx1ZTogMTEzCiAgICAgIGxhYmVsOiAnMTEzJwogICAgLQogICAgICB2YWx1ZTogMTE0CiAgICAgIGxhYmVsOiAnMTE0JwogICAgLQogICAgICB2YWx1ZTogMTE1CiAgICAgIGxhYmVsOiAnMTE1JwogICAgLQogICAgICB2YWx1ZTogMTE2CiAgICAgIGxhYmVsOiAnMTE2JwogICAgLQogICAgICB2YWx1ZTogMTE3CiAgICAgIGxhYmVsOiAnMTE3JwogICAgLQogICAgICB2YWx1ZTogMTE4CiAgICAgIGxhYmVsOiAnMTE4JwogICAgLQogICAgICB2YWx1ZTogMTE5CiAgICAgIGxhYmVsOiAnMTE5JwogICAgLQogICAgICB2YWx1ZTogMTIwCiAgICAgIGxhYmVsOiAnMTIwJwogICAgLQogICAgICB2YWx1ZTogMTIxCiAgICAgIGxhYmVsOiAnMTIxJwogICAgLQogICAgICB2YWx1ZTogMTIyCiAgICAgIGxhYmVsOiAnMTIyJwogICAgLQogICAgICB2YWx1ZTogMTIzCiAgICAgIGxhYmVsOiAnMTIzJwogICAgLQogICAgICB2YWx1ZTogMTI0CiAgICAgIGxhYmVsOiAnMTI0JwogICAgLQogICAgICB2YWx1ZTogMTI1CiAgICAgIGxhYmVsOiAnMTI1JwogICAgLQogICAgICB2YWx1ZTogMTI2CiAgICAgIGxhYmVsOiAnMTI2JwogICAgLQogICAgICB2YWx1ZTogMTI3CiAgICAgIGxhYmVsOiAnMTI3JwogICAgLQogICAgICB2YWx1ZTogMTI4CiAgICAgIGxhYmVsOiAnMTI4JwogICAgLQogICAgICB2YWx1ZTogMTI5CiAgICAgIGxhYmVsOiAnMTI5JwogICAgLQogICAgICB2YWx1ZTogMTMwCiAgICAgIGxhYmVsOiAnMTMwJwogICAgLQogICAgICB2YWx1ZTogMTMxCiAgICAgIGxhYmVsOiAnMTMxJwogICAgLQogICAgICB2YWx1ZTogMTMyCiAgICAgIGxhYmVsOiAnMTMyJwogICAgLQogICAgICB2YWx1ZTogMTMzCiAgICAgIGxhYmVsOiAnMTMzJwogICAgLQogICAgICB2YWx1ZTogMTM0CiAgICAgIGxhYmVsOiAnMTM0JwogICAgLQogICAgICB2YWx1ZTogMTM1CiAgICAgIGxhYmVsOiAnMTM1JwogICAgLQogICAgICB2YWx1ZTogMTM2CiAgICAgIGxhYmVsOiAnMTM2JwogICAgLQogICAgICB2YWx1ZTogMTM3CiAgICAgIGxhYmVsOiAnMTM3JwogICAgLQogICAgICB2YWx1ZTogMTM4CiAgICAgIGxhYmVsOiAnMTM4JwogICAgLQogICAgICB2YWx1ZTogMTM5CiAgICAgIGxhYmVsOiAnMTM5JwogICAgLQogICAgICB2YWx1ZTogMTQwCiAgICAgIGxhYmVsOiAnMTQwJwogICAgLQogICAgICB2YWx1ZTogMTQxCiAgICAgIGxhYmVsOiAnMTQxJwogICAgLQogICAgICB2YWx1ZTogMTQyCiAgICAgIGxhYmVsOiAnMTQyJwogICAgLQogICAgICB2YWx1ZTogMTQzCiAgICAgIGxhYmVsOiAnMTQzJwogICAgLQogICAgICB2YWx1ZTogMTQ0CiAgICAgIGxhYmVsOiAnMTQ0JwogICAgLQogICAgICB2YWx1ZTogMTQ1CiAgICAgIGxhYmVsOiAnMTQ1JwogICAgLQogICAgICB2YWx1ZTogMTQ2CiAgICAgIGxhYmVsOiAnMTQ2JwogICAgLQogICAgICB2YWx1ZTogMTQ3CiAgICAgIGxhYmVsOiAnMTQ3JwogICAgLQogICAgICB2YWx1ZTogMTQ4CiAgICAgIGxhYmVsOiAnMTQ4JwogICAgLQogICAgICB2YWx1ZTogMTQ5CiAgICAgIGxhYmVsOiAnMTQ5JwogICAgLQogICAgICB2YWx1ZTogMTUwCiAgICAgIGxhYmVsOiAnMTUwJwogICAgLQogICAgICB2YWx1ZTogMTUxCiAgICAgIGxhYmVsOiAnMTUxJwogICAgLQogICAgICB2YWx1ZTogMTUyCiAgICAgIGxhYmVsOiAnMTUyJwogICAgLQogICAgICB2YWx1ZTogMTUzCiAgICAgIGxhYmVsOiAnMTUzJwogICAgLQogICAgICB2YWx1ZTogMTU0CiAgICAgIGxhYmVsOiAnMTU0JwogICAgLQogICAgICB2YWx1ZTogMTU1CiAgICAgIGxhYmVsOiAnMTU1JwogICAgLQogICAgICB2YWx1ZTogMTU2CiAgICAgIGxhYmVsOiAnMTU2JwogICAgLQogICAgICB2YWx1ZTogMTU3CiAgICAgIGxhYmVsOiAnMTU3JwogICAgLQogICAgICB2YWx1ZTogMTU4CiAgICAgIGxhYmVsOiAnMTU4JwogICAgLQogICAgICB2YWx1ZTogMTU5CiAgICAgIGxhYmVsOiAnMTU5JwogICAgLQogICAgICB2YWx1ZTogMTYwCiAgICAgIGxhYmVsOiAnMTYwJwogICAgLQogICAgICB2YWx1ZTogMTYxCiAgICAgIGxhYmVsOiAnMTYxJwogICAgLQogICAgICB2YWx1ZTogMTYyCiAgICAgIGxhYmVsOiAnMTYyJwogICAgLQogICAgICB2YWx1ZTogMTYzCiAgICAgIGxhYmVsOiAnMTYzJwogICAgLQogICAgICB2YWx1ZTogMTY0CiAgICAgIGxhYmVsOiAnMTY0JwogICAgLQogICAgICB2YWx1ZTogMTY1CiAgICAgIGxhYmVsOiAnMTY1JwogICAgLQogICAgICB2YWx1ZTogMTY2CiAgICAgIGxhYmVsOiAnMTY2JwogICAgLQogICAgICB2YWx1ZTogMTY3CiAgICAgIGxhYmVsOiAnMTY3JwogICAgLQogICAgICB2YWx1ZTogMTY4CiAgICAgIGxhYmVsOiAnMTY4JwogICAgLQogICAgICB2YWx1ZTogMTY5CiAgICAgIGxhYmVsOiAnMTY5JwogICAgLQogICAgICB2YWx1ZTogMTcwCiAgICAgIGxhYmVsOiAnMTcwJwogICAgLQogICAgICB2YWx1ZTogMTcxCiAgICAgIGxhYmVsOiAnMTcxJwogICAgLQogICAgICB2YWx1ZTogMTcyCiAgICAgIGxhYmVsOiAnMTcyJwogICAgLQogICAgICB2YWx1ZTogMTczCiAgICAgIGxhYmVsOiAnMTczJwogICAgLQogICAgICB2YWx1ZTogMTc0CiAgICAgIGxhYmVsOiAnMTc0JwogICAgLQogICAgICB2YWx1ZTogMTc1CiAgICAgIGxhYmVsOiAnMTc1JwogICAgLQogICAgICB2YWx1ZTogMTc2CiAgICAgIGxhYmVsOiAnMTc2JwogICAgLQogICAgICB2YWx1ZTogMTc3CiAgICAgIGxhYmVsOiAnMTc3JwogICAgLQogICAgICB2YWx1ZTogMTc4CiAgICAgIGxhYmVsOiAnMTc4JwogICAgLQogICAgICB2YWx1ZTogMTc5CiAgICAgIGxhYmVsOiAnMTc5JwogICAgLQogICAgICB2YWx1ZTogMTgwCiAgICAgIGxhYmVsOiAnMTgwJwogICAgLQogICAgICB2YWx1ZTogMTgxCiAgICAgIGxhYmVsOiAnMTgxJwogICAgLQogICAgICB2YWx1ZTogMTgyCiAgICAgIGxhYmVsOiAnMTgyJwogICAgLQogICAgICB2YWx1ZTogMTgzCiAgICAgIGxhYmVsOiAnMTgzJwogICAgLQogICAgICB2YWx1ZTogMTg0CiAgICAgIGxhYmVsOiAnMTg0JwogICAgLQogICAgICB2YWx1ZTogMTg1CiAgICAgIGxhYmVsOiAnMTg1JwogICAgLQogICAgICB2YWx1ZTogMTg2CiAgICAgIGxhYmVsOiAnMTg2JwogICAgLQogICAgICB2YWx1ZTogMTg3CiAgICAgIGxhYmVsOiAnMTg3JwogICAgLQogICAgICB2YWx1ZTogMTg4CiAgICAgIGxhYmVsOiAnMTg4JwogICAgLQogICAgICB2YWx1ZTogMTg5CiAgICAgIGxhYmVsOiAnMTg5JwogICAgLQogICAgICB2YWx1ZTogMTkwCiAgICAgIGxhYmVsOiAnMTkwJwogICAgLQogICAgICB2YWx1ZTogMTkxCiAgICAgIGxhYmVsOiAnMTkxJwogICAgLQogICAgICB2YWx1ZTogMTkyCiAgICAgIGxhYmVsOiAnMTkyJwogICAgLQogICAgICB2YWx1ZTogMTkzCiAgICAgIGxhYmVsOiAnMTkzJwogICAgLQogICAgICB2YWx1ZTogMTk0CiAgICAgIGxhYmVsOiAnMTk0JwogICAgLQogICAgICB2YWx1ZTogMTk1CiAgICAgIGxhYmVsOiAnMTk1JwogICAgLQogICAgICB2YWx1ZTogMTk2CiAgICAgIGxhYmVsOiAnMTk2JwogICAgLQogICAgICB2YWx1ZTogMTk3CiAgICAgIGxhYmVsOiAnMTk3JwogICAgLQogICAgICB2YWx1ZTogMTk4CiAgICAgIGxhYmVsOiAnMTk4JwogICAgLQogICAgICB2YWx1ZTogMTk5CiAgICAgIGxhYmVsOiAnMTk5JwogICAgLQogICAgICB2YWx1ZTogMjAwCiAgICAgIGxhYmVsOiAnMjAwJw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaG91bGQ6ICcsIHRoaXMuYm91bmRzLmdldE5vcnRoRWFzdCgpLnRvSlNPTigpLCB0aGlzLmJvdW5kcy5nZXRTb3V0aFdlc3QoKS50b0pTT04oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3JlYWNoICgkaSA9ICRtaW47ICkK</text>
+        <text encoding="base64">ICAgICAgYm91bmRzID0gdGhpcy5tYXAuZ2V0Qm91bmRzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkYWRkcnIgPSBbXTsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1037,7 +1029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LANGUAGEFIELD_LANGUAGES_PREDEFINED</entry>
         <entry encoding="base64">XDxnZXRQb3NzaWJsZU9wdGlvbnNcPg==</entry>
         <entry>\\'</entry>
         <entry>para</entry>
@@ -1078,8 +1069,9 @@
         <entry>68</entry>
         <entry>99</entry>
         <entry>W</entry>
-        <entry>w</entry>
+        <entry>:w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
