@@ -99,11 +99,8 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="48" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1488987594668">
-        <mark key="'" line="328" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1488997163756">
+        <mark key="'" line="348" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/ProfilePortalRowItem.php" timestamp="1487084708400">
         <mark key="[" line="0" column="0" />
@@ -171,12 +168,6 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1488971775192">
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="38" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose-mbb.yml" timestamp="1486136849887">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="38" />
@@ -241,6 +232,12 @@
         <mark key="[" line="0" column="88" />
         <mark key="]" line="0" column="88" />
         <mark key="." line="0" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1489007391018">
+        <mark key="[" line="138" column="11" />
+        <mark key="]" line="138" column="17" />
+        <mark key="^" line="138" column="17" />
+        <mark key="." line="138" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/fabfile.yaml" timestamp="1486424392379">
         <mark key="[" line="1" column="19" />
@@ -327,11 +324,10 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1488987180019">
-        <mark key="[" line="43" column="76" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1489006926900">
+        <mark key="]" line="74" column="58" />
+        <mark key="^" line="74" column="58" />
+        <mark key="." line="74" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/NodeNormalizer.php" timestamp="1487802341788">
         <mark key="[" line="58" column="39" />
@@ -593,13 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="75" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="143" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="148" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="156" column="76" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="157" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="158" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="159" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="161" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="170" column="83" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="171" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
@@ -693,59 +682,66 @@
       <jump line="2" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="42" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="340" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="44" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="57" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="102" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="348" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="65" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="64" column="59" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="45" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>FALSE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Imh1aHUiIA==</text>
+        <text>FALSE</text>
       </register>
       <register name="/" type="4">
-        <text>kpr</text>
+        <text encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBHcmFwaFFMIHZhbHVlIHJlc29sdmVyIGNhbGxiYWNrLgogICAqLwogIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0UGhTcG9ydE5hdmlnYXRpb24oJHNvdXJjZSwgYXJyYXkgJGFyZ3MgPSBOVUxMLCAkcm9vdCwgR3JhcGhRTE5vZGUgJGZpZWxkLCAkYSwgJGIsICRjLCAkZGF0YSkgewogICAgcmV0dXJuIHNlbGY6OmdldFBoVGF4b25vbXlOYXZpZ2F0aW9uSW1wbCgnc3BvcnQnLCBpc3NldCgkYXJnc1sncGFyZW50J10pID8gJGFyZ3NbJ3BhcmVudCddIDogMCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkc20oJGFjY291bnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gQWRkIHRpdGxlIGFuZCByZXN1bHRzLgogIGlmICghZW1wdHkoJGNvbmZbJ3RpdGxlX292ZXJyaWRlJ10pKSB7CiAgICBpZiAoIWVtcHR5KCRjb25mWydzdWJzdGl0dXRlJ10pICYmICFlbXB0eSgkZGlzcGxheS0+Y29udGV4dCkpIHsKICAgICAgJGNvbmZbJ3RpdGxlX292ZXJyaWRlX3RleHQnXSA9IGN0b29sc19jb250ZXh0X2tleXdvcmRfc3Vic3RpdHV0ZSgkY29uZlsndGl0bGVfb3ZlcnJpZGVfdGV4dCddLCBhcnJheSgpLCAkZGlzcGxheS0+Y29udGV4dCk7CiAgICB9CiAgICAkYmxvY2stPnRpdGxlID0gJGNvbmZbJ3RpdGxlX292ZXJyaWRlX3RleHQnXTsKICB9CiAgZWxzZSB7CiAgICAkYmxvY2stPnRpdGxlID0gdCgnU2VhcmNoIHJlc3VsdHMnKTsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRzbSgkdGVybSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBrcHIoIm9rIik7Cg==</text>
+        <text encoding="base64">ICBkc20oJGFsdGVybmF0aXZlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRyZXN1bHRzKTsK</text>
+        <text encoding="base64">ICBkc20oJGtleSwgJHZhbHVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gRG9uJ3QgcmVuZGVyIHN1Z2dlc3Rpb25zLiBVc2Ugc3BlbGxjaGVja2VyIHBhbmUgaW5zdGVhZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRyZXN1bHRzKTsK</text>
+        <text encoding="base64">ICBkc20oJGZpbHRlcnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrcHIoInVodWh1Iik7Cg==</text>
+        <text encoding="base64">ICBkc20oJHJlc3Bfc2VhcmNoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JyA9PiBhcnJheSgKICAndmFyaWFibGVzJyA9PiBhcnJheSgpLAopLA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgZW5kaWYgfX0K</text>
+        <text encoding="base64">ICAkcXVlcnktPnNldFNvbHJzb3J0KCdzb3J0X2xhYmVsJywgJ2FzYycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kpr</last-search>
+      <last-search encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</last-search>
       <last-offset />
-      <last-pattern>kpr</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -770,10 +766,12 @@
         <entry encoding="base64">XDxhcGFjaGVzb2xyX3BhbmVsc19zZWFyY2hfZXhlY3V0ZVw+</entry>
         <entry>apachesolr</entry>
         <entry>kpr</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxybWhfY3Zfc2VhcmNoX2V4ZWN1dGVfc2VhcmNoXD4=</entry>
+        <entry encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
-        <entry>43</entry>
         <entry>1</entry>
         <entry>99</entry>
         <entry>115</entry>
@@ -781,7 +779,6 @@
         <entry encoding="base64">JzwsJz4yMjU=</entry>
         <entry>225</entry>
         <entry>50</entry>
-        <entry>tabNext</entry>
         <entry>71</entry>
         <entry>91</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -791,6 +788,20 @@
         <entry>:w</entry>
         <entry>noh</entry>
         <entry>e</entry>
+        <entry>173</entry>
+        <entry>150</entry>
+        <entry>3</entry>
+        <entry>202</entry>
+        <entry>%!phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme</entry>
+        <entry>319</entry>
+        <entry>203</entry>
+        <entry>52</entry>
+        <entry encoding="base64">JzwsJz4x</entry>
+        <entry>tabNext</entry>
+        <entry>65</entry>
+        <entry>53</entry>
+        <entry>64</entry>
+        <entry>43</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -808,6 +819,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
