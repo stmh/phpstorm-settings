@@ -179,12 +179,12 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1489056499422">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1489138508137">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="121" column="78" />
-        <mark key="]" line="121" column="86" />
-        <mark key="." line="121" column="86" />
-        <mark key="^" line="121" column="86" />
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="123" column="31" />
+        <mark key="." line="123" column="31" />
+        <mark key="^" line="123" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose-mbb.yml" timestamp="1486136849887">
         <mark key="[" line="1" column="37" />
@@ -340,11 +340,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1489056083117">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Plugin/Normalizer/NodeNormalizer.php" timestamp="1487802341788">
         <mark key="[" line="58" column="39" />
@@ -714,11 +709,11 @@
       <jump line="29" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</text>
@@ -810,6 +805,7 @@
         <entry>53</entry>
         <entry>64</entry>
         <entry>43</entry>
+        <entry>83</entry>
         <entry>122</entry>
         <entry>w</entry>
       </history-cmd>
