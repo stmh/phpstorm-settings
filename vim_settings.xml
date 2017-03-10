@@ -105,8 +105,8 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="48" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1488997163756">
-        <mark key="'" line="348" column="15" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1489139272163">
+        <mark key="'" line="88" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/ProfilePortalRowItem.php" timestamp="1487084708400">
         <mark key="[" line="0" column="0" />
@@ -181,10 +181,10 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1489138508137">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="119" column="35" />
-        <mark key="]" line="123" column="31" />
-        <mark key="." line="123" column="31" />
-        <mark key="^" line="123" column="31" />
+        <mark key="[" line="123" column="35" />
+        <mark key="]" line="127" column="31" />
+        <mark key="." line="127" column="31" />
+        <mark key="^" line="127" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose-mbb.yml" timestamp="1486136849887">
         <mark key="[" line="1" column="37" />
@@ -607,8 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="83" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
-      <jump line="171" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="172" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="173" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
       <jump line="31" column="62" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/modules/custom/amidori_utils/amidori_utils.module" />
@@ -707,6 +705,8 @@
       <jump line="64" column="59" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="45" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="29" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="54" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="88" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -716,7 +716,7 @@
         <text>K</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBHcmFwaFFMIHZhbHVlIHJlc29sdmVyIGNhbGxiYWNrLgogICAqLwogIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0UGhTcG9ydE5hdmlnYXRpb24oJHNvdXJjZSwgYXJyYXkgJGFyZ3MgPSBOVUxMLCAkcm9vdCwgR3JhcGhRTE5vZGUgJGZpZWxkLCAkYSwgJGIsICRjLCAkZGF0YSkgewogICAgcmV0dXJuIHNlbGY6OmdldFBoVGF4b25vbXlOYXZpZ2F0aW9uSW1wbCgnc3BvcnQnLCBpc3NldCgkYXJnc1sncGFyZW50J10pID8gJGFyZ3NbJ3BhcmVudCddIDogMCk7CiAgfQo=</text>
@@ -752,15 +752,15 @@
         <text encoding="base64">ICAgIC8vICAkdGh1bWJuYWlscyA9IF9vY2NoaW9faW5zcGlyYXRpb25fZ2FsbGVyeV9nZXRfdGh1bWJuYWlscygkcGFnZVsnY29udGVudCddWydzbGlkZXNob3cnXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>35</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>type</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -784,6 +784,7 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxybWhfY3Zfc2VhcmNoX2V4ZWN1dGVfc2VhcmNoXD4=</entry>
         <entry encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
@@ -808,6 +809,7 @@
         <entry>83</entry>
         <entry>122</entry>
         <entry>w</entry>
+        <entry>35</entry>
       </history-cmd>
       <history-expr />
       <history-input />
