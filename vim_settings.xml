@@ -108,6 +108,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/templates/layout/page.html.twig" timestamp="1489439647113">
+        <mark key="[" line="79" column="52" />
+        <mark key="]" line="79" column="40" />
+        <mark key="." line="79" column="40" />
+        <mark key="^" line="79" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhLanguagesSchemaProvider.php" timestamp="1487881525461">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -780,10 +786,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/frontend.theme" timestamp="1489437793965">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/frontend.theme" timestamp="1489440424163">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/form/contact-message-marketingmaterial-form.html.twig" timestamp="1488462950227">
         <mark key="[" line="17" column="13" />
@@ -947,7 +954,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>['footer']</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ctools</text>
@@ -962,28 +969,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZHNkZG0oImphIik7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXMpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEBwYXJhbSAkdmFyaWFibGVzCiAqIEBwYXJhbSAkcmVnaW9uCiAqIEByZXR1cm4gYm9vbA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzdHJwb3MoJ3NvY2lhbF9pY29ucycsICRibG9jay0+Z2UpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkYmxvY2sgPSBuZXcgc3RkQ2xhc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oInlvIik7Cg==</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRoZW1lWydybWhfY3Zfc2VhcmNoX3NlYXJjaF9vdmVydmlldyddID0gYXJyYXkoCiAgICAndGVtcGxhdGUnID0+ICd0ZW1wbGF0ZXMvcm1oLWN2LXNlYXJjaC1zZWFyY2gtb3ZlcnZpZXcnLAogICAgJ3BhdGgnID0+IGRydXBhbF9nZXRfcGF0aCgnbW9kdWxlJywgJ3JtaF9jdl9zZWFyY2gnKSwKICAgICdhcmd1bWVudHMnID0+IGFycmF5KAogICAgICAncmVzcG9uc2UnID0+IE5VTEwsCiAgICAgICdzZWFyY2gnID0+IE5VTEwsCiAgICAgICdrZXl3b3JkcycgPT4gTlVMTCwKICAgICAgJ251bV9mb3VuZCcgPT4gRkFMU0UsCiAgICApLAogICk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -994,7 +1001,7 @@
       <last-offset />
       <last-pattern>ctools</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1037,10 +1044,15 @@
         <entry>87</entry>
         <entry encoding="base64">JzwsJz41MA==</entry>
         <entry>50</entry>
-        <entry>tabNext</entry>
         <entry>Dash</entry>
-        <entry>noh</entry>
         <entry>0</entry>
+        <entry>139</entry>
+        <entry>181</entry>
+        <entry>noh</entry>
+        <entry>tabNext</entry>
+        <entry>110</entry>
+        <entry>9</entry>
+        <entry>13</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
