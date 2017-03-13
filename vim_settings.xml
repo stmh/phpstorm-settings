@@ -21,7 +21,6 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/facetapi/facetapi.theme.inc" timestamp="1489402205358" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/search-bar/search-bar.twig" timestamp="1489420281460">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="2" column="14" />
@@ -94,7 +93,6 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/templates/rmh-cv-search-autocomplete-helper.tpl.php" timestamp="1489417126730" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PHNavigation.php" timestamp="1487878632367">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="17" />
@@ -179,7 +177,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/facetapi/facetapi.facetapi.inc" timestamp="1489415176740" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/host.yaml" timestamp="1487335262775">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="3" />
@@ -303,11 +300,12 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" timestamp="1489425610490">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="37" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" timestamp="1489425714785">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/00-atoms/forms/_form-element.twig" timestamp="1488302705337">
         <mark key="[" line="57" column="52" />
@@ -472,7 +470,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/zow_utils/zow_utils.module" timestamp="1489412508198" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/checkbox/checkbox.twig" timestamp="1489156077165">
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="76" />
@@ -725,7 +722,6 @@
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/facetapi/plugins/facetapi/widget_links.inc" timestamp="1489415435616" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/composer.json" timestamp="1486464344766">
         <mark key="[" line="141" column="7" />
         <mark key="]" line="141" column="7" />
@@ -824,7 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="443" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="453" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="454" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -924,13 +919,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-bar.twig" />
       <jump line="182" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="83" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
+      <jump line="50" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>$subqueue</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$subqueue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY3ZodWJfZnJvbnRlbmRfZ2V0X2ZlYXR1cmVkX2NvbnRlbnRcPg==</text>
@@ -977,14 +973,10 @@
       <last-offset />
       <last-pattern encoding="base64">XDxfY3ZodWJfZnJvbnRlbmRfZ2V0X2ZlYXR1cmVkX2NvbnRlbnRcPg==</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contact</entry>
-        <entry>pricecalculator</entry>
-        <entry>console</entry>
-        <entry>* eslint-disable *</entry>
         <entry>dsm</entry>
         <entry>sport'</entry>
         <entry encoding="base64">XDxoYXNoZGRkYXRhXD4=</entry>
@@ -1007,20 +999,6 @@
         <entry encoding="base64">XDxfY3ZodWJfZnJvbnRlbmRfZ2V0X2ZlYXR1cmVkX2NvbnRlbnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>319</entry>
-        <entry>203</entry>
-        <entry>52</entry>
-        <entry encoding="base64">JzwsJz4x</entry>
-        <entry>65</entry>
-        <entry>53</entry>
-        <entry>43</entry>
-        <entry>83</entry>
-        <entry>122</entry>
-        <entry>35</entry>
-        <entry>:w</entry>
-        <entry>W</entry>
-        <entry>37</entry>
-        <entry>174</entry>
         <entry>27</entry>
         <entry>w:w</entry>
         <entry>202</entry>
@@ -1032,15 +1010,15 @@
         <entry encoding="base64">JzwsJz4zMQ==</entry>
         <entry>17</entry>
         <entry>41</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz42NA==</entry>
         <entry>64</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>87</entry>
         <entry encoding="base64">JzwsJz41MA==</entry>
         <entry>50</entry>
-        <entry>w</entry>
         <entry>tabNext</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
