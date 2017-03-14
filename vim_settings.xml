@@ -234,10 +234,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1489425317658">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1489497511206">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr_panels/apachesolr_panels.module" timestamp="1488970578743">
         <mark key="[" line="122" column="0" />
@@ -491,6 +492,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/meta-navigation/meta-navigation~logged-in.json" timestamp="1489497749347" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/checkbox/checkbox.twig" timestamp="1489156077165">
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="76" />
@@ -601,6 +603,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/layout/page.tpl.twig" timestamp="1489497568284">
+        <mark key="[" line="30" column="95" />
+        <mark key="]" line="30" column="93" />
+        <mark key="." line="30" column="93" />
+        <mark key="^" line="30" column="93" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/source/blog/2017-03-01-backend-developer.markdown" timestamp="1488923352500">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -709,11 +717,12 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" timestamp="1489493508989">
-        <mark key="[" line="86" column="28" />
-        <mark key="]" line="98" column="28" />
-        <mark key="." line="98" column="28" />
-        <mark key="^" line="98" column="28" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" timestamp="1489497780353">
+        <mark key="'" line="98" column="4" />
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="14" />
+        <mark key="^" line="96" column="16" />
+        <mark key="." line="96" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/templates/dzvier_map.html.twig" timestamp="1488274687508">
         <mark key="[" line="0" column="22" />
@@ -850,7 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="496" column="68" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="541" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="612" column="58" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
@@ -950,13 +958,14 @@
       <jump line="39" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="104" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.libraries.yml" />
+      <jump line="96" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>startCase</text>
@@ -964,35 +973,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZmlsZXNbXSA9IHBsdWdpbnMvY3VycmVudF9zZWFyY2gvaXRlbV9hY3RpdmVfZmlsdGVycy5pbmMK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGxpbmtzWydsb2dnZWRJbiddID0gVFJVRTsKICAgICRsaW5rc1sndXNlck5hbWUnXSA9ICR1c2VyLT5uYW1lOwogICAgJGxpbmtzWydsaW5rcyddID0gY3ZodWJfZnJvbnRlbmRfZ2V0X21lbnUoJ3VzZXItbWVudScpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgLCB1bmVzY2FwZSB9IGZyb20gJ2xvZGFzaCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnaWNvbicgPT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gJGxpbmtzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZHNkZG0oImphIik7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gJGxpbmtzOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEBwYXJhbSAkdmFyaWFibGVzCiAqIEBwYXJhbSAkcmVnaW9uCiAqIEByZXR1cm4gYm9vbA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICRsaW5rc1snbGlua3MnXSA9IGN2aHViX2Zyb250ZW5kX2dldF9tZW51KCdtZW51LWd1ZXN0LW1lbnUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzdHJwb3MoJ3NvY2lhbF9pY29ucycsICRibG9jay0+Z2UpKQo=</text>
+        <text encoding="base64">ICAgICRsaW5rc1snbG9nZ2VkSW4nXSA9IEZBTFNFOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICRsaW5rc1snbGlua3MnXSA9IGN2aHViX2Zyb250ZW5kX2dldF9tZW51KCd1c2VyLW1lbnUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
