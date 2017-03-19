@@ -39,6 +39,12 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/source/layouts/layout_blog.haml" timestamp="1489932884517">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/ProfilePortalRow.php" timestamp="1487084292553">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -188,7 +194,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/rmh_cv_splash_screens.module" timestamp="1489581391146" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/tag/tag.json" timestamp="1489420164280">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -260,6 +265,12 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/config.rb" timestamp="1489934663607">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr_panels/apachesolr_panels.module" timestamp="1488970578743">
         <mark key="[" line="122" column="0" />
@@ -654,7 +665,6 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.yaml" timestamp="1489580771984" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_deploy/ph_backend_deploy.install" timestamp="1489709995230">
         <mark key="[" line="106" column="5" />
         <mark key="]" line="106" column="5" />
@@ -1031,66 +1041,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TRUE</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>pager</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3RpZCcsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ2ludGVnZXInKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGZpZWxkc1sicGg6bmF2aWdhdGlvbjpzcG9ydDpxdWVyeSJdID0gWwogICAgICAndHlwZScgPT4gbmV3IExpc3RNb2RpZmllcigkcmVzb2x2ZWQpLAogICAgICAnYXJncycgPT4gWwogICAgICAgICdwYXJlbnQnID0+IFsKICAgICAgICAgICd0eXBlJyA9PiB0eXBlOjppbnRUeXBlKCksCiAgICAgICAgXSwKICAgICAgXSwKICAgICAgJ3Jlc29sdmUnID0+IFtfX0NMQVNTX18sICdnZXRQaFNwb3J0TmF2aWdhdGlvbiddLAogICAgXTsKICAkZmllbGRzWyJwaDpuYXZpZ2F0aW9uOmJldDp0eXBlOnF1ZXJ5Il0gPSBbCiAgICAndHlwZScgPT4gbmV3IExpc3RNb2RpZmllcigkcmVzb2x2ZWQpLAogICAgJ2FyZ3MnID0+IFsKICAgICAgJ3BhcmVudCcgPT4gWwogICAgICAgICd0eXBlJyA9PiB0eXBlOjppbnRUeXBlKCksCiAgICAgIF0sCiAgICBdLAogICAgJ3Jlc29sdmUnID0+IFtfX0NMQVNTX18sICdnZXRQaEJldHR5cGVOYXZpZ2F0aW9uJ10sCiAgXTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBibG9nLnRhZ190ZW1wbGF0ZSA9ICJibG9nLmh0bWwiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBibG9nLnRhZ2xpbmsgPSAidGFncy97dGFnfS5odG1sIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcm93KTsKICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcm93KTsK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICBhY3RpdmF0ZSA6YmxvZyBkbyB8YmxvZ3wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3RpZCcsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ2ludGVnZXInKSAgICAkbGlzdEl0ZW1EZWZpbml0aW9uLT5zZXRQcm9wZXJ0eURlZmluaXRpb24oJ3dlaWdodCcsIERhdGFEZWZpbml0aW9uOjpjcmVhdGUoJ2ludGVnZXInKSk7KQo=</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGU6ICcvYXJjaGl2ZS5odG1sJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZTogYm9vdHN0cmFwCg==</text>
+        <text encoding="base64">ICAgICAgYXV0aG9yOiB7CiAgICAgICAgbGluazogJy9hdXRob3JzL3thdXRob3J9Lmh0bWwnLAogICAgICAgIHRlbXBsYXRlOiAnL2FyY2hpdmUuaHRtbCcKICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">YmxvZy5yZWR1Y2Uoe30pIGRvIHxzdW0sIHJ8CiAgICByLmRhdGEuY2F0ZWdvcnkuZWFjaCBkbyB8Y3wKICAgICAgc3VtW2NdIHx8PSBbXQogICAgICBzdW1bY10gPDwgcgogICAgZW5kCgogICAgc3VtCiAgZW5kLmVhY2ggZG8gfGNhdGVnb3J5LCByZXNvdXJjZXN8CiAgICBwcm94eSAie2xhbmd9L2Jsb2cvI3tjYXRlZ29yeX0uaHRtbCIsICJjYXRlZ29yeS5odG1sIiwgbG9jYWxzOiB7CiAgICAgIGNhdGVnb3J5OiBjYXRlZ29yeSwKICAgICAgcmVzb3VyY2VzOiByZXNvdXJjZXMKICAgIH0KICBlbmQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRzYW5kYm94KTsK</text>
+        <text encoding="base64">cmVzb3VyY2UucmVkdWNlKHt9KSBkbyB8c3VtLCByfAogIHIuZGF0YS5jYXRlZ29yeS5lYWNoIGRvIHxjfAogICAgc3VtW2NdIHx8PSBbXQogICAgc3VtW2NdIDw8IHIKICBlbmQKCiAgc3VtCmVuZC5lYWNoIGRvIHxjYXRlZ29yeSwgcmVzb3VyY2VzfAogIHByb3h5ICJ7bGFuZ30vYmxvZy8je2NhdGVnb3J5fS5odG1sIiwgImNhdGVnb3J5Lmh0bWwiLCBsb2NhbHM6IHsKICAgIGNhdGVnb3J5OiBjYXRlZ29yeSwKICAgIHJlc291cmNlczogcmVzb3VyY2VzCiAgfQplbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pager</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>pager</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kpr</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry encoding="base64">XDxybWhfY3Zfc2VhcmNoX2V4ZWN1dGVfc2VhcmNoXD4=</entry>
-        <entry encoding="base64">XDxhcGFjaGVzb2xyX3NlYXJjaF9ydW5cPg==</entry>
-        <entry>type</entry>
-        <entry>theme</entry>
         <entry>'regions'</entry>
         <entry encoding="base64">XDxyZW5kZXJfcmVnaW9uXD4=</entry>
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
@@ -1111,12 +1115,10 @@
         <entry>#finished</entry>
         <entry>dsm</entry>
         <entry>pager</entry>
+        <entry>partner</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4zMQ==</entry>
-        <entry>17</entry>
-        <entry>41</entry>
-        <entry encoding="base64">JzwsJz42NA==</entry>
         <entry>64</entry>
         <entry>87</entry>
         <entry encoding="base64">JzwsJz41MA==</entry>
@@ -1134,8 +1136,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>72</entry>
         <entry>w:w</entry>
-        <entry>W</entry>
         <entry>108</entry>
+        <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
