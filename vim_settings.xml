@@ -254,11 +254,11 @@
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/banana_dashboard.yaml" timestamp="1489582052520">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="5" />
-        <mark key="." line="41" column="5" />
-        <mark key="^" line="41" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/banana_dashboard.yaml" timestamp="1490104886297">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/web/themes/custom/zow_frontend/pattern-lab/frontend/lib/base/base.css" timestamp="1486410363089">
         <mark key="[" line="19" column="24" />
@@ -568,12 +568,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1489577194614">
-        <mark key="'" line="141" column="24" />
-        <mark key="[" line="163" column="27" />
-        <mark key="]" line="163" column="35" />
-        <mark key="." line="163" column="35" />
-        <mark key="^" line="163" column="35" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1490104834078">
+        <mark key="'" line="20" column="23" />
+        <mark key="^" line="141" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.module" timestamp="1489581812049">
         <mark key="'" line="126" column="21" />
@@ -973,12 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
-      <jump line="141" column="68" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/dzvier_map.html.twig" />
-      <jump line="29" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
-      <jump line="278" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
-      <jump line="89" column="65" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
       <jump line="63" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" />
@@ -1047,7 +1038,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/facetapi-link.tpl.twig" />
       <jump line="29" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="127" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
-      <jump line="20" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-autocomplete-helper.tpl.twig" />
       <jump line="63" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="12" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -1073,62 +1063,67 @@
       <jump line="177" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
       <jump line="215" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
       <jump line="231" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
+      <jump line="159" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="235" column="73" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="245" column="88" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="361" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="443" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="18" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="20" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dsm</text>
+        <text>menu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogNTAlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRzbShwcmludF9yKCRxdWVyeSwgVFJVRSkpOwo=</text>
+        <text encoding="base64">ICAgICAgJGJvb3N0ICs9IDEwMDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRzbSgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpc3NldCgkdXNlcl9wcmVmZXJyZWRbJHZhbHVlXSkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRkJ21hdGNoJyA9PiBbJ2ZpZWxkX2xhbmd1YWdlJyA9PiAncGwnXQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3Byb3BlcnRpZXMnID0+IFsKICAgICAgICAnbmFtZScgPT4gWyd0eXBlJyA9PiAna2V5d29yZCddLAogICAgICAgICdpZCcgPT4gWyd0eXBlJyA9PiAnc2hvcnQnLCAnaW5kZXgnID0+ICdub3RfYW5hbHl6ZWQnXSwKICAgICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICogQHBhcmFtICRmaWVsZF9uYW1lCiAqICAgVGhlIERydXBhbCBmaWVsZCBuYW1lLiBJZiBvbWl0dGVkLCByZXR1cm4gYWxsIGZpZWxkIG1hcHBpbmdzLgogKiBAcGFyYW0gJHNvbHJfZmllbGRfdHlwZV9maWx0ZXIKICogICBBbiBhcnJheSBvZiB0aGUgU29sciBmaWVsZCB0eXBlcyB0aGF0IGFyZSB3YW50ZWQgKGUuZy4gc3RyaW5nLCB0ZXh0LCBmbG9hdCwKICogICBpbnRlZ2VyKS4gU29sciBmaWVsZHMgdGhhdCBhcmVuJ3QgaW4gdGhpcyBsaXN0IHdpbGwgbm90IGJlIHJldHVybmVkLgogKgogKiBAcmV0dXJuIGFycmF5CiAqICAgQWxsIGZpZWxkIG5hbWVzLg==</text>
       </register>
-      <register name="7" type="4">
-        <text>elseif ($field_type == 'keyword') {
-      $field_val = $field_val;
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgIGRzbShwcmludF9yKCRxdWVyeSwgVFJVRSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIGRzbSgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dsm</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>dsm</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1152,6 +1147,8 @@
         <entry>proxy</entry>
         <entry encoding="base64">XDxib29sXD4=</entry>
         <entry>dsm</entry>
+        <entry>1000</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry>0</entry>
