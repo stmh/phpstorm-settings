@@ -71,10 +71,17 @@
         <mark key="." line="200" column="31" />
         <mark key="^" line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.module" timestamp="1490187642517">
-        <mark key="[" line="109" column="58" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.module" timestamp="1490198624864">
+        <mark key="[" line="285" column="3" />
+        <mark key="]" line="285" column="12" />
+        <mark key="." line="285" column="12" />
+        <mark key="^" line="285" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.theme.inc" timestamp="1490187483291" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.theme.inc" timestamp="1490198513086">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1490133325503">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -122,8 +129,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-image-text/components-image-text.css" timestamp="1490094827681" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/responsive_image_styles/responsive_image_styles.module" timestamp="1490179880466" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/templates/rmh-cv-search-search-results.tpl.php" timestamp="1490134085354">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="4" column="35" />
@@ -253,7 +258,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_overview.inc" timestamp="1490132327524" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-teaser/asset-teaser.json" timestamp="1490173801846">
         <mark key="[" line="4" column="167" />
         <mark key="]" line="4" column="167" />
@@ -374,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>search-submit.</text>
+        <text>Implementation of</text>
       </register>
       <register name="-" type="4">
-        <text>search-submit.</text>
+        <text>Implementation of</text>
       </register>
       <register name="/" type="4">
         <text>links</text>
@@ -386,37 +390,37 @@
         <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvMDEtYXRvbXMvc2VhcmNoLXN1Ym1pdC9zZWFyY2gtc3VibWl0LmNzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gJGpzb25fYXR0cmlidXRlc1sncmF0aW9zJ11bJHJdWydyZXNpemUnXSA9IGZvY2FsX3BvaW50X2VmZmVjdF9yZXNpemVfZGF0YSgkZmlsZVsnd2lkdGgnXSwgJGZpbGVbJ2hlaWdodCddLCAkY3JvcF9kYXRhWyd3aWR0aCddLCAkY3JvcF9kYXRhWydoZWlnaHQnXSk7Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgLy8gJGpzb25fYXR0cmlidXRlc1sncmF0aW9zJ11bJHJdWydyZXNpemUnXSA9IGZvY2FsX3BvaW50X2VmZmVjdF9yZXNpemVfZGF0YSgkZmlsZVsnd2lkdGgnXSwgJGZpbGVbJ2hlaWdodCddLCAkY3JvcF9kYXRhWyd3aWR0aCddLCAkY3JvcF9kYXRhWydoZWlnaHQnXSk7Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogIGJsZW5kIGlmIGluIHZpZXdwb3J0IGFuZCBsb2FkZWQK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICogIGJsZW5kIGlmIGluIHZpZXdwb3J0IGFuZCBsb2FkZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LlJlc3BvbnNpdmVJbWFnZS1pbWFnZS5pcy1sb2FkaW5nRG9uZS5pcy1pblZpZXdwb3J0IHsK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKICogdmlld3BvcnQgc3RhdGVzCiAqLwoKLlJlc3BvbnNpdmVJbWFnZS1pbWFnZS5pcy1pblZpZXdwb3J0IHsKCn0KCi8qCiAqIGxvYWRpbmcgc3RhdGVzCiAqLwoKLlJlc3BvbnNpdmVJbWFnZS1pbWFnZS5pcy1sb2FkaW5nRmlyc3QgewoKfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LlJlc3BvbnNpdmVJbWFnZS1pbWFnZS5pcy1sb2FkaW5nRG9uZS5pcy1pblZpZXdwb3J0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -492,6 +496,9 @@
         <entry>595</entry>
         <entry>tabNext</entry>
         <entry>24</entry>
+        <entry>107</entry>
+        <entry>247</entry>
+        <entry>286</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
