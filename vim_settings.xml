@@ -374,11 +374,11 @@
         <mark key="." line="82" column="15" />
         <mark key="^" line="82" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset--teaser.tpl.twig" timestamp="1490173904199">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset--teaser.tpl.twig" timestamp="1490181418430">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_tools/src/TranslationTools.php" timestamp="1488230276403">
         <mark key="[" line="14" column="23" />
@@ -728,10 +728,10 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-teaser/asset-teaser.twig" timestamp="1490173921403">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-teaser/asset-teaser.twig" timestamp="1490181430461">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/layout/page.tpl.twig" timestamp="1489497568284">
         <mark key="[" line="30" column="95" />
@@ -1123,10 +1123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1440</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1440</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>links</text>
@@ -1135,37 +1135,37 @@
         <text>$theme_declaration[</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">e3sgY29udGVudC5maWVsZF9hc3NldF90ZWFzZXJfaW1hZ2UgfX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">J2Jhc2ljX2FkYXB0aXZlJyA9PiBhcnJheSgKICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnQmFzaWMgYWRhcHRpdmUgcmVzcG9uc2l2ZSBpbWFnZSBzdHlsZScsCiAgICAgIC8vIFNjYWxlIGFuZCBjcm9wLgogICAgICAndHlwZScgPT4gJ3NjYWxlJywKICAgICAgJ2NvdmVyJyA9PiBGQUxTRSwKICAgICAgJ2xzJyA9PiBhcnJheSgKICAgICAgICAnaW50ZXJwb2xhdGlvbicgPT4gJ2N1YmljJywKICAgICAgICAnd2lkdGgnID0+IDEyMDAsCiAgICAgICAgJ21pbl93aWR0aCcgPT4gMTYwLAogICAgICApLAogICAgKSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnaW50ZXJwb2RkbGF0aW9uJyA9PiAncXVhZHJpYycsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAkdmFyaWFibGVzWydwYWdlciddID0gdGhlbWUoJ3BhZ2VyJywgYXJyYXkoJ3RhZ3MnID0+IE5VTEwpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">eyUgaWYgZGlzYWJsZWQgJX0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBkc20oJG5pZHMsICJudWRzIik7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAicGFnZXIiOiAiPGEgaHJlZj1cIiNcIj5Mb2FkIG1vcmU8L2E+Igo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgcGFnZXIgfX0K</text>
+        <text encoding="base64">ICAicGFnZXIiOiAiPGEgaHJlZj1cIiNcIj5Mb2FkIG1vcmU8L2E+Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
