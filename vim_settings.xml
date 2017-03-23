@@ -67,7 +67,6 @@
         <mark key="^" line="102" column="27" />
         <mark key="." line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/ckeditor_tabber/ckeditor_tabber.module" timestamp="1490289258525" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PHNavigation.php" timestamp="1487878632367">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="17" />
@@ -664,8 +663,6 @@
         <mark key="^" line="480" column="26" />
         <mark key="." line="480" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-image-text/components-image-text.css" timestamp="1490094827681" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/responsive_image_styles/responsive_image_styles.module" timestamp="1490179880466" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/templates/rmh-cv-search-search-results.tpl.php" timestamp="1490134085354">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="4" column="35" />
@@ -689,7 +686,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte~with-embed.yaml" timestamp="1490285496018" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.module" timestamp="1490017893866">
         <mark key="[" line="103" column="2" />
         <mark key="]" line="103" column="5" />
@@ -868,6 +864,12 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/tordispohl/web/themes/custom/tp_frontend/templates/block/block--mission-block.html.twig" timestamp="1490306079721">
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/filter-section/filter-section.css" timestamp="1490188379156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -897,7 +899,6 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/message-bar/message-bar~with-back-link.json" timestamp="1490273253591" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PhSearchResult.php" timestamp="1487784323270">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="19" />
@@ -1015,7 +1016,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_overview.inc" timestamp="1490132327524" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/search/search.json" timestamp="1489419878468">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="38" />
@@ -1258,11 +1258,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="&quot;" type="4">
+        <text>dabei</text>
       </register>
       <register name="-" type="4">
-        <text>content.field_asset_headline,</text>
+        <text>dabei</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1271,37 +1271,37 @@
         <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvMDEtYXRvbXMvc2VhcmNoLXN1Ym1pdC9zZWFyY2gtc3VibWl0LmNzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9Ik1pc3Npb24tdW5kZXJsaW5lIj4KICAgICAgICBFaW5lIGd1dGUgR2VzY2hpY2h0ZSBoYXQgZWluZSB0cmFnZsOkaGlnZSBJZGVlLCBlaW5lbiBrcmFmdHZvbGxlbiBQbG90IHVuZCBlaW5lbiB0cmVmZmVuZGVuIFNwcmFjaC1TdGlsLjxici8+CkljaCBtYWcgZ3V0ZSBHZXNjaGljaHRlbi4gRGVzaGFsYiB1bnRlcnN0w7x0emUgaWNoIEF1dG9yZW4gZGFiZWksIHNpZSB6dSBlcnrDpGhsZW4uCiAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgQmVyYXR1bmcgYmVpIGRlciBTdG9mZmVudHdpY2tsdW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRjc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgQXV0b3Jlbi1Db2FjaGluZzxiciAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRqcyk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludF9yKCRjc3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJHZhcnNbJ3RpdGxlJ10pOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCRqcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkc20oYXJyYXlfa2V5cygkdmFycykpOwo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkc20oJHZhcnNbJ2ZpZWxkX2Fzc2V0X2hlYWRsaW5lJ11bMF1bJ3NhZmVfdmFsdWUnXSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1312,21 +1312,10 @@
       <last-offset />
       <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYW5lbHNfZ2V0X3N0eWxlc1w+</entry>
-        <entry encoding="base64">XDxmYWNldGFwaV9idWlsZF9yZWFsbVw+</entry>
-        <entry>im_field_asset_format</entry>
-        <entry>form_alter</entry>
-        <entry encoding="base64">XDxfY3ZodWJfZnJvbnRlbmRfZ2V0X2ZlYXR1cmVkX2NvbnRlbnRcPg==</entry>
-        <entry>ctools</entry>
-        <entry>startCase</entry>
-        <entry>menu(</entry>
-        <entry encoding="base64">XDxybWhfY3Zfc2VhcmNoX2NhbGxiYWNrXD4=</entry>
-        <entry encoding="base64">XDwnXD4=</entry>
-        <entry>invoke</entry>
         <entry encoding="base64">XDxtb2R1bGVfaW52b2tlX2FsbFw+</entry>
         <entry>register</entry>
         <entry>#finished</entry>
@@ -1349,24 +1338,6 @@
         <entry>input</entry>
       </history-search>
       <history-cmd>
-        <entry>0</entry>
-        <entry>139</entry>
-        <entry>181</entry>
-        <entry>110</entry>
-        <entry>9</entry>
-        <entry>13</entry>
-        <entry>123</entry>
-        <entry>72</entry>
-        <entry>w:w</entry>
-        <entry>108</entry>
-        <entry>:w</entry>
-        <entry>178</entry>
-        <entry>183</entry>
-        <entry>221</entry>
-        <entry>196</entry>
-        <entry>noh</entry>
-        <entry>367</entry>
-        <entry>722</entry>
         <entry>374</entry>
         <entry>346</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1386,6 +1357,7 @@
         <entry>1</entry>
         <entry>W</entry>
         <entry>e template.php</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
