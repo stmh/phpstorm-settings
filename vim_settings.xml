@@ -808,7 +808,7 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/rte-embed/rte-embed.twig" timestamp="1490283637490">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/rte-embed/rte-embed.twig" timestamp="1490364759512">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
@@ -969,12 +969,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1490286607667">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1490365081734">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
-        <mark key="^" line="23" column="17" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr/apachesolr_search.module" timestamp="1490119877183">
         <mark key="'" line="1005" column="9" />
@@ -1037,10 +1037,10 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/filter-section/filter-section.json" timestamp="1490362513803">
         <mark key="'" line="3" column="36" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
         <mark key="o" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-website/.pre-commit-config.yaml" timestamp="1486411986926">
@@ -1074,11 +1074,11 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.json" timestamp="1490282539975">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.json" timestamp="1490365074631">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="3" />
         <mark key="^" line="19" column="6" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--dz4-local-tasks.html.twig" timestamp="1486639598472">
         <mark key="[" line="34" column="38" />
@@ -1104,7 +1104,7 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" timestamp="1490282106250">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" timestamp="1490364721813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -1268,10 +1268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>. $pattern)</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>. $pattern)</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>processData</text>
@@ -1325,8 +1325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2R1bGVfaW52b2tlX2FsbFw+</entry>
-        <entry>register</entry>
         <entry>#finished</entry>
         <entry>pager</entry>
         <entry>partner</entry>
@@ -1349,7 +1347,6 @@
         <entry>processData</entry>
       </history-search>
       <history-cmd>
-        <entry>374</entry>
         <entry>346</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>568</entry>
