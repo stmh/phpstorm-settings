@@ -297,6 +297,13 @@
         <mark key="." line="173" column="43" />
         <mark key="^" line="173" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/aleksip/plugin-data-transform/src/aleksip/DataTransformPlugin/DataTransformer.php" timestamp="1490363723663">
+        <mark key="'" line="34" column="28" />
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="10" />
+        <mark key="^" line="81" column="10" />
+        <mark key="." line="81" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/public/patterns/01-molecules-pagination-pagination/01-molecules-pagination-pagination.twig" timestamp="1486982927214">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="52" />
@@ -1158,10 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
-      <jump line="339" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
-      <jump line="343" column="77" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
-      <jump line="2" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="42" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="340" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="44" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -1258,16 +1261,20 @@
       <jump line="128" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="3" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/filter-section/filter-section.json" />
+      <jump line="118" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/aleksip/plugin-data-transform/src/aleksip/DataTransformPlugin/DataTransformer.php" />
+      <jump line="62" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/aleksip/plugin-data-transform/src/aleksip/DataTransformPlugin/DataTransformer.php" />
+      <jump line="77" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/aleksip/plugin-data-transform/src/aleksip/DataTransformPlugin/DataTransformer.php" />
+      <jump line="32" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/aleksip/plugin-data-transform/src/aleksip/DataTransformPlugin/DataTransformer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>atoms</text>
+        <text>. $pattern)</text>
       </register>
       <register name="-" type="4">
-        <text>atoms</text>
+        <text>. $pattern)</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>processData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvMDEtYXRvbXMvc2VhcmNoLXN1Ym1pdC9zZWFyY2gtc3VibWl0LmNzcyI7Cg==</text>
@@ -1310,9 +1317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>processData</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern>processData</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1338,6 +1345,8 @@
         <entry encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9nZXRfc29scl9maWVsZF9uYW1lXD4=</entry>
         <entry>links</entry>
         <entry>input</entry>
+        <entry>exception</entry>
+        <entry>processData</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
