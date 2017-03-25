@@ -742,11 +742,11 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1490386975479">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1490458111975">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/styles/filter.inc" timestamp="1489401117506">
         <mark key="[" line="38" column="2" />
@@ -760,11 +760,11 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1490383741528">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="2" column="47" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1490458327015">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose-mbb.yml" timestamp="1486136849887">
         <mark key="[" line="1" column="37" />
@@ -783,6 +783,12 @@
         <mark key="]" line="82" column="15" />
         <mark key="." line="82" column="15" />
         <mark key="^" line="82" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamList.vue" timestamp="1490458239696">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/00-atoms/forms/_form-element.twig" timestamp="1488302705337">
         <mark key="[" line="57" column="52" />
@@ -891,6 +897,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/teams.js" timestamp="1490458364295">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/filter-section/filter-section.css" timestamp="1490188379156">
         <mark key="[" line="0" column="0" />
@@ -1242,53 +1254,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://jira.factorial.io</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>https://jira.factorial.io</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxybWhfY3Zfc2VhcmNoX2ZpbHRlcl90YWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkdmFyaWFibGVzWydtb2RpZmllcnMnXSA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2plY3RMaXN0IGZyb20gJ0AvY29tcG9uZW50cy9Qcm9qZWN0TGlzdCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2plY3RMaXN0IGZyb20gJ0AvY29tcG9uZW50cy9Qcm9qZWN0TGlzdCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8dGQ+e3twcm9qZWN0LmtleX19PC90ZD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGQgIDx0ZD48aW1nIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snMjR4MjQnXSIvPjwvdGQ+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgIHsgbmFtZTogJ0h1aHUnIH0sCiAgICAgIHsgbmFtZTogJ0hhaGEnIH0sCiAgICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>,
   &quot;url&quot;: url(path, options),</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qga2V5ID0gYGAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ3VyZShmdW5jdGlvbigpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgc3RhdGljUGF0aCA9IGV4cHJlc3Muc3RhdGljKF9fZGlybmFtZSArICcvYXBwJyk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coVnVlLmh0dHAuaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qga2V5ID0gYGAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VnVlLmh0dHAuaGVhZGVycy5jb21tb25bJ0FjY2VwdCddID0gJ3RleHQvcGxhaW4nOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>240</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1342,8 +1354,8 @@
         <entry>31</entry>
         <entry>50</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>240</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
