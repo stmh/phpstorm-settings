@@ -378,11 +378,11 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/config.js" timestamp="1490397394740">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/config.js" timestamp="1490457191685">
         <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="42" />
+        <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/src/EventSubscriber/CorsResponseEventSubscriber.php" timestamp="1487264574281">
         <mark key="[" line="99" column="16" />
@@ -679,10 +679,10 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1490391092867">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1490457416903">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/search-bar/search-bar.json" timestamp="1489420264572">
         <mark key="[" line="3" column="0" />
@@ -701,11 +701,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/proxy/src/index.js" timestamp="1490396625021">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/proxy/src/index.js" timestamp="1490457065573">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/ph_backend_elasticsearch.module" timestamp="1490017893866">
         <mark key="[" line="103" column="2" />
@@ -1241,11 +1241,11 @@
       <jump line="672" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://jira.factorial.io</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gYXJyYXkoKTs=</text>
+        <text>https://jira.factorial.io</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxybWhfY3Zfc2VhcmNoX2ZpbHRlcl90YWdcPg==</text>
