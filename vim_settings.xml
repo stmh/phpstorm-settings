@@ -495,11 +495,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/allocations.js" timestamp="1490530242109">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/allocations.js" timestamp="1490547158468">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-map/components-map.js" timestamp="1490095339401">
         <mark key="[" line="52" column="24" />
@@ -703,11 +703,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1490523695947">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1490547769392">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1490466084583">
         <mark key="[" line="377" column="0" />
@@ -1150,6 +1150,12 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamMember.vue" timestamp="1490547991663">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/.gitignore" timestamp="1490530665158">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1285,10 +1291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">L2J1aWxkCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQWxsb2NhdGlvbnMgZnJvbSAnLi9BbGxvY2F0aW9ucyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{ commit }</text>
+        <text>$route.params.id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxybWhfY3Zfc2VhcmNoX2ZpbHRlcl90YWdcPg==</text>
@@ -1297,37 +1303,37 @@
         <text encoding="base64">aW1wb3J0IHByb2plY3RzIGZyb20gJy4vbW9kdWxlcy9wcm9qZWN0cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2J1aWxkCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQWxsb2NhdGlvbnMgZnJvbSAnLi9BbGxvY2F0aW9ucyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVhbSgpIHsKICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuZ2V0dGVyc1sndGVhbXMvZ2V0VGVhbSddKHRoaXMuJHJvdXRlLnBhcmFtcy5pZCk7CiAgICAgIH0sCiAgICAgIG1lbWJlcnMoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudGVhbS5tZW1iZXJzOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsgQWxsb2NhfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUpOwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgQWxsb2NhdGlvbnMgZnJvbSAnLi9BbGxvY2F0aW9ucyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsgQWxsb2NhdGlvbnMgfSwK</text>
+        <text encoding="base64">ICAgIDx0ZD57e21lbWJlci5tZW1iZXIuZGlzcGxheW5hbWV9fTwvdGQ+CiAgPC90cj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQWxsb2NhdGlvbnMgZnJvbSAnLi9BbGxvY2F0aW9ucy52dWUnOwo=</text>
+        <text encoding="base64">ICAgIDx0ZD48aW1nIDpzcmM9Im1lbWJlci5tZW1iZXIuYXZhdGFyWycyNHgyNCddIiAvPjwvdGQ+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGgxIGNsYXNzPSJtZC1oZWFkbGluZSI+VGVhbSB7eyB0ZWFtLm5hbWUgfX08L2gxPgogICAgPHRhYmxlPgogICAgICA8dHIgdi1mb3I9Im1lbWJlciBpbiBtZW1iZXJzIiB2LWlmPSJtZW1iZXIubWVtYmVyLmFjdGl2ZUluSmlyYSI+CiAgICAgICAgPHRkPjxpbWcgOnNyYz0ibWVtYmVyLm1lbWJlci5hdmF0YXJbJzI0eDI0J10iIC8+PC90ZD4KICAgICAgICA8dGQ+e3ttZW1iZXIubWVtYmVyLmRpc3BsYXluYW1lfX08L3RkPgogICAgICAgIDx0ZD48YWxsb2NhdGlvbnMgOmFzc2lnbmVlPSJtZW1iZXIubWVtYmVyLm5hbWUiPjwvYWxsb2NhdGlvbnM+PC90ZD4KICAgICAgPC90cj4KICAgIDwvdGFibGU+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0VGVhbTogJ3RlYW1zL3JlcXVlc3RUZWFtJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldFRlYW06IHN0YXRlID0+IGlkID0+IChzdGF0ZS5hbGxvY2F0aW9uc1tpZF0gIT09IHVuZGVmaW5lZCA/IHN0YXRlLmFsbG9jYXRpb25zW2lkXSA6IHt9KSwK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy50ZWFtLm1lbWJlcnM7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RUZWFtKGNvbnRleHQsIHRlYW1JZCkgewogICAgICBjb250ZXh0LmRpc3BhdGNoKCdyZXF1ZXN0QWxsb2NhdGlvbnMnKTsKCiAgICAgIGppcmEucmVxdWVzdChgcmVzdC90ZW1wby1hbGxvY2F0aW9ucy8yL3RlYW0vJHt0ZWFtSWR9L21lbWJlcmApCiAgICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gY29udGV4dC5jb21taXQoU0VUX1RFQU1fTUVNQkVSUywgeyB0ZWFtOiB0ZWFtSWQsIHJlc3BvbnNlIH0pKQogICAgICAgIC5jYXRjaChlcnJvciA9PiBjb250ZXh0LmNvbW1pdChTRVRfRVJST1IsIGVycm9yKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbWVtYmVycygpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1384,8 +1390,8 @@
         <entry>240</entry>
         <entry>e</entry>
         <entry>tabNext</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
