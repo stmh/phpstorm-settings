@@ -242,11 +242,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1490697483203">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1490702199407">
         <mark key="'" line="261" column="10" />
-        <mark key="[" line="265" column="33" />
-        <mark key="]" line="265" column="33" />
-        <mark key="." line="265" column="33" />
+        <mark key="[" line="264" column="37" />
+        <mark key="]" line="264" column="37" />
+        <mark key="." line="264" column="37" />
         <mark key="^" line="265" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/layouts/frontpage/frontpage.inc" timestamp="1489178229025">
@@ -1385,10 +1385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>not</text>
+        <text>getWidth</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text>getWidth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</text>
