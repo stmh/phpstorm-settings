@@ -33,6 +33,12 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/patched/apachesolr_viewcount/apachesolr_viewcount.module" timestamp="1490708243416">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1490188771692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1094,13 +1100,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/index.css" timestamp="1490633435367">
-        <mark key="p" line="27" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/layout/page.tpl.twig" timestamp="1489497568284">
         <mark key="[" line="30" column="95" />
         <mark key="]" line="30" column="93" />
@@ -1282,7 +1281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="83" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" />
       <jump line="39" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -1382,64 +1380,65 @@
       <jump line="292" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="261" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="7" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/field/field--field-asset-brightcove-video--asset.tpl.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/patched/apachesolr_viewcount/apachesolr_viewcount.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</text>
+        <text>xdebug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHZpZGVvID0gYnJpZ2h0Y292ZV9sb2FkX3ZpZGVvKCRpdGVtWydicmlnaHRjb3ZlX2lkJ10sICRjbGllbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7IGl0ZW1bJyNhc3BlY3RfcmF0aW8nZGRdIH19Cg==</text>
+        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
+        <text encoding="base64">ICAgIHt7IGl0ZW1bJyNhc3BlY3RfcmF0aW8nZGRdIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRhc3BlY3RfcmF0aW8pOwo=</text>
+        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdmlkZW8pOwo=</text>
+        <text encoding="base64">ICAgICAgZHNtKCRhc3BlY3RfcmF0aW8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sgZHVtcChqZGRfY29udGV4dCkgfX0K</text>
+        <text encoding="base64">ICAgIGRzbSgkdmlkZW8pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgZHVtcChqZGRfY29udGV4dCkgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgJGJjaWQgPSAkaXRlbVsnYmNpZCddOwo=</text>
+        <text encoding="base64">ICBkc20oJGVsZW1lbnQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdmFyc1snZGF0ZSddKTsK</text>
+        <text encoding="base64">ICAgJGJjaWQgPSAkaXRlbVsnYmNpZCddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</last-search>
+      <last-search>xdebug</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</last-pattern>
+      <last-pattern>xdebug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1472,6 +1471,7 @@
         <entry encoding="base64">XDxDVkhVQl9GUk9OVEVORF9NQVhfVEFHX0NPVU5UXD4=</entry>
         <entry>keywords</entry>
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</entry>
+        <entry>xdebug</entry>
       </history-search>
       <history-cmd>
         <entry>631</entry>
