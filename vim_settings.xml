@@ -1409,7 +1409,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdmh1Yl9mcm9udGVuZF9wcmVwYXJlX3RhZ2xpc3RcPg==</text>
+        <text>panels</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHZpZGVvID0gYnJpZ2h0Y292ZV9sb2FkX3ZpZGVvKCRpdGVtWydicmlnaHRjb3ZlX2lkJ10sICRjbGllbnQpOwo=</text>
@@ -1452,12 +1452,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdmh1Yl9mcm9udGVuZF9wcmVwYXJlX3RhZ2xpc3RcPg==</last-search>
+      <last-search>panels</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdmh1Yl9mcm9udGVuZF9wcmVwYXJlX3RhZ2xpc3RcPg==</last-pattern>
+      <last-pattern>panels</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1492,6 +1492,7 @@
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</entry>
         <entry>xdebug</entry>
         <entry encoding="base64">XDxjdmh1Yl9mcm9udGVuZF9wcmVwYXJlX3RhZ2xpc3RcPg==</entry>
+        <entry>panels</entry>
       </history-search>
       <history-cmd>
         <entry>631</entry>
