@@ -441,6 +441,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/fabfile.yaml" timestamp="1490816788409">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/src/EventSubscriber/CorsResponseEventSubscriber.php" timestamp="1487264574281">
         <mark key="[" line="99" column="16" />
         <mark key="]" line="99" column="16" />
@@ -1399,7 +1404,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQWRkIHRyYW5zbGF0aW9uLgo=</text>
+        <text encoding="base64">ICBtLm9jY2hpby50ZXN0LnN3aXBlLmRlOgogICAgaW5oZXJpdHNGcm9tOiBodHRwOi8vY29uZmlnLmZhY3RvcmlhbC5pby90ZXN0LnN3aXBlLmRlL2hvc3QueWFtbAogICAgcG9ydDogMjI5NQogICAgcm9vdEZvbGRlcjogL3Zhci93d3cKICAgIGdpdFJvb3RGb2xkZXI6IC92YXIvd3d3CiAgICBicmFuY2g6IGZlYXR1cmUvbW9iaWxlLW5hdmlnYXRpb24KICAgIGRhdGFiYXNlOgogICAgICBuYW1lOiBvY2NoaW8KCiAgICBkb2NrZXI6CiAgICAgIG5hbWU6IG9jY2hpb19tb3ZpbGUKICAgICAgZm9sZGVyOiBvY2NoaW9fbW9iaWxlCiAgICAgIHZob3N0OiBtLm9jY2hpby50ZXN0LnN3aXBlLmRlCiAgICAgIHJlcG9zaXRvcnk6IHNvdXJjZUBzb3VyY2Uuc3dpcGUuZGU6b2NjaGlvL29jY2hpby1jbXMuZ2l0CiAgICByZXNldDoKICAgICAgLSAiY2QgJXNpdGVGb2xkZXIlOyBkcnVzaCB2c2V0IC15IC0tZXhhY3QgY2RuX3N0YXR1cyAwIgogICAgICAtICJjZCAlc2l0ZUZvbGRlciU7IGRydXNoIHZzZXQgdGhlbWVfZGVmYXVsdCBvY2NoaW9fbW9iaWxlIgoK</text>
       </register>
       <register name="-" type="4">
         <text>$product_line</text>
@@ -1411,37 +1416,37 @@
         <text encoding="base64">Ci8qKgogKiBBZGQgdHJhbnNsYXRpb24uCiAqLwpmdW5jdGlvbiBvY2NoaW9fZGVwbG95X3VwZGF0ZV83MDk2KCkgewogIF9vY2NoaW9fZGVwbG95X3NldF90cmFuc2xhdGlvbignUHJvZHVjdCBvdmVydmlldycsICdQcm9kdWt0w7xiZXJzaWNodCcsICdkZScpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQWRkIHRyYW5zbGF0aW9uLgo=</text>
+        <text encoding="base64">ICBtLm9jY2hpby50ZXN0LnN3aXBlLmRlOgogICAgaW5oZXJpdHNGcm9tOiBodHRwOi8vY29uZmlnLmZhY3RvcmlhbC5pby90ZXN0LnN3aXBlLmRlL2hvc3QueWFtbAogICAgcG9ydDogMjI5NQogICAgcm9vdEZvbGRlcjogL3Zhci93d3cKICAgIGdpdFJvb3RGb2xkZXI6IC92YXIvd3d3CiAgICBicmFuY2g6IGZlYXR1cmUvbW9iaWxlLW5hdmlnYXRpb24KICAgIGRhdGFiYXNlOgogICAgICBuYW1lOiBvY2NoaW8KCiAgICBkb2NrZXI6CiAgICAgIG5hbWU6IG9jY2hpb19tb3ZpbGUKICAgICAgZm9sZGVyOiBvY2NoaW9fbW9iaWxlCiAgICAgIHZob3N0OiBtLm9jY2hpby50ZXN0LnN3aXBlLmRlCiAgICAgIHJlcG9zaXRvcnk6IHNvdXJjZUBzb3VyY2Uuc3dpcGUuZGU6b2NjaGlvL29jY2hpby1jbXMuZ2l0CiAgICByZXNldDoKICAgICAgLSAiY2QgJXNpdGVGb2xkZXIlOyBkcnVzaCB2c2V0IC15IC0tZXhhY3QgY2RuX3N0YXR1cyAwIgogICAgICAtICJjZCAlc2l0ZUZvbGRlciU7IGRydXNoIHZzZXQgdGhlbWVfZGVmYXVsdCBvY2NoaW9fbW9iaWxlIgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfb2NjaGlvX2RlcGxveV9zZXRfdHJhbnNsYXRpb24oJ1Byb2R1Y3Qgb3ZlcnZpZXcnLCAnUHJvZHVrdMO8YmVyc2ljaHQnLCAnZGUnKTsK</text>
+        <text encoding="base64">ICogQWRkIHRyYW5zbGF0aW9uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGFyZW50cyk7Cg==</text>
+        <text encoding="base64">ICBfb2NjaGlvX2RlcGxveV9zZXRfdHJhbnNsYXRpb24oJ1Byb2R1Y3Qgb3ZlcnZpZXcnLCAnUHJvZHVrdMO8YmVyc2ljaHQnLCAnZGUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcGFyZW50cyk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgago=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKGlzc2V0KCRwYXJhbXNbJ3VzZV9pY29uX2NhY2hlJ10pKSB7CiAgICAgICRpdGVtWydnZXRfZnJvbV9pY29uX2NhY2hlJ10gPSAkd3JhcHBlci0+bmlkLT52YWx1ZSgpOwogICAgfQogICAgZWxzZSB7CiAgICAgICRpdGVtWydzYXZlX3RvX2ljb25fY2FjaGUnXSA9ICR3cmFwcGVyLT5uaWQtPnZhbHVlKCk7CiAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAkcGFyYW1zWydpY29uX3N0YWNrX2NhbGxiYWNrJ10gPSAnX29jY2hpb19uYXZpZ2F0aW9uX2dldF9wcm9kdWN0X2ljb24nOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkcGFyYW1zWydpY29uX3N0YWNrX2NhbGxiYWNrJ10gPSAnX29jY2hpb19uYXZpZ2F0aW9uX2dldF9wcm9kdWN0X2ljb24nOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkcGFyYW1zWydpY29uX3N0YWNrX2NhbGxiYWNrJ10gPSAnX29jY2hpb19uYXZpZ2F0aW9uX2dldF9wcm9kdWN0X2ljb24nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
