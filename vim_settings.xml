@@ -881,6 +881,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/page-teaser/page-teaser.twig" timestamp="1490888752122">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/block/block--form_block.html.twig" timestamp="1486458847762">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -911,6 +916,9 @@
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
         <mark key="^" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/node/node--teaser--teaser.html.twig" timestamp="1490888705258">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/docker-compose-mbb.yml" timestamp="1486136849887">
         <mark key="[" line="1" column="37" />
@@ -1315,7 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="556" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" />
       <jump line="38" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
@@ -1415,13 +1422,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/taxonomy/taxonomy.module" />
       <jump line="109" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
       <jump line="145" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/node/node--teaser--teaser.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fHJhd3xzdHJpcHRhZ3MoJzxlbT48c3Ryb25nPjx1bmRlcmxpbmU+Jyk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fHJhd3xzdHJpcHRhZ3MoJzxlbT48c3Ryb25nPjx1bmRlcmxpbmU+Jyk=</text>
       </register>
       <register name="/" type="4">
         <text>dl</text>
