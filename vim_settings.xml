@@ -634,7 +634,7 @@
         <mark key="." line="86" column="49" />
         <mark key="^" line="86" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490866295564">
+      <file name="/Dummy.txt" timestamp="1490879486951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/responsive-image/responsive-image.css" timestamp="1490188591067">
@@ -793,6 +793,12 @@
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1490880124895">
+        <mark key="[" line="169" column="1" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/jira/index.js" timestamp="1490461953788">
         <mark key="[" line="7" column="6" />
@@ -1414,7 +1420,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>file_force_create_url</text>
+        <text>dt:w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ci8qKgogKiBBZGQgdHJhbnNsYXRpb24uCiAqLwpmdW5jdGlvbiBvY2NoaW9fZGVwbG95X3VwZGF0ZV83MDk2KCkgewogIF9vY2NoaW9fZGVwbG95X3NldF90cmFuc2xhdGlvbignUHJvZHVjdCBvdmVydmlldycsICdQcm9kdWt0w7xiZXJzaWNodCcsICdkZScpOwp9Cg==</text>
@@ -1457,9 +1463,9 @@
       </register>
     </registers>
     <search>
-      <last-search>file_force_create_url</last-search>
+      <last-search>dt:w</last-search>
       <last-offset />
-      <last-pattern>file_force_create_url</last-pattern>
+      <last-pattern>dt:w</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -1491,6 +1497,7 @@
         <entry encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9zb2xyX2Jvb3N0X2FkbWluX3ZvY2FiX3NldHRpbmdzXD4=</entry>
         <entry>url(</entry>
         <entry>file_force_create_url</entry>
+        <entry>dt:w</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
