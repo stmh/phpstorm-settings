@@ -205,12 +205,12 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" timestamp="1490877699787">
-        <mark key="'" line="148" column="36" />
-        <mark key="[" line="148" column="37" />
-        <mark key="]" line="149" column="26" />
-        <mark key="^" line="149" column="26" />
-        <mark key="." line="149" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" timestamp="1490885219799">
+        <mark key="'" line="145" column="37" />
+        <mark key="[" line="149" column="27" />
+        <mark key="]" line="151" column="35" />
+        <mark key="^" line="151" column="35" />
+        <mark key="." line="151" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1490712738201">
         <mark key="[" line="936" column="85" />
@@ -794,11 +794,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1490884118115">
-        <mark key="[" line="107" column="20" />
-        <mark key="]" line="109" column="31" />
-        <mark key="." line="109" column="31" />
-        <mark key="^" line="109" column="31" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1490885034054">
+        <mark key="'" line="115" column="31" />
+        <mark key="[" line="107" column="5" />
+        <mark key="]" line="107" column="6" />
+        <mark key="." line="107" column="6" />
+        <mark key="^" line="108" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/jira/index.js" timestamp="1490461953788">
         <mark key="[" line="7" column="6" />
@@ -1314,9 +1315,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="556" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" />
       <jump line="38" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
@@ -1414,16 +1413,18 @@
       <jump line="265" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
       <jump line="264" column="60" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/taxonomy/taxonomy.module" />
+      <jump line="109" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
+      <jump line="145" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>menu(</text>
+        <text>dl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ci8qKgogKiBBZGQgdHJhbnNsYXRpb24uCiAqLwpmdW5jdGlvbiBvY2NoaW9fZGVwbG95X3VwZGF0ZV83MDk2KCkgewogIF9vY2NoaW9fZGVwbG95X3NldF90cmFuc2xhdGlvbignUHJvZHVjdCBvdmVydmlldycsICdQcm9kdWt0w7xiZXJzaWNodCcsICdkZScpOwp9Cg==</text>
@@ -1466,9 +1467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>menu(</last-search>
+      <last-search>dl</last-search>
       <last-offset />
-      <last-pattern>menu(</last-pattern>
+      <last-pattern>dl</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -1503,6 +1504,7 @@
         <entry>dt:w</entry>
         <entry>menu_alter</entry>
         <entry>menu(</entry>
+        <entry>dl</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
