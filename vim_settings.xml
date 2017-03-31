@@ -1486,7 +1486,7 @@
         <text encoding="base64">ICBtLm9jY2hpby50ZXN0LnN3aXBlLmRlOgogICAgaW5oZXJpdHNGcm9tOiBodHRwOi8vY29uZmlnLmZhY3RvcmlhbC5pby90ZXN0LnN3aXBlLmRlL2hvc3QueWFtbAogICAgcG9ydDogMjI5NQogICAgcm9vdEZvbGRlcjogL3Zhci93d3cKICAgIGdpdFJvb3RGb2xkZXI6IC92YXIvd3d3CiAgICBicmFuY2g6IGZlYXR1cmUvbW9iaWxlLW5hdmlnYXRpb24KICAgIGRhdGFiYXNlOgogICAgICBuYW1lOiBvY2NoaW8KCiAgICBkb2NrZXI6CiAgICAgIG5hbWU6IG9jY2hpb19tb3ZpbGUKICAgICAgZm9sZGVyOiBvY2NoaW9fbW9iaWxlCiAgICAgIHZob3N0OiBtLm9jY2hpby50ZXN0LnN3aXBlLmRlCiAgICAgIHJlcG9zaXRvcnk6IHNvdXJjZUBzb3VyY2Uuc3dpcGUuZGU6b2NjaGlvL29jY2hpby1jbXMuZ2l0CiAgICByZXNldDoKICAgICAgLSAiY2QgJXNpdGVGb2xkZXIlOyBkcnVzaCB2c2V0IC15IC0tZXhhY3QgY2RuX3N0YXR1cyAwIgogICAgICAtICJjZCAlc2l0ZUZvbGRlciU7IGRydXNoIHZzZXQgdGhlbWVfZGVmYXVsdCBvY2NoaW9fbW9iaWxlIgoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>138</text>
       </register>
     </registers>
     <search>
@@ -1542,6 +1542,7 @@
         <entry>413</entry>
         <entry>446</entry>
         <entry>w</entry>
+        <entry>138</entry>
       </history-cmd>
       <history-expr />
       <history-input />
