@@ -219,6 +219,12 @@
         <mark key="^" line="151" column="35" />
         <mark key="." line="151" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/features/login.feature" timestamp="1490964397292">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1490712738201">
         <mark key="[" line="936" column="85" />
       </file>
@@ -1444,10 +1450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>dl</text>
@@ -1456,37 +1462,37 @@
         <text encoding="base64">ICBvcHRpb25zOgogICAgX2FkbWluX3JvdXRlOiBGQUxTRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
+        <text encoding="base64">ICBTY2VuYXJpbzogTG9naW4gYXMgYXV0aGVudGl0Y2F0ZWQgdXNlciBhbmQgdmlldyB1c2VyIHByb2ZpbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZW51X2FsdGVyKCYkaXRlbXMpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eHh4eHhqZGQK</text>
+        <text encoding="base64">ICBtZW51X2FsdGVyKCYkaXRlbXMpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eHh4eHhqZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdGVybSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtLm9jY2hpby50ZXN0LnN3aXBlLmRlOgogICAgaW5oZXJpdHNGcm9tOiBodHRwOi8vY29uZmlnLmZhY3RvcmlhbC5pby90ZXN0LnN3aXBlLmRlL2hvc3QueWFtbAogICAgcG9ydDogMjI5NQogICAgcm9vdEZvbGRlcjogL3Zhci93d3cKICAgIGdpdFJvb3RGb2xkZXI6IC92YXIvd3d3CiAgICBicmFuY2g6IGZlYXR1cmUvbW9iaWxlLW5hdmlnYXRpb24KICAgIGRhdGFiYXNlOgogICAgICBuYW1lOiBvY2NoaW8KCiAgICBkb2NrZXI6CiAgICAgIG5hbWU6IG9jY2hpb19tb3ZpbGUKICAgICAgZm9sZGVyOiBvY2NoaW9fbW9iaWxlCiAgICAgIHZob3N0OiBtLm9jY2hpby50ZXN0LnN3aXBlLmRlCiAgICAgIHJlcG9zaXRvcnk6IHNvdXJjZUBzb3VyY2Uuc3dpcGUuZGU6b2NjaGlvL29jY2hpby1jbXMuZ2l0CiAgICByZXNldDoKICAgICAgLSAiY2QgJXNpdGVGb2xkZXIlOyBkcnVzaCB2c2V0IC15IC0tZXhhY3QgY2RuX3N0YXR1cyAwIgogICAgICAtICJjZCAlc2l0ZUZvbGRlciU7IGRydXNoIHZzZXQgdGhlbWVfZGVmYXVsdCBvY2NoaW9fbW9iaWxlIgoK</text>
+        <text encoding="base64">ICAgIGRzbSgkdGVybSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
