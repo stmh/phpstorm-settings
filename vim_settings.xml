@@ -336,7 +336,6 @@
         <mark key="." line="302" column="43" />
         <mark key="^" line="302" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/core/modules/user/src/Plugin/LanguageNegotiation/LanguageNegotiationUserAdmin.php" timestamp="1490893091637" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/public/patterns/01-molecules-pagination-pagination/01-molecules-pagination-pagination.twig" timestamp="1486982927214">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="52" />
@@ -454,7 +453,6 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/vendor/symfony/http-foundation/Request.php" timestamp="1490892621884" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1490882511075">
         <mark key="'" line="245" column="37" />
         <mark key="[" line="445" column="49" />
@@ -868,6 +866,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491055523868">
+        <mark key="[" line="3" column="136" />
+        <mark key="]" line="3" column="136" />
+        <mark key="." line="3" column="136" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/taglist/taglist.json" timestamp="1489141954279">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="9" column="32" />
@@ -1126,6 +1129,12 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/README.md" timestamp="1491055336138">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PhSearchResult.php" timestamp="1487784323270">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="19" />
@@ -1339,6 +1348,12 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamMember.vue" timestamp="1491056703430">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/form.inc" timestamp="1490976979584">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1471,50 +1486,61 @@
       <jump line="175" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFuZCBwcmludCBsYXN0IHJlc3BvbnNlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/user&quot;</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>getXPath</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBvcHRpb25zOgogICAgX2FkbWluX3JvdXRlOiBGQUxTRQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzPSJUZWFtTWVtYmVyLW5hbWUi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFuZCBwcmludCBsYXN0IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkKQo=</text>
+        <text encoding="base64">ICAgICAgPC9tZC10YWJsZS0taGVhZD4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+ZHJ1cGFsQ29udGV4dC0+dXNlcnMpOwo=</text>
+      <register name="3" type="4">
+        <text>.TeamMember {
+    table-layout: fixed;
+  }
+  .TeamMember-name {
+    width: 300px;
+  }
+  .TeamMember-week {
+    width: 20px;
+  }
+  .TeamMember-icon {
+    width: 20px;
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+ZHJ1cGFsQ29udGV4dC0+dXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIEFuZCBwcmludCBsYXN0IHJlc3BvbnNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHRoaXMtPmRydXBhbENvbnRleHQtPnVzZXJzKTsKICAgIHByaW50X3IoJHRoaXMtPmRydXBhbENvbnRleHQtPnVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+ZHJ1cGFsQ29udGV4dC0+dXNlcnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+ZHJ1cGFsQ29udGV4dC0+dXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFuZCBwcmludCBsYXN0IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdXNlcik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCJqYSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHRoaXMtPmRydXBhbENvbnRleHQtPnVzZXJzKTsKICAgIHByaW50X3IoJHRoaXMtPmRydXBhbENvbnRleHQtPnVzZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1527,18 +1553,10 @@
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdmh1Yl9mcm9udGVuZF9wcmVwYXJlX3RhZ2xpc3RcPg==</entry>
-        <entry>panels</entry>
-        <entry>page</entry>
-        <entry>preprocess_page</entry>
-        <entry>navigation</entry>
-        <entry>icon</entry>
-        <entry>use_icon_ache</entry>
-        <entry>use_icon_cache</entry>
         <entry encoding="base64">XDxfb2NjaGlvX25hdmlnYXRpb25fZ2V0X25vZGVzX2Zvcl9wcm9kdWN0X2xpbmVcPg==</entry>
         <entry encoding="base64">XDxfb2NjaGlvX25hdmlnYXRpb25fZ2V0X25vZGVzX2Zvcl90aWRcPg==</entry>
         <entry encoding="base64">XDxfb2NjaGlvX25hdmlnYXRpb25fYWRkX25vZGVfdG9fcmVzdWx0XD4=</entry>
@@ -1561,11 +1579,6 @@
         <entry>getXPath</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>50</entry>
-        <entry>240</entry>
-        <entry>e</entry>
-        <entry encoding="base64">JzwsJz4x</entry>
         <entry>q</entry>
         <entry>g</entry>
         <entry>1</entry>
@@ -1605,6 +1618,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
