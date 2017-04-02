@@ -866,12 +866,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491072331001">
-        <mark key="i" line="76" column="56" />
-        <mark key="[" line="101" column="27" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="101" column="31" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491127315104">
+        <mark key="i" line="96" column="56" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="74" column="45" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/taglist/taglist.json" timestamp="1489141954279">
         <mark key="[" line="4" column="39" />
@@ -1490,11 +1490,11 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/allocations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogc29saWQgMXB4IGdyZXk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">di1pZj0iY29sdW1uSW5kZXggPT09ICdjb21tZW50JyI+</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">di1pZj0iY29sdW1uSW5kZXggPT09ICdjb21tZW50JyI+</text>
       </register>
       <register name="/" type="4">
         <text>getXPath</text>
@@ -1502,41 +1502,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgY29uZmlnIGZyb20gJy4uL2NvbmZpZyc7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogc29saWQgMXB4IGdyZXk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGhpcy5yb3dzLmZpbHRlcihyb3cgPT4gbWVtYmVyLmlkID09PSByb3cuaWQpOwogICAgICAgIGlmICghbWVtYmVyUm93KSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyb3cuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuVGVhbURldGFpbC13ZWVrIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvd3MuZm9yRWFjaChmdW5jdGlvbiAocm93KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWxsb2NhdGlvbnMpIHsKICAgICAgICAgIC8vIEdldCB0aGUgYWxsb2NhdGlvbnMgb2YgdGhlIG1lbWJlcjoKICAgICAgICAgIGFsbG9jYXRpb25zLmZvckVhY2goKGFsbG9jYXRpb24pID0+IHsKICAgICAgICAgICAgcmVzdWx0LnB1c2goewogICAgICAgICAgICAgIGF2YXRhcjogdGhpcy5hbGxvY2F0aW9uQXZhdGFyVXJsKGFsbG9jYXRpb24pLAogICAgICAgICAgICAgIG5hbWU6IGFsbG9jYXRpb24ucHJvamVjdC5uYW1lLAogICAgICAgICAgICAgIHdlZWtzOiB7fSwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogc29saWQgMXB4IGdyZXk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>result.push({
-            avatar: this.allocationAvatarUrl(a),
-            name: a.
-          })</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAuVGVhbURldGFpbC13ZWVrIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1579,7 +1576,6 @@
         <entry>g</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz43NDg=</entry>
-        <entry>noh</entry>
         <entry>249</entry>
         <entry>253</entry>
         <entry>938</entry>
@@ -1595,6 +1591,7 @@
         <entry>3905</entry>
         <entry>47</entry>
         <entry>67</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
