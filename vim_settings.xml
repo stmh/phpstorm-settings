@@ -225,6 +225,12 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1491142555682">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" timestamp="1490885219799">
         <mark key="'" line="145" column="37" />
         <mark key="[" line="149" column="27" />
@@ -866,11 +872,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491139081737">
-        <mark key="[" line="120" column="12" />
-        <mark key="]" line="120" column="12" />
-        <mark key="." line="120" column="12" />
-        <mark key="^" line="120" column="23" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491142067389">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/taglist/taglist.json" timestamp="1489141954279">
         <mark key="[" line="4" column="39" />
@@ -924,12 +930,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491139600499">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491141843237">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/page-teaser/page-teaser.twig" timestamp="1490888752122">
         <mark key="[" line="11" column="17" />
@@ -1397,8 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
-      <jump line="77" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="255" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="257" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="262" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
@@ -1497,13 +1500,15 @@
       <jump line="75" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" />
       <jump line="77" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" />
       <jump line="2" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
+      <jump line="1" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgd2hpbGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgd2hpbGU=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -1511,45 +1516,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSIhaXNWaXNpYmxlKHJvdy5wYXJlbnRJZCkiPmFkZF9jaXJjbGVfb3V0bGluZTwvbWQtaWNvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">T2JqZWN0LmtleXMod2Vla3MpLmZvckVhY2goKGtleSkgPT4gewogICAgICByZXN1bHRba2V5XSA9IGNvbXB1dGVXZWVrRnJvbUFsbG9jYXRpb24od2Vla3Nba2V5XSwgYWxsb2NhdGlvbnMpOwogICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZXF1ZXN0QWxsb2NhdGlvbnModGhpcy5hc3NpZ25lZUtleSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewo=</text>
       </register>
-      <register name="4" type="4">
-        <text>// eslint-disable-next-line no-unused-vars
-  computeWeekFromAllocation(week, allocations) {
-    const result = {
-
-    };
-
-    return result;
-  },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzLCBtYXBBY3Rpb25zIH0gZnJvbSAndnVleCc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtZW1iZXJXZWVrcyA9IHt9Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBtZXRob2RzOiB7CiAgICAgIC4uLm1hcEFjdGlvbnMoewogICAgICAgIHJlcXVlc3RBbGxvY2F0aW9uczogJ2FsbG9jYXRpb25zL3JlcXVlc3RBbGxvY2F0aW9ucycsCiAgICAgIH0pLAogICAgfSw=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH07Cg==</text>
+      <register name="6" type="4">
+        <text>...mapGetters({
+      }),
+      getAllocations() {
+        return this.$store.getters['allocations/getAllocationsFor'](this.assigneeKey);
+      },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewogICAgICB0aGlzLnJlcXVlc3RBbGxvY2F0aW9ucyh0aGlzLmFzc2lnbmVlS2V5KTsKICAgIH0sCiAgICBwcm9wczogewogICAgICBhc3NpZ25lZUtleTogW1N0cmluZ10sCiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgREFZX1NFQ1MgPSA4ICogNjAgKiA2MDsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBkYXlzID4gMCA/ICcke2RheXN9ZCAke2hvdXJzfWggJHttaW51dGVzfW0nIDogeyRob3Vyc31tICQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1557,12 +1559,12 @@
     </registers>
     <search>
       <last-search>console.log</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>console.log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1607,9 +1609,9 @@
         <entry>3905</entry>
         <entry>47</entry>
         <entry>67</entry>
+        <entry>tabNext</entry>
         <entry>noh</entry>
         <entry>w</entry>
-        <entry>tabNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
