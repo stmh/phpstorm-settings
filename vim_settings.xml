@@ -225,11 +225,11 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1491142555682">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1491144892518">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" timestamp="1490885219799">
         <mark key="'" line="145" column="37" />
@@ -1505,10 +1505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ceil</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>ceil</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
