@@ -225,11 +225,11 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1491163855314">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1491167302414">
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" timestamp="1490885219799">
         <mark key="'" line="145" column="37" />
@@ -875,11 +875,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491159089292">
-        <mark key="[" line="115" column="17" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="139" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491167433797">
+        <mark key="[" line="169" column="27" />
+        <mark key="]" line="169" column="48" />
+        <mark key="." line="169" column="48" />
+        <mark key="^" line="169" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/taglist/taglist.json" timestamp="1489141954279">
         <mark key="[" line="4" column="39" />
@@ -939,12 +939,12 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491163822144">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="61" column="44" />
-        <mark key="]" line="61" column="44" />
-        <mark key="^" line="69" column="69" />
-        <mark key="." line="61" column="44" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491167172804">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/page-teaser/page-teaser.twig" timestamp="1490888752122">
         <mark key="[" line="11" column="17" />
@@ -1118,8 +1118,8 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" timestamp="1491128205534">
-        <mark key="[" line="2" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" timestamp="1491166555204">
+        <mark key="[" line="12" column="62" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
@@ -1512,10 +1512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>lightgrey</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>lightgrey</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -1524,37 +1524,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSIhaXNWaXNpYmxlKHJvdy5wYXJlbnRJZCkiPmFkZF9jaXJjbGVfb3V0bGluZTwvbWQtaWNvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBIT1VSU19TRUNTIH0gZnJvbSAnLi4vdXRpbHMvYWxsb2NhdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0LmtleXModGhpcy5kYXRhLmRheXMpLnJlZHVjZSgoYWNjLCBrZXkpID0+IGAke2RheXNba2V5XX06ICR7YWNjfSAke3RoaXMuZGF0YS5kYXlzW2tleV0uc2Vjb25kcyAvIEFsbG9jYXRpb25VdGlsc0hPVVJTX1NFQ1N9YCwgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGVyY2VudCA9PSAwKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgSE9VUlNfU0VDUyBmcm9tICcuLi91dGlscy9hbGxvY2F0aW9ucyc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSByOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdiB2LWlmPSJkYXRhICYmIGRhdGFbJ2RheXMnXSI+CiAgICAgIDxzcGFuIHYtZm9yPSIoZCwgaW5kZXgpIGluIGRhdGEuZGF5cyI+CiAgICAgICAge3sgZC5zZWNvbmRzIC8gNjAgLyA2MCB9fQogICAgICA8L3NwYW4+CiAgICA8L2Rpdj4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGF5U2Vjb25kcyhpbmRleCkgewogICAgICAgIHJldHVybiB0aGlzLmRhdGEgJiYgdGhpcy5kYXRhLmRheXNbaW5kZXhdID8gQWxsb2NhdGlvblV0aWxzLmZvcm1hdFRpbWUodGhpcy5kYXRhLmRheXNbaW5kZXhdLnNlY29uZHMpIDogJyc7CiAgICAgIH0s</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbnVtYmVyT2ZEYXlzID0gd29ya2xvYWRzLmdldE51bVdvcmtpbmdEYXlzKHN0YXJ0RGF0ZSwgZW5kRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAyOiAzLjIsCg==</text>
+        <text encoding="base64">ICAgICAgd29ya2xvYWRzLmFwcGx5T25EYXRlUmFuZ2Uod2Vlay5zdGFydERhdGUsIHdlZWsuZW5kRGF0ZSwgKGQpID0+IHsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ampqampqaiAgZGRqampqampqICAzOiBqMy4yLAo=</text>
+        <text encoding="base64">ICBjb25zdCB3ZWVrRGF5ID0gZGF0ZS5pc29XZWVrZGF5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1612,8 +1612,11 @@
         <entry>67</entry>
         <entry>noh</entry>
         <entry>1</entry>
-        <entry>tabNext</entry>
         <entry>W</entry>
+        <entry>tabNext</entry>
+        <entry>66</entry>
+        <entry>21</entry>
+        <entry>9</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
