@@ -872,8 +872,8 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491142067389">
-        <mark key="[" line="41" column="19" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491143508360">
+        <mark key="[" line="122" column="83" />
         <mark key="]" line="41" column="19" />
         <mark key="." line="41" column="19" />
         <mark key="^" line="41" column="19" />
@@ -930,11 +930,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491141843237">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="30" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1491144269726">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/page-teaser/page-teaser.twig" timestamp="1490888752122">
         <mark key="[" line="11" column="17" />
@@ -1504,11 +1504,11 @@
       <jump line="1" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>ceil</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ceil</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -1517,41 +1517,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSIhaXNWaXNpYmxlKHJvdy5wYXJlbnRJZCkiPmFkZF9jaXJjbGVfb3V0bGluZTwvbWQtaWNvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZXF1ZXN0QWxsb2NhdGlvbnModGhpcy5hc3NpZ25lZUtleSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdFt3ZWVrTnJdID0gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzLCBtYXBBY3Rpb25zIH0gZnJvbSAndnVleCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH07Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBtZXRob2RzOiB7CiAgICAgIC4uLm1hcEFjdGlvbnMoewogICAgICAgIHJlcXVlc3RBbGxvY2F0aW9uczogJ2FsbG9jYXRpb25zL3JlcXVlc3RBbGxvY2F0aW9ucycsCiAgICAgIH0pLAogICAgfSw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kczogMCwK</text>
       </register>
-      <register name="6" type="4">
-        <text>...mapGetters({
-      }),
-      getAllocations() {
-        return this.$store.getters['allocations/getAllocationsFor'](this.assigneeKey);
-      },</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbnM6IFtdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewogICAgICB0aGlzLnJlcXVlc3RBbGxvY2F0aW9ucyh0aGlzLmFzc2lnbmVlS2V5KTsKICAgIH0sCiAgICBwcm9wczogewogICAgICBhc3NpZ25lZUtleTogW1N0cmluZ10sCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWl0bWVudDogMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgREFZX1NFQ1MgPSA4ICogNjAgKiA2MDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1bG11bGF0ZWRXZWVrc1t3ZWVrTnJdID0gewo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBkYXlzID4gMCA/ICcke2RheXN9ZCAke2hvdXJzfWggJHttaW51dGVzfW0nIDogeyRob3Vyc31tICQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VsbXVsYXRlZFdlZWtzW3dlZWtOcl0gPT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
