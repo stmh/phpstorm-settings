@@ -487,6 +487,13 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="102" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" timestamp="1491247520563">
+        <mark key="p" line="0" column="0" />
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="53" column="5" />
+        <mark key="." line="53" column="5" />
+        <mark key="^" line="53" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/Plugin/DataType/PHNavigationSport.php" timestamp="1488920318195">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="11" column="41" />
@@ -885,10 +892,11 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1491246407249">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1491246615949">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/search-bar/search-bar.json" timestamp="1489420264572">
         <mark key="[" line="3" column="0" />
@@ -896,10 +904,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491246391382">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1491247445167">
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/taglist/taglist.json" timestamp="1489141954279">
         <mark key="[" line="4" column="39" />
@@ -1554,49 +1563,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mapActions</text>
       </register>
       <register name="/" type="4">
         <text>z-index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXM6ICg/PCFzb3VyY2VcL2pzXC9pbmRleClcLmpzJAo=</text>
+        <text encoding="base64">ICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgZXhwYW5kZWRTdGF0ZToge30sCiAgICAgIH07CiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC4uLm1hcEFjdGlvbnMoewogICAgICByZXF1ZXN0UHJvamVjdHM6ICdwcm9qZWN0cy9yZXF1ZXN0UHJvamVjdHMnLAogICAgfSks</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewog</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yb3dzLmZpbHRlcihyb3cgPT4gcm93LmlkID09PSByb3cucGFyZW50SWQgfHwgdGhpcy5leHBhbmRlZFN0YXRlW3Jvdy5wYXJlbnRJZF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiBhbGwgMjAwbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgcm93c0ZpbHRlcmVkKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3ItZ3JlZW4tbGlnaHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXM6IF53ZWJcL3RoZW1lc1wvY3VzdG9tXC9kejRcL3BhdHRlcm4tbGFiXC9mcm9udGVuZFwvKC4qKVwuanMkCg==</text>
+        <text encoding="base64">ICA8bWQtY2FyZD4KICAgIDxtZC1jYXJkLWhlYWRlcj4KICAgICAgPGRpdiBjbGFzcz0ibWQtdGl0bGUiPlRlYW0ge3sgdGVhbS5uYW1lIH19PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9Im1kLXN1YnRpdGxlIj57e3JhbmdlLnN0YXJ0fX0g4oCTIHt7cmFuZ2UuZW5kIH19PC9kaXY+CiAgICA8L21kLWNhcmQtaGVhZGVyPgogICAgPG1kLWNhcmQtY29udGVudD4KICAgICAgPERhdGVSYW5nZSA6YWN0aW9uPSJyZWZyZXNoQ29udGVudCI+PC9EYXRlUmFuZ2U+CiAgICAgIDxtZC10YWJsZS1jYXJkPgogICAgICAgIDxtZC10YWJsZT4KICAgICAgICAgIDxtZC10YWJsZS1oZWFkZXI+CiAgICAgICAgICAgIDxtZC10YWJsZS1yb3c+CiAgICAgICAgICAgICAgPG1kLXRhYmxlLWhlYWQ+PC9tZC10YWJsZS1oZWFkPgogICAgICAgICAgICAgIDxtZC10YWJsZS1oZWFkIGNsYXNzPSJUZWFtRGV0YWlsLWljb24iPjwvbWQtdGFibGUtaGVhZD4KICAgICAgICAgICAgICA8bWQtdGFibGUtaGVhZCBjbGFzcz0iVGVhbURldGFpbC1uYW1lIj5OYW1lPC9tZC10YWJsZS1oZWFkPgogICAgICAgICAgICAgIDxtZC10YWJsZS1oZWFkIGNsYXNzPSJUZWFtRGV0YWlsLXdlZWsiIHYtZm9yPSJ3ZWVrIGluIHdlZWtzIiA6a2V5PSJ3ZWVrLm51bWJlciI+e3sgd2Vlay5udW1iZXIgfX08L21kLXRhYmxlLWhlYWQ+CiAgICAgICAgICAgIDwvbWQtdGFibGUtcm93PgogICAgICAgICAgPC9tZC10YWJsZS1oZWFkZXI+CiAgICAgICAgICA8bWQtdGFibGUtYm9keT4KICAgICAgICAgICAgPG1kLXRhYmxlLXJvdyB2LWZvcj0icm93IGluIHJvd3NGaWx0ZXJlZCIgOmtleT0icm93LmlkIj4KICAgICAgICAgICAgICA8bWQtdGFibGUtY2VsbCBjbGFzcz0iVGVhbURldGFpbC1pY29uIj4KICAgICAgICAgICAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLWljb24tYnV0dG9uIiB2LWlmPSJyb3cucGFyZW50SWQgPT09IHJvdy5pZCIgQGNsaWNrLm5hdGl2ZT0iaGFuZGxlVG9nZ2xlUm93KHJvdy5wYXJlbnRJZCkiPgogICAgICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSJpc1Zpc2libGUocm93LnBhcmVudElkKSI+cmVtb3ZlX2NpcmNsZV9vdXRsaW5lPC9tZC1pY29uPgogICAgICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSIhaXNWaXNpYmxlKHJvdy5wYXJlbnRJZCkiPmFkZF9jaXJjbGVfb3V0bGluZTwvbWQtaWNvbj4KICAgICAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgICAgIDwvbWQtdGFibGUtY2VsbD4KICAgICAgICAgICAgICA8bWQtdGFibGUtY2VsbCBjbGFzcz0iVGVhbURldGFpbC1pY29uIj48aW1nIDpzcmM9InJvdy5hdmF0YXIiLz48L21kLXRhYmxlLWNlbGw+CiAgICAgICAgICAgICAgPG1kLXRhYmxlLWNlbGwgY2xhc3M9IlRlYW1EZXRhaWwtbmFtZSI+e3tyb3cubmFtZX19PC9tZC10YWJsZS1jZWxsPgogICAgICAgICAgICAgIDxtZC10YWJsZS1jZWxsIGNsYXNzPSJUZWFtRGV0YWlsLXdlZWsiIHYtZm9yPSJ3ZWVrIGluIHdlZWtzIiA6a2V5PSJ3ZWVrLm51bWJlciI+CiAgICAgICAgICAgICAgICA8YWxsb2NhdGVkLXRpbWUgOmRhdGE9cm93LndlZWtzW3dlZWsubnVtYmVyXT48L2FsbG9jYXRlZC10aW1lPgogICAgICAgICAgICAgIDwvbWQtdGFibGUtY2VsbD4KICAgICAgICAgICAgPC9tZC10YWJsZS1yb3c+CiAgICAgICAgICA8L21kLXRhYmxlLWJvZHk+CiAgICAgICAgPC9tZC10YWJsZT4KICAgICAgPC9tZC10YWJsZS1jYXJkPgogICAgPC9tZC1jYXJkLWNvbnRlbnQ+CiAgPC9tZC1jYXJkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByaWdodDogdmFyKC0tRmxvYXRpbmdDb250YWN0UmlnaHQpOwogIGJvdHRvbTogMDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiBjYWxjKHZhcigtLXotaW5kZXgtOSkgLSAxKTsK</text>
+      <register name="9" type="4">
+        <text>isVisible(id) {
+        return this.expandedState[id];
+      },
+
+      setVisible(id, visible = true) {
+        this.$set(this.expandedState, id, visible);
+      },
+
+      handleToggleRow(clickedRowId) {
+        const visible = this.isVisible(clickedRowId);
+        this.setVisible(clickedRowId, !visible);
+      },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
