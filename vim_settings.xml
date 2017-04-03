@@ -342,6 +342,12 @@
         <mark key="." line="302" column="43" />
         <mark key="^" line="302" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.js" timestamp="1491216838568">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/public/patterns/01-molecules-pagination-pagination/01-molecules-pagination-pagination.twig" timestamp="1486982927214">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="52" />
@@ -432,6 +438,7 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-image-text/components-image-text.js" timestamp="1491215731912" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1490877750590">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="78" column="0" />
@@ -591,10 +598,10 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/index.js" timestamp="1488383957536">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/index.js" timestamp="1491216788140">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
         <mark key="^" line="17" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/node/node--blog--teaser.html.twig" timestamp="1486458919111">
@@ -688,7 +695,7 @@
         <mark key="." line="61" column="6" />
         <mark key="^" line="61" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491209389144">
+      <file name="/Dummy.txt" timestamp="1491215984742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/responsive-image/responsive-image.css" timestamp="1490188591067">
@@ -739,12 +746,12 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1491209949247">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1491217021003">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="2" />
-        <mark key="^" line="3" column="6" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.css" timestamp="1490188368994">
         <mark key="[" line="0" column="0" />
@@ -1149,11 +1156,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.css" timestamp="1491209394353">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.css" timestamp="1491216719588">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/checkbox/checkbox.twig" timestamp="1490178985883">
         <mark key="[" line="0" column="95" />
@@ -1538,60 +1545,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{% include &quot;@atoms/button/button.twig&quot; with {
-    [{
-      
-    }]
-  } %}</text>
+        <text>this.element</text>
       </register>
       <register name="-" type="4">
-        <text>floating-contact-button/floating-contact-button.twig&quot;</text>
+        <text>this.element</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG1kLWlucHV0IHYtbW9kZWw9InN0YXJ0RGF0ZSI+PC9tZC1pbnB1dD4K</text>
+        <text encoding="base64">aW1wb3J0IE1hcCBmcm9tICcuL2NvbXBvbmVudHMvY29tcG9uZW50cy1tYXAvY29tcG9uZW50cy1tYXAnOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGV2dC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByaWdodDogdmFyKC0tRmxvYXRpbmdDb250YWN0UmlnaHQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ImZvcm0iOiAiPGZvcm0+PC9mb3JtPiIK</text>
+      </register>
+      <register name="4" type="4">
         <text>{% include &quot;@atoms/button/button.twig&quot; with {
     [{
       
     }]
   } %}</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAibWVzc2FnZSI6ICJMb3JlbSBpcHN1bSBkb2xvcmVzIGVzdCIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ewogICJmb3JtIjogImh1aHUiCn0KCgoKCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uQmVmb3JlTW91bnQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmREYXRlOiAnMjAxNy0wMy0zMScsCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydERhdGU6ICcyMDE3LTAxLTAxJywK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-          start: this.startDate,
-          end: this.endDate,
-        })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG9uQmVmb3JlTW91bnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
