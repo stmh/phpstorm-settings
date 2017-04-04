@@ -610,6 +610,13 @@
         <mark key="." line="18" column="52" />
         <mark key="^" line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" timestamp="1491297251113">
+        <mark key="'" line="1119" column="25" />
+        <mark key="[" line="1081" column="43" />
+        <mark key="]" line="1081" column="62" />
+        <mark key="." line="1081" column="62" />
+        <mark key="^" line="1081" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/node/node--blog--teaser.html.twig" timestamp="1486458919111">
         <mark key="[" line="81" column="24" />
         <mark key="]" line="82" column="0" />
@@ -745,12 +752,12 @@
         <mark key="." line="46" column="4" />
         <mark key="^" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" timestamp="1490816076640">
-        <mark key="'" line="968" column="0" />
-        <mark key="[" line="976" column="3" />
-        <mark key="]" line="977" column="26" />
-        <mark key="." line="977" column="26" />
-        <mark key="^" line="977" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" timestamp="1491297275264">
+        <mark key="'" line="977" column="26" />
+        <mark key="[" line="987" column="58" />
+        <mark key="]" line="987" column="58" />
+        <mark key="." line="987" column="58" />
+        <mark key="^" line="987" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" timestamp="1489757619931">
         <mark key="[" line="125" column="64" />
@@ -1460,9 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
-      <jump line="268" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="269" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="248" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
@@ -1560,65 +1564,68 @@
       <jump line="38" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/floating-contact-form/floating-contact-form.json" />
       <jump line="16" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.css" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
+      <jump line="1119" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
+      <jump line="977" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PG1kLWNhcmQ+CiAgICA8bWQtY2FyZC1oZWFkZXI+CiAgICA8aDEgY2xhc3M9Im1kLXRpdGxlIj5Qcm9qZWN0czwvaDE+CiAgICA8L21kLWNhcmQtaGVhZGVyPgogICAgPHRhYmxlPgogICAgICA8dHIgdi1mb3I9InByb2plY3QgaW4gcHJvamVjdHMiPgogICAgICAgIDx0ZD48aW1nIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snMjR4MjQnXSIvPjwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5rZXl9fTwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5uYW1lfX08L3RkPgogICAgICA8L3RyPgogICAgPC90YWJsZT4KICA8L21kLWNhcmQ+</text>
+        <text>Produktübersicht</text>
       </register>
       <register name="-" type="4">
-        <text>mapActions</text>
+        <text>Produktübersicht</text>
       </register>
       <register name="/" type="4">
-        <text>z-index</text>
+        <text>case</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgZXhwYW5kZWRTdGF0ZToge30sCiAgICAgIH07CiAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>report in a magazine</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PG1kLWNhcmQ+CiAgICA8bWQtY2FyZC1oZWFkZXI+CiAgICA8aDEgY2xhc3M9Im1kLXRpdGxlIj5Qcm9qZWN0czwvaDE+CiAgICA8L21kLWNhcmQtaGVhZGVyPgogICAgPHRhYmxlPgogICAgICA8dHIgdi1mb3I9InByb2plY3QgaW4gcHJvamVjdHMiPgogICAgICAgIDx0ZD48aW1nIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snMjR4MjQnXSIvPjwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5rZXl9fTwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5uYW1lfX08L3RkPgogICAgICA8L3RyPgogICAgPC90YWJsZT4KICA8L21kLWNhcmQ+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAkZm9ybVsnYmxvY2stNiddWydzZW5kLWNhc2UtYm9vayddID0gYXJyYXkoCiAgICAnI3R5cGUnID0+ICdjaGVja2JveCcsCiAgICAnI3RpdGxlJyA9PiB0KCdJIHdvdWxkIGxpa2UgdG8gcmVjZWl2ZSB0aGUgPGEgaHJlZj0iIXVybCI+Q2FzZSBCb29rPC9hPiByZWd1bGFybHkgKGZvciBmcmVlKSAnLCBhcnJheSgnIXVybCcgPT4gdXJsKCdjb21wYW55L3B1YmxpY2F0aW9ucy9jYXNlLWJvb2snKSkpLAogICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIk9jY2hpbyBNYWdhemluIiA9PiB0KCdPY2NoaW8gTWFnYXppbmUnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIk9jY2hpbyBpUGFkIEFwcCIgPT4gdCgnT2NjaGlvIGlQYWQgQXBwJyksCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PG1kLWNhcmQ+CiAgICA8bWQtY2FyZC1oZWFkZXI+CiAgICA8aDEgY2xhc3M9Im1kLXRpdGxlIj5Qcm9qZWN0czwvaDE+CiAgICA8L21kLWNhcmQtaGVhZGVyPgogICAgPHRhYmxlPgogICAgICA8dHIgdi1mb3I9InByb2plY3QgaW4gcHJvamVjdHMiPgogICAgICAgIDx0ZD48aW1nIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snMjR4MjQnXSIvPjwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5rZXl9fTwvdGQ+CiAgICAgICAgPHRkPnt7cHJvamVjdC5uYW1lfX08L3RkPgogICAgICA8L3RyPgogICAgPC90YWJsZT4KICA8L21kLWNhcmQ+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yb3dzLmZpbHRlcihyb3cgPT4gcm93LmlkID09PSByb3cucGFyZW50SWQgfHwgdGhpcy5leHBhbmRlZFN0YXRlW3Jvdy5wYXJlbnRJZF0pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcm93c0ZpbHRlcmVkKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8bWQtY2FyZD4KICAgIDxtZC1jYXJkLWhlYWRlcj4KICAgICAgPGRpdiBjbGFzcz0ibWQtdGl0bGUiPlRlYW0ge3sgdGVhbS5uYW1lIH19PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9Im1kLXN1YnRpdGxlIj57e3JhbmdlLnN0YXJ0fX0g4oCTIHt7cmFuZ2UuZW5kIH19PC9kaXY+CiAgICA8L21kLWNhcmQtaGVhZGVyPgogICAgPG1kLWNhcmQtY29udGVudD4KICAgICAgPERhdGVSYW5nZSA6YWN0aW9uPSJyZWZyZXNoQ29udGVudCI+PC9EYXRlUmFuZ2U+CiAgICAgIDxtZC10YWJsZS1jYXJkPgogICAgICAgIDxtZC10YWJsZT4KICAgICAgICAgIDxtZC10YWJsZS1oZWFkZXI+CiAgICAgICAgICAgIDxtZC10YWJsZS1yb3c+CiAgICAgICAgICAgICAgPG1kLXRhYmxlLWhlYWQ+PC9tZC10YWJsZS1oZWFkPgogICAgICAgICAgICAgIDxtZC10YWJsZS1oZWFkIGNsYXNzPSJUZWFtRGV0YWlsLWljb24iPjwvbWQtdGFibGUtaGVhZD4KICAgICAgICAgICAgICA8bWQtdGFibGUtaGVhZCBjbGFzcz0iVGVhbURldGFpbC1uYW1lIj5OYW1lPC9tZC10YWJsZS1oZWFkPgogICAgICAgICAgICAgIDxtZC10YWJsZS1oZWFkIGNsYXNzPSJUZWFtRGV0YWlsLXdlZWsiIHYtZm9yPSJ3ZWVrIGluIHdlZWtzIiA6a2V5PSJ3ZWVrLm51bWJlciI+e3sgd2Vlay5udW1iZXIgfX08L21kLXRhYmxlLWhlYWQ+CiAgICAgICAgICAgIDwvbWQtdGFibGUtcm93PgogICAgICAgICAgPC9tZC10YWJsZS1oZWFkZXI+CiAgICAgICAgICA8bWQtdGFibGUtYm9keT4KICAgICAgICAgICAgPG1kLXRhYmxlLXJvdyB2LWZvcj0icm93IGluIHJvd3NGaWx0ZXJlZCIgOmtleT0icm93LmlkIj4KICAgICAgICAgICAgICA8bWQtdGFibGUtY2VsbCBjbGFzcz0iVGVhbURldGFpbC1pY29uIj4KICAgICAgICAgICAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLWljb24tYnV0dG9uIiB2LWlmPSJyb3cucGFyZW50SWQgPT09IHJvdy5pZCIgQGNsaWNrLm5hdGl2ZT0iaGFuZGxlVG9nZ2xlUm93KHJvdy5wYXJlbnRJZCkiPgogICAgICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSJpc1Zpc2libGUocm93LnBhcmVudElkKSI+cmVtb3ZlX2NpcmNsZV9vdXRsaW5lPC9tZC1pY29uPgogICAgICAgICAgICAgICAgICA8bWQtaWNvbiB2LWlmPSIhaXNWaXNpYmxlKHJvdy5wYXJlbnRJZCkiPmFkZF9jaXJjbGVfb3V0bGluZTwvbWQtaWNvbj4KICAgICAgICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgICAgIDwvbWQtdGFibGUtY2VsbD4KICAgICAgICAgICAgICA8bWQtdGFibGUtY2VsbCBjbGFzcz0iVGVhbURldGFpbC1pY29uIj48aW1nIDpzcmM9InJvdy5hdmF0YXIiLz48L21kLXRhYmxlLWNlbGw+CiAgICAgICAgICAgICAgPG1kLXRhYmxlLWNlbGwgY2xhc3M9IlRlYW1EZXRhaWwtbmFtZSI+e3tyb3cubmFtZX19PC9tZC10YWJsZS1jZWxsPgogICAgICAgICAgICAgIDxtZC10YWJsZS1jZWxsIGNsYXNzPSJUZWFtRGV0YWlsLXdlZWsiIHYtZm9yPSJ3ZWVrIGluIHdlZWtzIiA6a2V5PSJ3ZWVrLm51bWJlciI+CiAgICAgICAgICAgICAgICA8YWxsb2NhdGVkLXRpbWUgOmRhdGE9cm93LndlZWtzW3dlZWsubnVtYmVyXT48L2FsbG9jYXRlZC10aW1lPgogICAgICAgICAgICAgIDwvbWQtdGFibGUtY2VsbD4KICAgICAgICAgICAgPC9tZC10YWJsZS1yb3c+CiAgICAgICAgICA8L21kLXRhYmxlLWJvZHk+CiAgICAgICAgPC9tZC10YWJsZT4KICAgICAgPC9tZC10YWJsZS1jYXJkPgogICAgPC9tZC1jYXJkLWNvbnRlbnQ+CiAgPC9tZC1jYXJkPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yb3dzLmZpbHRlcihyb3cgPT4gcm93LmlkID09PSByb3cucGFyZW50SWQgfHwgdGhpcy5leHBhbmRlZFN0YXRlW3Jvdy5wYXJlbnRJZF0pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcm93c0ZpbHRlcmVkKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>z-index</last-search>
+      <last-search>case</last-search>
       <last-offset />
-      <last-pattern>z-index</last-pattern>
+      <last-pattern>case</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1642,6 +1649,8 @@
         <entry>getXPath</entry>
         <entry>console.log</entry>
         <entry>z-index</entry>
+        <entry>contact</entry>
+        <entry>case</entry>
       </history-search>
       <history-cmd>
         <entry>938</entry>
