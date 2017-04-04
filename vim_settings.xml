@@ -610,12 +610,12 @@
         <mark key="." line="18" column="52" />
         <mark key="^" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" timestamp="1491297251113">
-        <mark key="'" line="1119" column="25" />
-        <mark key="[" line="1081" column="43" />
-        <mark key="]" line="1081" column="62" />
-        <mark key="." line="1081" column="62" />
-        <mark key="^" line="1081" column="62" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" timestamp="1491308041235">
+        <mark key="'" line="1081" column="43" />
+        <mark key="[" line="1081" column="48" />
+        <mark key="]" line="1081" column="48" />
+        <mark key="." line="1081" column="48" />
+        <mark key="^" line="1081" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/amidori/web/themes/custom/midori/templates/node/node--blog--teaser.html.twig" timestamp="1486458919111">
         <mark key="[" line="81" column="24" />
@@ -752,12 +752,12 @@
         <mark key="." line="46" column="4" />
         <mark key="^" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" timestamp="1491297275264">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" timestamp="1491308021970">
         <mark key="'" line="977" column="26" />
-        <mark key="[" line="987" column="58" />
-        <mark key="]" line="987" column="58" />
-        <mark key="." line="987" column="58" />
-        <mark key="^" line="987" column="55" />
+        <mark key="[" line="987" column="39" />
+        <mark key="]" line="988" column="175" />
+        <mark key="." line="988" column="175" />
+        <mark key="^" line="988" column="175" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhNavigationSchemaProvider.php" timestamp="1489757619931">
         <mark key="[" line="125" column="64" />
@@ -1467,7 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="248" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="252" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
@@ -1567,19 +1566,20 @@
       <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
       <jump line="1119" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
       <jump line="977" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" />
+      <jump line="1081" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Produktübersicht</text>
+        <text>Bericht in einer Zeitschrift</text>
       </register>
       <register name="-" type="4">
-        <text>Produktübersicht</text>
+        <text>Bericht in einer Zeitschrift</text>
       </register>
       <register name="/" type="4">
-        <text>case</text>
+        <text>newsletter</text>
       </register>
-      <register name="0" type="4">
-        <text>report in a magazine</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBfb2NjaGlvX2RlcGxveV9zZXRfdHJhbnNsYXRpb24oJ3JlcG9ydCBpbiBhIG1hZ2F6aW5lJywgJ0JlcmljaHQgaW4gZWluZXIgWmVpdHNjaHJpZnQnLCAnZGUnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAkZm9ybVsnYmxvY2stNiddWydzZW5kLWNhc2UtYm9vayddID0gYXJyYXkoCiAgICAnI3R5cGUnID0+ICdjaGVja2JveCcsCiAgICAnI3RpdGxlJyA9PiB0KCdJIHdvdWxkIGxpa2UgdG8gcmVjZWl2ZSB0aGUgPGEgaHJlZj0iIXVybCI+Q2FzZSBCb29rPC9hPiByZWd1bGFybHkgKGZvciBmcmVlKSAnLCBhcnJheSgnIXVybCcgPT4gdXJsKCdjb21wYW55L3B1YmxpY2F0aW9ucy9jYXNlLWJvb2snKSkpLAogICk7Cg==</text>
@@ -1619,9 +1619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>case</last-search>
+      <last-search>newsletter</last-search>
       <last-offset />
-      <last-pattern>case</last-pattern>
+      <last-pattern>newsletter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -1651,6 +1651,7 @@
         <entry>z-index</entry>
         <entry>contact</entry>
         <entry>case</entry>
+        <entry>newsletter</entry>
       </history-search>
       <history-cmd>
         <entry>938</entry>
