@@ -128,6 +128,9 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1491395406206">
+        <mark key="[" line="687" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.api.php" timestamp="1489582172742">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -533,7 +536,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</text>
+        <text>cron</text>
       </register>
       <register name="0" type="4">
         <text>0, 197, 142, 0.5</text>
@@ -577,12 +580,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</last-search>
+      <last-search>cron</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</last-pattern>
+      <last-pattern>cron</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -609,9 +612,9 @@
         <entry>console</entry>
         <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX2lzc3VlXD4=</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfcHJvY2Vzc193b3JrbG9nc1w+</entry>
-        <entry>cron</entry>
         <entry>pm_jira_fetch_updates_from_jira</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</entry>
+        <entry>cron</entry>
       </history-search>
       <history-cmd>
         <entry>3905</entry>
