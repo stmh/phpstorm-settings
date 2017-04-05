@@ -39,6 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/fabfile.yaml" timestamp="1491397673526">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1490877750590">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="78" column="0" />
@@ -128,8 +133,9 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1491395406206">
-        <mark key="[" line="687" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1491398549296">
+        <mark key="]" line="689" column="0" />
+        <mark key="." line="689" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.api.php" timestamp="1489582172742">
         <mark key="[" line="7" column="0" />
@@ -162,6 +168,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/contrib/workbench_moderation/workbench_moderation.module" timestamp="1491396931429" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/default/settings.php" timestamp="1491318498948">
         <mark key="'" line="647" column="2" />
         <mark key="[" line="647" column="0" />
@@ -173,6 +180,13 @@
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1491398838817">
+        <mark key="'" line="632" column="21" />
+        <mark key="[" line="667" column="3" />
+        <mark key="]" line="666" column="25" />
+        <mark key="^" line="666" column="25" />
+        <mark key="." line="666" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/App.vue" timestamp="1491133196377">
         <mark key="[" line="11" column="6" />
@@ -311,7 +325,7 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1491382996103">
+      <file name="/PHP Console" timestamp="1491398795822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset--teaser.tpl.twig" timestamp="1490788430279">
@@ -415,6 +429,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/contrib/workbench_moderation/workbench_moderation.node.inc" timestamp="1491397059901">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1491383314634">
         <mark key="'" line="405" column="9" />
       </file>
@@ -427,17 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="53" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="17" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="19" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="88" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" />
-      <jump line="8" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.css" />
-      <jump line="12" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset--teaser.tpl.twig" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset--teaser.tpl.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
-      <jump line="71" column="80" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
       <jump line="82" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
       <jump line="88" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
       <jump line="89" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_mobile/template.php" />
@@ -527,22 +533,33 @@
       <jump line="880" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="405" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/contrib/workbench_moderation/workbench_moderation.node.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="472" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="503" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="495" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="476" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="504" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="510" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="631" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="634" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
+      <jump line="632" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0, 197, 142, 0.5</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>cron</text>
       </register>
-      <register name="0" type="4">
-        <text>0, 197, 142, 0.5</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gYm13X2JhY2tlbmRfd29ya2Zsb3dfdW5wdWJsaXNoX2V4cGlyZWRfbm9kZXMoKSB7CgogICRxdWVyeSA9IG5ldyBFbnRpdHlGaWVsZFF1ZXJ5KCk7CiAgJHF1ZXJ5LT5lbnRpdHlDb25kaXRpb24oJ2VudGl0eV90eXBlJywgJ25vZGUnKQogICAgLT5wcm9wZXJ0eUNvbmRpdGlvbignc3RhdHVzJywgTk9ERV9QVUJMSVNIRUQpCiAgICAtPmZpZWxkQ29uZGl0aW9uKCdmaWVsZF92aXNpYmxlJywgJ3ZhbHVlMicsIGRhdGUoIlktbS1kIiksICc8JykKICAgIC0+cmFuZ2UoMCwgMTApOwoKICAkcmVzdWx0ID0gJHF1ZXJ5LT5leGVjdXRlKCk7CiAgZHNtKCRyZXN1bHQpOwp9CgoKZnVuY3Rpb24gYm13X2JhY2tlbmRfd29ya2Zsb3dfdW5wdWJsaXNoX25vZGUoJG5vZGUpIHsKICBnbG9iYWwgJHVzZXI7CgogIC8vIFJlbW92ZSB0aGUgbW9kZXJhdGlvbiByZWNvcmQncyAicHVibGlzaGVkIiBmbGFnLgogICRxdWVyeSA9IGRiX3VwZGF0ZSgnd29ya2JlbmNoX21vZGVyYXRpb25fbm9kZV9oaXN0b3J5JykKICAgIC0+Y29uZGl0aW9uKCdoaWQnLCAkbm9kZS0+d29ya2JlbmNoX21vZGVyYXRpb25bJ3B1Ymxpc2hlZCddLT5oaWQpCiAgICAtPmZpZWxkcyhhcnJheSgncHVibGlzaGVkJyA9PiAwKSkKICAgIC0+ZXhlY3V0ZSgpOwoKICAvLyBNb2RlcmF0ZSB0aGUgcmV2aXNpb24uCiAgd29ya2JlbmNoX21vZGVyYXRpb25fbW9kZXJhdGUoJG5vZGUsICdkcmFmdCcpOwoKICAvLyBNYWtlIHN1cmUgdGhlICdjdXJyZW50JyByZXZpc2lvbiBpcyB0aGUgJ2xpdmUnIHJldmlzaW9uIC0tIGllLCB0aGUgcmV2aXNpb24KICAvLyBpbiB7bm9kZX0uCiAgJGxpdmVfcmV2aXNpb24gPSB3b3JrYmVuY2hfbW9kZXJhdGlvbl9ub2RlX2N1cnJlbnRfbG9hZCgkbm9kZSk7CiAgJGxpdmVfcmV2aXNpb24tPnN0YXR1cyA9IDA7CiAgJGxpdmVfcmV2aXNpb24tPnJldmlzaW9uID0gMDsKICAkbGl2ZV9yZXZpc2lvbi0+d29ya2JlbmNoX21vZGVyYXRpb25bJ3VwZGF0aW5nX2xpdmVfcmV2aXNpb24nXSA9IFRSVUU7CgogIHJldHVybiBub2RlX3NhdmUoJGxpdmVfcmV2aXNpb24pOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxvQ29sb3IsIHRoZGRpcy5oaUNvbG9yLCB0aGlzLm9wYWNpdHksIGMpOwo=</text>
+        <text encoding="base64">ICBkc20oJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -551,29 +568,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZG1wKCRsYywgJ2Jtd19iYWNrZW5kX3dvcmtmbG93X3VzZXJfZ2V0X2ZpcnN0X2FsbG93ZWRfbGFuZ3VhZ2UnLCBGQUxTRSk7Lgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Object
-          .keys(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBkbXAoJGFsbG93ZWRfbGFuZ3VhZ2VzLCAiYWxsb3dlZCIsIEZBTFNFKTsuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3ZlcnZpZXcpOwo=</text>
+        <text encoding="base64">ICAvLyBkbXAoJGF2YWlsYWJsZV9sYW5ndWFnZXMsICJhdmFpbGFibGUiLCBGQUxTRSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbVdvcmtpbmdTZWNvbmRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy53ZWVrcyk7Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gYXJyYXlfbWFwKGZ1bmN0aW9uKCRlbGVtKSB7IHJldHVybiAkZWxlbS0+bGFuZ3VhZ2U7IH0sICRsYW5ndWFnZXNbMV0pOy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3ZlcnZpZXcpOwo=</text>
+        <text encoding="base64">ICAvLyAkbGFuZ3VhZ2VzID0gbGFuZ3VhZ2VfbGlzdCgnZW5hYmxlZCcpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG0pOwo=</text>
+        <text encoding="base64">ICBkbXAoJF9TRVNTSU9OLCAiU2Vzc2lvbiIsIEZBTFNFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -614,13 +630,13 @@
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfcHJvY2Vzc193b3JrbG9nc1w+</entry>
         <entry>pm_jira_fetch_updates_from_jira</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</entry>
+        <entry>unpubli</entry>
         <entry>cron</entry>
       </history-search>
       <history-cmd>
         <entry>3905</entry>
         <entry>47</entry>
         <entry>67</entry>
-        <entry>noh</entry>
         <entry>66</entry>
         <entry>21</entry>
         <entry>9</entry>
@@ -633,9 +649,14 @@
         <entry>51</entry>
         <entry>65</entry>
         <entry>71</entry>
-        <entry>W</entry>
-        <entry>tabNext</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
+        <entry>697</entry>
+        <entry>tabNext</entry>
+        <entry>10</entry>
+        <entry>W</entry>
+        <entry>343</entry>
+        <entry>noh</entry>
+        <entry>633</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
