@@ -165,11 +165,11 @@
         <mark key="]" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" timestamp="1491553196116">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" timestamp="1491553309208">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-no-results.tpl.twig" timestamp="1490866434186">
         <mark key="[" line="15" column="0" />
@@ -510,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mappings</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>mappings</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>excerpt</text>
@@ -611,9 +611,9 @@
         <entry>noh</entry>
         <entry>63</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>tabNext</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
