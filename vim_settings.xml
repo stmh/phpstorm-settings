@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1490712738201">
+        <mark key="[" line="936" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/excerpt/excerpt.json" timestamp="1491510607458">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="41" />
@@ -44,6 +47,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.twig" timestamp="1491569187723">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-button/components-button.css" timestamp="1491235814796">
         <mark key="[" line="102" column="13" />
         <mark key="]" line="102" column="13" />
@@ -55,93 +64,6 @@
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1491568620650" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/flex-embed/flex-embed.css" timestamp="1491498421109">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--cta.tpl.twig" timestamp="1491575779088">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.json" timestamp="1491577281009">
-        <mark key="[" line="1" column="210" />
-        <mark key="]" line="1" column="210" />
-        <mark key="." line="1" column="210" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/index.html" timestamp="1491129084244">
-        <mark key="[" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_workflow.drush.inc" timestamp="1491412799173">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1491568949538">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1491411863547">
-        <mark key="[" line="685" column="21" />
-        <mark key="]" line="685" column="21" />
-        <mark key="." line="685" column="21" />
-        <mark key="^" line="685" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" timestamp="1491576564018">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="34" />
-        <mark key="." line="53" column="34" />
-        <mark key="^" line="53" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1491547748615">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="29" />
-        <mark key="^" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/base/base.js" timestamp="1491562482683">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.twig" timestamp="1491576123119">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.json" timestamp="1491566416067">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="5" column="93" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-teaser/asset-teaser.js" timestamp="1491551297407" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.js" timestamp="1491576429863">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="50" column="15" />
-        <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1490712738201">
-        <mark key="[" line="936" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/engines/tfd7/TFD/Extension.php" timestamp="1491545458086" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.twig" timestamp="1491569187723">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="5" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1491246112325">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="4" column="41" />
@@ -150,6 +72,17 @@
       </file>
       <file name="/PHP Console" timestamp="1491402271428">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/flex-embed/flex-embed.css" timestamp="1491498421109">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.json" timestamp="1491577281009">
+        <mark key="[" line="1" column="210" />
+        <mark key="]" line="1" column="210" />
+        <mark key="." line="1" column="210" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.pre-commit-config.yaml" timestamp="1491236155422">
         <mark key="[" line="33" column="30" />
@@ -175,7 +108,9 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button~primary.json" timestamp="1491576800588" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/index.html" timestamp="1491129084244">
+        <mark key="[" line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.css" timestamp="1491544899806">
         <mark key="[" line="77" column="66" />
         <mark key="]" line="77" column="66" />
@@ -200,12 +135,35 @@
         <mark key="." line="69" column="7" />
         <mark key="^" line="69" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491575717727">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_workflow.drush.inc" timestamp="1491412799173">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1491568949538">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1491411863547">
+        <mark key="[" line="685" column="21" />
+        <mark key="]" line="685" column="21" />
+        <mark key="." line="685" column="21" />
+        <mark key="^" line="685" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" timestamp="1491597798672">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="49" column="34" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/header/header.js" timestamp="1491556606069">
         <mark key="[" line="9" column="2" />
@@ -213,13 +171,24 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1491547748615">
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="29" />
+        <mark key="^" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--rich-text.tpl.twig" timestamp="1491497664844">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/font-size/font-size.css" timestamp="1491548642321" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/base/base.js" timestamp="1491562482683">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.css" timestamp="1491577337053">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="26" />
@@ -232,16 +201,33 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.twig" timestamp="1491576123119">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.json" timestamp="1491566416067">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="5" column="93" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/flex-embed/flex-embed.twig" timestamp="1491497971936">
         <mark key="[" line="1" column="66" />
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.js" timestamp="1491576429863">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="50" column="15" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
-      <jump line="438" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="385" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="249" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="148" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
@@ -340,19 +326,21 @@
       <jump line="57" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.css" />
       <jump line="5" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" />
+      <jump line="49" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QG1lZGlhKC0tbWQtdmlld3BvcnQpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGV0IGp1c3RvIGR1byBkb2xvcmVzIGV0IGVhIHJlYnVtLiBTdGV0IGNsaXRhIGthc2QgZ3ViZXJncmVuLCBubyBzZWEgdGFraW1hdGEgc2FuY3R1cyBlc3QgTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQuIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZXRldHVyIHNhZGlwc2NpbmcgZWxpdHIsIHNlZCBkaWFtIG5vbnVteSBlaXJtb2QgdGVtcG9yIGludmlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXV5YW0gZXJhdCwgc2VkIGRpYW0gdm9sdXB0dWEuIEF0IHZlcm8gZW9zIGV0IGFjY3VzYW0gZXQganVzdG8gZHVvIGRvbG9yZXMgZXQgZWEgcmVidW0uIFN0ZXQgY2xpdGEga2FzZCBndWJlcmdyZW4sIG5vIHNlYSB0YWtpbWF0YSBzYW5jdHVzIGVzdCBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldC4gTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNldGV0dXIgc2FkaXBzY2luZyBlbGl0ciwgc2VkIGRpYW0gbm9udW15IGVpcm1vZCB0ZW1wb3IgaW52aWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdXlhbSBlcmF0LCBzZWQgZGlhbSB2b2x1cHR1YS4gQXQgdmVybyBlb3MgZXQgYWNjdXNhbSBldCBqdXN0byBkdW8gZG9sb3JlcyBldCBlYSByZWJ1bS4gU3RldCBjbGl0YSBrYXNkIGd1YmVyZ3Jlbiwgbm8gc2VhIHRha2ltYXRhIHNhbmN0dXMgZXN0IExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0Lg==</text>
       </register>
       <register name="/" type="4">
-        <text>md-viewpo</text>
+        <text>const</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QG1lZGlhKC0tbWQtbGctdmlld3BvcnQpIHsK</text>
+      <register name="0" type="4">
+        <text>const</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QG1lZGlhKC0tbWQtdmlld3BvcnQpIHsK</text>
@@ -388,13 +376,13 @@
         <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogdmFyKC0tc3BhY2UtNCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m .+1</text>
       </register>
     </registers>
     <search>
-      <last-search>md-viewpo</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>md-viewpo</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -402,8 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page(</entry>
-        <entry>_page</entry>
         <entry encoding="base64">XDxwYWdlVGV4dENvbnRhaW5zXD4=</entry>
         <entry>&quot;ja&quot;</entry>
         <entry>assertPageContainsText</entry>
@@ -424,12 +410,10 @@
         <entry>list</entry>
         <entry>excerpt</entry>
         <entry>md-viewpo</entry>
+        <entry>Object</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
-        <entry>W:w</entry>
-        <entry>41</entry>
-        <entry>w:w</entry>
         <entry>35</entry>
         <entry>51</entry>
         <entry>65</entry>
@@ -450,6 +434,16 @@
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tKzE=</entry>
+        <entry>m .-2</entry>
+        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
+        <entry encoding="base64">JzwsJz5tKzI=</entry>
+        <entry encoding="base64">JzwsJz5tJz4rMQ==</entry>
+        <entry encoding="base64">JzwsJz5tJzwtMg==</entry>
+        <entry encoding="base64">JzwsJz5tPC0y</entry>
+        <entry encoding="base64">JzwsJz5tJzwuMg==</entry>
+        <entry encoding="base64">JzwsJz5tJy0y</entry>
+        <entry>m .+1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -472,6 +466,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
