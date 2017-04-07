@@ -76,6 +76,12 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="102" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.twig" timestamp="1491542071388">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/flex-embed/flex-embed.css" timestamp="1491498421109">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -199,12 +205,6 @@
         <mark key="]" line="4" column="167" />
         <mark key="." line="4" column="167" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_aca/rmh_cv_aca.module" timestamp="1491511395176">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/tag-list/tag-list.css" timestamp="1491498257292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
@@ -252,6 +252,13 @@
         <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.css" timestamp="1491509959119" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--link-section.twig" timestamp="1491541925172">
+        <mark key="'" line="12" column="1" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1491507952676">
         <mark key="[" line="0" column="0" />
       </file>
@@ -331,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="72" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.inc" />
       <jump line="118" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.inc" />
       <jump line="149" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.inc" />
       <jump line="150" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_navigation/occhio_navigation.inc" />
@@ -431,13 +437,14 @@
       <jump line="7" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" />
       <jump line="290" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="6" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.css" />
+      <jump line="12" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--link-section.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Anticoagulation Academy VIP</text>
+        <text>resource-list</text>
       </register>
       <register name="-" type="4">
-        <text>Anticoagulation Academy VIP</text>
+        <text>resource-list</text>
       </register>
       <register name="/" type="4">
         <text>excerpt</text>
@@ -445,8 +452,18 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVmaW5lKCdSTUhfQ1ZfQUNBX1JPTEVfTkFNRScsICdBbnRpY29hZ3VsYXRpb24gQWNhZGVteSBWSVAnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbGlnaHQpOwo=</text>
+      <register name="1" type="4">
+        <text>{% if field_itc_text_placement[0]['value'] =='left' %}
+    {% include &quot;@molecules/two-columns/two-columns.twig&quot; with {
+      &quot;left&quot;: text,
+      &quot;right&quot;: image
+    } %}
+  {% else %}
+    {% include &quot;@molecules/two-columns/two-columns.twig&quot; with {
+      &quot;left&quot;: image,
+      &quot;right&quot;: text
+    } %}
+  {% endif %}</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -455,13 +472,13 @@
         <text encoding="base64">ICBmb250LXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbGlnaHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1qYXZhKTsK</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbGlnaHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3ItZG92ZS1ncmV5KTsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1qYXZhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IHZhcigtLWJldGEtZm9udC1zaXplKTsK</text>
+        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3ItZG92ZS1ncmV5KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBmb250LXNpemU6IHZhcigtLWJldGEtZm9udC1zaXplKTsK</text>
@@ -470,13 +487,13 @@
         <text encoding="base64">ICBmb250LXNpemU6IHZhcigtLWJldGEtZm9udC1zaXplKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3Itd2hpdGUpOwo=</text>
+        <text encoding="base64">ICBmb250LXNpemU6IHZhcigtLWJldGEtZm9udC1zaXplKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwo=</text>
+        <text encoding="base64">ICBjb2xvcjogdmFyKC0tY29sb3Itd2hpdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
