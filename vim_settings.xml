@@ -137,8 +137,11 @@
         <mark key="^" line="62" column="138" />
         <mark key="." line="62" column="138" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1491813044816">
-        <mark key="'" line="85" column="22" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1491844061160">
+        <mark key="'" line="177" column="19" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.twig" timestamp="1491569187723">
         <mark key="[" line="1" column="51" />
@@ -162,13 +165,19 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="19" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" timestamp="1491843376350">
+        <mark key="'" line="581" column="30" />
+        <mark key="[" line="594" column="0" />
+        <mark key="]" line="594" column="0" />
+        <mark key="." line="594" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/base/base.css" timestamp="1491549442234">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" timestamp="1491839574636" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" timestamp="1491842510133" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.json" timestamp="1491577131820">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -187,7 +196,7 @@
         <mark key="^" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491576166725">
+      <file name="/Dummy.txt" timestamp="1491843031610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
@@ -234,34 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
-      <jump line="264" column="60" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/taxonomy/taxonomy.module" />
-      <jump line="109" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
-      <jump line="145" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/node/node--teaser--teaser.html.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/composer.json" />
-      <jump line="3901" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/giotrif/public_html/includes/menu.inc" />
-      <jump line="100" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="144" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="146" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="148" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="154" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="21" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/default/settings.php" />
-      <jump line="296" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink-extension/src/Behat/MinkExtension/Context/MinkContext.php" />
-      <jump line="291" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink-extension/src/Behat/MinkExtension/Context/MinkContext.php" />
-      <jump line="390" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/drupal/drupal-extension/src/Drupal/DrupalExtension/Context/MinkContext.php" />
-      <jump line="256" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/WebAssert.php" />
-      <jump line="183" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
-      <jump line="193" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
-      <jump line="112" column="59" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
-      <jump line="165" column="65" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
-      <jump line="175" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/vendor/behat/mink/src/Element/Element.php" />
-      <jump line="15" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/allocations.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/allocations.js" />
-      <jump line="75" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" />
-      <jump line="77" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" />
       <jump line="2" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
       <jump line="6" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
       <jump line="1" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" />
@@ -334,71 +315,89 @@
       <jump line="20" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="673" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="651" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="564" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="593" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="459" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="497" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="535" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="182" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="88" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="144" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="146" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="148" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="154" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="156" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="158" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="160" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="161" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="162" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="163" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="164" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="166" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="169" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="170" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="172" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="173" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="177" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="638" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
+      <jump line="581" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoInl1Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCiAqIFJldHVybnMgSFRNTCBmb3IgdGhlICJuZXh0IHBhZ2UiIGxpbmsgaW4gYSBxdWVyeSBwYWdlci4KICovCmZ1bmN0aW9uIGN2aHViX2Zyb250ZW5kX3BhZ2VyX25leHQoJHZhcmlhYmxlcykgewogICR0ZXh0ID0gJHZhcmlhYmxlc1sndGV4dCddOwogICRlbGVtZW50ID0gJHZhcmlhYmxlc1snZWxlbWVudCddOwogICRpbnRlcnZhbCA9ICR2YXJpYWJsZXNbJ2ludGVydmFsJ107CiAgJHBhcmFtZXRlcnMgPSAkdmFyaWFibGVzWydwYXJhbWV0ZXJzJ107CiAgJGF0dHJpYnV0ZXMgPSAkdmFyaWFibGVzWydhdHRyaWJ1dGVzJ107CgogIGdsb2JhbCAkcGFnZXJfcGFnZV9hcnJheSwgJHBhZ2VyX3RvdGFsOwogICRvdXRwdXQgPSAnJzsKICBkcnVwYWxfYWRkX2xpYnJhcnkoJ3N5c3RlbScsICdkcnVwYWwuYWpheCcpOwogIGRydXBhbF9hZGRfbGlicmFyeSgnc3lzdGVtJywgJ2pxdWVyeS5mb3JtJyk7CgogIC8vIElmIHdlIGFyZSBhbnl3aGVyZSBidXQgdGhlIGxhc3QgcGFnZS4KICBpZiAoJHBhZ2VyX3BhZ2VfYXJyYXlbJGVsZW1lbnRdIDwgKCRwYWdlcl90b3RhbFskZWxlbWVudF0gLSAxKSkgewogICAgJHBhZ2VfbmV3ID0gcGFnZXJfbG9hZF9hcnJheSgkcGFnZXJfcGFnZV9hcnJheVskZWxlbWVudF0gKyAkaW50ZXJ2YWwsICRlbGVtZW50LCAkcGFnZXJfcGFnZV9hcnJheSk7CiAgICAvLyBJZiB0aGUgbmV4dCBwYWdlIGlzIHRoZSBsYXN0IHBhZ2UsIG1hcmsgdGhlIGxpbmsgYXMgc3VjaC4KICAgIGlmICgkcGFnZV9uZXdbJGVsZW1lbnRdID09ICgkcGFnZXJfdG90YWxbJGVsZW1lbnRdIC0gMSkpIHsKICAgICAgJG91dHB1dCA9IHRoZW1lKCdwYWdlcl9sYXN0JywgYXJyYXkoCiAgICAgICAgJ3RleHQnID0+ICR0ZXh0LAogICAgICAgICdlbGVtZW50JyA9PiAkZWxlbWVudCwKICAgICAgICAncGFyYW1ldGVycycgPT4gJHBhcmFtZXRlcnMsCiAgICAgICAgJ2F0dHJpYnV0ZXMnID0+ICRhdHRyaWJ1dGVzLAogICAgICApKTsKICAgIH0KICAgIC8vIFRoZSBuZXh0IHBhZ2UgaXMgbm90IHRoZSBsYXN0IHBhZ2UuCiAgICBlbHNlIHsKICAgICAgJG91dHB1dCA9IHRoZW1lKCdwYWdlcl9saW5rJywgYXJyYXkoCiAgICAgICAgJ3RleHQnID0+ICR0ZXh0LAogICAgICAgICdwYWdlX25ldycgPT4gJHBhZ2VfbmV3LAogICAgICAgICdlbGVtZW50JyA9PiAkZWxlbWVudCwKICAgICAgICAncGFyYW1ldGVycycgPT4gJHBhcmFtZXRlcnMsCiAgICAgICAgJ2F0dHJpYnV0ZXMnID0+ICRhdHRyaWJ1dGVzLAogICAgICApKTsKICAgIH0KICB9CgogIHJldHVybiAkb3V0cHV0Owp9</text>
       </register>
       <register name="-" type="4">
-        <text>drupal_</text>
+        <text>dsm</text>
       </register>
       <register name="/" type="4">
-        <text>menu_alter</text>
+        <text>theme_pager_links</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmaW5lKCdSTUhfQ1ZfU0VBUkNIX0RJU1BMQVlfUFJPTUlORU5DRV9YTEFSR0VfTUFYX0RBWVMnLCA2MCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoInl1Iik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAqIFJldHVybnMgSFRNTCBmb3IgdGhlICJuZXh0IHBhZ2UiIGxpbmsgaW4gYSBxdWVyeSBwYWdlci4KICovCmZ1bmN0aW9uIGN2aHViX2Zyb250ZW5kX3BhZ2VyX25leHQoJHZhcmlhYmxlcykgewogICR0ZXh0ID0gJHZhcmlhYmxlc1sndGV4dCddOwogICRlbGVtZW50ID0gJHZhcmlhYmxlc1snZWxlbWVudCddOwogICRpbnRlcnZhbCA9ICR2YXJpYWJsZXNbJ2ludGVydmFsJ107CiAgJHBhcmFtZXRlcnMgPSAkdmFyaWFibGVzWydwYXJhbWV0ZXJzJ107CiAgJGF0dHJpYnV0ZXMgPSAkdmFyaWFibGVzWydhdHRyaWJ1dGVzJ107CgogIGdsb2JhbCAkcGFnZXJfcGFnZV9hcnJheSwgJHBhZ2VyX3RvdGFsOwogICRvdXRwdXQgPSAnJzsKICBkcnVwYWxfYWRkX2xpYnJhcnkoJ3N5c3RlbScsICdkcnVwYWwuYWpheCcpOwogIGRydXBhbF9hZGRfbGlicmFyeSgnc3lzdGVtJywgJ2pxdWVyeS5mb3JtJyk7CgogIC8vIElmIHdlIGFyZSBhbnl3aGVyZSBidXQgdGhlIGxhc3QgcGFnZS4KICBpZiAoJHBhZ2VyX3BhZ2VfYXJyYXlbJGVsZW1lbnRdIDwgKCRwYWdlcl90b3RhbFskZWxlbWVudF0gLSAxKSkgewogICAgJHBhZ2VfbmV3ID0gcGFnZXJfbG9hZF9hcnJheSgkcGFnZXJfcGFnZV9hcnJheVskZWxlbWVudF0gKyAkaW50ZXJ2YWwsICRlbGVtZW50LCAkcGFnZXJfcGFnZV9hcnJheSk7CiAgICAvLyBJZiB0aGUgbmV4dCBwYWdlIGlzIHRoZSBsYXN0IHBhZ2UsIG1hcmsgdGhlIGxpbmsgYXMgc3VjaC4KICAgIGlmICgkcGFnZV9uZXdbJGVsZW1lbnRdID09ICgkcGFnZXJfdG90YWxbJGVsZW1lbnRdIC0gMSkpIHsKICAgICAgJG91dHB1dCA9IHRoZW1lKCdwYWdlcl9sYXN0JywgYXJyYXkoCiAgICAgICAgJ3RleHQnID0+ICR0ZXh0LAogICAgICAgICdlbGVtZW50JyA9PiAkZWxlbWVudCwKICAgICAgICAncGFyYW1ldGVycycgPT4gJHBhcmFtZXRlcnMsCiAgICAgICAgJ2F0dHJpYnV0ZXMnID0+ICRhdHRyaWJ1dGVzLAogICAgICApKTsKICAgIH0KICAgIC8vIFRoZSBuZXh0IHBhZ2UgaXMgbm90IHRoZSBsYXN0IHBhZ2UuCiAgICBlbHNlIHsKICAgICAgJG91dHB1dCA9IHRoZW1lKCdwYWdlcl9saW5rJywgYXJyYXkoCiAgICAgICAgJ3RleHQnID0+ICR0ZXh0LAogICAgICAgICdwYWdlX25ldycgPT4gJHBhZ2VfbmV3LAogICAgICAgICdlbGVtZW50JyA9PiAkZWxlbWVudCwKICAgICAgICAncGFyYW1ldGVycycgPT4gJHBhcmFtZXRlcnMsCiAgICAgICAgJ2F0dHJpYnV0ZXMnID0+ICRhdHRyaWJ1dGVzLAogICAgICApKTsKICAgIH0KICB9CgogIHJldHVybiAkb3V0cHV0Owp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRwYW5lbHNfZGlzcGxheQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">J2F0dHJpYnV0ZXMnID0+IGFycmF5KAogICAgICAnY2xhc3MnID0+IGFycmF5KAogICAgICAgICd1c2UtYWpheCcsCiAgICAgICksCiAgICApLA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRyZQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="4">
-        <text>/**
- * Implements the page callback.
- */
-function rmh_cv_search_page_callback($subtask_id) {
-  module_load_include('inc', 'page_manager', 'plugins/tasks/page');
-  $content = page_manager_page_execute($subtask_id);
-  if (isset($_GET['js'])) {
-    dsm($content);
-  }
-  return $content;
-}</text>
+        <text encoding="base64">ICogQHBhcmFtICR2YXJpYWJsZXMKICogICBBbiBhc3NvY2lhdGl2ZSBhcnJheSBjb250YWluaW5nOgogKiAgIC0gdGV4dDogVGhlIG5hbWUgKG9yIGltYWdlKSBvZiB0aGUgbGluay4KICogICAtIGVsZW1lbnQ6IEFuIG9wdGlvbmFsIGludGVnZXIgdG8gZGlzdGluZ3Vpc2ggYmV0d2VlbiBtdWx0aXBsZSBwYWdlcnMgb24KICogICAgIG9uZSBwYWdlLgogKiAgIC0gaW50ZXJ2YWw6IFRoZSBudW1iZXIgb2YgcGFnZXMgdG8gbW92ZSBmb3J3YXJkIHdoZW4gdGhlIGxpbmsgaXMgY2xpY2tlZC4KICogICAtIHBhcmFtZXRlcnM6IEFuIGFzc29jaWF0aXZlIGFycmF5IG9mIHF1ZXJ5IHN0cmluZyBwYXJhbWV0ZXJzIHRvIGFwcGVuZCB0bwogKiAgICAgdGhlIHBhZ2VyIGxpbmtzLgogKgogKiBAaW5ncm91cCB0aGVtZWFibGUKIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1bnNldCgkaXRlbXNbJ2Zyb250cGFnZSddWydmaWxlJ10pOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKGZ1bmNfZ2V0X2FyZ3MoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkaXRlbXNbJ2Zyb250cGFnZSddWydtb2R1bGUnXSA9ICdybWhfY3Zfc2VhcmNoJzsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkaXRlbXNbJ2Zyb250cGFnZSddWydwYWdlIGNhbGxiYWNrJ10gPSAncm1oX2N2X3NlYXJjaF9wYWdlX2NhbGxiYWNrJzsK</text>
+        <text encoding="base64">ICBwcmludF9yKCRhdHRyaWJ1dGVzKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkc20oJHBhbmVsc19kaXNwbGF5KTsK</text>
+        <text encoding="base64">ICAkX0dFVFsnanMnXSA9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>menu_alter</last-search>
+      <last-search>theme_pager_links</last-search>
       <last-offset />
-      <last-pattern>menu_alter</last-pattern>
+      <last-pattern>theme_pager_links</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -430,6 +429,11 @@ function rmh_cv_search_page_callback($subtask_id) {
         <entry>rmh_cv_search_results</entry>
         <entry>promin</entry>
         <entry>menu_alter</entry>
+        <entry>pager_link</entry>
+        <entry>theme_pager_link</entry>
+        <entry>pager</entry>
+        <entry>theme_pager_next</entry>
+        <entry>theme_pager_links</entry>
       </history-search>
       <history-cmd>
         <entry>687</entry>
@@ -456,6 +460,8 @@ function rmh_cv_search_page_callback($subtask_id) {
         <entry>697</entry>
         <entry>698</entry>
         <entry>689</entry>
+        <entry>189</entry>
+        <entry>213</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
