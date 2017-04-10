@@ -140,11 +140,11 @@
       <file name="/Dummy.txt" timestamp="1491576166725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491814508926">
-        <mark key="[" line="381" column="64" />
-        <mark key="]" line="334" column="24" />
-        <mark key="^" line="334" column="24" />
-        <mark key="." line="334" column="24" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491817154879">
+        <mark key="[" line="335" column="3" />
+        <mark key="]" line="336" column="1" />
+        <mark key="^" line="336" column="1" />
+        <mark key="." line="336" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
         <mark key="[" line="18" column="18" />
@@ -156,6 +156,12 @@
         <mark key="]" line="36" column="12" />
         <mark key="^" line="36" column="12" />
         <mark key="." line="36" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1491817385036">
+        <mark key="[" line="73" column="3" />
+        <mark key="]" line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+        <mark key="." line="73" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_workflow.drush.inc" timestamp="1491412799173">
         <mark key="[" line="3" column="8" />
@@ -346,17 +352,17 @@
       <jump line="85" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbGFyZ2UnID0+IFRSVUUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>rmh_utils_list_option_asset_prominence_rules_callback</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>icons</text>
       </register>
       <register name="/" type="4">
         <text>rmh_cv_search_results</text>
       </register>
       <register name="0" type="4">
-        <text>const</text>
+        <text>rmh_utils_list_option_asset_prominence_rules_callback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnbGFyZ2UnID0+IFRSVUUsCg==</text>
