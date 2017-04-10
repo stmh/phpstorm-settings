@@ -36,10 +36,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1491813044816">
         <mark key="'" line="85" column="22" />
-        <mark key="[" line="272" column="3" />
-        <mark key="]" line="274" column="17" />
-        <mark key="^" line="274" column="17" />
-        <mark key="." line="274" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--link-section.tpl.twig" timestamp="1491560277530">
         <mark key="'" line="17" column="0" />
@@ -140,11 +136,11 @@
       <file name="/Dummy.txt" timestamp="1491576166725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491817154879">
-        <mark key="[" line="335" column="3" />
-        <mark key="]" line="336" column="1" />
-        <mark key="^" line="336" column="1" />
-        <mark key="." line="336" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491819003185">
+        <mark key="[" line="333" column="34" />
+        <mark key="]" line="333" column="34" />
+        <mark key="^" line="333" column="34" />
+        <mark key="." line="333" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
         <mark key="[" line="18" column="18" />
@@ -157,7 +153,8 @@
         <mark key="^" line="36" column="12" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1491818050639">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1491818983718">
+        <mark key="'" line="39" column="47" />
         <mark key="[" line="38" column="39" />
         <mark key="]" line="38" column="40" />
         <mark key="^" line="73" column="3" />
@@ -250,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
       <jump line="165" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
       <jump line="184" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
       <jump line="259" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/contrib/file_force/file_force.module" />
@@ -350,6 +345,8 @@
       <jump line="38" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="85" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="38" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
+      <jump line="39" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +356,7 @@
         <text>icons</text>
       </register>
       <register name="/" type="4">
-        <text>rmh_cv_search_results</text>
+        <text>promin</text>
       </register>
       <register name="0" type="4">
         <text>rmh_utils_list_option_asset_prominence_rules_callback</text>
@@ -402,9 +399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rmh_cv_search_results</last-search>
+      <last-search>promin</last-search>
       <last-offset />
-      <last-pattern>rmh_cv_search_results</last-pattern>
+      <last-pattern>promin</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -434,6 +431,7 @@
         <entry>const</entry>
         <entry>search_res</entry>
         <entry>rmh_cv_search_results</entry>
+        <entry>promin</entry>
       </history-search>
       <history-cmd>
         <entry>687</entry>
