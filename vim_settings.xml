@@ -140,7 +140,12 @@
       <file name="/Dummy.txt" timestamp="1491576166725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491812959217" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1491814508926">
+        <mark key="[" line="381" column="64" />
+        <mark key="]" line="334" column="24" />
+        <mark key="^" line="334" column="24" />
+        <mark key="." line="334" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
@@ -341,11 +346,11 @@
       <jump line="85" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnbGFyZ2UnID0+IFRSVUUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>rmh_cv_search_results</text>
@@ -354,37 +359,37 @@
         <text>const</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVvdXQgY2xpZW50IDFoCg==</text>
+        <text encoding="base64">ICAgICAgICAnbGFyZ2UnID0+IFRSVUUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfYmFja2VuZCBzc2gK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QG1lZGlhKC0tbWQtdmlld3BvcnQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVvdXQgY2xpZW50IDFoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfYmFja2VuZCBzc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1lZGlhKC0tbWQtdmlld3BvcnQpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgZWxzZWlmIHRhZ05hbWUgPT0gJ0lOUFVUJyAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgdmFsdWU9Int7IHRleHQgfX0iIG5hbWU9Int7IG5hbWUgfX0iLz4KCnslIGVsc2UgJX0KCiAgPGJ1dHRvbiBjbGFzcz0iQnV0dG9uIHt7IG1vZGlmaWVyc3xqb2luKCcgJykgfX0iPgogICAgPHNwYW4gY2xhc3M9IkJ1dHRvbi10ZXh0Ij4KICAgICAge3sgdGV4dCB9fQogICAgPC9zcGFuPgogICAgeyUgaWYgaWNvbiBpcyBkZWZpbmVkICV9CiAgICB7JSBpbmNsdWRlICJAYXRvbXMvaWNvbi9pY29uLnR3aWciIHdpdGggaWNvbiAlfQogICAgeyUgZW5kaWYgJX0KICA8L2J1dHRvbj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7JSBzZXQgICV9Cg==</text>
+        <text encoding="base64">eyUgZWxzZWlmIHRhZ05hbWUgPT0gJ0lOUFVUJyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
