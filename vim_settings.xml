@@ -20,6 +20,12 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/.htaccess" timestamp="1491930822329">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="158" column="15" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/excerpt/excerpt.twig" timestamp="1491494930689">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="12" />
@@ -381,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>menu</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>menu</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>permission</text>
