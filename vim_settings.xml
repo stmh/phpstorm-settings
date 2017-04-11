@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/factorial_media_image_render.module" timestamp="1491909146273">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/README.md" timestamp="1491906877356">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="24" />
@@ -31,6 +37,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/core/modules/responsive_image/responsive_image.module" timestamp="1491907528585" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/color/color.css" timestamp="1491549195153">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="7" column="0" />
@@ -129,6 +136,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/src/Twig/MediaImageExtension.php" timestamp="1491909102209">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="21" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.twig" timestamp="1491576123119">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="22" />
@@ -150,8 +162,10 @@
         <mark key="^" line="62" column="138" />
         <mark key="." line="62" column="138" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/layout/page.html.twig" timestamp="1491906861442">
-        <mark key="[" line="45" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/layout/page.html.twig" timestamp="1491908645647">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.twig" timestamp="1491569187723">
         <mark key="[" line="1" column="51" />
@@ -210,7 +224,7 @@
         <mark key="^" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491846897393">
+      <file name="/Dummy.txt" timestamp="1491907433156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
@@ -356,50 +370,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_deploy/mdw_deploy.info.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlLWFqYXgnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>render_media_image</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>render_media_image</text>
       </register>
       <register name="/" type="4">
         <text>use-ajax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmaW5lKCdSTUhfQ1ZfU0VBUkNIX0RJU1BMQVlfUFJPTUlORU5DRV9YTEFSR0VfTUFYX0RBWVMnLCA2MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsnI21hcmt1cCcgPT4gJ01pc3NpbmcgcmVzcG9uc2l2ZSBpbWFnZSBzdHlsZSAnIC4gJGltYWdlX3N0eWxlX25hbWVdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlLWFqYXgnLAo=</text>
+        <text encoding="base64">ICogIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICB7eyAiZGR0ZWFzZXJfMSJ8cmVuZGVyX21lZGlhX2ltYWdlKCd0ZXN0JykgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgJyVzdHlsZScgPT4gJGltYWdlX3N0eWxlX25hbWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbJyNtYXJrdXAnID0+ICdNaXNzaW5nIGltYWdlIHN0JyAuICRpbWFnZV9zdHlsZV9uYW1lXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCR2YXJpYWJsZXMpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICcjd2lkdGgnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -452,12 +466,12 @@
         <entry>noh</entry>
         <entry>w:w</entry>
         <entry>693</entry>
-        <entry>tabNext</entry>
         <entry>697</entry>
         <entry>698</entry>
         <entry>689</entry>
         <entry>189</entry>
         <entry>213</entry>
+        <entry>tabNext</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
