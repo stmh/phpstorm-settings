@@ -43,7 +43,6 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/core/modules/responsive_image/responsive_image.module" timestamp="1491907528585" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/color/color.css" timestamp="1491549195153">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="7" column="0" />
@@ -79,7 +78,6 @@
         <mark key="]" line="1" column="210" />
         <mark key="." line="1" column="210" />
       </file>
-      <file name="$USER_HOME$/Downloads/factorial_media_image_render/src/Handler/MediaImageRenderHandler.php" timestamp="1491901083380" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/index.html" timestamp="1491129084244">
         <mark key="[" line="4" column="37" />
       </file>
@@ -136,6 +134,9 @@
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" timestamp="1491937092903">
+        <mark key="'" line="169" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/src/Twig/MediaImageExtension.php" timestamp="1491909102209">
         <mark key="[" line="21" column="65" />
@@ -284,8 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/01-molecules/floating-contact-form/floating-contact-form.json" />
       <jump line="16" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.css" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
       <jump line="1119" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
@@ -384,6 +383,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_deploy/mdw_deploy.info.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.info" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.module" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" />
+      <jump line="169" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,7 +394,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>permission</text>
+        <text>faba</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsnI21hcmt1cCcgPT4gJ01pc3NpbmcgcmVzcG9uc2l2ZSBpbWFnZSBzdHlsZSAnIC4gJGltYWdlX3N0eWxlX25hbWVdOwo=</text>
@@ -436,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>permission</last-search>
+      <last-search>faba</last-search>
       <last-offset />
-      <last-pattern>permission</last-pattern>
+      <last-pattern>faba</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -446,9 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX2lzc3VlXD4=</entry>
-        <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfcHJvY2Vzc193b3JrbG9nc1w+</entry>
-        <entry>pm_jira_fetch_updates_from_jira</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX3JldHJpZXZlX2FsbFw+</entry>
         <entry>unpubli</entry>
         <entry>cron</entry>
@@ -469,6 +467,7 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>use-ajax</entry>
         <entry>permission</entry>
+        <entry>faba</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
