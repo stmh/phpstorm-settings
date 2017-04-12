@@ -211,6 +211,13 @@
       <file name="/PHP Console" timestamp="1491402271428">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.twig" timestamp="1491993242453">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_deploy/mdw_deploy.info.yml" timestamp="1491903625053">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="6" column="31" />
@@ -222,12 +229,6 @@
         <mark key="]" line="33" column="30" />
         <mark key="." line="33" column="30" />
         <mark key="^" line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" timestamp="1491843376350">
-        <mark key="'" line="581" column="30" />
-        <mark key="[" line="594" column="0" />
-        <mark key="]" line="594" column="0" />
-        <mark key="." line="594" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/base/base.css" timestamp="1491549442234">
         <mark key="[" line="19" column="0" />
@@ -253,7 +254,7 @@
         <mark key="^" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491907433156">
+      <file name="/Dummy.txt" timestamp="1491992304668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" timestamp="1491597710397">
@@ -293,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-floating-contact/components-floating-contact.css" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
       <jump line="1119" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.company.inc.php" />
       <jump line="977" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_deploy/occhio_deploy.install" />
@@ -393,13 +393,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.module" />
       <jump line="138" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" />
       <jump line="169" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/composer.json" />
+      <jump line="13" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Resources</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Resources</text>
       </register>
       <register name="/" type="4">
         <text>faba</text>
