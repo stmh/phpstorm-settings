@@ -16,7 +16,7 @@
         <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.module" timestamp="1492008098499">
-        <mark key="'" line="553" column="0" />
+        <mark key="'" line="552" column="0" />
         <mark key="[" line="68" column="29" />
         <mark key="]" line="68" column="29" />
         <mark key="." line="68" column="29" />
@@ -105,10 +105,10 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/cors.routing.yml" timestamp="1491938188867" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1491568949538">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1492010294897">
+        <mark key="[" line="12" column="70" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="71" />
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1491411863547">
@@ -252,12 +252,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1492000412127">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492008143925">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492010222682">
         <mark key="'" line="45" column="39" />
         <mark key="[" line="32" column="28" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/header/header.js" timestamp="1491556606069">
         <mark key="[" line="9" column="2" />
@@ -277,10 +277,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.css" timestamp="1491577337053">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.css" timestamp="1492010434329">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
         <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/paragraphs_item.inc" timestamp="1491546296689">
@@ -400,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dirname($new_file_uri)</text>
+        <text>var(--Rte-space-vertical)</text>
       </register>
       <register name="-" type="4">
-        <text>dirname($new_file_uri)</text>
+        <text>var(--Rte-space-vertical)</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
