@@ -105,10 +105,10 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/cors/cors.routing.yml" timestamp="1491938188867" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1492010294897">
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="71" />
-        <mark key="." line="12" column="71" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1492011572813">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1491411863547">
@@ -251,6 +251,11 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1492000412127">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card/card.css" timestamp="1492011230095">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492010222682">
         <mark key="'" line="45" column="39" />
@@ -400,10 +405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var(--Rte-space-vertical)</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>var(--Rte-space-vertical)</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
