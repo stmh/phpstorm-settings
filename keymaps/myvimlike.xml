@@ -3,10 +3,6 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="shift greater" />
   </action>
-  <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift tab" />
-    <keyboard-shortcut first-keystroke="less" />
-  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
