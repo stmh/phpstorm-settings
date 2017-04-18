@@ -350,11 +350,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1492095937702">
-        <mark key="[" line="1" column="66" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1492525539308">
+        <mark key="[" line="3" column="106" />
+        <mark key="]" line="3" column="106" />
+        <mark key="." line="3" column="106" />
+        <mark key="^" line="3" column="159" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card/card.css" timestamp="1492011230095">
         <mark key="[" line="7" column="30" />
@@ -519,8 +519,8 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -528,8 +528,8 @@
       <register name="/" type="4">
         <text>console.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBoU2VhcmNoQnlUZXJtIGZyb20gJy4vcXVlcmllcy9wcm9maWxlcy9waFNlYXJjaEJ5VGVybSc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JnRoaW5zcDs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -565,7 +565,7 @@
         <text encoding="base64">aW1wb3J0IGdxbCBmcm9tICdncmFwaHFsLXRhZyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -573,9 +573,9 @@
       <last-offset />
       <last-pattern>console.</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>page</last-substitute>
+      <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -623,9 +623,9 @@
         <entry>128</entry>
         <entry>44</entry>
         <entry>111</entry>
-        <entry>w</entry>
         <entry>noh</entry>
         <entry>tabNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
