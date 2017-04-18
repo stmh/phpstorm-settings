@@ -24,13 +24,6 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.module" timestamp="1492008098499">
-        <mark key="'" line="552" column="0" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="29" />
-        <mark key="." line="68" column="29" />
-        <mark key="^" line="68" column="92" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/excerpt/excerpt.json" timestamp="1491510607458">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="41" />
@@ -64,13 +57,6 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1492025101458">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="47" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="34" column="44" />
-        <mark key="." line="34" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--link-section.tpl.twig" timestamp="1492013935560">
         <mark key="[" line="11" column="16" />
@@ -118,13 +104,6 @@
         <mark key="]" line="1" column="210" />
         <mark key="." line="1" column="210" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1492072382088">
-        <mark key="'" line="392" column="9" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="105" />
-        <mark key="^" line="426" column="45" />
-        <mark key="." line="426" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1491838799067">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -136,6 +115,12 @@
         <mark key="]" line="1" column="83" />
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1492527686073">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="44" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" timestamp="1492524779198">
         <mark key="'" line="21" column="4" />
@@ -276,13 +261,6 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.twig" timestamp="1492004210098">
-        <mark key="'" line="28" column="1" />
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.pre-commit-config.yaml" timestamp="1491236155422">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="30" />
@@ -319,7 +297,7 @@
         <mark key="^" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492095987021">
+      <file name="/Dummy.txt" timestamp="1492527488975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/queries/profiles/phProfilesNoNid.js" timestamp="1492521153336">
@@ -360,6 +338,12 @@
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/00-atoms/button/button.twig" timestamp="1492527701238">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492012890256">
         <mark key="[" line="44" column="0" />
@@ -520,10 +504,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>href</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>href</text>
       </register>
       <register name="/" type="4">
         <text>console.</text>
