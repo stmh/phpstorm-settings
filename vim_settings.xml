@@ -9,6 +9,12 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/apollo-client.js" timestamp="1492511890898">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" timestamp="1492100769348">
         <mark key="'" line="64" column="28" />
       </file>
@@ -137,11 +143,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" timestamp="1492508176595">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" timestamp="1492512991813">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/haproxy-config/haproxy_config/haproxy-override/haproxy.in.cfg" timestamp="1491760060892">
         <mark key="[" line="35" column="13" />
@@ -199,11 +205,10 @@
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/main.js" timestamp="1492508589691">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/main.js" timestamp="1492511944300">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.twig" timestamp="1492075438448">
         <mark key="[" line="13" column="22" />
@@ -338,10 +343,10 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1492000412127">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Profiles.vue" timestamp="1492507566654">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Profiles.vue" timestamp="1492513014399">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1492095937702">
@@ -514,60 +519,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`${CONFIG.APP_ROOT}/${CONFIG.API_PATH}`</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>`${CONFIG.APP_ROOT}/${CONFIG.API_PATH}`</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>getName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LkZsb2F0aW5nQ29udGFjdCBoMyBiciB7CmRpc3BsYXk6IG5vbmU7Cn0K</text>
+        <text encoding="base64">aW1wb3J0IEFwb2xsb0NsaWVudCwgeyBjcmVhdGVOZXR3b3JrSW50ZXJmYWNlIH0gZnJvbSAnYXBvbGxvLWNsaWVudCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9mZyhkYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzLCBtYXBBY3Rpb25zIH0gZnJvbSAndnVleCc7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLnByb2ZpbGVzIGtePSBkYXRhLmRhdGEubm9kZVF1ZXJ5Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdxbCBmcm9tICdncmFwaHFsLXRhZyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdxbCBmcm9tICdncmFwaHFsLXRhZyc7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>const state = {
-  profiles: [],
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgYXBvbGxvQ2xpZW50ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXR0ZXJzLAo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIHRoZSBhcG9sbG8gY2xpZW50Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>requestProfiles() {
-        this.profiles = [
-          {
-            name: 'foo',
-          },
-          {
-            name: 'bar',
-          },
-        ];
-      },</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IEFwb2xsb0NsaWVudCwgeyBjcmVhdGVOZXR3b3JrSW50ZXJmYWNlIH0gZnJvbSAnYXBvbGxvLWNsaWVudCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
