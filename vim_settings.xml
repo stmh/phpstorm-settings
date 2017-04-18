@@ -208,6 +208,7 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/elasticsearch_helper/src/ElasticsearchClientBuilder.php" timestamp="1492530399634" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchController.php" timestamp="1492502538451">
         <mark key="[" line="121" column="7" />
         <mark key="]" line="121" column="15" />
@@ -297,6 +298,12 @@
         <mark key="^" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchClient.php" timestamp="1492530614452">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="15" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1492527488975">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,6 +335,7 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/docker-compose.yml" timestamp="1492530114539" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1492525539308">
         <mark key="[" line="3" column="106" />
         <mark key="]" line="3" column="106" />
@@ -503,11 +511,11 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>href</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="-" type="4">
-        <text>href</text>
+        <text encoding="base64">c2VydmljZSgnY29uZmlnLmZhY3RvcnknKS0+Z2V0RWRpdGFibGU=</text>
       </register>
       <register name="/" type="4">
         <text>console.</text>
@@ -516,37 +524,37 @@
         <text encoding="base64">JnRoaW5zcDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBibGE6IHsKICAgICAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdldFByb2ZpbGUoMSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGVzKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuaWRzKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KTsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdxbCBmcm9tICdncmFwaHFsLXRhZyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
