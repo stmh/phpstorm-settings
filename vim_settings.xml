@@ -24,6 +24,13 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/responsive_image_styles/responsive_image_styles.module" timestamp="1492008098499">
+        <mark key="'" line="552" column="0" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="29" />
+        <mark key="^" line="68" column="92" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/excerpt/excerpt.json" timestamp="1491510607458">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="41" />
@@ -57,6 +64,13 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1492025101458">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/paragraphs/paragraphs-item--link-section.tpl.twig" timestamp="1492013935560">
         <mark key="[" line="11" column="16" />
@@ -103,6 +117,13 @@
         <mark key="[" line="1" column="210" />
         <mark key="]" line="1" column="210" />
         <mark key="." line="1" column="210" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1492072382088">
+        <mark key="'" line="392" column="9" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="105" />
+        <mark key="^" line="426" column="45" />
+        <mark key="." line="426" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1491838799067">
         <mark key="[" line="5" column="31" />
@@ -215,7 +236,7 @@
         <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/elasticsearch_helper/src/ElasticsearchClientBuilder.php" timestamp="1492532739746" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchController.php" timestamp="1492533422883">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchController.php" timestamp="1492535125520">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
@@ -274,6 +295,13 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.twig" timestamp="1492004210098">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.pre-commit-config.yaml" timestamp="1491236155422">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="30" />
@@ -316,7 +344,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492533233482">
+      <file name="/Dummy.txt" timestamp="1492534397363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/queries/profiles/phProfilesNoNid.js" timestamp="1492521153336">
@@ -337,6 +365,13 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1492003063508">
         <mark key="'" line="257" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" timestamp="1492535196850">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="208" column="57" />
+        <mark key="^" line="116" column="56" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1492000412127">
         <mark key="'" line="0" column="0" />
@@ -421,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/pm_jira.module" />
       <jump line="222" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/pm_jira.module" />
       <jump line="23" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/pm_jira.module" />
       <jump line="415" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
@@ -521,61 +554,63 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRjbGllbnQgPSBcRHJ1cGFsOjpnZXRDb250YWluZXIoKQogICAgICAtPmdldCgnZWxhc3RpY3NlYXJjaF9oZWxwZXIuZWxhc3RpY3NlYXJjaF9jbGllbnQnKTsKICAgICAgLT5nZXRDbGllbnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>$container</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>getClient</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JnRoaW5zcDs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRjbGllbnQgPSBcRHJ1cGFsOjpnZXRDb250YWluZXIoKQogICAgICAtPmdldCgnZWxhc3RpY3NlYXJjaF9oZWxwZXIuZWxhc3RpY3NlYXJjaF9jbGllbnQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsYXNzOiBEcnVwYWxccGhfYmFja2VuZF9lbGFzdGljc2VhcmNoXENvbnRyb2xsZXJcRWxhc3RpY1NlYXJjaENsaWVudAo=</text>
+        <text encoding="base64">ICAgICRjbGllbnQgPSBcRHJ1cGFsOjpnZXRDb250YWluZXIoKQogICAgICAtPmdldCgnZWxhc3RpY3NlYXJjaF9oZWxwZXIuZWxhc3RpY3NlYXJjaF9jbGllbnQnKTsKICAgICAgLT5nZXRDbGllbnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwaF9iYWNrZW5kX2VsYXN0aWNzZWFyY2guZWxhc3RpY3NlYXJjaGNsaWVudDoK</text>
+        <text encoding="base64">ICAgICAgLT5nZXQoJ3BoX2JhY2tlbmRfZWxhc3RpY3NlYXJjaC5lbGFzdGljc2VhcmNoY2xpZW50JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5jbGllbnQgPSAkc2VydmljZS0+YnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICRjbGllbnQgPSBcRHJ1cGFsOjpnZXRDb250YWluZXIoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JGNsaWVudEJ1aWxkZXIgPSBDbGllbnRCdWlsZGVyOjpjcmVhdGUoKTsKICAgICRjbGllbnRCdWlsZGVyLT5zZXRIb3N0cygkdGhpcy0+Z2V0SG9zdHMoKSk7CgogICAgLy8gTGV0IG90aGVyIG1vZHVsZXMgc2V0IHRoZWlyIG93biBoYW5kbGVycy4KICAgICR0aGlzLT5tb2R1bGVIYW5kbGVyLT5hbHRlcignZWxhc3RpY3NlYXJjaF9oZWxwZXJfY2xpZW50X2J1aWxkZXInLCAkY2xpZW50QnVpbGRlcik7CgogICAgJHRoaXMtPmNsaWVudCA9IENsaWVudEJ1aWxkZXI6OmZyb21Db25maWcoWwogICAgICAnaG9zdHMnID0+IFsiJGhvc3Q6JHBvcnQiXSwKICAgIF0pOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNsYXNzOiBEcnVwYWxccGhfYmFja2VuZF9lbGFzdGljc2VhcmNoXENvbnRyb2xsZXJcRWxhc3RpY1NlYXJjaENsaWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICBwaF9iYWNrZW5kX2VsYXN0aWNzZWFyY2guZWxhc3RpY3NlYXJjaGNsaWVudDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5jbGllbnQgPSAkc2VydmljZS0+YnVpbGQoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBibGE6IHsKICAgICAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdldFByb2ZpbGUoMSk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">JGNsaWVudEJ1aWxkZXIgPSBDbGllbnRCdWlsZGVyOjpjcmVhdGUoKTsKICAgICRjbGllbnRCdWlsZGVyLT5zZXRIb3N0cygkdGhpcy0+Z2V0SG9zdHMoKSk7CgogICAgLy8gTGV0IG90aGVyIG1vZHVsZXMgc2V0IHRoZWlyIG93biBoYW5kbGVycy4KICAgICR0aGlzLT5tb2R1bGVIYW5kbGVyLT5hbHRlcignZWxhc3RpY3NlYXJjaF9oZWxwZXJfY2xpZW50X2J1aWxkZXInLCAkY2xpZW50QnVpbGRlcik7CgogICAgJHRoaXMtPmNsaWVudCA9IENsaWVudEJ1aWxkZXI6OmZyb21Db25maWcoWwogICAgICAnaG9zdHMnID0+IFsiJGhvc3Q6JHBvcnQiXSwKICAgIF0pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGVzKTsK</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuaWRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>getClient</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>getClient</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -604,6 +639,7 @@
         <entry>getTerms</entry>
         <entry>getName</entry>
         <entry>console.</entry>
+        <entry>getClient</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
