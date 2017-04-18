@@ -36,6 +36,13 @@
         <mark key="^" line="158" column="15" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Hello.vue" timestamp="1492508386311">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/excerpt/excerpt.twig" timestamp="1491494930689">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="12" />
@@ -130,6 +137,12 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" timestamp="1492508176595">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/haproxy-config/haproxy_config/haproxy-override/haproxy.in.cfg" timestamp="1491760060892">
         <mark key="[" line="35" column="13" />
         <mark key="]" line="36" column="12" />
@@ -185,6 +198,12 @@
         <mark key="[" line="21" column="65" />
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/main.js" timestamp="1492508589691">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/modal/modal.twig" timestamp="1492075438448">
         <mark key="[" line="13" column="22" />
@@ -319,6 +338,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1492000412127">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Profiles.vue" timestamp="1492507566654">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/floating-contact-form/floating-contact-form.twig" timestamp="1492095937702">
         <mark key="[" line="1" column="66" />
         <mark key="]" line="0" column="9" />
@@ -386,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" />
       <jump line="745" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="473" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="440" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
@@ -486,13 +510,14 @@
       <jump line="88" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="46" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" />
       <jump line="64" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" />
+      <jump line="4" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Hello.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+      <register name="&quot;" type="4">
+        <text>`${CONFIG.APP_ROOT}/${CONFIG.API_PATH}`</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>`${CONFIG.APP_ROOT}/${CONFIG.API_PATH}`</text>
       </register>
       <register name="/" type="4">
         <text>getName</text>
@@ -501,38 +526,48 @@
         <text encoding="base64">LkZsb2F0aW5nQ29udGFjdCBoMyBiciB7CmRpc3BsYXk6IG5vbmU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMz5BbGVydDwvaDM+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzLCBtYXBBY3Rpb25zIH0gZnJvbSAndnVleCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJmb290ZXIiOiBtb2RhbF9mb290ZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VmpqampqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGlmICgkcGFnZV9uZXdbJGVsZW1lbnRdID09ICgkcGFnZXJfdG90YWxbJGVsZW1lbnRdIC0gMSkpIHsKICAgICAgJG91dHB1dCA9IHRoZW1lKCdwYWdlcl9sYXN0JywgYXJyYXkoCiAgICAgICAgJ3RleHQnID0+ICR0ZXh0LAogICAgICAgICdlbGVtZW50JyA9PiAkZWxlbWVudCwKICAgICAgICAncGFyYW1ldGVycycgPT4gJHBhcmFtZXRlcnMsCiAgICAgICAgJ2F0dHJpYnV0ZXMnID0+ICRhdHRyaWJ1dGVzLAogICAgICApKTsKICAgIH0KICAgIC8vIFRoZSBuZXh0IHBhZ2UgaXMgbm90IHRoZSBsYXN0IHBhZ2UuCiAgICBlbHNlIHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>dsm($context);
-  dsm($_GET);</text>
+        <text>const state = {
+  profiles: [],
+};</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcGFjaGVzb2xyX3BhbmVsc19zdGF0aWNfc2VhcmNoX2NhY2hlKCRzZWFyY2gpOwo=</text>
+        <text encoding="base64">ICBnZXR0ZXJzLAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSgkbm9kZXMpOwo=</text>
+      <register name="9" type="4">
+        <text>requestProfiles() {
+        this.profiles = [
+          {
+            name: 'foo',
+          },
+          {
+            name: 'bar',
+          },
+        ];
+      },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
