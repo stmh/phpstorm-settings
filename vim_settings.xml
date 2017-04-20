@@ -393,6 +393,11 @@
         <mark key="]" line="456" column="0" />
         <mark key="." line="456" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/zow_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1492719824919">
+        <mark key="[" line="86" column="82" />
+        <mark key="]" line="86" column="82" />
+        <mark key="." line="86" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1492075467007">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -650,11 +655,11 @@
       <jump line="40" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxybWhfY3ZfbG9hZF9tb3JlXD4=</text>
