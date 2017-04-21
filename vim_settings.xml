@@ -414,7 +414,6 @@
         <mark key="." line="22" column="154" />
         <mark key="^" line="22" column="154" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/pattern-lab/core/src/PatternLab/Config.php" timestamp="1492801440047" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/00-atoms/button/button.twig" timestamp="1492527701238">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="19" />
@@ -433,12 +432,11 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/pattern-lab/core/src/PatternLab/InstallerUtil.php" timestamp="1492806579770">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/pattern-lab/core/src/PatternLab/InstallerUtil.php" timestamp="1492807702811">
         <mark key="'" line="42" column="44" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="486" column="0" />
-        <mark key="." line="486" column="0" />
-        <mark key="^" line="42" column="44" />
+        <mark key="[" line="484" column="0" />
+        <mark key="]" line="484" column="0" />
+        <mark key="." line="484" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/header/header.js" timestamp="1491556606069">
         <mark key="[" line="9" column="2" />
@@ -595,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJICAJcHJpbnQgIj4+Pj4+PiIgLiAkZXhpc3RpbmdfcGF0aHNfcG9saWN5Owo=</text>
+        <text encoding="base64">CQkJICAgICRpbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>strtolower</text>
+        <text>return true;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4=</text>
@@ -607,37 +605,37 @@
         <text encoding="base64">eyUgaW5jbHVkZSAiQG9yZ2FuaXNtcy9mb290ZXIvZm9vdGVyLnR3aWciIHdpdGggeyAiZm9vdGVyX25hdmlnYXRpb24iOiBmb290ZXJfbmF2aWdhdGlvbiB9ICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJICAJcHJpbnQgIj4+Pj4+PiIgLiAkZXhpc3RpbmdfcGF0aHNfcG9saWN5Owo=</text>
+        <text encoding="base64">CQkJICAgICRpbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CQkJICAJcHJpbnQgIj4+Pj4+PiIgLiAkZXhpc3RpbmdfcGF0aHNfcG9saWN5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuSGNwV2VsY29tZVBvcHVwLWNvbnRlbnQgYnIgewo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAuSGNwV2VsY29tZVBvcHVwLWNvbnRlbnQgYnIgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LkhjcFdlbGNvbWVQb3B1cC1jb250ZW50IGJyIHsK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogbm9uZTsK</text>
+        <text encoding="base64">LkhjcFdlbGNvbWVQb3B1cC1jb250ZW50IGJyIHsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogMDsK</text>
+        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogbm9uZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -650,12 +648,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxybWhfY3Zfc2VhcmNoX2V4ZWN1dGVfc2VhcmNoXD4=</entry>
-        <entry>pager</entry>
         <entry>getTerms</entry>
         <entry>getName</entry>
         <entry>console.</entry>
