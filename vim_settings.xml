@@ -33,6 +33,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.css" timestamp="1492795103729">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/load-more.tpl.twig" timestamp="1492704468980">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -347,10 +353,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/hcp-welcome-popup/hcp-welcome-popup.css" timestamp="1492768691622">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/hcp-welcome-popup/hcp-welcome-popup.css" timestamp="1492795170516">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.module" timestamp="1492682891510">
         <mark key="'" line="171" column="15" />
@@ -395,10 +403,9 @@
         <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.css" timestamp="1492771372037">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1492769568527">
         <mark key="[" line="0" column="0" />
@@ -427,11 +434,11 @@
         <mark key="." line="3" column="106" />
         <mark key="^" line="3" column="159" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/hcp-welcome-popup/hcp-welcome-popup.twig" timestamp="1492768613270">
-        <mark key="[" line="19" column="72" />
-        <mark key="]" line="19" column="118" />
-        <mark key="." line="19" column="118" />
-        <mark key="^" line="22" column="107" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/hcp-welcome-popup/hcp-welcome-popup.twig" timestamp="1492794910869">
+        <mark key="[" line="19" column="91" />
+        <mark key="]" line="22" column="154" />
+        <mark key="." line="22" column="154" />
+        <mark key="^" line="22" column="154" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492595598214">
         <mark key="[" line="31" column="0" />
@@ -468,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.twig" />
       <jump line="49" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/index.js" />
@@ -568,13 +574,14 @@
       <jump line="77" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/button/button.css" />
       <jump line="36" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.module" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_utils/ph_backend_utils.module" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/hcp-welcome-popup/hcp-welcome-popup.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYW5hbmFfZGFzaGJvYXJkX2FkbWluXD4=</text>
@@ -583,44 +590,37 @@
         <text encoding="base64">eyUgaW5jbHVkZSAiQG9yZ2FuaXNtcy9mb290ZXIvZm9vdGVyLnR3aWciIHdpdGggeyAiZm9vdGVyX25hdmlnYXRpb24iOiBmb290ZXJfbmF2aWdhdGlvbiB9ICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgaG9va19lbnRpdHlfZXh0cmFfZmllbGRfaW5mbygpLgogKi8KZnVuY3Rpb24gcGhfYmFja2VuZF91dGlsc19lbnRpdHlfZXh0cmFfZmllbGRfaW5mbygpIHsKICAkZXh0cmEgPSBhcnJheSgpOwoKICBmb3JlYWNoIChOb2RlVHlwZTo6bG9hZE11bHRpcGxlKCkgYXMgJGJ1bmRsZSkgewogICAga2ludCgkYnVuZGxlKTsKICAgICRleHRyYVsnbm9kZSddWyRidW5kbGUtPklkKCldWydkaXNwbGF5J11bJ3ByZXZpZXdfbGluayddID0gYXJyYXkoCiAgICAgICdsYWJlbCcgPT4gdCgnUHJldmlldyBsaW5rIGluIGZyb250ZW5kJyksCiAgICAgICdkZXNjcmlwdGlvbicgPT4gdCgnUHJldmlldyBsaW5rIGluIGZyb250ZW5kJyksCiAgICAgICd3ZWlnaHQnID0+IDEwMCwKICAgICAgJ3Zpc2libGUnID0+IFRSVUUsCiAgICApOwogIH0KCiAgcmV0dXJuICRleHRyYTsKfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRidWlsZCk7Cg==</text>
+        <text encoding="base64">ICAuSGNwV2VsY29tZVBvcHVwLWNvbnRlbnQgYnIgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleGl0KCk7ZGRrCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBraW50KCR2aWV3X21vZGUpO2QK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LkhjcFdlbGNvbWVQb3B1cC1jb250ZW50IGJyIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>settings_form:
-  url: /admin/dashboard/settings
-  access arguments:
-    - access administration pages
-  variables:
-    rmh_cv_privacy_url:
-      &quot;#type&quot;: &quot;textfield&quot;
-      &quot;#name&quot;: &quot;Privacy URL for cookie banner&quot;,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogbm9uZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogMDsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogdmFyKC0tbGV0dGVyLXNwYWNpbmctY29uZGVuc2VkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
