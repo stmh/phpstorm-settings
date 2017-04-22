@@ -313,7 +313,7 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1491246112325">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1492863918223">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
@@ -361,6 +361,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamList.vue" timestamp="1492863972152">
+        <mark key="[" line="5" column="106" />
+        <mark key="]" line="5" column="119" />
+        <mark key="^" line="5" column="119" />
+        <mark key="." line="5" column="119" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Controller/ElasticSearchClient.php" timestamp="1492533117080">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -377,6 +383,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="^" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/workloads.js" timestamp="1492864962654">
+        <mark key="[" line="51" column="1" />
+        <mark key="]" line="51" column="1" />
+        <mark key="." line="51" column="1" />
+        <mark key="^" line="51" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1492802056145">
         <mark key="[" line="0" column="0" />
@@ -592,11 +604,11 @@
       <jump line="42" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/pattern-lab/core/src/PatternLab/InstallerUtil.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJICAgICRpbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>return true;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4=</text>
