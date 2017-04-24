@@ -343,6 +343,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-register.tpl.twig" timestamp="1493026339066">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/banana_dashboard/banana_dashboard.module" timestamp="1492769647869">
         <mark key="'" line="36" column="33" />
       </file>
@@ -492,11 +498,11 @@
         <mark key="." line="22" column="154" />
         <mark key="^" line="22" column="154" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1492595598214">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1493026493541">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="40" column="36" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/utils/index.css" timestamp="1492587589097">
         <mark key="[" line="14" column="0" />
@@ -630,10 +636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4=</text>
@@ -641,7 +647,13 @@
       <register name="0" type="4">
         <text encoding="base64">LCBwYXJhbXM6IHsgaWQ6IGN1cnJlbnRUZWFtSWR9IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICB7eyBkdW1wKGZvcm18a2V5cywgJ3ByaW50X3InKSB9fQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>watch: {
     // call again the method if the route changes
     $route(newValue) {
@@ -650,37 +662,31 @@
     },
   },</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBiZWZvcmVNb3VudCgpIHsKICAgIHRoaXMucmVxdWVzdFRlYW0odGhpcy4kcm91dGUucGFyYW1zLmlkKTsKICB9LA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGJlZm9yZU1vdW50KCkgewogICAgICB0aGlzLnJlcXVlc3RUZWFtKHRoaXMuJHJvdXRlLnBhcmFtcy5pZCk7CiAgICB9LA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>beforeMount() {
     this.requestTeams();
   },</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCk7Cg==</text>
+        <text encoding="base64">ZGQgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
