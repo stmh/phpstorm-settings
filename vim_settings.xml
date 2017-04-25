@@ -4,9 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/welcome-user/welcome-user.css" timestamp="1493110359696">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/README.md" timestamp="1491906877356">
@@ -198,11 +198,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_user_profile/rmh_cv_user_profile.module" timestamp="1493114860020">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/js/index.js" timestamp="1492703316647">
         <mark key="[" line="6230" column="4" />
         <mark key="]" line="6230" column="4" />
@@ -338,7 +333,13 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1493106294753" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1493116318506">
+        <mark key="'" line="368" column="75" />
+        <mark key="[" line="496" column="40" />
+        <mark key="]" line="497" column="2" />
+        <mark key="." line="497" column="2" />
+        <mark key="^" line="497" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-button/components-button.css" timestamp="1491235814796">
         <mark key="[" line="102" column="13" />
         <mark key="]" line="102" column="13" />
@@ -412,12 +413,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="44" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-edit.tpl.twig" timestamp="1493114745329">
-        <mark key="[" line="32" column="146" />
-        <mark key="]" line="32" column="146" />
-        <mark key="^" line="24" column="261" />
-        <mark key="." line="32" column="146" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.css" timestamp="1492006646775">
         <mark key="[" line="48" column="36" />
@@ -496,11 +491,6 @@
         <mark key="." line="22" column="118" />
         <mark key="^" line="22" column="118" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/form.inc" timestamp="1493114693708">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1493026493541">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="23" />
@@ -536,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="20" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="673" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -636,16 +625,17 @@
       <jump line="150" column="78" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="91" column="144" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
       <jump line="386" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="368" column="75" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRmb3JtKTsK</text>
+      <register name="&quot;" type="4">
+        <text>dsm</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text>dsm</text>
       </register>
       <register name="/" type="4">
-        <text>$user</text>
+        <text>rmh_cv_search_apachesolr_query_alter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHt7IGZvcm1bJ2FjY291bnQnXVsnbWFpbCddIH19Cg==</text>
@@ -688,9 +678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$user</last-search>
+      <last-search>rmh_cv_search_apachesolr_query_alter</last-search>
       <last-offset />
-      <last-pattern>$user</last-pattern>
+      <last-pattern>rmh_cv_search_apachesolr_query_alter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -720,6 +710,7 @@
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PGZyb250Pg==</entry>
         <entry>$user</entry>
+        <entry>rmh_cv_search_apachesolr_query_alter</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
