@@ -213,6 +213,12 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/03-organisms/navigation/navigation.twig" timestamp="1493225329372">
+        <mark key="[" line="26" column="144" />
+        <mark key="]" line="26" column="151" />
+        <mark key="^" line="26" column="100" />
+        <mark key="." line="26" column="144" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1492966866601">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
@@ -325,11 +331,10 @@
         <mark key="^" line="158" column="15" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_headline-banner.scss" timestamp="1493222436533">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_headline-banner.scss" timestamp="1493224591987">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1493202673088">
         <mark key="[" line="82" column="162" />
@@ -505,7 +510,7 @@
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493221613525">
+      <file name="/Dummy.txt" timestamp="1493224810834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/queries/profiles/phProfilesNoNid.js" timestamp="1492521153336">
@@ -680,8 +685,8 @@
       <jump line="287" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/zow_utils/zow_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=&quot;true&quot;</text>
       </register>
       <register name="-" type="4">
         <text>medium</text>
@@ -689,8 +694,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxob29rX3ZpZXdzX3ByZV9idWlsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEuODc1ZW0gMS4yNWVtOwo=</text>
+      <register name="0" type="4">
+        <text>=&quot;true&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -699,31 +704,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEuODc1ZW0gMS4yNWVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBicmVha3BvaW50KG1lZGl1bSkgewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBAaW5jbHVkZSBicmVha3BvaW50KGxhcmdlKSB7CiAgICBwYWRkaW5nOiAzLjEyNWVtIDEuMjVlbTsKICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEuODc1ZW0gMS4yNWVtOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBicmVha3BvaW50KHNtYWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEuODc1ZW0gMS4yNWVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAzLjEyNWVtIDEuMjVlbTsK</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBicmVha3BvaW50KG1lZGl1bSkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEuODc1ZW0gMS4yNWVtOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -772,7 +777,6 @@
         <entry>136</entry>
         <entry>1</entry>
         <entry>noh</entry>
-        <entry>W</entry>
         <entry>397</entry>
         <entry>442</entry>
         <entry>92</entry>
@@ -783,6 +787,7 @@
         <entry>161</entry>
         <entry>167</entry>
         <entry>W#:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
