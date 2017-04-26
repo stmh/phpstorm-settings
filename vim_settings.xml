@@ -117,6 +117,7 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="23" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/03-organisms/news-feed-overview/news-feed-overview.twig" timestamp="1493212020516" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1492597350586">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="31" />
@@ -390,6 +391,7 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="54" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/views/views-view-unformatted--latest-news.html.twig" timestamp="1493211975701" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493202629805">
         <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="11" />
@@ -429,11 +431,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="44" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/node.inc" timestamp="1493210884140">
-        <mark key="[" line="53" column="90" />
-        <mark key="]" line="53" column="90" />
-        <mark key="^" line="53" column="99" />
-        <mark key="." line="53" column="90" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/node.inc" timestamp="1493212170137">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/welcome-teaser/welcome-teaser.css" timestamp="1492006646775">
         <mark key="[" line="48" column="36" />
@@ -658,8 +660,8 @@
       <jump line="6" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>view_mode_teaser_news</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAga2ludCgkaW1hZ2UpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>view_mode_teaser_news</text>
@@ -671,37 +673,37 @@
         <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiByZW0tY2FsYyg4cHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2ludCgkdmFyc1snY29udGVudCddWydmaWVsZF90ZWFzZXJfaW1nJ10pOwo=</text>
+        <text encoding="base64">ICAgICAga2ludCgkaW1hZ2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBpbWFnZS5mYWN0b3J5IHNlcnZpY2Ugd2lsbCBjaGVjayBpZiBvdXIgaW1hZ2UgaXMgdmFsaWQuCg==</text>
+        <text encoding="base64">ICAgICAga2ludCgkdmFyc1snY29udGVudCddWydmaWVsZF90ZWFzZXJfaW1nJ10pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBpbWFnZS5mYWN0b3J5IHNlcnZpY2Ugd2lsbCBjaGVjayBpZiBvdXIgaW1hZ2UgaXMgdmFsaWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2xvZ28nID0+ICRsb2dvX2J1aWxkLAo=</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCg==</text>
+        <text encoding="base64">ICAgICAgJ2xvZ28nID0+ICRsb2dvX2J1aWxkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFJldHVybiB0aGUgcmVuZGVyIGFycmF5IGFzIGJsb2NrIGNvbnRlbnQuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtbW96LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFJldHVybiB0aGUgcmVuZGVyIGFycmF5IGFzIGJsb2NrIGNvbnRlbnQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
+        <text encoding="base64">ICAtbW96LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiByZW0tY2FsYygxNXB4KTsK</text>
+        <text encoding="base64">ICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
