@@ -2,36 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="kgslkhgfsa" type="PLAIN_TEXT" />
       <mapping pattern="ProfilePortalRowItem.php" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
-      <mapping pattern="Sconstruct" type="textmate" />
-      <mapping pattern="py3" type="textmate" />
-      <mapping pattern="pyw" type="textmate" />
-      <mapping pattern="rpy" type="textmate" />
-      <mapping pattern="SConstruct" type="textmate" />
-      <mapping pattern="SConscript" type="textmate" />
-      <mapping pattern="cpy" type="textmate" />
-      <mapping pattern="gyp" type="textmate" />
-      <mapping pattern="re" type="textmate" />
-      <mapping pattern="sconstruct" type="textmate" />
-      <mapping pattern="py" type="textmate" />
-      <mapping pattern="gypi" type="textmate" />
-      <mapping ext="rpy" type="textmate" />
-      <mapping ext="pyw" type="textmate" />
-      <mapping ext="py3" type="textmate" />
-      <mapping ext="sconstruct" type="textmate" />
-      <mapping ext="cpy" type="textmate" />
-      <mapping ext="re" type="textmate" />
-      <mapping ext="py" type="textmate" />
-      <mapping ext="gypi" type="textmate" />
-      <mapping ext="gyp" type="textmate" />
     </extensionMap>
   </component>
 </application>
