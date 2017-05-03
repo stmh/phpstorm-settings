@@ -294,11 +294,11 @@
         <mark key="^" line="45" column="34" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass-reset.tpl.twig" timestamp="1493804189020">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="4" column="45" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass-reset.tpl.twig" timestamp="1493819990607">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.css" timestamp="1492585816316">
         <mark key="[" line="10" column="30" />
@@ -515,10 +515,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1493812636913">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1493820011315">
+        <mark key="[" line="76" column="48" />
+        <mark key="]" line="76" column="48" />
+        <mark key="." line="76" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Profiles.vue" timestamp="1492513014399">
         <mark key="[" line="3" column="17" />
@@ -681,17 +681,17 @@
       <jump line="94" column="90" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR2YXJzWydzaWdudXBfcGFuZWxfY29udGVudCddID0gcm1oX2N2X3NwbGFzaF9zY3JlZW5zX2dldF9zaWdudXBfcGFuZWxfY29udGVudCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Reset password</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>Reset password</text>
       </register>
       <register name="/" type="4">
         <text>user-pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR2YXJzWydzaWdudXBfcGFuZWxfY29udGVudCddID0gcm1oX2N2X3NwbGFzaF9zY3JlZW5zX2dldF9zaWdudXBfcGFuZWxfY29udGVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2FjdGlvbnMnXVsnc3VibWl0J11bJyN2YWx1ZSddID0gdCgnUmVzZXQgcGFzc3dvcmQnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDsKICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwp9CgouUGFuZWwtaW5uZXIgewogIG1heC13aWR0aDogNDEuODc1ZW07CiAgbWFyZ2luOiAwIGF1dG87Cn0KCi5QYW5lbC1oZWFkbGluZSB7CiAgbWFyZ2luOiAwIDEuNWVtIC44NzVlbTsKfQoKLlBhbmVsLWhlYWRsaW5lOjpiZWZvcmUgewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICB3aWR0aDogMS45NTgzMzMzMzNlbTsKICBoZWlnaHQ6IC41ODMzMzMzMzNlbTsKICBtYXJnaW46IDAgLjVlbSAwIC0xLjk1ODMzMzMzM2VtOwogIGJhY2tncm91bmQ6IHVybCgiLi4vLi4vLi4vaW1hZ2VzL2N2L2hlbGl4LnBuZyIpIG5vLXJlcGVhdDsKICBiYWNrZ3JvdW5kLXNpemU6IDEwMCU7CiAgY29udGVudDogIiI7Cn0KCi5QYW5lbC1jb3B5IHsKICBjb2xvcjogI2ZmZjsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5QYW5lbC1pbnB1dCB7CiAgbWFyZ2luLXRvcDogMS4yNXJlbTsKfQoKLlBhbmVsLWlucHV0IC5mb3JtLXRleHQgewogIHBhZGRpbmctdG9wOiAuNWVtOwogIHBhZGRpbmctYm90dG9tOiAuNWVtOwp9CgouanMgLlBhbmVsIC5QYW5lbC1pbnB1dDpub3QoLmhhcy12YWx1ZSk6bm90KC5oYXMtZm9jdXMpIC5QYW5lbC1sYWJlbCB7CiAgdG9wOiAyLjcyNWVtOwp9CgouUGFuZWwgLmZvcm0tdHlwZS10ZXh0ZmllbGQgbGFiZWwgewogIGNvbG9yOiAjZmZmOwp9CgouUGFuZWwtYnV0dG9uIHsKICBkaXNwbGF5OiBibG9jazsKICBtYXJnaW46IDEuMjVyZW0gYXV0byAwOwp9CgpAbWVkaWEgKC0tc20tdmlld3BvcnQpIHsKICAuUGFuZWwgewogICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCIuLi8uLi8uLi9pbWFnZXMvY3Yvc2lnbnVwLXBhbmVsLXNtLmpwZyIpOwogIH0KfQoKQG1lZGlhICgtLW1kLWxnLXZpZXdwb3J0KSB7CiAgLlBhbmVsIHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgiLi4vLi4vLi4vaW1hZ2VzL2N2L3NpZ251cC1wYW5lbC1tZC1sZy5qcGciKTsKICB9CgogIC5QYW5lbC1pbm5lciB7CiAgICBwYWRkaW5nOiAxLjI1cmVtIDAgMS44NzVyZW07CiAgfQoKICAuUGFuZWwtaW5wdXQgewogICAgd2lkdGg6IGNhbGMoNTAlIC0gMXJlbSk7CiAgfQoKICAuUGFuZWwtaW5wdXQ6bnRoLWNoaWxkKG9kZCkgewogICAgZmxvYXQ6IGxlZnQ7CiAgfQoKICAuUGFuZWwtaW5wdXQ6bnRoLWNoaWxkKGV2ZW4pIHsKICAgIGZsb2F0OiByaWdodDsKICB9Cn0K</text>
