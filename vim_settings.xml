@@ -69,9 +69,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/fabfile.yaml" timestamp="1493219249016">
-        <mark key="^" line="53" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/welcome-user/welcome-user.twig" timestamp="1493110289506">
         <mark key="[" line="3" column="7" />
       </file>
@@ -200,8 +197,9 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1493385363462">
-        <mark key="'" line="378" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" timestamp="1493800469121">
+        <mark key="'" line="125" column="28" />
+        <mark key="[" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/two-columns/two-columns.twig" timestamp="1492588158059">
         <mark key="[" line="7" column="0" />
@@ -314,6 +312,12 @@
         <mark key="]" line="45" column="34" />
         <mark key="^" line="45" column="34" />
         <mark key="." line="45" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass-reset.tpl.twig" timestamp="1493800778204">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/resource-list/resource-list.css" timestamp="1492585816316">
         <mark key="[" line="10" column="30" />
@@ -536,6 +540,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493800769492">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1493800989284">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="78" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Profiles.vue" timestamp="1492513014399">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="17" />
@@ -595,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="173" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="177" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="638" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/includes/pager.inc" />
@@ -695,61 +710,62 @@
       <jump line="198" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="788" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="787" column="88" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="120" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKDApIHsKICAgICAgICBwcmludF9yKCRmb3JtKTsKICAgICAgICBleGl0KCk7CiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>$title</text>
+        <text>{{ 'Don’t worry. Fill in your email address below and we will help you reset your password.' | t }}</text>
       </register>
       <register name="/" type="4">
-        <text>menu(</text>
+        <text>user-pass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdhY2Nlc3MgY2FsbGJhY2snID0+ICd1c2VyX2FjY2VzcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3sgY29udGVudC5maWVsZF9jb250ZW50IH19Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKDApIHsKICAgICAgICBwcmludF9yKCRmb3JtKTsKICAgICAgICBleGl0KCk7CiAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAge3sgZm9ybS5uYW1lIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
+        <text encoding="base64">ICAgICAgPHNtYWxsIGNsYXNzPSJGb3JtLXJlcXVpcmVkSW5kaWNhdG9yIj57eyAnKmluZGljYXRlcyByZXF1aXJlZCBmaWVsZCcgfCB0IH19PC9zbWFsbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHslIGlmIGZpZWxkX3Nob3dfY29udGVudF9pbl9jYXJkWzBdWyd2YWx1ZSddICV9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoMCkgewogICAgICAgIHByaW50X3IoJGZvcm0pOwogICAgICAgIGV4aXQoKTsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZm9ybVsnYWN0aW9ucyddWydzdWJtaXQnXVsnI3ZhbHVlJ10gPSB0KCdSZXNldCBwYXNzd29yZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGlmIGZpZWxkX3N1YmxpbWVbMF1bJ3ZhbHVlJ10gaXMgbm90IGVtcHR5ICV9Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ25hbWUnXVsnI2F0dHJpYnV0ZXMnXVsncGxhY2Vob2xkZXInXSA9IHQoJ0VudGVyIFlvdXIgRW1haWwnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdhY2Nlc3MgY2FsbGJhY2snID0+IDEsCg==</text>
+        <text encoding="base64">ICAgICAge3sgY29udGVudC5maWVsZF9jb250ZW50IH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgIHslIGVuZGlmICV9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdhY2Nlc3MgY2FsbGJhY2snID0+IDEsCg==</text>
+        <text encoding="base64">ICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>menu(</last-search>
+      <last-search>user-pass</last-search>
       <last-offset />
-      <last-pattern>menu(</last-pattern>
+      <last-pattern>user-pass</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -778,6 +794,7 @@
         <entry>rmh_cv_search_error_page</entry>
         <entry>preprocess</entry>
         <entry>menu(</entry>
+        <entry>user-pass</entry>
       </history-search>
       <history-cmd>
         <entry>111</entry>
@@ -800,6 +817,7 @@
         <entry>1</entry>
         <entry>78</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
