@@ -75,6 +75,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/message-bar/message-bar.css" timestamp="1493990522454">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1492965849388">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -126,7 +132,7 @@
         <mark key="." line="685" column="21" />
         <mark key="^" line="685" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493890305917">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493990555146">
         <mark key="[" line="0" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.services.yml" timestamp="1493132241796">
@@ -473,6 +479,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493990631770">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_cta.scss" timestamp="1493209549059">
         <mark key="[" line="36" column="27" />
         <mark key="]" line="36" column="27" />
@@ -596,6 +608,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" timestamp="1493990667646">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1493915941244">
         <mark key="'" line="76" column="48" />
@@ -774,17 +792,17 @@
       <jump line="84" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/node.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>kint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkdGhlbWVzWydhcHBseV9mb3JtJ10gPSBbCiAgICAncmVuZGVyIGVsZW1lbnQnID0+ICdmb3JtJywKICAgICdwYXRoJyA9PiAkcGF0aCAuICcvdGVtcGxhdGVzL2Zvcm1zJywKICBdOwo=</text>
+        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgInVybCI6ICIjIiwK</text>
