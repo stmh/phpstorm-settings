@@ -58,10 +58,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/navigation/_navigation.scss" timestamp="1493996005860">
-        <mark key="[" line="193" column="0" />
-        <mark key="." line="192" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/flex-embed/flex-embed.css" timestamp="1491498421109">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -358,6 +354,13 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/block.inc" timestamp="1494238672269">
+        <mark key="'" line="60" column="31" />
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="46" />
+        <mark key="." line="55" column="46" />
+        <mark key="^" line="55" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/plugins/content_types/featured_content.inc" timestamp="1492072859604">
         <mark key="[" line="33" column="2" />
@@ -736,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" />
       <jump line="4" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Hello.vue" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
@@ -836,13 +838,14 @@
       <jump line="237" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="296" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="53" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/bpnmod/src/Form/ApplicationForm.php" />
+      <jump line="60" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/block.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Number</text>
+        <text>.'xxxx'</text>
       </register>
       <register name="-" type="4">
-        <text>Number</text>
+        <text>.'xxxx'</text>
       </register>
       <register name="/" type="4">
         <text>medium</text>
@@ -851,31 +854,31 @@
         <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJyNhdHRyaWJ1dGVzJyAgICAgPT4gYXJyYXkoJ2NsYXNzJyA9PiBhcnJheSgnbWVkaXVtLTEwJykpLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgJyNhdHRyaWJ1dGVzJyAgICAgPT4gYXJyYXkoJ2NsYXNzJyA9PiBhcnJheSgnbWVkaXVtLTEwJykpLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkZnVuY3Rpb25zWydzeXN0ZW1NZXNzYWdlcyddID0gbmV3IFR3aWdfU2ltcGxlRnVuY3Rpb24oJ3N5c3RlbU1lc3NhZ2VzJywgJ2RydXBhbF9nZXRfbWVzc2FnZXMnKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKSwK</text>
+        <text encoding="base64">ICAkZnVuY3Rpb25zWydzeXN0ZW1NZXNzYWdlcyddID0gbmV3IFR3aWdfU2ltcGxlRnVuY3Rpb24oJ3N5c3RlbU1lc3NhZ2VzJywgJ2RydXBhbF9nZXRfbWVzc2FnZXMnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrbGluazogbWVzc2FnZWJhcl9jb250ZW50LAo=</text>
+        <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYWNrbGluazogbWVzc2FnZWJhcl9jb250ZW50LAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
@@ -884,7 +887,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>134</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -942,10 +945,10 @@
         <entry>121</entry>
         <entry>w:w</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4xMzQ=</entry>
         <entry>99</entry>
         <entry>134</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
