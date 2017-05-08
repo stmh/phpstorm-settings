@@ -94,6 +94,13 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1494256864041">
+        <mark key="'" line="430" column="6" />
+        <mark key="[" line="433" column="5" />
+        <mark key="]" line="434" column="3" />
+        <mark key="^" line="434" column="3" />
+        <mark key="." line="434" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/config/staging/cors.settings.yml" timestamp="1491938592207">
         <mark key="[" line="1" column="85" />
         <mark key="]" line="1" column="83" />
@@ -477,11 +484,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PHProfilePortalSchemaProvider.php" timestamp="1492783643319">
         <mark key="[" line="134" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1491838799067">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1494256810071">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="66" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/App.vue" timestamp="1492963403591">
         <mark key="[" line="4" column="0" />
@@ -645,7 +652,7 @@
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494233794864">
+      <file name="/Dummy.txt" timestamp="1494256476707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/queries/profiles/phProfilesNoNid.js" timestamp="1492521153336">
@@ -739,7 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Hello.vue" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/store/index.js" />
@@ -839,64 +845,65 @@
       <jump line="296" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="53" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/bpnmod/src/Form/ApplicationForm.php" />
       <jump line="60" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/block.inc" />
+      <jump line="430" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.'xxxx'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRzbSgkcmVzdWx0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.'xxxx'</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>medium</text>
+        <text encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9zZXRfcHJvbWluZW5jZV9sZXZlbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRzbSgkcmVzdWx0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJyNhdHRyaWJ1dGVzJyAgICAgPT4gYXJyYXkoJ2NsYXNzJyA9PiBhcnJheSgnbWVkaXVtLTEwJykpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
+        <text encoding="base64">ICBkc20oJF9HRVQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgJyNhdHRyaWJ1dGVzJyAgICAgPT4gYXJyYXkoJ2NsYXNzJyA9PiBhcnJheSgnbWVkaXVtLTEwJykpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkZnVuY3Rpb25zWydzeXN0ZW1NZXNzYWdlcyddID0gbmV3IFR3aWdfU2ltcGxlRnVuY3Rpb24oJ3N5c3RlbU1lc3NhZ2VzJywgJ2RydXBhbF9nZXRfbWVzc2FnZXMnKTsK</text>
+        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKSwK</text>
+        <text encoding="base64">ICAgICdEcnVwYWxcYnBubW9kXEZvcm1cTXZzRmlsdGVyJyA9PiAnTVZTIEZpbHRlcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrbGluazogbWVzc2FnZWJhcl9jb250ZW50LAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkZnVuY3Rpb25zWydzeXN0ZW1NZXNzYWdlcyddID0gbmV3IFR3aWdfU2ltcGxlRnVuY3Rpb24oJ3N5c3RlbU1lc3NhZ2VzJywgJ2RydXBhbF9nZXRfbWVzc2FnZXMnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>806</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>medium</last-search>
+      <last-search encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9zZXRfcHJvbWluZW5jZV9sZXZlbFw+</last-search>
       <last-offset />
-      <last-pattern>medium</last-pattern>
+      <last-pattern encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9zZXRfcHJvbWluZW5jZV9sZXZlbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -924,6 +931,7 @@
         <entry>crm</entry>
         <entry>dzvier_utils_crm_response_validate</entry>
         <entry>medium</entry>
+        <entry encoding="base64">XDxfcm1oX2N2X3NlYXJjaF9zZXRfcHJvbWluZW5jZV9sZXZlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1tabNext</entry>
@@ -948,8 +956,8 @@
         <entry encoding="base64">JzwsJz4xMzQ=</entry>
         <entry>99</entry>
         <entry>134</entry>
-        <entry>w</entry>
         <entry>806</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
