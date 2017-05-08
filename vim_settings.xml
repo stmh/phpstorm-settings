@@ -79,6 +79,9 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1494228962165">
+        <mark key="'" line="296" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectList.vue" timestamp="1492965849388">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -275,6 +278,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1494228815445" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_deploy/zow_deploy.info.yml" timestamp="1493997507159">
         <mark key="[" line="8" column="0" />
       </file>
@@ -283,12 +287,6 @@
         <mark key="]" line="19" column="258" />
         <mark key="^" line="19" column="258" />
         <mark key="." line="19" column="258" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/.pre-commit-config.yaml" timestamp="1493200820057">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="53" />
-        <mark key="." line="30" column="53" />
-        <mark key="^" line="30" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_featured_content/rmh_cv_featured_content.module" timestamp="1492016277670">
         <mark key="[" line="79" column="3" />
@@ -612,6 +610,7 @@
       <file name="/PHP Console" timestamp="1493977194858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/frontend/lib/components/components-calculator/src/store.js" timestamp="1494228850858" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/TransitionHandler.php" timestamp="1493136213307">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
@@ -765,11 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" />
-      <jump line="392" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
-      <jump line="44" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
-      <jump line="88" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="46" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" />
       <jump line="64" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_elasticsearch/src/Utilities.php" />
       <jump line="4" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-apollo-store/src/components/Hello.vue" />
@@ -865,6 +859,11 @@
       <jump line="84" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/node.inc" />
       <jump line="30" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/layout/page.tpl.twig" />
       <jump line="390" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
+      <jump line="785" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="220" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="225" column="60" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="237" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="296" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -874,7 +873,7 @@
         <text>systemMessages || bac</text>
       </register>
       <register name="/" type="4">
-        <text>systemM</text>
+        <text>dzvier_utils_crm_response_validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKQo=</text>
@@ -919,13 +918,13 @@
       </register>
     </registers>
     <search>
-      <last-search>systemM</last-search>
+      <last-search>dzvier_utils_crm_response_validate</last-search>
       <last-offset />
-      <last-pattern>systemM</last-pattern>
+      <last-pattern>dzvier_utils_crm_response_validate</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -949,6 +948,8 @@
         <entry>kint</entry>
         <entry>drupal_set</entry>
         <entry>systemM</entry>
+        <entry>crm</entry>
+        <entry>dzvier_utils_crm_response_validate</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1tabNext</entry>
