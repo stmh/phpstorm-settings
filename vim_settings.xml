@@ -20,11 +20,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/fabfile.yaml" timestamp="1494439270615">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="33" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/fabfile.yaml" timestamp="1494440965617">
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.pages.inc" timestamp="1494402834138" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1493993339086">
@@ -77,12 +77,6 @@
         <mark key="]" line="434" column="3" />
         <mark key="^" line="434" column="3" />
         <mark key="." line="434" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1494257799077">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/paragraphs.inc" timestamp="1493970567666">
         <mark key="'" line="78" column="41" />
@@ -223,7 +217,7 @@
         <mark key="^" line="76" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/README.md" timestamp="1494435656911" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494434983723">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494440627427">
         <mark key="[" line="713" column="10" />
         <mark key="]" line="713" column="8" />
         <mark key="^" line="713" column="8" />
@@ -366,16 +360,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%host.rootFolder%/%arguments.file%</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>%host.rootFolder%/%arguments.file%</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAtIGVjaG8gIkpTT04gaXMgYXZhaWxhYmxlIGF0IGh0dHA6Ly9sb2NhbC1tYi1jYW1wYWlnbi1odWIuZGV2OjgxIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIGV4ZWN1dGUoZG9ja2VyLCByZWxvYWRfaGFwcm94eSkK</text>
