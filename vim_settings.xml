@@ -9,10 +9,22 @@
         <mark key="." line="757" column="23" />
         <mark key="^" line="757" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/docker-compose.yml" timestamp="1494435221391">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_headline-banner.scss" timestamp="1493224591987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/fabfile.yaml" timestamp="1494435924629">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.pages.inc" timestamp="1494402834138" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1493993339086">
@@ -34,6 +46,13 @@
         <mark key="[" line="2" column="138" />
         <mark key="]" line="2" column="138" />
         <mark key="." line="2" column="138" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" timestamp="1494434606711">
+        <mark key="'" line="131" column="20" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="131" column="11" />
+        <mark key="^" line="131" column="11" />
+        <mark key="." line="131" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/zow_utils/src/Form/OpenQuestions.php" timestamp="1493840132973">
         <mark key="[" line="30" column="0" />
@@ -133,6 +152,7 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/drupalconsole.py" timestamp="1494434425566" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/rmh-cv-user-profile-page.tpl.twig" timestamp="1493993732063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -165,7 +185,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494426384302">
+      <file name="/Dummy.txt" timestamp="1494434547707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
@@ -202,6 +222,13 @@
         <mark key="." line="76" column="55" />
         <mark key="^" line="76" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/README.md" timestamp="1494435656911" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494434983723">
+        <mark key="[" line="713" column="10" />
+        <mark key="]" line="713" column="8" />
+        <mark key="^" line="713" column="8" />
+        <mark key="." line="713" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/forms/application-form.html.twig" timestamp="1494234501726">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -221,6 +248,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/docker-compose-mbb.yml" timestamp="1494435583049">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass-reset.tpl.twig" timestamp="1493993739360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -231,12 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchSchemaProvider.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/custom/billing_utils/billing_utils.module" />
-      <jump line="89" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/custom/billing_utils/billing_utils.module" />
-      <jump line="91" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/custom/billing_utils/billing_utils.module" />
-      <jump line="111" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/custom/billing_utils/billing_utils.module" />
-      <jump line="235" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
       <jump line="56" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
       <jump line="234" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
@@ -331,65 +357,71 @@
       <jump line="357" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-overview.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-overview.tpl.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
+      <jump line="151" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
+      <jump line="46" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
+      <jump line="44" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
+      <jump line="48" column="49" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
+      <jump line="131" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/docker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>The changes have been saved.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>The changes have been saved.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzeXN0ZW1NZXNzYWdlczogc3lzdGVtTWVzc2FnZXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgc2F2ZV9zZWFyY2ggfX0K</text>
+        <text encoding="base64">ICAgICAgICAtIGV4ZWN1dGUoZG9ja2VyLCByZWxvYWRfaGFwcm94eSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgVkhPU1Q6ICRWSE9TVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgVlBPUlQ6IDgxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICBzdXBlcnZpc29yY3RsOiBGYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLyoqIFRoaXMgd2FzIGluIHRoZSBvbGQgYXBwbHktZm9ybSwgd2hpY2ggd2lsbCByZWRpcmVjdCB0byB0aGUgc2FtZSBwYWdlLCBzZXR0aW5nIGFuIHVyICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2t1cEZvbGRlcjogIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">e3sgc2F2ZV9zZWFyY2ggfX0K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -413,6 +445,8 @@
         <entry>im_field</entry>
         <entry>drupal_set</entry>
         <entry>try</entry>
+        <entry>waitForServices</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
