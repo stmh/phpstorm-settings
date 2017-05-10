@@ -11,6 +11,7 @@
       <mapping pattern="kgslkhgfsa" type="PLAIN_TEXT" />
       <mapping pattern="ProfilePortalRowItem.php" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
