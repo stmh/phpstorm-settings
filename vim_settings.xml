@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.admin.inc" timestamp="1494402932133">
+        <mark key="[" line="757" column="24" />
+        <mark key="]" line="757" column="23" />
+        <mark key="." line="757" column="23" />
+        <mark key="^" line="757" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_headline-banner.scss" timestamp="1493224591987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.pages.inc" timestamp="1494402834138" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1493993339086">
         <mark key="'" line="91" column="90" />
         <mark key="[" line="107" column="7" />
@@ -77,17 +84,16 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-overview.tpl.twig" timestamp="1494348826211">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="24" column="27" />
-        <mark key="." line="46" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493993748298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/block/block--form-block.html.twig" timestamp="1494336754235" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/menu.inc" timestamp="1493285266390">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -127,12 +133,6 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_overview.inc" timestamp="1494348677697">
-        <mark key="[" line="42" column="100" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="70" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/rmh-cv-user-profile-page.tpl.twig" timestamp="1493993732063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -159,13 +159,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_deploy/zow_deploy.info.yml" timestamp="1493997507159">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/rmh-cv-search-save-searches-form.tpl.twig" timestamp="1494348258453" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/views/views-infinite-scroll-pager.html.twig" timestamp="1493221336861">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494348259696">
+      <file name="/Dummy.txt" timestamp="1494402915722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
@@ -202,8 +201,6 @@
         <mark key="." line="76" column="55" />
         <mark key="^" line="76" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/bpnmod/src/Form/ApplicationForm.php" timestamp="1494336219530" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/plugins/content_types/rmh_cv_search_widget_save_searches_form.inc" timestamp="1494348536089" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/forms/application-form.html.twig" timestamp="1494234501726">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -335,11 +332,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/search/search-overview.tpl.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgc2F2ZV9zZWFyY2ggfX0K</text>
+      <register name="&quot;" type="4">
+        <text>The changes have been saved.</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>The changes have been saved.</text>
       </register>
       <register name="/" type="4">
         <text>try</text>
@@ -391,11 +388,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preprocess</entry>
         <entry>menu(</entry>
         <entry>user-pass</entry>
         <entry>merge</entry>
@@ -418,7 +414,6 @@
         <entry>try</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
         <entry>1</entry>
         <entry>78</entry>
         <entry>wq</entry>
