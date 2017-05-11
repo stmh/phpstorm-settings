@@ -152,6 +152,12 @@
       <file name="/PHP Console" timestamp="1494235471901">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1494509552142">
+        <mark key="[" line="177" column="43" />
+        <mark key="]" line="177" column="44" />
+        <mark key="." line="177" column="44" />
+        <mark key="^" line="177" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_deploy/zow_deploy.info.yml" timestamp="1493997507159">
         <mark key="[" line="8" column="0" />
       </file>
@@ -164,7 +170,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494490199774">
+      <file name="/Dummy.txt" timestamp="1494509532158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
@@ -322,11 +328,11 @@
       <jump line="3" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LkZpbHRlci1zcGlubmVyLmlzLWxvYWRpbmcgPiAqIHsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dW5kIA==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">dW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>sys.path.append</text>
@@ -428,6 +434,7 @@
         <entry>357</entry>
         <entry>65</entry>
         <entry>tabNext</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
