@@ -140,7 +140,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/dug-hh-fabalicious/index.html" timestamp="1494584226494" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/00-particles/utils/utils-shadow.css" timestamp="1492596690470">
         <mark key="[" line="2" column="33" />
       </file>
@@ -337,7 +336,7 @@
         <text encoding="base64">dW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>sys.path.append</text>
+        <text>xdebug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LkZpbHRlci1zcGlubmVyLmlzLWxvYWRpbmcgPiAqIHsK</text>
@@ -380,13 +379,13 @@
       </register>
     </registers>
     <search>
-      <last-search>sys.path.append</last-search>
+      <last-search>xdebug</last-search>
       <last-offset />
-      <last-pattern>sys.path.append</last-pattern>
+      <last-pattern>xdebug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -410,6 +409,7 @@
         <entry>reset</entry>
         <entry>get_all_con</entry>
         <entry>sys.path.append</entry>
+        <entry>xdebug</entry>
       </history-search>
       <history-cmd>
         <entry>78</entry>
