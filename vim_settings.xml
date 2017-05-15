@@ -194,11 +194,12 @@
         <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/README.md" timestamp="1494867614899" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494440627427">
-        <mark key="[" line="713" column="10" />
-        <mark key="]" line="713" column="8" />
-        <mark key="^" line="713" column="8" />
-        <mark key="." line="713" column="8" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494877184251">
+        <mark key="'" line="708" column="9" />
+        <mark key="[" line="758" column="31" />
+        <mark key="]" line="758" column="38" />
+        <mark key="^" line="758" column="38" />
+        <mark key="." line="758" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/forms/application-form.html.twig" timestamp="1494234501726">
         <mark key="[" line="4" column="0" />
@@ -231,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/01-atoms/rte/rte.css" />
       <jump line="109" column="97" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/_tools/fabalicious/lib/methods/files.py" />
       <jump line="4" column="104" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/_tools/fabalicious/lib/utils.py" />
       <jump line="171" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.module" />
@@ -331,6 +331,7 @@
       <jump line="459" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/configuration/__init__.py" />
       <jump line="3" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/fabfile.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" />
+      <jump line="708" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
