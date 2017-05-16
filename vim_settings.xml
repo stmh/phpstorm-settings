@@ -84,6 +84,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/fabfile.py" timestamp="1494445849943">
         <mark key="'" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/docker-compose-mbb-debug.yml" timestamp="1494951367871">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493993748298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -189,11 +195,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1494949235960">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="33" />
-        <mark key="^" line="73" column="33" />
-        <mark key="." line="73" column="33" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1494951356397">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
         <mark key="[" line="0" column="0" />
@@ -362,8 +368,8 @@
       <jump line="279" column="74" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/EntityOperations.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -375,40 +381,40 @@
         <text encoding="base64">ICAnbWItY2FtcGFpZ24taHViLmdyb3d1cC5jb20nID0+ICdkZWZhdWx0JywKICAnbG9jYWwtbWItY2FtcGFpZ24taHViLmdyb3d1cC5jb20nID0+ICdkZWZhdWx0JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NC4gZmFiIGNvbmZpZzptYmIgZG9ja2VyOnJlYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Mi4gQ2xvbmUgdGhlIGZyb250ZW5kIHJlcG8gaW50byBgbmdjYy1jYW1wYWlnbi1odWJgIHZpYSBgZ2l0IGNsb25lIC0tcmVjdXJzaXZlIGdpdEBnaXQucGl4ZWxwYXJrLmNvbTptYnZkL25nY2MtY2FtcGFpZ24taHViLWZyb250ZW5kLmdpdGAK</text>
+        <text encoding="base64">NC4gZmFiIGNvbmZpZzptYmIgZG9ja2VyOnJlYnVpbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm90Zm91bmQK</text>
+        <text encoding="base64">Mi4gQ2xvbmUgdGhlIGZyb250ZW5kIHJlcG8gaW50byBgbmdjYy1jYW1wYWlnbi1odWJgIHZpYSBgZ2l0IGNsb25lIC0tcmVjdXJzaXZlIGdpdEBnaXQucGl4ZWxwYXJrLmNvbTptYnZkL25nY2MtY2FtcGFpZ24taHViLWZyb250ZW5kLmdpdGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90Zm91bmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhlY3V0YWJsZXM6CiAgZHJ1c2g6ICJkb2NrZXIgZXhlYyAtdCBtYi1jYW1wYWlnbi1odWIgZHJ1c2ggLS1yb290PS92YXIvd3d3L2h0bWwvd2ViICIKICBjb21wb3NlcjogImRvY2tlciBleGVjIC10IG1iLWNhbXBhaWduLWh1YiBjb21wb3NlciAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgV2UgcnVuIGRlcGxveSBob29rIGFmdGVyIHlvdXIgYXBwbGljYXRpb24gaGFzIGJlZW4gZGVwbG95ZWQgYW5kIHN0YXJ0ZWQuCg==</text>
+        <text encoding="base64">ZXhlY3V0YWJsZXM6CiAgZHJ1c2g6ICJkb2NrZXIgZXhlYyAtdCBtYi1jYW1wYWlnbi1odWIgZHJ1c2ggLS1yb290PS92YXIvd3d3L2h0bWwvd2ViICIKICBjb21wb3NlcjogImRvY2tlciBleGVjIC10IG1iLWNhbXBhaWduLWh1YiBjb21wb3NlciAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZHJ1c2ggLXkgZW50dXAK</text>
+        <text encoding="base64">ICAgICMgV2UgcnVuIGRlcGxveSBob29rIGFmdGVyIHlvdXIgYXBwbGljYXRpb24gaGFzIGJlZW4gZGVwbG95ZWQgYW5kIHN0YXJ0ZWQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZHJ1c2ggLXkgdXBkYXRlZGIK</text>
+        <text encoding="base64">ICAgICAgZHJ1c2ggLXkgZW50dXAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZHJ1c2ggLXkgY2FjaGUtcmVidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgZHJ1c2ggLXkgdXBkYXRlZGIK</text>
       </register>
       <register name=":" type="4">
-        <text>184</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -463,9 +469,9 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>777</entry>
-        <entry>w</entry>
         <entry>184</entry>
         <entry>tabNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
