@@ -116,10 +116,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/EntityOperations.php" timestamp="1494946996759">
-        <mark key="'" line="279" column="74" />
-        <mark key="[" line="273" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/hero-image/hero-image.json" timestamp="1493828126605">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="5" />
@@ -135,6 +131,12 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/footer-navigation/footer-navigation.twig" timestamp="1495024692893">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/filter/filter.css" timestamp="1494490819064">
         <mark key="[" line="26" column="0" />
@@ -199,6 +201,18 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_deploy/zow_deploy.info.yml" timestamp="1493997507159">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/main-navigation/main-navigation.twig" timestamp="1495024312575">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" timestamp="1495024679323">
+        <mark key="[" line="75" column="3" />
+        <mark key="]" line="76" column="1" />
+        <mark key="." line="76" column="1" />
+        <mark key="^" line="76" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/_tools/fabalicious/lib/methods/drush.py" timestamp="1494442676001">
         <mark key="'" line="0" column="0" />
       </file>
@@ -234,6 +248,13 @@
       <file name="/fragment.php" timestamp="1494939731389">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1495024149219">
+        <mark key="'" line="254" column="44" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="144" column="3" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/bpnmod/src/Form/ApplicationForm.php" timestamp="1494337007065">
         <mark key="[" line="252" column="0" />
         <mark key="]" line="252" column="0" />
@@ -244,6 +265,12 @@
         <mark key="]" line="30" column="25" />
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/meta-navigation/meta-navigation.twig" timestamp="1495024549158">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" timestamp="1494877184251">
         <mark key="'" line="708" column="9" />
@@ -295,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="319" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="237" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="305" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
@@ -395,6 +421,7 @@
       <jump line="394" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="396" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="397" column="96" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="249" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -404,52 +431,52 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>welcome</text>
+        <text>form_alter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnbWItY2FtcGFpZ24taHViLmdyb3d1cC5jb20nID0+ICdkZWZhdWx0JywKICAnbG9jYWwtbWItY2FtcGFpZ24taHViLmdyb3d1cC5jb20nID0+ICdkZWZhdWx0JywK</text>
+        <text encoding="base64">ICAgICAgICAndHJhY2tLZXknID0+ICdTaWduX1VwX0xvZ0luJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLT5jb25kaXRpb24oJ2ZpZWxkX3RhZ3MuZW50aXR5Lm5hbWUnLCAnY2F0cycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLT5jb25kaXRpb24oJ3RpdGxlJywgJ2NhdCcsICdDT05UQUlOUycpCg==</text>
+        <text encoding="base64">ICBrcHIoJGl0ZW1zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NC4gZmFiIGNvbmZpZzptYmIgZG9ja2VyOnJlYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS10cmFjay1rZXk9IlNpZ25fVXBfTG9nSW4iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gQ2xvbmUgdGhlIGZyb250ZW5kIHJlcG8gaW50byBgbmdjYy1jYW1wYWlnbi1odWJgIHZpYSBgZ2l0IGNsb25lIC0tcmVjdXJzaXZlIGdpdEBnaXQucGl4ZWxwYXJrLmNvbTptYnZkL25nY2MtY2FtcGFpZ24taHViLWZyb250ZW5kLmdpdGAK</text>
+        <text encoding="base64">ICAgICAgICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm90Zm91bmQK</text>
+        <text encoding="base64">ICAgICAgICAgIHslIGlmIGlzX2xvZ2dlZF9pbiAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndHJhY2tLZXknID0+ICdMb2cgb3V0JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhlY3V0YWJsZXM6CiAgZHJ1c2g6ICJkb2NrZXIgZXhlYyAtdCBtYi1jYW1wYWlnbi1odWIgZHJ1c2ggLS1yb290PS92YXIvd3d3L2h0bWwvd2ViICIKICBjb21wb3NlcjogImRvY2tlciBleGVjIC10IG1iLWNhbXBhaWduLWh1YiBjb21wb3NlciAiCg==</text>
+        <text encoding="base64">ICAgIGRzbSgkZm9ybSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgV2UgcnVuIGRlcGxveSBob29rIGFmdGVyIHlvdXIgYXBwbGljYXRpb24gaGFzIGJlZW4gZGVwbG95ZWQgYW5kIHN0YXJ0ZWQuCg==</text>
+        <text encoding="base64">ICBkc20oJGZvcm1faWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>welcome</last-search>
+      <last-search>form_alter</last-search>
       <last-offset />
-      <last-pattern>welcome</last-pattern>
+      <last-pattern>form_alter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -478,6 +505,7 @@
         <entry>sys.path.append</entry>
         <entry>xdebug</entry>
         <entry>welcome</entry>
+        <entry>form_alter</entry>
       </history-search>
       <history-cmd>
         <entry>PlugInstall</entry>
