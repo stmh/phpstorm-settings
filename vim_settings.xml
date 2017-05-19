@@ -213,6 +213,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/layout/html.html.twig" timestamp="1495186286235">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495117555881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -416,8 +421,8 @@
       <jump line="77" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_deploy/rmh_deploy.install" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>php_mail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgRsO8Z2VuIFNpZSBkaWVzZW4gQ29kZSBhdcOfZXJkZW0gZGlyZWt0IG5hY2ggZGVtIGVyw7ZmZm5lbmRlbiA8Ym9keT4tVGFnIGVpbjoK</text>
       </register>
       <register name="-" type="4">
         <text>php_mail</text>
@@ -429,41 +434,41 @@
         <text encoding="base64">ICBwaF9iYWNrZW5kX2dyYXBocWwuc2NoZW1hX3Byb3ZpZGVyLnNlYXJjaDoKICAgIGNsYXNzOiBEcnVwYWxccGhfYmFja2VuZF9ncmFwaHFsXFNjaGVtYVByb3ZpZGVyXFBoU2VhcmNoU2NoZW1hUHJvdmlkZXIKICAgIGFyZ3VtZW50czogWydAZW50aXR5Lm1hbmFnZXInLCAnQHR5cGVkX2RhdGFfbWFuYWdlcicsICdAZ3JhcGhxbC50eXBlX3Jlc29sdmVyJywgJ0Btb2R1bGVfaGFuZGxlciddCiAgICB0YWdzOgogICAgICAtIHsgbmFtZTogZ3JhcGhxbF9zY2hlbWFfcHJvdmlkZXIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ3Jlc29sdmVEYXRhJyA9PiBbJ3R5cGUnID0+ICRrZXldLAo=</text>
+        <text encoding="base64">ICAgICAgRsO8Z2VuIFNpZSBkaWVzZW4gQ29kZSBhdcOfZXJkZW0gZGlyZWt0IG5hY2ggZGVtIGVyw7ZmZm5lbmRlbiA8Ym9keT4tVGFnIGVpbjoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgKG5vc2NyaXB0KSAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>$source, array $args = NULL, $root, GraphQLNode $field, $a, $b, $c, $data) {
-    $offset = isset($args['offset']) ? $args['offset'] : 0;
-    $limit = isset($args['limit']) ? $args['limit'] : NULL;
-    return self::getPhSearchImpl($args['query'], $offset, $limit);
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tIEVuZCBHb29nbGUgVGFnIE1hbmFnZXIgKG5vc2NyaXB0KSAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBiaV9wYXNzd29yZF9wb2xpY3lfZXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">ICAgICAgJ3Jlc29sdmVEYXRhJyA9PiBbJ3R5cGUnID0+ICRrZXldLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrcHIoJGl0ZW1zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
+      <register name="9" type="4">
+        <text>$source, array $args = NULL, $root, GraphQLNode $field, $a, $b, $c, $data) {
+    $offset = isset($args['offset']) ? $args['offset'] : 0;
+    $limit = isset($args['limit']) ? $args['limit'] : NULL;
+    return self::getPhSearchImpl($args['query'], $offset, $limit);
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -522,6 +527,7 @@
         <entry>86</entry>
         <entry>84</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
