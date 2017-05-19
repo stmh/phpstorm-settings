@@ -190,14 +190,14 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1495206489962">
+      <file name="/PHP Console" timestamp="1495207298886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/frontend.theme" timestamp="1495205738890">
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="6" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/frontend.theme" timestamp="1495207409081">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="26" />
         <mark key="^" line="44" column="6" />
-        <mark key="." line="44" column="6" />
+        <mark key="." line="38" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/pattern-lab/source/_patterns/02-organisms/calculator/calculator.twig" timestamp="1494574099999">
         <mark key="[" line="178" column="44" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//t('We will review your application and reply shortly');</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>//t('We will review your application and reply shortly');</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
