@@ -82,7 +82,6 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="38" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/core/lib/Drupal/Core/Form/FormStateInterface.php" timestamp="1495195843344" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_utils/zow_utils.routing.yml" timestamp="1494247194166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -104,19 +103,11 @@
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/core/lib/Drupal/Core/Routing/RedirectDestination.php" timestamp="1495204192455" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/docker-compose-mbb-debug.yml" timestamp="1494951367871">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493993748298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/core/lib/Drupal/Core/Form/FormSubmitter.php" timestamp="1495203454627" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/includes/menu.inc" timestamp="1493285266390">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -264,7 +255,6 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/bpnmod/src/Controller/BpnmodController.php" timestamp="1495196294840" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/meta-navigation/meta-navigation.twig" timestamp="1495024956764">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="40" />
@@ -488,12 +478,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kint</entry>
-        <entry>systemM</entry>
         <entry>crm</entry>
         <entry>dzvier_utils_crm_response_validate</entry>
         <entry>medium</entry>
@@ -516,7 +504,6 @@
         <entry>setRedirect</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>121</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz4xMzQ=</entry>
