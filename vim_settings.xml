@@ -175,11 +175,11 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495455352580">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495458598218">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="41" column="9" />
+        <mark key="^" line="41" column="9" />
+        <mark key="." line="41" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/firebase/index.js" timestamp="1495448250453">
         <mark key="[" line="3" column="15" />
@@ -456,11 +456,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4vdXRpbHMvZmlyZWJhc2UnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>projects</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text>projects</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
@@ -514,7 +514,7 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -540,8 +540,6 @@
         <entry>setRedirect</entry>
       </history-search>
       <history-cmd>
-        <entry>121</entry>
-        <entry>w:w</entry>
         <entry encoding="base64">JzwsJz4xMzQ=</entry>
         <entry>99</entry>
         <entry>134</entry>
@@ -561,6 +559,7 @@
         <entry>q</entry>
         <entry>tabNext</entry>
         <entry>W</entry>
+        <entry>21</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
