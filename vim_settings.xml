@@ -142,10 +142,11 @@
         <mark key="." line="458" column="14" />
         <mark key="^" line="458" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/projects.js" timestamp="1495462896980">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/projects.js" timestamp="1495465773455">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493993858285">
         <mark key="[" line="33" column="0" />
@@ -175,10 +176,11 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495461309642">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495465319654">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/firebase/index.js" timestamp="1495448250453">
         <mark key="[" line="3" column="15" />
@@ -201,7 +203,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1495460208444">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1495465514344">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="^" line="23" column="33" />
@@ -467,49 +469,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJQcm9qZWN0LWljb24iIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snNDh4NDgnXSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>contect</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnJvciA9PiBjb21taXQoU0VUX0VSUk9SLCBlcnJvcikpOwo=</text>
+      <register name="0" type="4">
+        <text>e().ref('maybes');
+      allowedRef.orderByChild('m</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJQcm9qZWN0LWljb24iIDpzcmM9InByb2plY3QuYXZhdGFyVXJsc1snNDh4NDgnXSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IEZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5wcm9qZWN0c1t0aGlzLiRyb3V0ZS5wYXJhbXMua2V5XTsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RQcm9qZWN0cyh7IGNvbW1pdCB9KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZS5wYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdCgpIHsK</text>
+      <register name="5" type="4">
+        <text>else {
+            email,
+            success: false,
+            message: `User ${email} is not allowed to log in`,
+          });</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQuY29tbWl0KCdDVVJSRU5UX1VTRVInLCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmVha19mZgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVnVlLnNldChzdGF0ZS5wcm9qZWN0cywgcHJvamVjdC5rZXksIHByb2plY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogdHJ1ZSwK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdHMuZm9yRWFjaChwID0+IFZ1ZS5zZXQodGhpcy5wcm9qZWN0cywgcC5rZXksIHApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
