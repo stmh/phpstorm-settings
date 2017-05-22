@@ -45,12 +45,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" timestamp="1495451088588">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" timestamp="1495457327814">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/assets/images/icons/twitter.svg" timestamp="1493978025885">
         <mark key="[" line="2" column="138" />
@@ -203,11 +202,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1495452399168">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="56" />
-        <mark key="." line="37" column="56" />
-        <mark key="^" line="37" column="56" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/index.js" timestamp="1495457701598">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.install" timestamp="1495371420843">
         <mark key="[" line="401" column="11" />
@@ -457,65 +456,65 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Out</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4vdXRpbHMvZmlyZWJhc2UnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Out</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtZC1idXR0b24gQGNsaWNrLm5hdGl2ZT0ibG9nT3V0IiB2LWlmPSJ1c2VyIj5Mb2cgT3V0PC9tZC1idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5jb21taXQoJ0NVUlJFTlRfVVNFUicsIGZhbHNlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>logout() {
-        fire
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4vdXRpbHMvZmlyZWJhc2UnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmNvbW1pdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IEZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VkSW4oKSB7IHJldHVybiBmYWxzZTsgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpOwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZWRJbjogJ2xvZ2dlZEluJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPG1kLVBsZWFzZSBsb2cgaW4uPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmRpc3BhdGNoKCdzZXRDdXJyZW50VXNlcicsIGZhbHNlKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtY2FyZC1jb250ZW50Pgo=</text>
+      <register name="8" type="4">
+        <text>logout() {
+        fire
+      }</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmNvbW1pdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
       <last-search>setRedirect</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>setRedirect</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -558,11 +557,11 @@
         <entry>86</entry>
         <entry>84</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
-        <entry>W</entry>
-        <entry>tabNext</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>tabNext</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
