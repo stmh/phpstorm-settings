@@ -71,6 +71,13 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectAddMaybeDialog.vue" timestamp="1495480282167">
+        <mark key="p" line="0" column="0" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="34" column="9" />
+        <mark key="." line="34" column="9" />
+        <mark key="^" line="34" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/db/index.js" timestamp="1495448089092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -176,12 +183,12 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495467075897">
-        <mark key="'" line="26" column="2" />
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="48" column="22" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495480322006">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="19" />
+        <mark key="." line="66" column="19" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/firebase/index.js" timestamp="1495448250453">
         <mark key="[" line="3" column="15" />
@@ -222,10 +229,10 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" timestamp="1495463470270">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" timestamp="1495479711883">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1495207298886">
         <mark key="[" line="0" column="0" />
@@ -470,54 +477,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
       </register>
-      <register name="0" type="4">
-        <text>e().ref('maybes');
-      allowedRef.orderByChild('m</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxwcm9qZWN0LWFkZC1tYXliZS1kaWFsb2cvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG5keCA+PSApCg==</text>
+        <text encoding="base64">ICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPG1kLWlucHV0LWNvbnRhaW5lcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3Byb2plY3QtYWRkLW1heWJlLWRpYWxvZyc6IFByb2plY3RBZGRNYXliZURpYWxvZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgUHJvamVjdEFkZE1heWJlRGlhbG9nIGZyb20gJy4vUHJvamVjdEFkZE1heWJlRGlhbG9nJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgPHByb2plY3QtYWRkLW1heWJlLWRpYWxvZy8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RQcm9qZWN0cyh7IGNvbW1pdCB9KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgPG1kLWJ1dHRvbiBAY2xpY2submF0aXZlPWNyZWF0ZU1heWJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgUHJvamVjdEFkZE1heWJlRGlhbG9nIGZyb20gIi4vUHJvamVjdEFkZE1heWJlRGlhbG9nIjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-            email,
-            success: false,
-            message: `User ${email} is not allowed to log in`,
-          });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxtZC1kaWFsb2ctdGl0bGU+Q3JlYXRlIGEgbmV3IG1heWJlPC9tZC1kaWFsb2ctdGl0bGU+CgogICAgPG1kLWRpYWxvZy1jb250ZW50PgogICAgICA8Zm9ybT4KICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyPgogICAgICAgICAgPGxhYmVsPktleTwvbGFiZWw+CiAgICAgICAgICA8bWQtaW5wdXQgdi1tb2RlbD0ibWF5YmUua2V5IiBwbGFjZWhvbGRlcj0iUGxlYXNlIGVudGVyIHRoZSBrZXkg4oCmIj48L21kLWlucHV0PgogICAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgogICAgICAgIDxtZC1pbnB1dC1jb250YWluZXI+CiAgICAgICAgICA8bGFiZWw+TmFtZTwvbGFiZWw+CiAgICAgICAgICA8bWQtaW5wdXQgdi1tb2RlbD0ibWF5YmUubmFtZSIgcGxhY2Vob2xkZXI9IlBsZWFzZSBlbnRlciBhIG5hbWUg4oCmIj48L21kLWlucHV0PgogICAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgogICAgICA8L2Zvcm0+CiAgICA8L21kLWRpYWxvZy1jb250ZW50PgoKICAgIDxtZC1kaWFsb2ctYWN0aW9ucz4KICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtcHJpbWFyeSIgQGNsaWNrLm5hdGl2ZT0iY2xvc2VEaWFsb2coJ2RpYWxvZzEnKSI+Q2FuY2VsPC9tZC1idXR0b24+CiAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXByaW1hcnkiIEBjbGljay5uYXRpdmU9InNhdmUoKSI+T2s8L21kLWJ1dHRvbj4KICAgIDwvbWQtZGlhbG9nLWFjdGlvbnM+CiAgPC9tZC1kaWFsb2c+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQuY29tbWl0KCdDVVJSRU5UX1VTRVInLCB7Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICBleHBvcnQgZGVmYXVsdCB7CiAgICAKICB9Owo8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -562,7 +564,6 @@
         <entry>806</entry>
         <entry>357</entry>
         <entry>65</entry>
-        <entry>e</entry>
         <entry>wq</entry>
         <entry>777</entry>
         <entry>184</entry>
@@ -575,9 +576,10 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>21</entry>
-        <entry>tabNext</entry>
         <entry>w:w</entry>
         <entry>0</entry>
+        <entry>e</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
