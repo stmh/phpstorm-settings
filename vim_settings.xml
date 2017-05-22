@@ -142,11 +142,11 @@
         <mark key="." line="458" column="14" />
         <mark key="^" line="458" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/projects.js" timestamp="1495465773455">
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-        <mark key="^" line="47" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/store/modules/projects.js" timestamp="1495467457313">
+        <mark key="[" line="50" column="79" />
+        <mark key="]" line="50" column="79" />
+        <mark key="." line="50" column="79" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493993858285">
         <mark key="[" line="33" column="0" />
@@ -176,11 +176,12 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495465319654">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" timestamp="1495467075897">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/firebase/index.js" timestamp="1495448250453">
         <mark key="[" line="3" column="15" />
@@ -366,8 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/gaia_patient_flow.module" />
-      <jump line="42" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/vendor/pattern-lab/core/src/PatternLab/InstallerUtil.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" />
       <jump line="150" column="78" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="91" column="144" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
@@ -466,13 +465,15 @@
       <jump line="260" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/bpnmod/src/Form/ApplicationForm.php" />
       <jump line="35" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/main.js" />
+      <jump line="41" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" />
+      <jump line="26" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>contect</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>setRedirect</text>
@@ -482,41 +483,41 @@
       allowedRef.orderByChild('m</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG5keCA+PSApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RQcm9qZWN0cyh7IGNvbW1pdCB9KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3RQcm9qZWN0cyh7IGNvbW1pdCB9KSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>else {
             email,
             success: false,
             message: `User ${email} is not allowed to log in`,
           });</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQuY29tbWl0KCdDVVJSRU5UX1VTRVInLCB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogdHJ1ZSwK</text>
-      </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQuY29tbWl0KCdDVVJSRU5UX1VTRVInLCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
