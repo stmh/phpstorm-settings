@@ -15,6 +15,11 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/welcome-user/welcome-user.css" timestamp="1495620256973">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1495111276511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,11 +346,11 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1495618300095">
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="58" column="10" />
-        <mark key="." line="58" column="10" />
-        <mark key="^" line="58" column="10" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/template.php" timestamp="1495620518052">
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="78" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/meta-navigation/meta-navigation.twig" timestamp="1495024956764">
         <mark key="[" line="8" column="39" />
@@ -506,8 +511,8 @@
       <jump line="107" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>kpr</text>
       </register>
       <register name="-" type="4">
         <text>kpr</text>
@@ -519,37 +524,37 @@
         <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgaG9va19wcmVwcm9jZXNzX3JtaF9jdl9zcGxhc2hfc2NyZWVuc193ZWxjb21lX3VzZXIoKS4KICovCmZ1bmN0aW9uIGN2aHViX2Zyb250ZW5kX3ByZXByb2Nlc3Nfcm1oX2N2X3NwbGFzaF9zY3JlZW5zX3dlbGNvbWVfdXNlcigmJHZhcmlhYmxlcykgewogICR2YXJpYWJsZXNbJ2hpZGVfb3V0cHV0J10gPSBybWhfY3Zfc2VhcmNoX3NldF9udW1fc2VhcmNoX3Jlc3VsdHMoKSA9PT0gMDsKICBwcmludF9yKCR2YXJpYWJsZXMpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKHJtaF9jdl9zZWFyY2hfc2V0X251bV9zZWFyY2hfcmVzdWx0cygpKTsK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAkdmFyc1sncGFnZSddID0gcmVuZGVyKCR2YXJzWydwYWdlJ10pOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHZhcnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgIGlmIG5vdCBoaWRlX291dHB1dCAlfQo=</text>
+        <text encoding="base64">ICBwcmludF9yKHJtaF9jdl9zZWFyY2hfc2V0X251bV9zZWFyY2hfcmVzdWx0cygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludF9yKCJiYW1tIik7Cg==</text>
+        <text encoding="base64">ICAkdmFyc1sncGFnZSddID0gcmVuZGVyKCR2YXJzWydwYWdlJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">eyUgIGlmIG5vdCBoaWRlX291dHB1dCAlfQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXMpOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCJiYW1tIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
