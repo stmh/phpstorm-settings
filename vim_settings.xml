@@ -116,6 +116,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-website/web/themes/custom/faw_frontend/faw_frontend.info.yml" timestamp="1495658894980">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.test" timestamp="1495621849258" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_forms.scss" timestamp="1493981572157">
         <mark key="[" line="86" column="13" />
@@ -156,12 +162,7 @@
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.install" timestamp="1495652330023">
-        <mark key="[" line="400" column="50" />
-        <mark key="]" line="400" column="71" />
-        <mark key="." line="400" column="71" />
-        <mark key="^" line="400" column="71" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.install" timestamp="1495652330023" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" timestamp="1495481724034">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -328,11 +329,11 @@
       <jump line="107" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBcRHJ1cGFsOjpzZXJ2aWNlKCdtb2R1bGVfaW5zdGFsbGVyJyktPmluc3RhbGwoWydjYW1wYWlnbl9odWJfYmFzZSddKTsK</text>
+      <register name="&quot;" type="4">
+        <text>MDW</text>
       </register>
       <register name="-" type="4">
-        <text>account']['mail</text>
+        <text>MDW</text>
       </register>
       <register name="/" type="4">
         <text>rmh_cv_splash_screens_welcome_user</text>
