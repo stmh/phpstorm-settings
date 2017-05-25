@@ -53,17 +53,13 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectAddMaybeDialog.vue" timestamp="1495483181666">
-        <mark key="p" line="0" column="0" />
-        <mark key="[" line="16" column="76" />
-        <mark key="]" line="16" column="76" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="16" column="76" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/db/index.js" timestamp="1495448089092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.services.yml" timestamp="1495660879475">
+        <mark key="'" line="37" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_utils/zow_utils.routing.yml" timestamp="1494247194166">
         <mark key="[" line="0" column="0" />
@@ -176,7 +172,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495629248336">
+      <file name="/Dummy.txt" timestamp="1495660940192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -225,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="78" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="91" column="144" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" />
       <jump line="386" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
       <jump line="368" column="75" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -325,6 +320,7 @@
       <jump line="41" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" />
       <jump line="26" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" />
       <jump line="107" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/theme.inc" />
+      <jump line="37" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.services.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -334,7 +330,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rmh_cv_splash_screens_welcome_user</text>
+        <text>serializer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBcRHJ1cGFsOjpzZXJ2aWNlKCdtb2R1bGVfaW5zdGFsbGVyJyktPmluc3RhbGwoWydjYW1wYWlnbl9odWJfYmFzZSddKTsK</text>
@@ -377,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rmh_cv_splash_screens_welcome_user</last-search>
+      <last-search>serializer</last-search>
       <last-offset />
-      <last-pattern>rmh_cv_splash_screens_welcome_user</last-pattern>
+      <last-pattern>serializer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -408,6 +404,8 @@
         <entry>setRedirect</entry>
         <entry>console</entry>
         <entry>rmh_cv_splash_screens_welcome_user</entry>
+        <entry>twig</entry>
+        <entry>serializer</entry>
       </history-search>
       <history-cmd>
         <entry>806</entry>
