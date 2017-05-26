@@ -110,6 +110,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.install" timestamp="1495808714425">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/TeamDetail.vue" timestamp="1495737340388" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/card-grid/card-grid.twig" timestamp="1494257799077">
         <mark key="[" line="6" column="45" />
@@ -160,6 +166,11 @@
         <mark key="]" line="37" column="25" />
         <mark key="." line="37" column="25" />
         <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_workflow/bmw_backend_workflow.module" timestamp="1495808397916">
+        <mark key="[" line="713" column="0" />
+        <mark key="]" line="713" column="0" />
+        <mark key="." line="713" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/App.vue" timestamp="1495460925536">
         <mark key="[" line="47" column="25" />
@@ -535,10 +546,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5jb21taXQoQUREX1BMQU5ORURfSVRFTSwgeyAuLi5pdGVtLCBrZXkgfSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gYm13X2JhY2tlbmRfd29ya2Zsb3dfdXBkYXRlXzcwMDEoKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>rows</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -547,37 +558,37 @@
         <text encoding="base64">ICAgICAgICBjb25zdCByZWYgPSBGaXJlYmFzZS5kYXRhYmFzZSgpLnJlZihgcGxhbm5lZC8ke2tleX0vJHtpdGVtLndoYXR9YCk7CiAgICAgICAgcmVmLnB1c2goKS5zZXQoaXRlbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5jb21taXQoQUREX1BMQU5ORURfSVRFTSwgeyAuLi5pdGVtLCBrZXkgfSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gYm13X2JhY2tlbmRfd29ya2Zsb3dfdXBkYXRlXzcwMDEoKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNuYXBzaG90LnZhbCgpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVnVlLnNldChzdGF0ZS5wbGFubmVkLCBrZXksIHJvd3MpOwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5LCByb3dzKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9QTEFOTkVEID0gJ1NFVF9QTEFOTkVEJzsK</text>
+        <text encoding="base64">ICAgIC0+cmFuZ2UoMCwgMTApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5jb21taXQoU0VUX1BMQU5ORUQsIHsga2V5LCByb3dzOiBbXSB9KTsK</text>
+        <text encoding="base64">ICAgICAgZHNtKCRub2RlLT5uaWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGtleSA9IAo=</text>
+        <text encoding="base64">ICAgIGRzbSgkbm9kZS0+bmlkKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aGVyZSBmcm9tX3N0YXRlPSJwdWJsaXNoZWQiIGFuZCBzdGF0ZT0iZHJhZnQiIGFuZCB1aWQ9MDsnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
