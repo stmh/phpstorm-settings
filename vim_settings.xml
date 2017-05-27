@@ -239,7 +239,7 @@
         <mark key="^" line="23" column="77" />
         <mark key="." line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1495899567959">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/index.js" timestamp="1495900117434">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -325,10 +325,11 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" timestamp="1495899321033">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" timestamp="1495900661235">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" timestamp="1495024947998">
         <mark key="[" line="100" column="15" />
@@ -346,11 +347,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/workloads.js" timestamp="1495745435850">
-        <mark key="[" line="75" column="43" />
-        <mark key="]" line="76" column="39" />
-        <mark key="^" line="76" column="39" />
-        <mark key="." line="76" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/allocations/workloads.js" timestamp="1495899973581">
+        <mark key="[" line="97" column="45" />
+        <mark key="]" line="101" column="58" />
+        <mark key="^" line="101" column="58" />
+        <mark key="." line="101" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1495738270189">
         <mark key="[" line="0" column="0" />
@@ -557,11 +558,11 @@
       <jump line="35" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectCreatePlanItemDialog.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>workingSecs</text>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>workingSecs</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -569,38 +570,38 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IERBWV9TRUNTIGZyb20gJy4uL2luZGV4JzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KTsKICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3cubmFtZSA9IHcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE1JTl9TRUNTIGZyb20gJy4uL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByb3cgPSBXZWVrUm93LmluaXRSb3coe30sIHdlZWtzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERBWV9TRUNTIGZyb20gJy4uL2luZGV4JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5rZXlzKHRlbXApLmZvckVhY2goKGtleSkgPT4gcmVzdWx0LnB1c2godGVtcFtrZXldKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZGRvdyA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IFtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWVyZ2UgZnJvbSAnbG9kYXNoLm1lcmdlJzsKaW1wb3J0IEhPVVJfU0VDUyBmcm9tICcuLi9pbmRleCc7Cgpjb25zdCBXZWVrUm93ID0gewoKICBpbml0V2Vla0NlbGwociwgZGF0ZSwgd29ya2luZ0hvdXJzKSB7CiAgICBjb25zdCByZXN1bHQgPSByOwogICAgY29uc3Qgd2Vla05yID0gZGF0ZS5pc29XZWVrKCk7CiAgICBpZiAocmVzdWx0W3dlZWtOcl0gPT09IHVuZGVmaW5lZCkgewogICAgICByZXN1bHRbd2Vla05yXSA9IHsKICAgICAgICB3b3JraW5nU2Vjb25kczogd29ya2luZ0hvdXJzICogSE9VUl9TRUNTLAogICAgICAgIGNvbW1pdG1lbnQ6IDAsCiAgICAgICAgYWxsb2NhdGlvbnM6IFtdLAogICAgICAgIHNlY29uZHM6IDAsCiAgICAgICAgY292ZXJhZ2U6IDAsCiAgICAgICAgZGF5czogewogICAgICAgICAgMTogeyBzZWNvbmRzOiAwLCBjb21taXRtZW50OiAwIH0sCiAgICAgICAgICAyOiB7IHNlY29uZHM6IDAsIGNvbW1pdG1lbnQ6IDAgfSwKICAgICAgICAgIDM6IHsgc2Vjb25kczogMCwgY29tbWl0bWVudDogMCB9LAogICAgICAgICAgNDogeyBzZWNvbmRzOiAwLCBjb21taXRtZW50OiAwIH0sCiAgICAgICAgICA1OiB7IHNlY29uZHM6IDAsIGNvbW1pdG1lbnQ6IDAgfSwKICAgICAgICAgIDY6IHsgc2Vjb25kczogMCwgY29tbWl0bWVudDogMCB9LAogICAgICAgICAgNzogeyBzZWNvbmRzOiAwLCBjb21taXRtZW50OiAwIH0sCiAgICAgICAgfSwKICAgICAgfTsKICAgIH0KICB9LAoKICBpbml0V2Vla0NlbGxzRm9yUmFuZ2Uociwgd2Vla3MsIHdvcmtpbmdIb3VycykgewogICAgT2JqZWN0LmtleXMod2Vla3MpLmZvckVhY2goKHdlZWtOcikgPT4gewogICAgICBjb25zdCB3ZWVrID0gd2Vla3Nbd2Vla05yXTsKICAgICAgV2Vla1Jvdy5pbml0V2Vla0NlbGwociwgd2Vlay5zdGFydERhdGUsIHdvcmtpbmdIb3Vycyk7CiAgICB9KTsKICB9LAoKICBpbml0Um93KHJvdywgd2Vla3MpIHsKICAgIGNvbnN0IHdlZWtzRGF0YSA9IHt9OwogICAgV2Vla1Jvdy5pbml0V2Vla0NlbGxzRm9yUmFuZ2Uod2Vla3NEYXRhLCB3ZWVrcywgMCk7CgogICAgcmV0dXJuIG1lcmdlKHJvdywgcm93LCB7CiAgICAgIHdlZWtzOiB3ZWVrc0RhdGEsCiAgICB9KTsKICB9LAp9OwoKZXhwb3J0IGRlZmF1bHQgV2Vla1JvdzsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IE1JTl9TRUNTIGZyb20gJy4uL2luZGV4JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
