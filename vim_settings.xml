@@ -84,17 +84,23 @@
         <mark key="]" line="74" column="65" />
         <mark key="." line="74" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" timestamp="1495739229370">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" timestamp="1495974563808">
         <mark key="'" line="47" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="26" column="150" />
+        <mark key="]" line="94" column="32" />
+        <mark key="^" line="94" column="32" />
+        <mark key="." line="94" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1495404217543">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectAddMaybeDialog.vue" timestamp="1495976292247">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+        <mark key="." line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/db/index.js" timestamp="1495448089092">
         <mark key="[" line="0" column="0" />
@@ -227,6 +233,12 @@
         <mark key="." line="22" column="60" />
         <mark key="^" line="22" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocatedTime.vue" timestamp="1495973112884">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_forms.scss" timestamp="1493981572157">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="13" />
@@ -294,12 +306,12 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" timestamp="1495903397980">
-        <mark key="d" line="15" column="35" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="8" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="62" column="8" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" timestamp="1495975333089">
+        <mark key="d" line="18" column="35" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="94" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/router/index.js" timestamp="1495460702507">
         <mark key="[" line="5" column="48" />
@@ -325,12 +337,12 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" timestamp="1495903200449">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" timestamp="1495976572386">
         <mark key="'" line="20" column="9" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
+        <mark key="[" line="65" column="67" />
+        <mark key="]" line="65" column="82" />
+        <mark key="^" line="65" column="82" />
+        <mark key="." line="65" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/includes/helper.inc" timestamp="1495024947998">
         <mark key="[" line="100" column="15" />
@@ -457,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="69" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
-      <jump line="161" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
       <jump line="164" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
       <jump line="17" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
       <jump line="97" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
@@ -557,13 +567,15 @@
       <jump line="15" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectCreatePlanItem.vue" />
       <jump line="35" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectCreatePlanItemDialog.vue" />
       <jump line="20" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" />
+      <jump line="97" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" />
+      <jump line="102" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Vue</text>
+        <text encoding="base64">c3VtUm93LnNlY29uZHMg</text>
       </register>
       <register name="-" type="4">
-        <text>Vue</text>
+        <text encoding="base64">c3VtUm93LnNlY29uZHMg</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -572,37 +584,38 @@
         <text encoding="base64">ICAgICAgICAgICAgYWRkUGxhbm5pbmdUb1dlZWsodGVtcFt3aGF0XSwgc2NoZW1lLCBkLCBzZWNzUGVyV29ya2luZ0RheSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
+        <text encoding="base64">ICAgICAgICByb3cubmFtZSA9IGAke2l0ZW0uaG91cnN9aCBpbiAke3dvcmtpbmdEYXlzfWRgOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IERBWV9TRUNTIGZyb20gJy4uL2luZGV4JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFdvcmtsb2FkcyBmcm9tICcuLi9hbGxvY2F0aW9ucy93b3JrbG9hZHMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3cubmFtZSA9IGAke2l0ZW0uaG91cnN9aCBpbiAke3dvcmtpbmdEYXlzfWRgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdvcmtpbmdTZWNzID0gREFZX1NFQ1MgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IGAke2l0ZW0gaG91cnN9aCBpbiAke3dvcmtpbmdkYXlzfWRgLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtID0gaXRlbXNbaWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucGxhbkl0ZW0gPSBPYmplY3QuYXNzaWduKHt9LCBpdGVtKTsgLy8gTWFrZSBhIGNvcHkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJlZnMucGxhbkl0ZW1EaWFsb2cub3BlbigpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+      <register name="9" type="4">
+        <text>;
+        this.$refs.planItemDialog.open(#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -650,7 +663,6 @@
         <entry>40</entry>
         <entry>86</entry>
         <entry>84</entry>
-        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>:w</entry>
         <entry>q</entry>
         <entry>21</entry>
@@ -660,9 +672,10 @@
         <entry>noh</entry>
         <entry>1</entry>
         <entry>W</entry>
-        <entry>tabNext</entry>
         <entry>13</entry>
         <entry>19</entry>
+        <entry>tabNext</entry>
+        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
