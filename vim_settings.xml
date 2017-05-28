@@ -84,12 +84,12 @@
         <mark key="]" line="74" column="65" />
         <mark key="." line="74" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" timestamp="1495981107262">
-        <mark key="'" line="53" column="7" />
-        <mark key="[" line="26" column="160" />
-        <mark key="]" line="100" column="32" />
-        <mark key="^" line="100" column="32" />
-        <mark key="." line="100" column="32" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" timestamp="1495981869564">
+        <mark key="'" line="33" column="54" />
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="33" column="65" />
+        <mark key="^" line="33" column="65" />
+        <mark key="." line="33" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1495404217543">
         <mark key="[" line="174" column="0" />
@@ -469,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient_flow/src/PatientStateChecker.php" />
       <jump line="407" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="170" column="84" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="6" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" />
@@ -569,22 +568,23 @@
       <jump line="102" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/ProjectDetail.vue" />
       <jump line="65" column="61" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" />
       <jump line="19" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" />
+      <jump line="33" column="54" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkV2Vlayk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
-      <register name="0" type="4">
-        <text>@keyup=&quot;handleKeyUp&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtb246bW91c2Vkb3duLm5hdGl2ZT0iaGFuZGxlTW91c2VEb3duKHJvdywgd2Vla051bWJlciwgJGV2ZW50KSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkV2Vlayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -593,28 +593,28 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkV2Vlayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkV2Vlayk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMud2Vla3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1bVJvdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMud2Vla3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN1bSA9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1bVJvdyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN1bSA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb3cubmFtZSA9IGAke2l0ZW0uaG91cnN9aCBpbiAke3dvcmtpbmdEYXlzfWRgOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3cubmFtZSA9IGAke2l0ZW0uaG91cnN9aCBpbiAke3dvcmtpbmdEYXlzfWRgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
