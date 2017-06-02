@@ -386,9 +386,9 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496417444438">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496419324406">
         <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="41" />
+        <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
@@ -591,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3N5c3RlbV9tZXNzYWdlcyddKTsK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>current_path</text>
       </register>
       <register name="/" type="4">
         <text>download</text>
@@ -603,37 +603,37 @@
         <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3N5c3RlbV9tZXNzYWdlcyddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKGFyZygwKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3Nob3dfbWVzc2FnZV9iYXInXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICdtZC1wcmltYXJ5JzogdHJ1ZSwK</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ2JhY2tsaW5rJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3N5c3RlbV9tZXNzYWdlcyddKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5oaWxpZ2h0ZWRSb3cgPT09IHJvdykgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wZW5EZWxldGVEaWFsb2cK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSIK</text>
+        <text encoding="base64">ICAgICAgICAgICdtZC1wcmltYXJ5JzogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
