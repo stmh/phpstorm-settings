@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/templates/layout/page.tpl.twig" timestamp="1496415962092" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/modules/user/user.admin.inc" timestamp="1494402932133">
         <mark key="[" line="757" column="24" />
         <mark key="]" line="757" column="23" />
@@ -105,9 +106,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.services.yml" timestamp="1495660879475">
-        <mark key="'" line="37" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/config.js" timestamp="1495445758735">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -157,6 +155,12 @@
         <mark key="]" line="55" column="5" />
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/node.inc" timestamp="1496416037760">
+        <mark key="[" line="122" column="16" />
+        <mark key="]" line="122" column="17" />
+        <mark key="^" line="122" column="43" />
+        <mark key="." line="122" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--misc-page.tpl.twig" timestamp="1493993748298">
         <mark key="[" line="0" column="0" />
@@ -218,6 +222,13 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1496416476946">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-website/web/themes/custom/faw_frontend/faw_frontend.info.yml" timestamp="1495658894980">
         <mark key="[" line="0" column="6" />
@@ -364,7 +375,7 @@
         <mark key="^" line="79" column="6" />
         <mark key="." line="79" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495738270189">
+      <file name="/Dummy.txt" timestamp="1496416083172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -375,6 +386,7 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496415978338" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -426,6 +438,12 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="83" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/download-link/download-link.twig" timestamp="1496416583236">
+        <mark key="[" line="0" column="167" />
+        <mark key="]" line="0" column="163" />
+        <mark key="^" line="0" column="163" />
+        <mark key="." line="0" column="163" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/sites/default/settings.platformsh.php" timestamp="1495184189086">
         <mark key="[" line="106" column="49" />
         <mark key="]" line="106" column="51" />
@@ -466,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="170" column="84" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="6" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/03-organisms/asset-detail/asset-detail.twig" />
       <jump line="287" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/modules/custom/zow_utils/zow_utils.module" />
@@ -566,19 +583,20 @@
       <jump line="65" column="61" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" />
       <jump line="19" column="36" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/planning/index.js" />
       <jump line="33" column="54" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/AllocationTable.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgJHZhcnNbJ2Rvd2Jsb2FkX2lzX2Rvd25sb2FkJ10gPSBUUlVFOwo=</text>
       </register>
       <register name="-" type="4">
         <text>item</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>download</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnJvd1RvRGVsZXRlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgJHZhcnNbJ2Rvd2Jsb2FkX2lzX2Rvd25sb2FkJ10gPSBUUlVFOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
@@ -618,17 +636,16 @@
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern>result</last-pattern>
+      <last-search>download</last-search>
+      <last-offset />
+      <last-pattern>download</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drupal_set</entry>
         <entry>waitForServices</entry>
         <entry>root</entry>
         <entry>reset</entry>
@@ -649,10 +666,9 @@
         <entry>serializer</entry>
         <entry>title</entry>
         <entry>result</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
-        <entry>wq</entry>
         <entry>777</entry>
         <entry>184</entry>
         <entry encoding="base64">JzwsJz40MA==</entry>
