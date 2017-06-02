@@ -386,7 +386,11 @@
         <mark key="." line="72" column="3" />
         <mark key="^" line="72" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496415978338" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496417444438">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-pass.tpl.twig" timestamp="1493993683524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -587,7 +591,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHZhcnNbJ2Rvd2Jsb2FkX2lzX2Rvd25sb2FkJ10gPSBUUlVFOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3N5c3RlbV9tZXNzYWdlcyddKTsK</text>
       </register>
       <register name="-" type="4">
         <text>item</text>
@@ -596,7 +600,7 @@
         <text>download</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJHZhcnNbJ2Rvd2Jsb2FkX2lzX2Rvd25sb2FkJ10gPSBUUlVFOwo=</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJpYWJsZXNbJ3N5c3RlbV9tZXNzYWdlcyddKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
