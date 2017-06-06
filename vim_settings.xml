@@ -58,12 +58,6 @@
         <mark key="]" line="74" column="65" />
         <mark key="." line="74" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/ngcc_custom.module" timestamp="1496769628349">
-        <mark key="[" line="527" column="14" />
-        <mark key="]" line="527" column="14" />
-        <mark key="^" line="527" column="15" />
-        <mark key="." line="527" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1495404217543">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
@@ -80,6 +74,7 @@
         <mark key="^" line="109" column="17" />
         <mark key="." line="109" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/local_page_include_tabVideo.json" timestamp="1496772434638" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/templates/field/paragraph/field--paragraph--field-tab-gallery-hotspots.html.twig" timestamp="1496758805207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -189,7 +184,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1496769371237">
+      <file name="/PHP Console" timestamp="1496772988051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" timestamp="1496769489614">
@@ -237,13 +232,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" timestamp="1496769255097">
-        <mark key="'" line="371" column="28" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="0" />
-        <mark key="^" line="528" column="36" />
-        <mark key="." line="387" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/testMethod.py" timestamp="1494446598367">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -251,11 +239,6 @@
       </file>
       <file name="/fragment.php" timestamp="1496756584495">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/settings.php" timestamp="1496759084948">
-        <mark key="[" line="762" column="0" />
-        <mark key="]" line="762" column="0" />
-        <mark key="." line="762" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" timestamp="1496760493013">
         <mark key="'" line="279" column="26" />
@@ -270,6 +253,12 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/field/paragraph/field--paragraph--field-video-gallery-teaser.html.twig" timestamp="1496772995344">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/templates/content/node.html.twig" timestamp="1496765763923">
         <mark key="[" line="15" column="0" />
@@ -405,11 +394,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/paragraphs/paragraph--tab-gallery-video.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>hotspots</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>hotspots</text>
       </register>
       <register name="/" type="4">
         <text>tab_video_g</text>
