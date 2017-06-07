@@ -122,6 +122,11 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_seven/ngcc_seven.theme.php" timestamp="1496829274076">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493993858285">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -192,14 +197,14 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1496828017578">
+      <file name="/PHP Console" timestamp="1496828770627">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" timestamp="1496779026955">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" timestamp="1496828956457">
         <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="/JavaScript Console" timestamp="1496756775455">
         <mark key="[" line="0" column="0" />
@@ -413,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>$query .=</text>
