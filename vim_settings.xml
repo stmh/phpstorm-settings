@@ -86,6 +86,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php" timestamp="1496917691531">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/htdocs/modules/custom/zow_utils/zow_utils.routing.yml" timestamp="1494247194166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -167,6 +172,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/Plugin/Validation/Constraint/ModerationStateConstraintValidator.php" timestamp="1496919764662">
+        <mark key="[" line="87" column="73" />
+        <mark key="]" line="87" column="73" />
+        <mark key="^" line="87" column="73" />
+        <mark key="." line="87" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_forms.scss" timestamp="1493981572157">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="13" />
@@ -211,6 +222,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/lib/Drupal/Core/Entity/ContentEntityBase.php" timestamp="1496919709689" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-website/web/themes/custom/faw_frontend/faw_frontend.theme" timestamp="1495659869685">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -222,7 +234,7 @@
         <mark key="." line="126" column="8" />
         <mark key="^" line="126" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1496858588612">
+      <file name="/PHP Console" timestamp="1496919801185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" timestamp="1496850480589">
@@ -301,10 +313,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php" timestamp="1496833262885">
-        <mark key="[" line="1089" column="5" />
-        <mark key="]" line="1090" column="18" />
-        <mark key="^" line="1090" column="18" />
-        <mark key="." line="1090" column="18" />
+        <mark key="[" line="1091" column="5" />
+        <mark key="]" line="1092" column="18" />
+        <mark key="^" line="1092" column="18" />
+        <mark key="." line="1092" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" timestamp="1496848172039">
         <mark key="'" line="289" column="26" />
@@ -479,50 +491,50 @@
       <jump line="290" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgZWxlbWVudHNbJ3ByZXZpZXdfZmxhZyddIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>markup</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>preview_flag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRxdWVyeSA9IHN0cl9yZXBsYWNlKCctJywgJyAnLCAkcXVlcnkpOwo=</text>
+        <text encoding="base64">eGRlYnVnX2JyZWFrKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgZWxlbWVudHNbJ3ByZXZpZXdfZmxhZyddIH19Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCEkdHJhbnNsYXRlZF9lbnRpdHkpIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGxhbmd1YWdlID0gJGVudGl0eS0+bGFuZ3VhZ2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gVXNlIExhbmd1YWdlIHNwZWNpZmljIHJldmlzaW9uIGZvciB0cmFuc2xhdGFibGUgY29udGVudC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHZhcmlhYmxlc1sncGFnZSddWydpbml0J10pOwo=</text>
+        <text encoding="base64">ICAgICAgJG9yaWdpbmFsX2VudGl0eSA9ICRvcmlnaW5hbF9lbnRpdHktPmdldFRyYW5zbGF0aW9uKCRsYW5ndWFnZS0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhazsK</text>
+        <text encoding="base64">e3sgZWxlbWVudHNbJ3ByZXZpZXdfZmxhZyddIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHZhcmlhYmxlc1sncGFnZSddWydpbml0J10pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -580,6 +592,7 @@
         <entry>124</entry>
         <entry>W</entry>
         <entry>noh</entry>
+        <entry>783</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
