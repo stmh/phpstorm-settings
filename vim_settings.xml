@@ -80,7 +80,6 @@
         <mark key="^" line="109" column="17" />
         <mark key="." line="109" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/local_page_include_tabVideo.json" timestamp="1496772434638" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/templates/field/paragraph/field--paragraph--field-tab-gallery-hotspots.html.twig" timestamp="1496758805207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,7 +179,6 @@
         <mark key="." line="79" column="10" />
         <mark key="^" line="79" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" timestamp="1496764316655" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1496825613625">
         <mark key="'" line="583" column="0" />
         <mark key="[" line="221" column="0" />
@@ -193,8 +191,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/paragraphs/paragraph--more-button-links-extended--full.html.twig" timestamp="1496767724580" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/paragraphs/paragraph.html.twig" timestamp="1496768455358" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/templates/ngcc-items.html.twig" timestamp="1496771556261">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -210,7 +206,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/sites.php" timestamp="1496847404578" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/profile/user-edit.tpl.twig" timestamp="1493993706189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -251,7 +246,6 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/contrib/entity_reference_revisions/src/Plugin/Field/FieldFormatter/EntityReferenceRevisionsEntityFormatter.php" timestamp="1496765268125" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/paragraphs/paragraph--tab-video-gallery.html.twig" timestamp="1496768496739">
         <mark key="]" line="16" column="14" />
         <mark key="^" line="16" column="14" />
@@ -306,7 +300,6 @@
       <file name="/fragment.php" timestamp="1496852620772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/lib/Drupal/Core/Routing/AccessAwareRouter.php" timestamp="1496852172477" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php" timestamp="1496833262885">
         <mark key="[" line="1089" column="5" />
         <mark key="]" line="1090" column="18" />
@@ -325,7 +318,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/templates/field/content_paragraph/field--field-local-page-content.html.twig" timestamp="1496762468628" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_splash_screens/plugins/content_types/welcome.inc" timestamp="1495616885771">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -373,8 +365,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" timestamp="1496859128044">
-        <mark key="'" line="278" column="34" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" timestamp="1496908060879">
+        <mark key="'" line="290" column="34" />
         <mark key="[" line="22" column="53" />
         <mark key="]" line="22" column="53" />
         <mark key="." line="22" column="53" />
@@ -547,21 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
-        <entry>get_all_con</entry>
-        <entry>sys.path.append</entry>
-        <entry>xdebug</entry>
-        <entry>welcome</entry>
-        <entry>form_alter</entry>
-        <entry>rmh_cv_user_profile</entry>
-        <entry>policy</entry>
-        <entry>$key</entry>
-        <entry>BpnSoap</entry>
-        <entry>try</entry>
-        <entry>setRedirect</entry>
-        <entry>console</entry>
-        <entry>rmh_cv_splash_screens_welcome_user</entry>
-        <entry>twig</entry>
         <entry>serializer</entry>
         <entry>title</entry>
         <entry>result</entry>
@@ -584,9 +561,6 @@
         <entry>preview_flag</entry>
       </history-search>
       <history-cmd>
-        <entry>777</entry>
-        <entry>184</entry>
-        <entry encoding="base64">JzwsJz40MA==</entry>
         <entry>40</entry>
         <entry>86</entry>
         <entry>84</entry>
