@@ -154,6 +154,12 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/ngcc_custom.install" timestamp="1497270351651">
+        <mark key="[" line="382" column="49" />
+        <mark key="]" line="382" column="48" />
+        <mark key="." line="382" column="48" />
+        <mark key="^" line="382" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" timestamp="1493993858285">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -486,11 +492,11 @@
       <jump line="290" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhkZGRlYnVnX2JyZWFrKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">WyJsYW5nY29kZSIgPT4gImVuIl0=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">WyJsYW5nY29kZSIgPT4gImVuIl0=</text>
       </register>
       <register name="/" type="4">
         <text>preview_flag</text>
@@ -532,7 +538,7 @@
         <text encoding="base64">ICAgICAgJG9yaWdpbmFsX2VudGl0eSA9ICRvcmlnaW5hbF9lbnRpdHktPmdldFRyYW5zbGF0aW9uKCRsYW5ndWFnZS0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -588,6 +594,7 @@
         <entry>noh</entry>
         <entry>783</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
