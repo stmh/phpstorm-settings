@@ -43,7 +43,6 @@
         <mark key="]" line="30" column="10" />
         <mark key="." line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/services.dev.yml" timestamp="1497631755140" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1495617516956">
         <mark key="[" line="818" column="0" />
         <mark key="]" line="818" column="0" />
@@ -189,6 +188,7 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/plugins/current_search/item_active_filters.inc" timestamp="1497967372901" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/utils/firebase/index.js" timestamp="1495448250453">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -304,6 +304,7 @@
       <file name="/fragment.php" timestamp="1497539057997">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/plugins/facetapi_widgets/rmh_cv_search_facet_links.inc" timestamp="1497967253473" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php" timestamp="1496833262885">
         <mark key="[" line="1083" column="5" />
         <mark key="]" line="1084" column="18" />
@@ -528,13 +529,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>serializer</entry>
-        <entry>title</entry>
-        <entry>result</entry>
         <entry>download</entry>
         <entry>signup</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
@@ -557,9 +555,6 @@
         <entry>ngcc_campaign_hub_fe_preprocess_field__paragraph__field_sfl_link</entry>
       </history-search>
       <history-cmd>
-        <entry>84</entry>
-        <entry>:w</entry>
-        <entry>q</entry>
         <entry>21</entry>
         <entry>0</entry>
         <entry>e</entry>
