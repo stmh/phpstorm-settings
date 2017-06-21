@@ -80,11 +80,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1496761162901">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="17" />
-        <mark key="^" line="109" column="17" />
-        <mark key="." line="109" column="17" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1498038562475">
+        <mark key="[" line="123" column="53" />
+        <mark key="]" line="124" column="17" />
+        <mark key="^" line="124" column="17" />
+        <mark key="." line="124" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/templates/field/paragraph/field--paragraph--field-tab-gallery-hotspots.html.twig" timestamp="1496758805207">
         <mark key="[" line="0" column="0" />
@@ -230,13 +230,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1496835424511">
-        <mark key="[" line="126" column="7" />
-        <mark key="]" line="126" column="8" />
-        <mark key="." line="126" column="8" />
-        <mark key="^" line="126" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1498038792926">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1497539624143">
+      <file name="/PHP Console" timestamp="1498038840077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1496756775455">
@@ -478,10 +477,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRkFMU0U7Cg==</text>
+        <text encoding="base64">ICAgICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>$paragraphIds</text>
       </register>
       <register name="/" type="4">
         <text>ngcc_campaign_hub_fe_preprocess_field__paragraph__field_sfl_link</text>
@@ -490,40 +489,40 @@
         <text encoding="base64">eGRlYnVnX2JyZWFrKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRkFMU0U7Cg==</text>
+        <text encoding="base64">ICAgICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRpdGVtQ29udGVudFsnZHRtQW5hbHl0aWNzTGlua0RhdGEnXSA9ICBuZXcgRHRtQW5hbHl0aWNzTGlua0RhdGEoJGxpbmtOYW1lKTsK</text>
+        <text encoding="base64">ICAgeGRlYnVnX2JyZWFrKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRkFMU0U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgICRpdGVtQ29udGVudFsnZHRtQW5hbHl0aWNzTGlua0RhdGEnXSA9ICBuZXcgRHRtQW5hbHl0aWNzTGlua0RhdGEoJGxpbmtOYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBTdG9yZSBjdXJyZW50IHF1ZXJ5IHBhcmVtZXRlcnMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAdmFyIGFueQo=</text>
+        <text encoding="base64">ICAgKiBTdG9yZSBjdXJyZW50IHF1ZXJ5IHBhcmVtZXRlcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgJHF1ZXJ5UGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgKiBAdmFyIGFueQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -577,8 +576,8 @@
         <entry>59</entry>
         <entry>noh</entry>
         <entry>247</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
