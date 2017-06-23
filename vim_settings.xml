@@ -251,7 +251,6 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_utils/rmh_utils.module" timestamp="1498059048748" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/views/views-infinite-scroll-pager.html.twig" timestamp="1493221336861">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="6" column="0" />
@@ -324,6 +323,12 @@
         <mark key="]" line="1084" column="18" />
         <mark key="^" line="1084" column="18" />
         <mark key="." line="1084" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" timestamp="1498216966428">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/forms/application-form.html.twig" timestamp="1494234501726">
         <mark key="[" line="4" column="0" />
@@ -543,12 +548,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>download</entry>
-        <entry>signup</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry>tab_video_</entry>
         <entry>preprocess</entry>
