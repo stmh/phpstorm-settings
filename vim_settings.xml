@@ -19,6 +19,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" timestamp="1498228958035">
+        <mark key="'" line="4" column="48" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/graphql/src/SchemaProvider/EntitySchemaProvider.php" timestamp="1495119401834">
         <mark key="[" line="162" column="77" />
         <mark key="]" line="162" column="77" />
@@ -79,6 +86,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.twig" timestamp="1498229069695">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1498038562475">
         <mark key="[" line="123" column="53" />
@@ -229,11 +242,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/public/index.js" timestamp="1498225090204">
-        <mark key="[" line="2" column="89" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="3" column="54" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/public/index.js" timestamp="1498228701624">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-website/web/themes/custom/faw_frontend/faw_frontend.theme" timestamp="1495659869685">
         <mark key="[" line="59" column="0" />
@@ -336,6 +349,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/index.js" timestamp="1498228711221">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/templates/forms/application-form.html.twig" timestamp="1494234501726">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -396,38 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-planning/src/components/Projects.vue" />
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/templates/node/node--asset.tpl.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" />
-      <jump line="13" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" />
-      <jump line="406" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" />
-      <jump line="279" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="605" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" />
-      <jump line="355" column="95" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" />
-      <jump line="357" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" />
-      <jump line="371" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/paragraphs/paragraph--tab-gallery-video.html.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="79" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="6" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="145" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="146" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="150" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="163" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="164" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="165" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="172" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="173" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="179" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="180" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="202" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="223" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="232" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="233" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="234" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="241" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="243" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
-      <jump line="263" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
       <jump line="28" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="78" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="111" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -496,65 +483,97 @@
       <jump line="164" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="161" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="163" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="58" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="59" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="66" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="73" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="74" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="81" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="82" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="88" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="89" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="95" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="96" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="103" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="104" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="112" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="113" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="117" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="119" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="121" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="128" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="129" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="130" column="122" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="136" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="137" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="145" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="146" column="97" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="151" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="152" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="159" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="160" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
+      <jump line="4" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8039</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ianMtTWFwIE1hcC1tYXAiPjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>8039</text>
+        <text>9.9255298</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text encoding="base64">Jywg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eGRlYnVnX2JyZWFrKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBQcm92aWRlIE5HQ0MgbWVudSBibG9jayBwYWdlIGJlbG93IENvbmZpZ3VyYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ianMtTWFwIE1hcC1tYXAiPjwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqcy1NYXAiIHN0eWxlPSJ3aWR0aDogMTAwJTsgaGVpZ2h0OiA0MDBweCI+PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiB0KCdBY2Nlc3MgYXNzZXRzIHdoaWNoIGFyZSByZXN0cmljdGVkJyksCg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgcXVvdGUtcHJvcHMsY29tbWEtZGFuZ2xlICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3RpdGxlJyA9PiB0KCdWaWV3IHJlc3RyaWN0ZWQgY29udGVudCcpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwID0gbmV3IEdNYXAoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICd2aWV3IHJlc3RyaWN0ZWQgY29udGVudCcgPT4gYXJyYXkoCg==</text>
+        <text encoding="base64">Y2xhc3MgR01hcCB7CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLm1hcE9wdGlvbnMgPSB7CiAgICAgIHpvb206IDExLAogICAgICBjZW50ZXI6IG5ldyBHb29nbGUubWFwcy5MYXRMbmcoNDAuNjcwMCwgLTczLjk0MDApLCBOZXcgWW9yawogICAgICBzdHlsZXM6IFsgeyAiZmVhdHVyZVR5cGUiOiAiYWxsIiwgImVsZW1lbnRUeXBlIjogImxhYmVscy50ZXh0LmZpbGwiLCAic3R5bGVycyI6IFsgeyAic2F0dXJhdGlvbiI6IDM2IH0sIHsgImNvbG9yIjogIiMzMzMzMzMiIH0sIHsgImxpZ2h0bmVzcyI6IDQwIH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJhbGwiLCAiZWxlbWVudFR5cGUiOiAibGFiZWxzLnRleHQuc3Ryb2tlIiwgInN0eWxlcnMiOiBbIHsgInZpc2liaWxpdHkiOiAib24iIH0sIHsgImNvbG9yIjogIiNmZmZmZmYiIH0sIHsgImxpZ2h0bmVzcyI6IDE2IH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJhbGwiLCAiZWxlbWVudFR5cGUiOiAibGFiZWxzLmljb24iLCAic3R5bGVycyI6IFsgeyAidmlzaWJpbGl0eSI6ICJvZmYiIH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJhZG1pbmlzdHJhdGl2ZSIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeS5maWxsIiwgInN0eWxlcnMiOiBbIHsgImNvbG9yIjogIiNmZWZlZmUiIH0sIHsgImxpZ2h0bmVzcyI6IDIwIH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJhZG1pbmlzdHJhdGl2ZSIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeS5zdHJva2UiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiI2ZlZmVmZSIgfSwgeyAibGlnaHRuZXNzIjogMTcgfSwgeyAid2VpZ2h0IjogMS4yIH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJsYW5kc2NhcGUiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiI2Y1ZjVmNSIgfSwgeyAibGlnaHRuZXNzIjogMjAgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInBvaSIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeSIsICJzdHlsZXJzIjogWyB7ICJjb2xvciI6ICIjZjVmNWY1IiB9LCB7ICJsaWdodG5lc3MiOiAyMSB9IF0gfSwgeyAiZmVhdHVyZVR5cGUiOiAicG9pLnBhcmsiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiI2RlZGVkZSIgfSwgeyAibGlnaHRuZXNzIjogMjEgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInJvYWQiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkuZmlsbCIsICJzdHlsZXJzIjogWyB7ICJ2aXNpYmlsaXR5IjogIm9uIiB9IF0gfSwgeyAiZmVhdHVyZVR5cGUiOiAicm9hZCIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeS5zdHJva2UiLCAic3R5bGVycyI6IFsgeyAidmlzaWJpbGl0eSI6ICJvbiIgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInJvYWQuaGlnaHdheSIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeS5maWxsIiwgInN0eWxlcnMiOiBbIHsgImNvbG9yIjogIiMxNTFmNDQiIH0sIHsgImxpZ2h0bmVzcyI6IDE3IH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJyb2FkLmhpZ2h3YXkiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkuc3Ryb2tlIiwgInN0eWxlcnMiOiBbIHsgImNvbG9yIjogIiNmZmZmZmYiIH0sIHsgImxpZ2h0bmVzcyI6IDI5IH0sIHsgIndlaWdodCI6IDAuMiB9IF0gfSwgeyAiZmVhdHVyZVR5cGUiOiAicm9hZC5oaWdod2F5LmNvbnRyb2xsZWRfYWNjZXNzIiwgImVsZW1lbnRUeXBlIjogImdlb21ldHJ5LmZpbGwiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiI2NjMjEyMSIgfSwgeyAidmlzaWJpbGl0eSI6ICJvbiIgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInJvYWQuYXJ0ZXJpYWwiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiIzE1MWY0NCIgfSwgeyAibGlnaHRuZXNzIjogMTggfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInJvYWQubG9jYWwiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiIzE1MWY0NCIgfSwgeyAibGlnaHRuZXNzIjogMTYgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogInRyYW5zaXQiLCAiZWxlbWVudFR5cGUiOiAiZ2VvbWV0cnkiLCAic3R5bGVycyI6IFsgeyAiY29sb3IiOiAiI2YyZjJmMiIgfSwgeyAibGlnaHRuZXNzIjogMTkgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogIndhdGVyIiwgImVsZW1lbnRUeXBlIjogImFsbCIsICJzdHlsZXJzIjogWyB7ICJodWUiOiAiIzAwMzlmZiIgfSBdIH0sIHsgImZlYXR1cmVUeXBlIjogIndhdGVyIiwgImVsZW1lbnRUeXBlIjogImdlb21ldHJ5IiwgInN0eWxlcnMiOiBbIHsgImNvbG9yIjogIiMwMDk0ZmYiIH0sIHsgImxpZ2h0bmVzcyI6IDE3IH0gXSB9LCB7ICJmZWF0dXJlVHlwZSI6ICJ3YXRlciIsICJlbGVtZW50VHlwZSI6ICJnZW9tZXRyeS5maWxsIiwgInN0eWxlcnMiOiBbIHsgInZpc2liaWxpdHkiOiAib24iIH0sIHsgIndlaWdodCI6ICIwLjAxIiB9IF0gfSBdCiAgICB9OwogICAgdGhpcy5tYXBFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2pzLU1hcCcpOwogICAgaWYgKHRoaXMubWFwRWxlbWVudC5sZW5ndGgpIHsKICAgICAgdGhpcy5pbml0aWFsaXplKCk7CiAgICB9CiAgfQoKICBpbml0aWFsaXplKCkgewoKICAgIHRoaXMubWFwID0gbmV3IEdvb2dsZS5tYXBzLk1hcCh0aGlzLm1hcEVsZW1lbnQsIHRoaXMubWFwT3B0aW9ucyk7CiAgICB0aGlzLm1hcmtlciA9IG5ldyBHb29nbGUubWFwcy5NYXJrZXIoewogICAgICBwb3NpdGlvbjogbmV3IEdvb2dsZS5tYXBzLkxhdExuZyg0MC42NzAwLCAtNzMuOTQwMCksCiAgICAgIG1hcDogdGhpcy5tYXAsCiAgICAgIGljb246ICdwaW5fYW5jaG9yLnN2ZycsCiAgICB9KTsKICB9Cn0KZXhwb3J0IGRlZmF1bHQgR01hcDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB4ZGVidWdfYnJlYWsoKTsK</text>
+        <text encoding="base64">IyBQcm92aWRlIE5HQ0MgbWVudSBibG9jayBwYWdlIGJlbG93IENvbmZpZ3VyYXRpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgeGRlYnVnX2JyZWFrKCk7Cg==</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRkFMU0U7Cg==</text>
+        <text encoding="base64">ICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiB0KCdBY2Nlc3MgYXNzZXRzIHdoaWNoIGFyZSByZXN0cmljdGVkJyksCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRpdGVtQ29udGVudFsnZHRtQW5hbHl0aWNzTGlua0RhdGEnXSA9ICBuZXcgRHRtQW5hbHl0aWNzTGlua0RhdGEoJGxpbmtOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgJ3RpdGxlJyA9PiB0KCdWaWV3IHJlc3RyaWN0ZWQgY29udGVudCcpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search encoding="base64">Jywg</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern encoding="base64">Jywg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -578,10 +597,10 @@
         <entry>ngcc_campaign_hub_fe_preprocess_field__paragraph__field_sfl_link</entry>
         <entry>permission</entry>
         <entry>view</entry>
+        <entry encoding="base64">Jywg</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
-        <entry>0</entry>
         <entry>e</entry>
         <entry>1</entry>
         <entry>13</entry>
@@ -599,6 +618,7 @@
         <entry>noh</entry>
         <entry>247</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
