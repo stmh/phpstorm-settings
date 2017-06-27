@@ -176,17 +176,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" timestamp="1498492116236">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="64" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/default/settings.php" timestamp="1498469622796">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="764" column="0" />
-        <mark key="]" line="764" column="0" />
-        <mark key="." line="764" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" timestamp="1498568254640">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="40" column="8" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/contrib/paragraphs/src/ParagraphViewBuilder.php" timestamp="1497537732068">
         <mark key="[" line="19" column="0" />
@@ -338,6 +332,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" timestamp="1498567953859">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/services.yml" timestamp="1498036310747">
         <mark key="[" line="175" column="2" />
@@ -605,11 +605,11 @@
       <jump line="10" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/cover/cover.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGZvb3RlciByb2xlPSJjb250ZW50aW5mbyI+CiAgICAgIHt7IHBhZ2UuZm9vdGVyIH19CiAgICA8L2Zvb3Rlcj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBrcHIoJGZuKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZXNcPg==</text>
@@ -617,38 +617,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsgCiAgICAgICAgICAgIGlkOiAxLAogICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgbGFiZWw6ICJSb3cgMSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGZvb3RlciByb2xlPSJjb250ZW50aW5mbyI+CiAgICAgIHt7IHBhZ2UuZm9vdGVyIH19CiAgICA8L2Zvb3Rlcj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBrcHIoJGZuKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXJfZHVtcCgkdmFyc1snbWFpbl9uYXZpZ2F0aW9uJ10pOwo=</text>
+        <text encoding="base64">ICAgICdmcm9udHBhZ2UnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhlbWUpOwo=</text>
+        <text encoding="base64">ICBzd3RpY2ggKCR0ZW1wbGF0ZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZV9wYXRoKCkgLiBkcnVwYWxfZ2V0X3BhdGgoJ3RoZW1lJywgJHRoZW1lKSAuICcvcHVibGljJzsK</text>
+        <text encoding="base64">ICBrcHIoJHRlbXBsYXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJHZhcnMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRjYXRlZ29yeS0+bGFiZWwoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhdHRyaWJ1dGVzIjogewo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
