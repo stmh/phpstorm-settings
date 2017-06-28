@@ -200,11 +200,11 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.twig" timestamp="1498637789932">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="65" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.twig" timestamp="1498647677004">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="65" />
         <mark key="^" line="28" column="11" />
-        <mark key="." line="8" column="65" />
+        <mark key="." line="12" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/PhSearchFacetsInterface.php" timestamp="1497015401162">
         <mark key="[" line="26" column="25" />
@@ -218,6 +218,11 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1498647921508">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1498570540322">
         <mark key="'" line="8" column="36" />
@@ -273,10 +278,10 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/index.css" timestamp="1498588163903">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/index.css" timestamp="1498647897726">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/testMethod.py" timestamp="1494446598367">
         <mark key="[" line="10" column="0" />
@@ -285,12 +290,6 @@
       </file>
       <file name="/fragment.php" timestamp="1497539057997">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/contact-link/contact-link.twig" timestamp="1498643543915">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/layout/page.html.twig" timestamp="1498637719454">
         <mark key="[" line="98" column="0" />
@@ -427,11 +426,11 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--privacy.html.twig" timestamp="1498578429502">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--privacy.html.twig" timestamp="1498648048781">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="1" />
+        <mark key="." line="39" column="1" />
+        <mark key="^" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/services.yml" timestamp="1498036310747">
         <mark key="[" line="175" column="2" />
@@ -512,6 +511,12 @@
         <mark key="]" line="17" column="6" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/rte/rte.twig" timestamp="1498648085605">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-website/web/themes/custom/faw_frontend/faw_frontend.theme" timestamp="1495659869685">
         <mark key="[" line="59" column="0" />
@@ -729,10 +734,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZXNcPg==</text>
@@ -774,7 +779,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>232</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -834,8 +839,8 @@
         <entry>1</entry>
         <entry>w:w</entry>
         <entry>216</entry>
-        <entry>w</entry>
         <entry>232</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
