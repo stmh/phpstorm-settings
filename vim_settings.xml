@@ -583,7 +583,12 @@
         <mark key="]" line="379" column="0" />
         <mark key="." line="379" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Updates/Update8038.php" timestamp="1498736948406" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Updates/Update8038.php" timestamp="1498745782410">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/main-navigation/main-navigation.json" timestamp="1498569546428">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -743,17 +748,17 @@
       <jump line="34" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/quick-booker/quick-booker.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>draft</text>
       </register>
       <register name="-" type="4">
-        <text>print_r</text>
+        <text>draft</text>
       </register>
       <register name="/" type="4">
         <text>font-family</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiB2YXIoLS1zcGFjZS0xNSkgIWltcG9ydGFudDsK</text>
+        <text encoding="base64">ICAgICAgICAkdHJhbnNsYXRpb24tPnNldCgnbW9kZXJhdGlvbl9zdGF0ZScsICdkcmFmdCcpOwogICAgICAgICR0cmFuc2xhdGlvbi0+c2F2ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4aXQoKTsK</text>
