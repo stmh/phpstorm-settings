@@ -559,7 +559,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1498819686895">
+      <file name="/PHP Console" timestamp="1498820088964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -596,11 +596,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" timestamp="1498819775683">
-        <mark key="[" line="736" column="0" />
-        <mark key="]" line="736" column="0" />
-        <mark key="^" line="734" column="10" />
-        <mark key="." line="736" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" timestamp="1498819905839">
+        <mark key="[" line="722" column="76" />
+        <mark key="]" line="722" column="91" />
+        <mark key="^" line="722" column="91" />
+        <mark key="." line="722" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/main-navigation/main-navigation.json" timestamp="1498569546428">
         <mark key="[" line="25" column="0" />
@@ -761,11 +761,11 @@
       <jump line="748" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/ngcc_custom.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>orm</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>orm</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
