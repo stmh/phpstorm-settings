@@ -304,6 +304,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/modules/custom/br_frontpage/br_frontpage.module" timestamp="1499102231975">
+        <mark key="[" line="189" column="1" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/themes/custom/ngcc_campaign_hub_fe/templates/field/paragraph/field--paragraph--field-video-gallery-teaser.html.twig" timestamp="1496772995344">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="18" />
@@ -758,16 +764,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Column Types</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Column Types</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
       </register>
-      <register name="0" type="4">
-        <text>$field_header_image</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAkaW5mb1snY29sdW1uX3R5cGVzJ10gPSBhcnJheSgKICAgICdsYWJlbCcgPT4gdCgnQ29sdW1uIFR5cGVzJyksCiAgICAnY2FsbGJhY2snID0+ICdicl9mcm9udHBhZ2VfbGlzdF9vcHRpb25fY29sdW1uX3R5cGVzJywKICApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
