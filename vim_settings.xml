@@ -182,7 +182,6 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--zimmer-suiten.html.twig" timestamp="1499069617424" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_forms.scss" timestamp="1493981572157">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="13" />
@@ -205,6 +204,12 @@
         <mark key="]" line="26" column="25" />
         <mark key="^" line="16" column="30" />
         <mark key="." line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/nodes/node--misc-pages--studio.tpl.haml" timestamp="1499083627486">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/rte/rte.css" timestamp="1498653554457">
         <mark key="[" line="8" column="35" />
@@ -316,7 +321,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/freeform-composition/freeform-composition-a.twig" timestamp="1498843478732" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/bauer_build/frontend/src/scss/components/_headline-banner.scss" timestamp="1493224591987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -448,7 +452,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/freeform-composition/freeform-composition.css" timestamp="1498996295680" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/TwigExtension/TwigExtension.php" timestamp="1496833940519">
         <mark key="[" line="122" column="40" />
         <mark key="]" line="123" column="18" />
@@ -536,6 +539,7 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/br-image-range--project.tpl.haml" timestamp="1499083950105" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1498038792926">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -562,7 +566,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498815912483">
+      <file name="/Dummy.txt" timestamp="1499083941927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -583,6 +587,11 @@
         <mark key="^" line="722" column="91" />
         <mark key="." line="722" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-with-caption.tpl.haml" timestamp="1499084448348">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/main-navigation/main-navigation.json" timestamp="1498569546428">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -599,6 +608,9 @@
         <mark key="]" line="15" column="29" />
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1499084020727">
+        <mark key="[" line="448" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/00-particles/utils/utils-margin/lib/utils-margin.css" timestamp="1498673144835">
         <mark key="[" line="138" column="0" />
@@ -735,50 +747,50 @@
       <jump line="95" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--wellness-spa.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>slideshow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
       </register>
       <register name="-" type="4">
-        <text>slideshow</text>
+        <text>content['</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
       </register>
       <register name="0" type="4">
-        <text>calc(8/10*2/3*50%)</text>
+        <text>$field_header_image</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQG1vbGVjdWxlcy9tYWluLW5hdmlnYXRpb24vbWFpbi1uYXZpZ2F0aW9uLnR3aWcnIHdpdGggewogICJtYWluX25hdmlnYXRpb25faXRlbXMiOiBtYWluX25hdmlnYXRpb24KfSV9Cg==</text>
+        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IkdyaWQgR3JpZC0td2l0aEd1dHRlciI+CiAgICAgIDxkaXYgY2xhc3M9IkdyaWQtY2VsbCB1LXNpemU4b2YxMiB1LWJlZm9yZTJvZjEyIHUtYmdMaWdodEJsdWUiPgogICAgICAgIDxkaXYgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJSI+CiAgICAgICAgICA8ZGl2IHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogLTUwJSI+CiAgICAgICAgICAgIHslIGluY2x1ZGUgIkBtb2xlY3VsZXMvbWVkaWEtZW1iZWQvbWVkaWEtZW1iZWQudHdpZyIgd2l0aCB7CiAgICAgICAgICAgICJtZWRpYWVtYmVkIjogewogICAgICAgICAgICAiY29udGVudCI6ICJoaWVyIiwKICAgICAgICAgICAgImF0dHJpYnV0ZXMiOiB7CiAgICAgICAgICAgICJjbGFzcyI6IFsnTWVkaWFFbWJlZCcsICdNZWRpYUVtYmVkLS1yYXRpbzNieTInXQogICAgICAgICAgICB9CiAgICAgICAgICAgIH19CiAgICAgICAgICAgICV9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQG1vbGVjdWxlcy9tYWluLW5hdmlnYXRpb24vbWFpbi1uYXZpZ2F0aW9uLnR3aWcnIHdpdGggewogICJtYWluX25hdmlnYXRpb25faXRlbXMiOiBtYWluX25hdmlnYXRpb24KfSV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGlkZHY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -817,8 +829,6 @@
         <entry>coverflow</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
-        <entry>247</entry>
         <entry>wq</entry>
         <entry>0</entry>
         <entry>W</entry>
