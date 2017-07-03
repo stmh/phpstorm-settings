@@ -244,6 +244,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/templates/partials/module/paragraphs-item--image-teaser.tpl.haml" timestamp="1499103294212">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/quick-booker/quick-booker.css" timestamp="1498660337312">
         <mark key="[" line="125" column="14" />
         <mark key="]" line="125" column="14" />
@@ -764,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Column Types</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>Column Types</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
@@ -776,40 +781,40 @@
         <text encoding="base64">ICAkaW5mb1snY29sdW1uX3R5cGVzJ10gPSBhcnJheSgKICAgICdsYWJlbCcgPT4gdCgnQ29sdW1uIFR5cGVzJyksCiAgICAnY2FsbGJhY2snID0+ICdicl9mcm9udHBhZ2VfbGlzdF9vcHRpb25fY29sdW1uX3R5cGVzJywKICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
+        <text encoding="base64">PSB2YXJfZHVtcCgkZmllbGRfaW1hZ2VkZF9hc3BlY3RfcmF0aW8pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
+        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQG1vbGVjdWxlcy9tYWluLW5hdmlnYXRpb24vbWFpbi1uYXZpZ2F0aW9uLnR3aWcnIHdpdGggewogICJtYWluX25hdmlnYXRpb25faXRlbXMiOiBtYWluX25hdmlnYXRpb24KfSV9Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnQG1vbGVjdWxlcy9tYWluLW5hdmlnYXRpb24vbWFpbi1uYXZpZ2F0aW9uLnR3aWcnIHdpdGggewogICJtYWluX25hdmlnYXRpb25faXRlbXMiOiBtYWluX25hdmlnYXRpb24KfSV9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>300</text>
       </register>
     </registers>
     <search>
@@ -865,6 +870,7 @@
         <entry>102</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>w</entry>
+        <entry>300</entry>
       </history-cmd>
       <history-expr />
       <history-input />
