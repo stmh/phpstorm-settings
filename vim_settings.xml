@@ -221,6 +221,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/development.services.yml" timestamp="1499162710975" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1498841462314">
         <mark key="'" line="8" column="36" />
         <mark key="[" line="8" column="30" />
@@ -228,10 +229,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/EventSubscriber/RevisionPagesCache.php" timestamp="1499161688660">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/EventSubscriber/RevisionPagesCache.php" timestamp="1499163668865">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="27" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/Access/LatestRevisionCheck.php" timestamp="1496852663823">
         <mark key="[" line="51" column="0" />
@@ -464,18 +466,18 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/services.yml" timestamp="1498036310747">
-        <mark key="[" line="175" column="2" />
-        <mark key="]" line="175" column="2" />
-        <mark key="^" line="175" column="5" />
-        <mark key="." line="175" column="2" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/services.yml" timestamp="1499162724457">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" timestamp="1499161271078">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" timestamp="1499163424057">
         <mark key="'" line="33" column="19" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="33" column="39" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="8" />
+        <mark key="^" line="113" column="11" />
+        <mark key="." line="113" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/hero-image/hero-image.json" timestamp="1493828126605">
         <mark key="[" line="1" column="4" />
@@ -782,11 +784,11 @@
       <jump line="32" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXZlbnRcZGRGaWx0ZXJSZXNwb25zZUV2ZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>\Symfony\Component\HttpKernel\Event\GetRequestEvent|</text>
       </register>
       <register name="-" type="4">
-        <text>Filter</text>
+        <text>\Symfony\Component\HttpKernel\Event\GetRequestEvent|</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
@@ -795,37 +797,37 @@
         <text encoding="base64">ICAkaW5mb1snY29sdW1uX3R5cGVzJ10gPSBhcnJheSgKICAgICdsYWJlbCcgPT4gdCgnQ29sdW1uIFR5cGVzJyksCiAgICAnY2FsbGJhY2snID0+ICdicl9mcm9udHBhZ2VfbGlzdF9vcHRpb25fY29sdW1uX3R5cGVzJywKICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXZlbnRcZGRGaWx0ZXJSZXNwb25zZUV2ZW50Owo=</text>
+        <text encoding="base64">ICAgKiAtIGFscmVhZHkgYSBtdWx0aXNpdGUgcGF0aCBpbiByZXF1ZXN0VVJJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBJbXBsZW1lbnRhdGlvbiBvZiBpbnRlcmZhY2UgbWV0aG9kLCB3aGljaCBkZWNpZGVzIGVpdGhlciB0byBza2lwIHJlZGlyZWN0IGlmOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGQgdG8gY2FjaGUtdGFncwo=</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXZlbnRcZGRGaWx0ZXJSZXNwb25zZUV2ZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGVfdGFnc1tdID0gJ25vZGU6JyAuICRyb3ctPm5pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PSB2YXJfZHVtcCgkZmllbGRfaW1hZ2VkZF9hc3BlY3RfcmF0aW8pCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBZGQgdG8gY2FjaGUtdGFncwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVfdGFnc1tdID0gJ25vZGU6JyAuICRyb3ctPm5pZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
+        <text encoding="base64">PSB2YXJfZHVtcCgkZmllbGRfaW1hZ2VkZF9hc3BlY3RfcmF0aW8pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
