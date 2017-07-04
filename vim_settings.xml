@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/lib/Drupal/Core/PageCache/ResponsePolicy/KillSwitch.php" timestamp="1499161577434" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/public_html/sites/all/themes/custom/cvhub_frontend/source/_patterns/02-molecules/welcome-user/welcome-user.css" timestamp="1495620256973">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -227,6 +228,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/EventSubscriber/RevisionPagesCache.php" timestamp="1499161688660">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/Access/LatestRevisionCheck.php" timestamp="1496852663823">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -285,6 +291,12 @@
         <mark key="]" line="757" column="0" />
         <mark key="^" line="755" column="2" />
         <mark key="." line="757" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/sites/default/settings.php" timestamp="1499161912756">
+        <mark key="[" line="762" column="0" />
+        <mark key="]" line="764" column="0" />
+        <mark key="^" line="764" column="0" />
+        <mark key="." line="764" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/layout/page.html.twig" timestamp="1498840913731">
         <mark key="[" line="112" column="0" />
@@ -458,10 +470,12 @@
         <mark key="^" line="175" column="5" />
         <mark key="." line="175" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" timestamp="1498812498955">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" timestamp="1499161271078">
+        <mark key="'" line="33" column="19" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/zusteller-online-main/web/themes/custom/frontend/pattern-lab/source/_patterns/02-molecules/hero-image/hero-image.json" timestamp="1493828126605">
         <mark key="[" line="1" column="4" />
@@ -566,7 +580,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1498820088964">
+      <file name="/PHP Console" timestamp="1499161936339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -666,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="12" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="13" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -766,13 +779,14 @@
       <jump line="83" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--wellness-spa.html.twig" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--wellness-spa.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/settings.php" />
+      <jump line="32" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/src/Plugin/Block/NavigationCoverFlow.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXZlbnRcZGRGaWx0ZXJSZXNwb25zZUV2ZW50Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Filter</text>
       </register>
       <register name="/" type="4">
         <text>coverflow</text>
@@ -781,40 +795,40 @@
         <text encoding="base64">ICAkaW5mb1snY29sdW1uX3R5cGVzJ10gPSBhcnJheSgKICAgICdsYWJlbCcgPT4gdCgnQ29sdW1uIFR5cGVzJyksCiAgICAnY2FsbGJhY2snID0+ICdicl9mcm9udHBhZ2VfbGlzdF9vcHRpb25fY29sdW1uX3R5cGVzJywKICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PSB2YXJfZHVtcCgkZmllbGRfaW1hZ2VkZF9hc3BlY3RfcmF0aW8pCg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXZlbnRcZGRGaWx0ZXJSZXNwb25zZUV2ZW50Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBBZGQgdG8gY2FjaGUtdGFncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVfdGFnc1tdID0gJ25vZGU6JyAuICRyb3ctPm5pZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
+        <text encoding="base64">PSB2YXJfZHVtcCgkZmllbGRfaW1hZ2VkZF9hc3BlY3RfcmF0aW8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXVskbmR4XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGF0b21zL3BsYWNlaG9sZGVyL3BsYWNlaG9sZGVyLnR3aWciIHdpdGggeyAicGxhY2Vob2xkZXJfdGV4dCI6ICJNaXNzaW5nIGNvbXBvbmVudCBzbGlkZXNob3cifSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHZhcl9kdW1wKCRuZHgpZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnQG1vbGVjdWxlcy9tYWluLW5hdmlnYXRpb24vbWFpbi1uYXZpZ2F0aW9uLnR3aWcnIHdpdGggewogICJtYWluX25hdmlnYXRpb25faXRlbXMiOiBtYWluX25hdmlnYXRpb24KfSV9Cg==</text>
+        <text encoding="base64">ICAgIC0gdmFyX2R1bXAoJGZpZWxkX2hlYWRlcl9pbWFnZSkK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyKCRjb250ZW50WydmaWVsZF9oZWFkZXJfaW1hZ2UnXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>300</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -824,7 +838,7 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -852,7 +866,6 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>0</entry>
-        <entry>W</entry>
         <entry>15</entry>
         <entry>87</entry>
         <entry encoding="base64">JzwsJz4zMw==</entry>
@@ -869,8 +882,9 @@
         <entry>28</entry>
         <entry>102</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
-        <entry>w</entry>
         <entry>300</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
