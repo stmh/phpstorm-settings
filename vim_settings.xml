@@ -64,11 +64,10 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/macros.twig" timestamp="1499263371917">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.libraries.yml" timestamp="1499341979864">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.libraries.yml" timestamp="1499343014866">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1495404217543">
         <mark key="[" line="174" column="0" />
@@ -276,12 +275,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" timestamp="1499274884754">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="75" column="75" />
-        <mark key="]" line="75" column="75" />
-        <mark key="^" line="69" column="11" />
-        <mark key="." line="75" column="75" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" timestamp="1499343487224">
+        <mark key="'" line="90" column="91" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/contact-link/contact-link.css" timestamp="1498643019615">
         <mark key="[" line="21" column="0" />
@@ -796,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
       <jump line="290" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/themes/custom/ngcc_campaign_hub_fe/ngcc_campaign_hub_fe.theme" />
       <jump line="59" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/SchemaProvider/PhSearchFacetedSchemaProvider.php" />
@@ -896,56 +893,57 @@
       <jump line="4" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
       <jump line="60" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/factorial_media_image_render/src/Handler/MediaImageRenderHandler.php" />
       <jump line="17" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/rte/rte.css" />
+      <jump line="75" column="91" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/core/themes/stable/css/contextual/contextual.module.css: false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YXJfZHVtcCgkY3NzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/core/themes/stable/css/contextual/contextual.module.css: false</text>
+        <text>http://kuestenperle.dev/</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtLXNwYWNlLTk6IDkwcHg7Cg==</text>
+        <text encoding="base64">ICAgICdjb3JlL2Fzc2V0cy92ZW5kb3IvanF1ZXJ5LnVpL3RoZW1lcy9iYXNlL2RhdGVwaWNrZXIuY3NzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7IGNvbnRlbnQuYm9keSB9fQo=</text>
+        <text encoding="base64">ICB2YXJfZHVtcCgkY3NzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2E+Cg==</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="3" type="4">
+        <text>libraries-override:
+  core/jquery.ui.datepicker:
+    css:
+      component:
+        assets/vendor/jquery.ui/themes/base/datepicker.css: false</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIHt7IGNvbnRlbnQuYm9keSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiBhbGwgLjJzIGVhc2U7Cg==</text>
+        <text encoding="base64">ICA8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2E+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{# TODO : MISSING: NEWS+PRESSE COMPONENT #}
-    {% include '@atoms/placeholder/placeholder.twig' with {
-        &quot;placeholder_text&quot;: &quot;MISSING: NEWS+PRESSE COMPONENT&quot;
-      }
-    %}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB0cmFuc2l0aW9uOiBhbGwgLjJzIGVhc2U7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBISUVSSElFUiB7eyBpY29uX25hbWUgfX0ge3sgaWNvbiB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1006,7 +1004,6 @@
         <entry>87</entry>
         <entry encoding="base64">JzwsJz4zMw==</entry>
         <entry>123</entry>
-        <entry>1</entry>
         <entry>216</entry>
         <entry>232</entry>
         <entry>125</entry>
@@ -1028,6 +1025,7 @@
         <entry>w:w</entry>
         <entry>tabNext</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
