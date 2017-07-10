@@ -384,11 +384,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/WatchdogCollector.php" timestamp="1499695917629">
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="37" />
-        <mark key="^" line="52" column="37" />
-        <mark key="." line="52" column="37" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/WatchdogCollector.php" timestamp="1499696711288">
+        <mark key="[" line="84" column="37" />
+        <mark key="]" line="84" column="37" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="84" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/src/modules/custom/ngcc_custom/src/Helper/BaseHelper.php" timestamp="1498817304503">
         <mark key="[" line="123" column="53" />
@@ -729,10 +729,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Watchdog</text>
+        <text>drupal_clean_css_identifier</text>
       </register>
       <register name="-" type="4">
-        <text>Watchdog</text>
+        <text>drupal_clean_css_identifier</text>
       </register>
       <register name="/" type="4">
         <text>buildExcludedPlugins</text>
@@ -774,7 +774,7 @@
         <text encoding="base64">KiBBcyB0aGUgbW9kdWxlIGhhcyBubyBhZG1pbi1pbnRlcmZhY2UsIHBsZWFzZSBleHBvcnQgdGhlIGNvbmZpZ3VyYXRpb24sIGFuZCBlZGl0IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>84</text>
       </register>
     </registers>
     <search>
@@ -843,6 +843,7 @@
         <entry>tabNext</entry>
         <entry>w</entry>
         <entry>53</entry>
+        <entry>84</entry>
       </history-cmd>
       <history-expr />
       <history-input />
