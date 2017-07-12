@@ -191,6 +191,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="16" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/socket-adapter.js" timestamp="1499876217327">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="21" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/custom/ph_backend_graphql/src/PhSearchFacetsInterface.php" timestamp="1497015401162">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
@@ -215,24 +221,34 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOverview.vue" timestamp="1499876123236">
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/core/modules/content_moderation/src/Access/LatestRevisionCheck.php" timestamp="1496852663823">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="53" column="6" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" timestamp="1499533414373">
-        <mark key="'" line="26" column="53" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="26" column="53" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/package.json" timestamp="1499879200392">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/quick-booker/quick-booker.css" timestamp="1498660337312">
         <mark key="[" line="125" column="14" />
         <mark key="]" line="125" column="14" />
         <mark key="." line="125" column="14" />
         <mark key="^" line="181" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/config.js" timestamp="1499876991353">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/cv-hub/sites/all/themes/custom/cvhub_frontend/includes/page.inc" timestamp="1496820513237">
         <mark key="[" line="18" column="114" />
@@ -257,6 +273,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1499876310245">
+        <mark key="'" line="42" column="26" />
+        <mark key="[" line="111" column="54" />
+        <mark key="]" line="111" column="54" />
+        <mark key="." line="111" column="54" />
+        <mark key="^" line="111" column="54" />
       </file>
       <file name="/fragment.php" timestamp="1498813220933">
         <mark key="[" line="0" column="0" />
@@ -301,9 +324,6 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/webform/src/Form/WebformAdminSettingsForm.php" timestamp="1499683626382">
-        <mark key="'" line="687" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/block/block--image-text-block.html.twig" timestamp="1499258550264">
         <mark key="[" line="20" column="75" />
@@ -389,10 +409,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1499870447554">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1499878220076">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/WatchdogCollector.php" timestamp="1499696711288">
         <mark key="[" line="84" column="37" />
@@ -418,18 +439,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/event-table/event-table.twig" timestamp="1499530544906">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/image-text-teaser/_teaser-item.twig" timestamp="1499414380595">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogTest.vue" timestamp="1499875747007">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/.htaccess" timestamp="1499270032718">
         <mark key="[" line="1" column="10" />
@@ -536,6 +556,9 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.babelrc" timestamp="1499878685268">
+        <mark key="[" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--hotel-team.html.twig" timestamp="1499412711578">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="35" />
@@ -562,6 +585,12 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/index.js" timestamp="1499877787884">
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="101" column="54" />
+        <mark key="." line="101" column="54" />
+        <mark key="^" line="101" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/image-text-teaser/image-text-teaser.css" timestamp="1498842694647">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="31" column="0" />
@@ -572,6 +601,12 @@
         <mark key="[" line="12" column="6" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringTable.vue" timestamp="1499875669631">
+        <mark key="[" line="67" column="3" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="67" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/readme.md" timestamp="1499684682778">
         <mark key="[" line="23" column="129" />
@@ -591,15 +626,17 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/tabs/tabs.css" timestamp="1499532980965">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="82" column="18" />
-        <mark key="." line="82" column="18" />
-        <mark key="^" line="82" column="18" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store.js" timestamp="1499875013178">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="35" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499868071595">
+      <file name="/Dummy.txt" timestamp="1499876129018">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/types.js" timestamp="1499874757808">
+        <mark key="[" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ngcc-campaign-hub/debug/web/modules/custom/ngcc_custom/ngcc_custom.module" timestamp="1498819905839">
         <mark key="[" line="722" column="76" />
@@ -613,11 +650,11 @@
         <mark key="^" line="1084" column="18" />
         <mark key="." line="1084" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" timestamp="1498216966428">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/module.js" timestamp="1499874876172">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/braeutigam-und-rotermund-website/sites/all/themes/custom/br_frontend/template.php" timestamp="1499084020727">
         <mark key="[" line="448" column="5" />
@@ -640,6 +677,12 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOneliner.vue" timestamp="1499875886699">
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/RequirementsCollector.php" timestamp="1499681931904">
         <mark key="[" line="50" column="39" />
         <mark key="]" line="50" column="38" />
@@ -652,9 +695,14 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/graylog/module.js" timestamp="1499876659988">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
       <jump line="117" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
       <jump line="119" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
       <jump line="121" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/map/map.js" />
@@ -754,61 +802,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" />
       <jump line="19" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" />
       <jump line="83" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" />
+      <jump line="42" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>encode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ3aGF0d2ctZmV0Y2giOiAiXjIuMC4xIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>encode</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>histogram</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsnY2xhc3MnOiAnVGlja2VyLWNvbnRlbnQtLWxlZnQnfSwgWyBjb250ZW50IF0pLAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFzdGF0ZS5jb21wYXJlKSB7CiAgICAgICAgVnVlLnNldChzdGF0ZSwgJ2NvbXBhcmUnLCB7fSk7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImNsYXNzIjogeyBkZWZhdWx0OiAiIiB9LAo=</text>
+        <text encoding="base64">ICAgICJ3aGF0d2ctZmV0Y2giOiAiXjIuMC4xIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ2dWV4IjogIl4yLjMuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9ncmlkLWNlbGw+Cg==</text>
+        <text encoding="base64">ICAgICJtb21lbnQtdGltZXpvbmUiOiAiXjAuNS41IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3dpZGdldD4K</text>
+        <text encoding="base64">ICAgICJtb21lbnQtdGltZXpvbmUiOiAiXjAuNS41IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICJtb21lbnQtdGltZXpvbmUiOiAiXjAuNS41IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtb25pdG9yaW5nLWNvbXBhcmluZy12YWx1ZXMtbGluZWNoYXJ0IGdyb3VwPSJjdXN0b21lcnMiIHZhbHVlLWdyb3VwPSJ3YXRjaGRvZy1jdWxtdWxhdGVkIiB2YWx1ZT0iZXJyb3JzIi8+Cg==</text>
+        <text encoding="base64">ICAgICJtb21lbnQtdGltZXpvbmUiOiAiXjAuNS41IiwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0tPgo=</text>
+      <register name="7" type="4">
+        <text>{ 
+          group: this.group, 
+          valueGroup: this.valueGroup, this.value })</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0K</text>
+        <text encoding="base64">ICAgICAgaW5pdChzdGF0ZSwgKQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>histogram</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>histogram</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -837,6 +888,7 @@
         <entry>buildExcludedPlugins</entry>
         <entry>ticker</entry>
         <entry>class</entry>
+        <entry>histogram</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -849,16 +901,16 @@
         <entry>114</entry>
         <entry>103</entry>
         <entry>77</entry>
-        <entry>1</entry>
         <entry>34</entry>
         <entry>1218</entry>
         <entry>932</entry>
         <entry>53</entry>
         <entry>84</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
-        <entry>noh</entry>
         <entry>tabNext</entry>
+        <entry>noh</entry>
+        <entry>1</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
