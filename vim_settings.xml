@@ -108,6 +108,12 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/build/webpack.base.conf.js" timestamp="1500050695782">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--restaurant-bar.html.twig" timestamp="1499414076734">
         <mark key="[" line="58" column="18" />
         <mark key="]" line="58" column="18" />
@@ -397,11 +403,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/webpack.config.js" timestamp="1499887338859">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="4" column="44" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/webpack.config.js" timestamp="1500050289175">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="37" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/hierarchical-table/src/components/HierarchicalTable.vue" timestamp="1498404799001">
         <mark key="[" line="32" column="0" />
@@ -516,6 +522,11 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/00-particles/utils/utils-margin/lib/utils-margin-sm.css" timestamp="1499186196390">
         <mark key="[" line="52" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/.gitignore" timestamp="1500051263198">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--image-teaser.html.twig" timestamp="1499359047448">
         <mark key="[" line="10" column="24" />
@@ -654,7 +665,7 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499887418770">
+      <file name="/Dummy.txt" timestamp="1500050313701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/types.js" timestamp="1499874757808">
@@ -847,66 +858,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QnVpbGQK</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
       </register>
       <register name="/" type="4">
-        <text>histogram</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPC9ncmlkLWNlbGw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5cyk7Cg==</text>
+        <text encoding="base64">QnVpbGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQ29sb3IgZnJvbSAnY29sb3InOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQ29sb3IgZnJvbSAnY29sb3InOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>getColor(ndx, count) {
         const angle = (ndx / count) * 360;
         return Color({ h: angle, s: 100, l: 70 }).rgb().hex();
       },</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuYW5pbWF0ZSgpOwo=</text>
+        <text encoding="base64">ICBvdmVyCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMueCwgdGhpcy4kcmVmcy5jb250ZW50LmNsaWVudFdpZHRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuYW5pbWF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>histogram</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>histogram</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -930,6 +941,7 @@
         <entry>ticker</entry>
         <entry>class</entry>
         <entry>histogram</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>97</entry>
