@@ -417,10 +417,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1499895247275">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1500042854303">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/WatchdogCollector.php" timestamp="1499696711288">
         <mark key="[" line="84" column="37" />
@@ -512,12 +513,11 @@
         <mark key="^" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1499900399123">
-        <mark key="'" line="94" column="9" />
-        <mark key="[" line="68" column="38" />
-        <mark key="]" line="68" column="38" />
-        <mark key="^" line="68" column="42" />
-        <mark key="." line="68" column="38" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1500042366250">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="6" />
+        <mark key="^" line="39" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/01-atoms/anchor-list/anchor-list.json" timestamp="1498580609458">
         <mark key="[" line="22" column="20" />
@@ -820,10 +820,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Europe/Berlin</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Europe/Berlin</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>histogram</text>
@@ -879,8 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dz4_responsive</entry>
-        <entry>output_image_tag</entry>
         <entry encoding="base64">XDxfZHo0X2dldF9yZXNwb25zaXZlX2ltYWdlXD4=</entry>
         <entry>var_dump</entry>
         <entry>33%</entry>
@@ -903,9 +901,6 @@
         <entry>histogram</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>ww</entry>
-        <entry>39</entry>
         <entry>97</entry>
         <entry>98</entry>
         <entry>87</entry>
