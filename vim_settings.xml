@@ -271,11 +271,11 @@
         <mark key="^" line="82" column="62" />
         <mark key="." line="82" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideTwo.vue" timestamp="1500048160403">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="14" column="56" />
-        <mark key="." line="39" column="37" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideTwo.vue" timestamp="1500742583154">
+        <mark key="[" line="19" column="101" />
+        <mark key="]" line="19" column="108" />
+        <mark key="^" line="19" column="108" />
+        <mark key="." line="19" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/event-table.html.twig" timestamp="1499530524279">
         <mark key="[" line="0" column="74" />
@@ -540,7 +540,7 @@
         <mark key="^" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1500045997630">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/App.vue" timestamp="1500742367632">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="39" column="45" />
         <mark key="." line="39" column="45" />
@@ -865,16 +865,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warnings</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>warnings</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdOdW1iZXIgb2Ygd2FybmluZ3MnLAo=</text>
+        <text encoding="base64">ICAgICAgPGdyaWQtY2VsbCB3aWR0aD0iNiIgaGVpZ2h0PSIyIj4KICAgICAgICA8d2lkZ2V0IGxhYmVsPSJudW1iZXIgb2YgZXJyb3JzIj4KICAgICAgICAgIDxtb25pdG9yaW5nLWNvbXBhcmUtdmFsdWVzLWxpbmVjaGFydCBncm91cD0iY3VzdG9tZXJzIiB2YWx1ZS1ncm91cD0ic3RhdGlzdGljcyIgdmFsdWU9Im51bS1lcnJvcnMiLz4KICAgICAgICA8L3dpZGdldD4KICAgICAgPC9ncmlkLWNlbGw+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -915,12 +915,12 @@
     </registers>
     <search>
       <last-search>static</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>static</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
