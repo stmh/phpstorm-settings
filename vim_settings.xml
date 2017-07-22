@@ -271,11 +271,11 @@
         <mark key="^" line="82" column="62" />
         <mark key="." line="82" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideTwo.vue" timestamp="1500742583154">
-        <mark key="[" line="19" column="101" />
-        <mark key="]" line="19" column="108" />
-        <mark key="^" line="19" column="108" />
-        <mark key="." line="19" column="108" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideTwo.vue" timestamp="1500744905645">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="41" column="66" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="41" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/event-table.html.twig" timestamp="1499530524279">
         <mark key="[" line="0" column="74" />
@@ -433,11 +433,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1500743634742">
-        <mark key="[" line="153" column="18" />
-        <mark key="]" line="153" column="16" />
-        <mark key="^" line="153" column="16" />
-        <mark key="." line="153" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringCompareValuesLinechart.vue" timestamp="1500745498539">
+        <mark key="[" line="30" column="79" />
+        <mark key="]" line="30" column="80" />
+        <mark key="." line="30" column="80" />
+        <mark key="^" line="30" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/factorial_monitoring_connector/src/Plugin/MonitoringCollector/WatchdogCollector.php" timestamp="1499696711288">
         <mark key="[" line="84" column="37" />
@@ -864,50 +864,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/Ticker.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGdyaWQtY2VsbCB3aWR0aD0iNiIgaGVpZ2h0PSIyIj4KICAgICAgICA8d2lkZ2V0IGxhYmVsPSJudW1iZXIgb2YgZXJyb3JzIj4KICAgICAgICAgIDxtb25pdG9yaW5nLWNvbXBhcmUtdmFsdWVzLWxpbmVjaGFydCBncm91cD0iY3VzdG9tZXJzIiB2YWx1ZS1ncm91cD0ic3RhdGlzdGljcyIgdmFsdWU9Im51bS1lcnJvcnMiLz4KICAgICAgICA8L3dpZGdldD4KICAgICAgPC9ncmlkLWNlbGw+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW50ZXJsZWF2ZWQ9InRydWUiIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVycm9yCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgbWFwcGluZyA9IHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVycm9yCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YXIgbWFwcGluZyA9IHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IFYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgfSBlbHNlIGlmIChlbGUpCg==</text>
+        <text encoding="base64">IFYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBudW1FcnJvcnMrKzsK</text>
+        <text encoding="base64">ICAgfSBlbHNlIGlmIChlbGUpCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgaWYgKGVsZW0udHlwZSA9PT0gJ2Vycm9yJykgewo=</text>
+        <text encoding="base64">ICAgICBudW1FcnJvcnMrKzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -965,6 +965,7 @@
         <entry>w:w</entry>
         <entry>tabNext</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
