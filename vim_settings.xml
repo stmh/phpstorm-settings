@@ -665,7 +665,7 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500740404005">
+      <file name="/Dummy.txt" timestamp="1500886104949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/types.js" timestamp="1499874757808">
@@ -754,11 +754,11 @@
         <mark key="." line="54" column="12" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/host.js" timestamp="1500741235957">
-        <mark key="[" line="182" column="13" />
-        <mark key="]" line="183" column="6" />
-        <mark key="^" line="183" column="6" />
-        <mark key="." line="183" column="6" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/host.js" timestamp="1500886251043">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="180" column="32" />
+        <mark key="." line="194" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -865,49 +865,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aW50ZXJsZWF2ZWQ9InRydWUiIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luIHdhcm5pbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2lnbm9yaW5nJywgcmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luIHdhcm5pbmcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgbWFwcGluZyA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IFYK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgfSBlbHNlIGlmIChlbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG51bVdhcm5pbmdzKys7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBudW1FcnJvcnMrKzsK</text>
+        <text encoding="base64">ICAgICAgICAvLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -920,7 +920,7 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -946,7 +946,6 @@
         <entry>static</entry>
       </history-search>
       <history-cmd>
-        <entry>97</entry>
         <entry>98</entry>
         <entry>87</entry>
         <entry>82</entry>
@@ -963,9 +962,9 @@
         <entry>24</entry>
         <entry>1</entry>
         <entry>w:w</entry>
-        <entry>tabNext</entry>
         <entry>W</entry>
         <entry>:w</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
