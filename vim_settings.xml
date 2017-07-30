@@ -210,6 +210,7 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/contrib/mailchimp/mailchimp.module" timestamp="1501424017686" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/factorial_media_image_render/factorial_media_image_render.module" timestamp="1499349821725">
         <mark key="[" line="41" column="71" />
         <mark key="]" line="41" column="70" />
@@ -464,7 +465,6 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/cover/cover.css" timestamp="1501239394148" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/nsdw-website/site/snippets/header.php" timestamp="1501159483985">
         <mark key="[" line="19" column="107" />
         <mark key="]" line="19" column="108" />
@@ -997,12 +997,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_get_r</entry>
-        <entry>unset</entry>
         <entry>image_bar</entry>
         <entry>error</entry>
         <entry>cover</entry>
@@ -1025,10 +1023,6 @@
         <entry>mapCenter</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
-        <entry>tabNext</entry>
-        <entry>6047</entry>
-        <entry>Gblame</entry>
         <entry>388</entry>
         <entry>372</entry>
         <entry>wq</entry>
