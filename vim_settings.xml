@@ -408,6 +408,9 @@
         <mark key="^" line="764" column="0" />
         <mark key="." line="764" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/sites/development.services.yml" timestamp="1501841264265">
+        <mark key="[" line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/development.services.yml" timestamp="1498470431493">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="14" />
@@ -944,6 +947,11 @@
         <mark key="." line="244" column="6" />
         <mark key="^" line="244" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/sites/default/settings.php" timestamp="1501841301992">
+        <mark key="[" line="754" column="0" />
+        <mark key="]" line="754" column="0" />
+        <mark key="." line="754" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/00-particles/theme/theme-map.css" timestamp="1499276216517">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="16" />
@@ -1114,10 +1122,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
