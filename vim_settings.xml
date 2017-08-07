@@ -9,11 +9,11 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/fpp/fieldable-panels-pane--brightcove_video.tpl.twig" timestamp="1501880762909">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/fpp/fieldable-panels-pane--brightcove_video.tpl.twig" timestamp="1502092491183">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/sites/default/settings.local.php" timestamp="1501848234193">
         <mark key="[" line="83" column="0" />
@@ -80,11 +80,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/video/video.css" timestamp="1501881300234">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/video/video.css" timestamp="1502092582368">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_monitoring_connector/src/Controller/MonitorStateController.php" timestamp="1501704279997">
         <mark key="[" line="58" column="25" />
@@ -115,12 +115,13 @@
         <mark key="[" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1501880306586">
-        <mark key="'" line="163" column="0" />
+        <mark key="'" line="162" column="0" />
         <mark key="[" line="138" column="9" />
         <mark key="]" line="138" column="10" />
         <mark key="." line="138" column="10" />
         <mark key="^" line="138" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/atoms/text-image-gallery/text-image-gallery.css" timestamp="1502092310687" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/field/field--brightcove-video.tpl.twig" timestamp="1501880817484">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -247,11 +248,11 @@
       <jump line="134" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA6d2ViZm9ybV9leHBvcnQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHt7IGFzcGVjdF9yYXRpbyB9fQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hook_field</text>
@@ -260,48 +261,37 @@
         <text encoding="base64">ICAgICAgICAgIHslIGluY2x1ZGUgJ0Btb2xlY3VsZXMvY29udGFjdC1lbGVtZW50L2NvbnRhY3QtZWxlbWVudC50d2lnJyB3aXRoIGNvbnRhY3QgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6d2ViZm9ybV9leHBvcnQK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrcHIoJHZhcmlhYmxlcyk7Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIGNsZWFyZml4Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICA6d2ViZm9ybV9leHBvcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrcHIoJHZhcmlhYmxlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b3A6IDA7Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>.Video {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-}
-
-.video-js {
-  width: 80% !important;
-  height: 60vw !important;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0b3A6IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
