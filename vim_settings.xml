@@ -155,19 +155,16 @@
         <mark key="]" line="0" column="76" />
         <mark key="." line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1502127748084">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="332" column="37" />
-        <mark key="m" line="360" column="64" />
-        <mark key="]" line="334" column="36" />
-        <mark key="." line="334" column="36" />
-        <mark key="^" line="334" column="36" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1502129563128">
+        <mark key="'" line="332" column="29" />
+        <mark key="[" line="332" column="28" />
+        <mark key="m" line="365" column="64" />
+        <mark key="]" line="332" column="28" />
+        <mark key="." line="332" column="28" />
+        <mark key="^" line="327" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--event.html.twig" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/tabs/tabs.css" />
-      <jump line="26" column="53" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
       <jump line="1217" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/webform/src/Form/WebformAdminSettingsForm.php" />
       <jump line="1258" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/webform/src/Form/WebformAdminSettingsForm.php" />
       <jump line="687" column="69" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/webform/src/Form/WebformAdminSettingsForm.php" />
@@ -265,65 +262,68 @@
       <jump line="8" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="9" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="1599" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="347" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="142" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="332" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text>entity_id</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>entity_id</text>
       </register>
       <register name="/" type="4">
-        <text>_query</text>
+        <text encoding="base64">XDxzY29yZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdyeF9wcm9maWxlX3NhdmVkX3NlYXJjaGVzJyA9PiBhcnJheSgKICAgICAgJ3RlbXBsYXRlJyA9PiAndGVtcGxhdGVzL3J4LW1vZHVsZXMvcngtbW9kdWxlcy1wcm9maWxlLXNhdmVkLXNlYXJjaGVzJywKICAgICAgJ3ZhcmlhYmxlcycgPT4gYXJyYXkoJ2ZpbHRlcnMnID0+IGFycmF5KCkpLAogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgJHF1ZXJ5LT5hZGRQYXJhbSgnZmwnLCAkc29scl9uYW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAga3ByKCJqYWphIik7Cg==</text>
+        <text encoding="base64">ICAgIGtwcigkYm9vc3RzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZFBhcmFtKCdicScsICRib29zdCk7ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgIC8vIFNwZWNpZnkgdGhhdCB3ZSBvbmx5IHdhbnQgbmlkcyBpbiB0aGUgcmVzdWx0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoISRhY2NvdW50KSB7CiAgICBnbG9iYWwgJHVzZXI7CiAgICAkYWNjb3VudCA9IHVzZXJfbG9hZCgkdXNlci0+dWlkKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBrcHIoJGFjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkY29udGVudF90eXBlcyA9IGFycmF5KCdtb2R1bGVfaW50cm8nKTsK</text>
+        <text encoding="base64">ICAgICAga3ByKCJqYWphIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBHaXZlbiB0aGUgJG5vZGUgdmFyaWFibGUgYWxyZWFkeSBjb250YWlucyB0aGUgY3VycmVudGx5LXZpZXdlZCBub2RlLi4uCg==</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBCdWlsZCB0aGUgY29udGVudCB0eXBlcyBmaWx0ZXIuCg==</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_query</last-search>
+      <last-search encoding="base64">XDxzY29yZVw+</last-search>
       <last-offset />
-      <last-pattern>_query</last-pattern>
+      <last-pattern encoding="base64">XDxzY29yZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -355,6 +355,8 @@
         <entry>RX_MODULES</entry>
         <entry>boost</entry>
         <entry>_query</entry>
+        <entry>limit</entry>
+        <entry encoding="base64">XDxzY29yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
@@ -383,6 +385,7 @@
         <entry>166</entry>
         <entry>1</entry>
         <entry>noh</entry>
+        <entry>334</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
