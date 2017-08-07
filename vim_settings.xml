@@ -61,11 +61,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1502122423961">
         <mark key="'" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1502102871370">
-        <mark key="[" line="934" column="0" />
-        <mark key="]" line="934" column="21" />
-        <mark key="^" line="934" column="21" />
-        <mark key="." line="934" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1502128101556">
+        <mark key="[" line="922" column="4" />
+        <mark key="]" line="923" column="3" />
+        <mark key="^" line="923" column="3" />
+        <mark key="." line="923" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/dashboard-saved-filters/dashboard-saved-filters.twig" timestamp="1502099534091">
         <mark key="'" line="0" column="0" />
@@ -88,7 +88,7 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
-      <file name="/PHP Console" timestamp="1502103862263">
+      <file name="/PHP Console" timestamp="1502128214700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/plugins/facetapi/query_type_term.inc" timestamp="1502102356920" />
@@ -113,8 +113,8 @@
       <file name="/Dummy.txt" timestamp="1501781789243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1502102960389">
-        <mark key="'" line="1584" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1502127995149">
+        <mark key="'" line="1599" column="0" />
         <mark key="[" line="1584" column="0" />
         <mark key="]" line="1584" column="0" />
         <mark key="." line="1584" column="0" />
@@ -124,12 +124,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_recommended_modules.inc" timestamp="1502123655760">
-        <mark key="[" line="37" column="73" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_recommended_modules.inc" timestamp="1502126904682">
+        <mark key="[" line="28" column="44" />
         <mark key="m" line="15" column="51" />
-        <mark key="]" line="37" column="73" />
-        <mark key="^" line="37" column="73" />
-        <mark key="." line="37" column="73" />
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/facetapi/plugins/facetapi/adapter.inc" timestamp="1502102503195">
         <mark key="'" line="1042" column="17" />
@@ -155,17 +155,16 @@
         <mark key="]" line="0" column="76" />
         <mark key="." line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1502122868896">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1502127748084">
         <mark key="'" line="7" column="8" />
-        <mark key="[" line="334" column="64" />
-        <mark key="]" line="334" column="82" />
-        <mark key="m" line="334" column="64" />
-        <mark key="." line="334" column="82" />
-        <mark key="^" line="334" column="82" />
+        <mark key="[" line="332" column="37" />
+        <mark key="m" line="360" column="64" />
+        <mark key="]" line="334" column="36" />
+        <mark key="." line="334" column="36" />
+        <mark key="^" line="334" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/event-table/event-table.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--event.html.twig" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/tabs/tabs.css" />
       <jump line="26" column="53" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
@@ -265,65 +264,66 @@
       <jump line="276" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="8" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="9" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
+      <jump line="1599" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/apachesolr.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>boost</text>
+        <text>_query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdyeF9wcm9maWxlX3NhdmVkX3NlYXJjaGVzJyA9PiBhcnJheSgKICAgICAgJ3RlbXBsYXRlJyA9PiAndGVtcGxhdGVzL3J4LW1vZHVsZXMvcngtbW9kdWxlcy1wcm9maWxlLXNhdmVkLXNlYXJjaGVzJywKICAgICAgJ3ZhcmlhYmxlcycgPT4gYXJyYXkoJ2ZpbHRlcnMnID0+IGFycmF5KCkpLAogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkY29udGVudF90eXBlcyA9IGFycmF5KCdtb2R1bGVfaW50cm8nKTsK</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBHaXZlbiB0aGUgJG5vZGUgdmFyaWFibGUgYWxyZWFkeSBjb250YWlucyB0aGUgY3VycmVudGx5LXZpZXdlZCBub2RlLi4uCg==</text>
+        <text encoding="base64">ICAgICAga3ByKCJqYWphIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBCdWlsZCB0aGUgY29udGVudCB0eXBlcyBmaWx0ZXIuCg==</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGtwcigkdmFsdWVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRtYWluX2ZpbHRlci0+YWRkRmlsdGVyKCRrZXksICR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICBpZiAoISRhY2NvdW50KSB7CiAgICBnbG9iYWwgJHVzZXI7CiAgICAkYWNjb3VudCA9IHVzZXJfbG9hZCgkdXNlci0+dWlkKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3JkZGRkZWFjaCAoJGZpbHRlciBhcyAka2V5ID0+ICR2YWx1ZSkgewo=</text>
+        <text encoding="base64">ICBrcHIoJGFjY291bnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcjdGFicycgPT4gJHRhYnMsCg==</text>
+        <text encoding="base64">ICAkY29udGVudF90eXBlcyA9IGFycmF5KCdtb2R1bGVfaW50cm8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBHaXZlbiB0aGUgJG5vZGUgdmFyaWFibGUgYWxyZWFkeSBjb250YWlucyB0aGUgY3VycmVudGx5LXZpZXdlZCBub2RlLi4uCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRhYnMgPSBbWwogICAgJ3VybCcgPT4gdXJsKCd1c2VyLycgLiAkdXNlci0+dWlkIC4gJy9teS1tb2R1bGVzJyksCiAgICAndGl0bGUnID0+ICJNeSBtb2R1bGVzIiwKICBdLCBbCiAgICAndXJsJyA9PiB1cmwoJ3VzZXIvJyAuICR1c2VyLT51aWQgLiAnL3RyYWNrZXInKSwKICAgICd0aXRsZScgPT4gIlRyYWNrZXIiLAogIF0sIFsKICAgICd1cmwnID0+IHVybCgndXNlci8nIC4gJHVzZXItPnVpZCAuICcvZWRpdCcpLAogICAgJ3RpdGxlJyA9PiAiTXkgcHJvZmlsZSIsCiAgXSwKICBdOwoKICAkdXJsID0gdXJsKGN1cnJlbnRfcGF0aCgpKTsKICBmb3JlYWNoICgkdGFicyBhcyAkbmR4ID0+ICYkdGFiKSB7CiAgICBpZiAoJHVybCA9PSAkdGFiWyd1cmwnXSkgewogICAgICAkdGFic1skbmR4XVsnYWN0aXZlJ10gPSBUUlVFOwogICAgICAkYnJlYWRjcnVtYiA9IGFycmF5KAogICAgICAgIGFycmF5KAogICAgICAgICAgJ3VybCcgPT4gdXJsKCd1c2VyLycgLiAkdXNlci0+dWlkIC4gJy9teS1tb2R1bGVzJyksCiAgICAgICAgICAndGV4dCcgPT4gdCgnRGFzaGJvYXJkJyksCiAgICAgICAgKSwKICAgICAgKTsKCiAgICAgIGlmICgkdXJsICE9PSAndXNlci8nIC4gJHVzZXItPnVpZCAuICcvbXktbW9kdWxlcycpIHsKICAgICAgICAkYnJlYWRjcnVtYltdID0gYXJyYXkoCiAgICAgICAgICAndGV4dCcgPT4gJHRhYlsndGl0bGUnXSwKICAgICAgICAgICd1cmwnID0+ICR0YWJbJ3VybCddLAogICAgICAgICk7CiAgICAgICAgZHJ1cGFsX3NldF90aXRsZSh0KCdEYXNoYm9hcmQgLyBAdGFiJywgYXJyYXkoJ0B0YWInID0+ICR0YWJbJ3RpdGxlJ10pKSk7CiAgICAgIH0KICAgICAgcnhfbW9kdWxlc19zZXRfYnJlYWRjcnVtYigkYnJlYWRjcnVtYik7CiAgICB9CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLyBCdWlsZCB0aGUgY29udGVudCB0eXBlcyBmaWx0ZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boost</last-search>
+      <last-search>_query</last-search>
       <last-offset />
-      <last-pattern>boost</last-pattern>
+      <last-pattern>_query</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -354,6 +354,7 @@
         <entry>drupal_get_token</entry>
         <entry>RX_MODULES</entry>
         <entry>boost</entry>
+        <entry>_query</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
