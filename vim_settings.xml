@@ -69,12 +69,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502292556710">
-        <mark key="'" line="281" column="2" />
-        <mark key="[" line="265" column="57" />
-        <mark key="]" line="265" column="62" />
-        <mark key="." line="265" column="62" />
-        <mark key="^" line="265" column="62" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502294122729">
+        <mark key="'" line="280" column="2" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="254" column="20" />
+        <mark key="." line="254" column="20" />
+        <mark key="^" line="254" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/rc/rc.inc" timestamp="1502288063233">
         <mark key="]" line="2" column="26" />
@@ -336,17 +336,17 @@
       <jump line="253" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$result</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdmcm9udHBhZ2UtYW5vbnltb3VzJyA9PiB0KCdGcm9udHBhZ2Ug4oCTIGFub255bW91cyB1c2VyJykK</text>
       </register>
       <register name="-" type="4">
-        <text>$result</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>misc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0+Y29uZGl0aW9uKCdzdGF0dXMnLCAwLCc+JykK</text>
+        <text encoding="base64">ICAgICdmcm9udHBhZ2UtYW5vbnltb3VzJyA9PiB0KCdGcm9udHBhZ2Ug4oCTIGFub255bW91cyB1c2VyJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgIAogICRyZXN1bHQgPSBkYl9zZWxlY3QoJ25vZGUnLCAnbicpCiAgICAtPmZpZWxkcygnbicpCiAgICAtPmNvbmRpdGlvbignc3RhdHVzJywgMCwgJz4nKQogICAgLT5jb25kaXRpb24oJ3R5cGUnLCAnbWlzY19wYWdlJykKICAgIC0+b3JkZXJCeSgndGl0bGUnLCAnQVNDJykKICAgIC0+ZXhlY3V0ZSgpOwogIHdoaWxlICgkcm93ID0gJHJlc3VsdC0+ZmV0Y2hBc3NvYygpKSB7CiAgICAkcmV0dXJuWydub2RlLScgLiAkcm93WyduaWQnXV0gPSB0KCdNaXNjIHBhZ2Ug4oCTIEB0aXRsZScsIGFycmF5KCdAdGl0bGUnID0+ICRyb3dbJ3RpdGxlJ10pKTsKICB9Cg==</text>
