@@ -43,6 +43,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_default_content.inc" timestamp="1502295066352">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="15" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/module-card/module-card.twig" timestamp="1502269352765" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--contact-person.html.twig" timestamp="1501858594521">
         <mark key="[" line="7" column="13" />
@@ -336,11 +342,11 @@
       <jump line="253" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdmcm9udHBhZ2UtYW5vbnltb3VzJyA9PiB0KCdGcm9udHBhZ2Ug4oCTIGFub255bW91cyB1c2VyJykK</text>
+      <register name="&quot;" type="4">
+        <text>NULL</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
         <text>misc</text>
