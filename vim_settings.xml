@@ -26,6 +26,11 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/place_default_content.inc" timestamp="1502286037980">
+        <mark key="[" line="54" column="38" />
+        <mark key="]" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/homepage/rxevolve-frontend-homepage.tpl.php" timestamp="1502211614856">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -41,6 +46,12 @@
         <mark key="'" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/templates/home/home.twig" timestamp="1502271258447" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/default_content.inc" timestamp="1502284683559">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/index.css" timestamp="1502271634884">
         <mark key="[" line="56" column="50" />
         <mark key="]" line="56" column="67" />
@@ -81,25 +92,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502270824580">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502283735281">
         <mark key="'" line="99" column="9" />
-        <mark key="[" line="111" column="20" />
-        <mark key="]" line="111" column="40" />
-        <mark key="." line="111" column="40" />
-        <mark key="^" line="111" column="40" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/homepage/homepage.inc" timestamp="1502218618283">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="39" />
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/02-molecules/image-bar/image-bar.twig" timestamp="1502208833233">
-        <mark key="h" line="0" column="0" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/promotional-banner/promotional-banner.css" timestamp="1502271761002">
         <mark key="[" line="3" column="0" />
@@ -160,17 +163,17 @@
         <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/paragraphs_item.inc" timestamp="1502274052885">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
-        <mark key="^" line="26" column="23" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/news-teaser/news-teaser.twig" timestamp="1501528415134">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/PHP Console" timestamp="1502270840382">
+      <file name="/PHP Console" timestamp="1502285563672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/video/video.twig" timestamp="1501881318373">
@@ -219,6 +222,20 @@
       <file name="/Dummy.txt" timestamp="1502272148857">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/templates/dashboard/dashboard.twig" timestamp="1502285171924">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/promotion_banner.inc" timestamp="1502284237323">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/profile/rxevolve-frontend-profile.tpl.twig" timestamp="1502285079577">
+        <mark key="'" line="0" column="0" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/views/views-view--modules-saved-for-later--panel-pane-1.tpl.twig" timestamp="1501782372079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -229,6 +246,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_recommended_modules.inc" timestamp="1502284634230" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/profile-hero-backend/web/modules/contrib/factorial_monitoring_connector/src/Controller/MonitorStateController.php" timestamp="1501704279997">
         <mark key="[" line="58" column="25" />
         <mark key="]" line="58" column="25" />
@@ -390,12 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-    'src': content.field_paragraph_slide_image
-  },</text>
+        <text>placement</text>
       </register>
       <register name="-" type="4">
-        <text>FALSE</text>
+        <text>placement</text>
       </register>
       <register name="/" type="4">
         <text>rx_utils_get_image_data</text>
@@ -403,40 +419,38 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL3ZhbHVlLXByb3Bvc2l0aW9uL3ZhbHVlLXByb3Bvc2l0aW9uLmNzcyI7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    'src': content.field_paragraph_slide_image
-  },</text>
+      <register name="1" type="2">
+        <text encoding="base64">e3sgZHVtcChyZWNvbW1lbmRlZCwgJ2twcicpIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAkdmFyc1snaW1hZ2UnXSA9IE5VTEw7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBrcHIoZGQ7Cg==</text>
+        <text encoding="base64">e3sgY29udGVudC5mb290ZXIgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtwcigkZm4pOwo=</text>
+        <text encoding="base64">WFhYWAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sgZHVtcChmaWVsZF9wYl9saW5rX3RhcmdldCwgJ2twcicpIH19Cg==</text>
+        <text encoding="base64">WFhYWFgK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGZvcm1bJ3ZpZXdfYWxsJ10gPSBhcnJheSgKICAgICcjdHlwZScgPT4gJ2NoZWNrYm94JywKICAgICcjdGl0bGUnID0+IHQoJ1Byb3ZpZGUgdmlldyBhbGwgbGluaycpLAogICAgJyNkZXNjcmlwdGlvbicgPT4gdCgnSWYgdGhpcyBpcyBjaGVja2VkLCB0aGUgbGlzdCBvZiByZWNvbW1lbmRlZCBtZHVsZXMgaGFzIGEgdmlldyBhbGwgbGluaycpLAogICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiBpc3NldCgkY29uZlsndmlld19hbGwnXSkgPyAkY29uZlsndmlld19hbGwnXSA6ICcxJywKICApOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcjZGVzY3JpcHRpb24nID0+IHQoJ051bSBvZiByZXN1bHRzJyksCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcjdGhlbWUnID0+ICdyeF9mcm9udGVuZF9wYWdlX2hlYWRlcicsCiAgICAnI3N0eWxlJyA9PiAnJywKICAgICcjdGl0bGUnID0+ICRub2RlLT50aXRsZSwKICAgICcjc3VidGl0bGUnID0+ICcnLAogICAgJyNidXR0b25zJyA9PiBhcnJheSgKICAgICAgJyN0aGVtZScgPT4gJ3J4X2Zyb250ZW5kX2J1dHRvbicsCiAgICAgICcjYnV0dG9uJyA9PiBhcnJheSgKICAgICAgICAnY2xhc3NlcycgPT4gJycsCiAgICAgICAgJ3VybCcgPT4gJy8nIC4gZHJ1cGFsX2dldF9wYXRoX2FsaWFzKCdub2RlLycgLiAkbm9kZS0+bmlkKSwKICAgICAgICAnbmV3X3dpbmRvdycgPT4gRkFMU0UsCiAgICAgICAgJ3RleHQnID0+IHQoJ0JhY2sgdG8gb3ZlcnZpZXcnKSwKICAgICAgKSwKICAgICksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,7 +463,7 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
