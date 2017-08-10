@@ -48,6 +48,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/fpp/fieldable-panels-pane--intro_text.tpl.twig" timestamp="1502384283722">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/rx-modules/rx-modules-profile-recommended-modules.tpl.twig" timestamp="1502179745850">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="5" />
@@ -132,12 +137,6 @@
         <mark key="]" line="254" column="20" />
         <mark key="." line="254" column="20" />
         <mark key="^" line="254" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/homepage/homepage.inc" timestamp="1502381690403">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="59" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/promotional-banner/promotional-banner.css" timestamp="1502271761002">
         <mark key="[" line="3" column="0" />
@@ -473,11 +472,11 @@
       <jump line="550" column="76" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>post_conte</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sgZHVtcChmaWVsZF9mcHBfaW50cm9fdGV4dF9oZWFkbGxpbmUsICdrcHInKSB9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>post_conte</text>
+        <text>field_fpp_intro_text_headline</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -486,37 +485,37 @@
         <text encoding="base64">ICAgICdmcm9udHBhZ2UtYW5vbnltb3VzJyA9PiB0KCdGcm9udHBhZ2Ug4oCTIGFub255bW91cyB1c2VyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBrcHIoJHZhcnNbJ25hdiddKTsK</text>
+        <text encoding="base64">e3sgZHVtcChmaWVsZF9mcHBfaW50cm9fdGV4dF9oZWFkbGxpbmUsICdrcHInKSB9fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrcHIoIllPIik7Cg==</text>
+        <text encoding="base64">ICBrcHIoJHZhcnNbJ25hdiddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkY29udGVudFsnbmF2aWdhdGlvbiddOwo=</text>
+        <text encoding="base64">ICBrcHIoIllPIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgZW5kc2V0ICV9Cg==</text>
+        <text encoding="base64">ZWNobyAkY29udGVudFsnbmF2aWdhdGlvbiddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICduYXZpZ2F0aW9uJyA9PiB0KCdOYXZpZ2F0aW9uJyksCg==</text>
+        <text encoding="base64">eyUgZW5kc2V0ICV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICksCg==</text>
+        <text encoding="base64">ICAgICduYXZpZ2F0aW9uJyA9PiB0KCdOYXZpZ2F0aW9uJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCcgPT4gdCgnQmFjayB0byBvdmVydmlldycpLAo=</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnbmV3X3dpbmRvdycgPT4gRkFMU0UsCg==</text>
+        <text encoding="base64">ICAgICAgICAndGV4dCcgPT4gdCgnQmFjayB0byBvdmVydmlldycpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
