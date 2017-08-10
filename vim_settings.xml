@@ -133,11 +133,11 @@
         <mark key="." line="254" column="20" />
         <mark key="^" line="254" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/homepage/homepage.inc" timestamp="1502218618283">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/homepage/homepage.inc" timestamp="1502381690403">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="21" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/promotional-banner/promotional-banner.css" timestamp="1502271761002">
         <mark key="[" line="3" column="0" />
@@ -162,10 +162,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/theme.inc" timestamp="1502364947386">
         <mark key="'" line="78" column="4" />
-        <mark key="[" line="527" column="3" />
-        <mark key="]" line="528" column="1" />
-        <mark key="." line="528" column="1" />
-        <mark key="^" line="528" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_tabbed_navigation.inc" timestamp="1502134058739">
         <mark key="[" line="29" column="18" />
@@ -353,7 +349,6 @@
         <mark key="^" line="0" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/atoms/image/image.twig" timestamp="1502270953623" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/templates/generic/generic.json" timestamp="1502364487277" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/views/views-view--module-history--default.tpl.twig" timestamp="1502186309807">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="1" column="0" />
@@ -479,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rxevolve_frontend_get_menu('menu-footer'),</text>
+        <text>post_conte</text>
       </register>
       <register name="-" type="4">
-        <text>rxevolve_frontend_get_menu('menu-footer'),</text>
+        <text>post_conte</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
