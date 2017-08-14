@@ -103,12 +103,8 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502702558140">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1502704773993">
         <mark key="'" line="306" column="17" />
-        <mark key="[" line="312" column="8" />
-        <mark key="]" line="310" column="30" />
-        <mark key="^" line="310" column="30" />
-        <mark key="." line="310" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/atoms/text-headline/text-headline.css" timestamp="1502534419969">
         <mark key="[" line="6" column="1" />
@@ -235,7 +231,7 @@
         <mark key="^" line="44" column="87" />
         <mark key="." line="44" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_polls/rx_polls.module" timestamp="1502198985023">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_polls/rx_polls.module" timestamp="1502704721494">
         <mark key="[" line="355" column="54" />
         <mark key="]" line="355" column="54" />
         <mark key="^" line="355" column="54" />
@@ -423,14 +419,14 @@
       <jump line="306" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>drupal_get_path_alias</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>node_view</text>
+        <text>menu_alter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3ZhcmlhYmxlcycgPT4gYXJyYXkoJ21vZHVsZXMnID0+IGFycmF5KCksICd2aWV3X2FsbF91cmwnID0+IE5VTEwpLAo=</text>
@@ -473,13 +469,13 @@
       </register>
     </registers>
     <search>
-      <last-search>node_view</last-search>
+      <last-search>menu_alter</last-search>
       <last-offset />
-      <last-pattern>node_view</last-pattern>
+      <last-pattern>menu_alter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -504,6 +500,8 @@
         <entry>update_index</entry>
         <entry>anels_selective_ipe</entry>
         <entry>node_view</entry>
+        <entry>menu-alter</entry>
+        <entry>menu_alter</entry>
       </history-search>
       <history-cmd>
         <entry>134</entry>
@@ -516,7 +514,6 @@
         <entry>334</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>191</entry>
-        <entry>noh</entry>
         <entry>197</entry>
         <entry>W</entry>
         <entry>:w</entry>
@@ -525,6 +522,7 @@
         <entry>95</entry>
         <entry>1</entry>
         <entry>94</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
