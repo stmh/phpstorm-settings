@@ -9,11 +9,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1502794230254">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="55" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1502801241522">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1502361563207">
         <mark key="'" line="556" column="76" />
@@ -249,8 +248,8 @@
       <jump line="30" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_utils/mdw_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -262,18 +261,24 @@
         <text encoding="base64">PGgyPkRpc2NsYWltZXI8L2gyPgo8aDM+WW91J3JlIG5vdyBsZWF2aW5nIG91ciB3ZWJzaXRlLi4uPC9oMz4KPHA+VGhpcyB3ZWJzaXRlIGlzIGFuIGludGVybmF0aW9uYWwgaW5mb3JtYXRpb24gcmVzb3VyY2UgaW50ZW5kZWQgZm9yIGhlYWx0aGNhcmUgcHJvZmVzc2lvbmFscyBvdXRzaWRlIHRoZSBVbml0ZWQgU3RhdGVzIG9mIEFtZXJpY2EgKFVTKSB3aG8gYXJlIGludGVyZXN0ZWQgaW4gaW5mb3JtYXRpb24gYWJvdXQgR0lPVFJJRjxzdXA+wq48L3N1cD4gYW5kIG1lZGljYWwgaW5mb3JtYXRpb24gaW4gdGhlIGFyZWEgb2YgbHVuZyBjYW5jZXIuIFdoaWxlIHRoZSBJbnRlcm5ldCBzZXJ2ZXMgYSBnbG9iYWwgY29tbXVuaXR5LCB0aGUgcGhhcm1hY2V1dGljYWwgaW5kdXN0cnkgaXMgc3ViamVjdCB0byBjb3VudHJ5LXNwZWNpZmljIHJlZ3VsYXRvcnkgY29uc2lkZXJhdGlvbnMuIFRoaXMgbWVhbnMgdGhhdCB0aGUgcmVnaXN0cmF0aW9uIHN0YXR1cyBhbmQgYXBwcm92ZWQgcHJvZHVjdCBsYWJlbHMgb2YgR0lPVFJJRjxzdXA+wq48L3N1cD4gbWF5IG5vdCBiZSB0aGUgc2FtZSBpbiBkaWZmZXJlbnQgY291bnRyaWVzLiBJbmZvcm1hdGlvbiBvbiB0aGlzIHdlYnNpdGUgaXMgZGVyaXZlZCBmcm9tIHRoZSBTdW1tYXJ5IG9mIFByb2R1Y3QgQ2hhcmFjdGVyaXN0aWNzIGZvciBHSU9UUklGPHN1cD7Crjwvc3VwPiBpbiB0aGUgRXVyb3BlYW4gVW5pb24gKEVVKS4gSXQgaXMgbm90IGNvdW50cnktc3BlY2lmaWMgYW5kIG1heSB2YXJ5IGZyb20gdGhlIGFwcHJvdmVkIGxhYmVsIGluIHRoZSBjb3VudHJ5IHdoZXJlIHlvdSBhcmUgbG9jYXRlZC4gUGxlYXNlIHJlZmVyIHRvIHlvdXIgbG9jYWwgUHJlc2NyaWJpbmcgSW5mb3JtYXRpb24gZm9yIGZ1bGwgZGV0YWlscy4KPC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkdmFyc1snbWFpbl9uYXZpZ2F0aW9uX2l0ZW1zJ10gPSBmYWN0b3JpYWxfdG9vbHNfZ2V0X21lbnVfbGlua3MoJ21haW4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WwogICAgewogICAgICAidXJsIjogImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICJ0ZXh0IjogIlR3aXR0ZXIiCiAgICB9LAogICAgewogICAgICAidXJsIjogImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICJ0ZXh0IjogIkZhY2Vib29rIgogICAgfSwKICAgIHsKICAgICAgInVybCI6ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAidGV4dCI6ICJJbnN0YWdyYW0iCiAgICB9CiAgXQo=</text>
+        <text encoding="base64">ICBrcHIoJHZhcnNbJ21haW5fbmF2aWdhdGlvbl9pdGVtcyddKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAkdmFyc1snbWFpbl9uYXZpZ2F0aW9uX2l0ZW1zJ10gPSBmYWN0b3JpYWxfdG9vbHNfZ2V0X21lbnVfbGlua3MoJ21haW4nKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">WwogICAgewogICAgICAidXJsIjogImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICJ0ZXh0IjogIlR3aXR0ZXIiCiAgICB9LAogICAgewogICAgICAidXJsIjogImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICJ0ZXh0IjogIkZhY2Vib29rIgogICAgfSwKICAgIHsKICAgICAgInVybCI6ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAidGV4dCI6ICJJbnN0YWdyYW0iCiAgICB9CiAgXQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAic29jaWFsIjogCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[
     {
       &quot;url&quot;: &quot;http://example.com&quot;,
@@ -289,23 +294,17 @@
     }
   ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF07Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICBbCiAgICAgICAgImxpbmsiID0+IFsKICAgICAgICAgICJ1cmwiID0+ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAgICAgInRleHQiID0+ICJBYm91dCB1cyIKICAgICAgICBdCiAgICAgIF0sCiAgICAgIFsKICAgICAgICAibGluayIgPT4gWwogICAgICAgICAgInVybCIgPT4gImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICAgICAidGV4dCIgPT4gIlNob3dyb29tIgogICAgICAgIF0KICAgICAgXSwKICAgICAgWwogICAgICAgICJsaW5rIiA9PiBbCiAgICAgICAgICAidXJsIiA9PiAiaHR0cDovL2V4YW1wbGUuY29tIiwKICAgICAgICAgICJ0ZXh0IiA9PiAiU2VydmljZXMiCiAgICAgICAgXQogICAgICBdLAogICAgICBbCiAgICAgICAgImxpbmsiID0+IFsKICAgICAgICAgICJ1cmwiID0+ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAgICAgInRleHQiID0+ICJDb250YWN0IgogICAgICAgIF0KICAgICAgXSw=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrcHIoJG1haW5fbWVudSk7Cg==</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBdCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">WwogICAgICBbCiAgICAgICAgImxpbmsiID0+IFsKICAgICAgICAgICJ1cmwiID0+ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAgICAgInRleHQiID0+ICJBYm91dCB1cyIKICAgICAgICBdCiAgICAgIF0sCiAgICAgIFsKICAgICAgICAibGluayIgPT4gWwogICAgICAgICAgInVybCIgPT4gImh0dHA6Ly9leGFtcGxlLmNvbSIsCiAgICAgICAgICAidGV4dCIgPT4gIlNob3dyb29tIgogICAgICAgIF0KICAgICAgXSwKICAgICAgWwogICAgICAgICJsaW5rIiA9PiBbCiAgICAgICAgICAidXJsIiA9PiAiaHR0cDovL2V4YW1wbGUuY29tIiwKICAgICAgICAgICJ0ZXh0IiA9PiAiU2VydmljZXMiCiAgICAgICAgXQogICAgICBdLAogICAgICBbCiAgICAgICAgImxpbmsiID0+IFsKICAgICAgICAgICJ1cmwiID0+ICJodHRwOi8vZXhhbXBsZS5jb20iLAogICAgICAgICAgInRleHQiID0+ICJDb250YWN0IgogICAgICAgIF0KICAgICAgXSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
