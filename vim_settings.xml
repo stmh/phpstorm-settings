@@ -139,7 +139,6 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1503045149265" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--showroom.html.twig" timestamp="1502898233291">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -392,8 +391,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1503047362650">
-        <mark key="'" line="470" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1503052583220">
+        <mark key="'" line="295" column="23" />
         <mark key="[" line="320" column="35" />
         <mark key="]" line="320" column="77" />
         <mark key="^" line="320" column="77" />
@@ -401,11 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
-      <jump line="32" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
-      <jump line="60" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/kuestenperle_frontend.theme" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/fpp/fieldable-panels-pane--brightcove_video.tpl.twig" />
-      <jump line="354" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/contrib/mailchimp/mailchimp.module" />
       <jump line="3" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/templates/dashboard/dashboard.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/blueprint/includes/page.inc" />
       <jump line="2" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/block/block--form--user-profile-form.tpl.twig" />
@@ -501,6 +495,11 @@
       <jump line="114" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/node.inc" />
       <jump line="471" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
       <jump line="470" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="450" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="466" column="38" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="467" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="290" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="295" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -510,7 +509,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>'featured'</text>
+        <text>featured</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoaW5fYXJyYXkoJHZhcnNbJ3ZpZXdfbW9kZSddLCBhcnJheSgnZmVhdHVyZWQnLCAndGVhc2VyJykpKSB7Cg==</text>
@@ -549,13 +548,13 @@
         <text encoding="base64">ICAgICRtb2R1bGUtPmlzX2ZlYXR1cmVkID0gJGlzX2ZlYXR1cmVkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>'featured'</last-search>
+      <last-search>featured</last-search>
       <last-offset />
-      <last-pattern>'featured'</last-pattern>
+      <last-pattern>featured</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -563,10 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>view_alter</entry>
-        <entry>search(</entry>
-        <entry>fe_rx_landing_page_footer_navigations</entry>
-        <entry>paragraph</entry>
         <entry>image</entry>
         <entry>rx_utils_get_image_data</entry>
         <entry>kpr</entry>
@@ -584,12 +579,11 @@
         <entry>preprocess_page</entry>
         <entry>saved_</entry>
         <entry>featured_mo</entry>
-        <entry>featured</entry>
         <entry>is_fea</entry>
         <entry>'featured'</entry>
+        <entry>featured</entry>
       </history-search>
       <history-cmd>
-        <entry>334</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>191</entry>
         <entry>197</entry>
@@ -608,8 +602,9 @@
         <entry>153</entry>
         <entry>90</entry>
         <entry>47</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>Dash</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
