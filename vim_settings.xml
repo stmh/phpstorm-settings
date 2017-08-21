@@ -9,10 +9,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1502898892695">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1503306589592">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="177" column="3" />
+        <mark key="]" line="176" column="22" />
+        <mark key="." line="176" column="22" />
+        <mark key="^" line="176" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1502361563207">
         <mark key="'" line="556" column="76" />
@@ -164,6 +166,12 @@
         <mark key="]" line="340" column="30" />
         <mark key="^" line="342" column="3" />
         <mark key="." line="340" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--frontpage.html.twig" timestamp="1503306527224">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="135" column="37" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/molecules/promotional-banner/promotional-banner.css" timestamp="1502271761002">
         <mark key="[" line="3" column="0" />
@@ -410,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/views/views-view-unformatted--modules-saved-for-later--default.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/views/views-view-unformatted--modules-saved-for-later--default.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/templates/views/views-view-unformatted--modules-saved-for-later--panel-pane-1.tpl.twig" />
@@ -510,61 +517,62 @@
       <jump line="181" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/00-particles/base/base.css" />
       <jump line="187" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/00-particles/base/base.css" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/00-particles/base/base.css" />
+      <jump line="32" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3VwLCBzdWIgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBmb250LXNpemU6IDgwJTsKfQoKc3VwIHsKICB0b3A6IC0ycHg7Cn0KCnN1YiB7CiAgdG9wOiA0cHg7Cn0K</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTFvZjIgdS1sZy1zaXplMW9mMiB1LXNtLWhpZGRlbiI+CiAgICAgICAgeyUgaW5jbHVkZSAiQG1vbGVjdWxlcy9jYXJkL2NhcmQtc2hvd3Jvb20udHdpZyIgd2l0aCB7CiAgICAgICAgICAibWl4IjogInUtYmdXaGl0ZSIsCiAgICAgICAgICAidXJsIjogIi9zaG93cm9vbS9kZXRhaWwiLAogICAgICAgICAgInN1cGVybGluZV91cmwiOiBwYXRoKCdlbnRpdHkubm9kZS5jYW5vbmljYWwnLCB7J25vZGUnOiA1OH0pLAogICAgICAgICAgInN1cGVybGluZSI6ICJTaG93cm9vbSIsCiAgICAgICAgICAiaGVhZGxpbmUiOiAiU3BvcnRsaWNoZSA8YnI+TGVpc3R1bmciLAogICAgICAgICAgImltYWdlIjogbWFjcm9zLmltYWdlX3NsaWRlKCdzdGFydF9tZHdfMDQnLCAnY29sXzZfM2J5MicsICdNZWRpYUVtYmVkLS1yYXRpbzNieTInKQogICAgICAgIH0gJX0KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>sup</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoaW5fYXJyYXkoJHZhcnNbJ3ZpZXdfbW9kZSddLCBhcnJheSgnZmVhdHVyZWQnLCAndGVhc2VyJykpKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3VwLCBzdWIgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBmb250LXNpemU6IDgwJTsKfQoKc3VwIHsKICB0b3A6IC0ycHg7Cn0KCnN1YiB7CiAgdG9wOiA0cHg7Cn0K</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTFvZjIgdS1sZy1zaXplMW9mMiB1LXNtLWhpZGRlbiI+CiAgICAgICAgeyUgaW5jbHVkZSAiQG1vbGVjdWxlcy9jYXJkL2NhcmQtc2hvd3Jvb20udHdpZyIgd2l0aCB7CiAgICAgICAgICAibWl4IjogInUtYmdXaGl0ZSIsCiAgICAgICAgICAidXJsIjogIi9zaG93cm9vbS9kZXRhaWwiLAogICAgICAgICAgInN1cGVybGluZV91cmwiOiBwYXRoKCdlbnRpdHkubm9kZS5jYW5vbmljYWwnLCB7J25vZGUnOiA1OH0pLAogICAgICAgICAgInN1cGVybGluZSI6ICJTaG93cm9vbSIsCiAgICAgICAgICAiaGVhZGxpbmUiOiAiU3BvcnRsaWNoZSA8YnI+TGVpc3R1bmciLAogICAgICAgICAgImltYWdlIjogbWFjcm9zLmltYWdlX3NsaWRlKCdzdGFydF9tZHdfMDQnLCAnY29sXzZfM2J5MicsICdNZWRpYUVtYmVkLS1yYXRpbzNieTInKQogICAgICAgIH0gJX0KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0b3A6IC0ycHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1cGVybGluZV91cmwiOiBwYXRoKCdlbnRpdHkubm9kZS5jYW5vbmljYWwnLCB7J25vZGUnOiA1OH0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgZHVtcChjb250ZW50LCAna3ByJykgfX0K</text>
+        <text encoding="base64">ICAgIHslICBmb3IgaXRlbSBpbiBzaG93cm9vbSAlfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGtwcigkb3V0KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">c3VwLCBzdWIgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBmb250LXNpemU6IDgwJTsKfQoKc3VwIHsKICB0b3A6IC0ycHg7Cn0KCnN1YiB7CiAgdG9wOiA0cHg7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRvdXQpOwo=</text>
+        <text encoding="base64">ICB0b3A6IC0ycHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtwcigkb3V0KTsK</text>
+        <text encoding="base64">e3sgZHVtcChjb250ZW50LCAna3ByJykgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJG91dFsnaW1hZ2UnXVsnc3JjJ10gPSAkc3JjOwo=</text>
+        <text encoding="base64">ICAgIGtwcigkb3V0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJG91dFsnaW1hZ2VfZmVhdHVyZWRfc3BlY2lhbCddWydzcmMnXSA9ICRzcmM7Cg==</text>
+        <text encoding="base64">ICAgICAga3ByKCRvdXQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoJHZhcnNbJ3ZpZXdfbW9kZSddID09ICd0ZWFzZXInKSB7Cg==</text>
+        <text encoding="base64">ICAgIGtwcigkb3V0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sup</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>sup</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>rx_utils_get_image_data</entry>
         <entry>kpr</entry>
         <entry>misc</entry>
@@ -593,9 +600,9 @@
         <entry>'featured'</entry>
         <entry>featured</entry>
         <entry>sup</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>191</entry>
         <entry>197</entry>
         <entry>:w</entry>
