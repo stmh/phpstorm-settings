@@ -436,18 +436,18 @@
         <mark key="^" line="320" column="77" />
         <mark key="." line="320" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/.platform.app.yaml" timestamp="1503398447576">
-        <mark key="[" line="98" column="27" />
-        <mark key="]" line="98" column="38" />
-        <mark key="." line="98" column="38" />
-        <mark key="^" line="98" column="38" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/.platform.app.yaml" timestamp="1503399409860">
+        <mark key="'" line="61" column="55" />
+        <mark key="[" line="61" column="55" />
+        <mark key="]" line="61" column="59" />
+        <mark key="." line="61" column="59" />
+        <mark key="^" line="61" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/text-image-block/text-image-block.twig" timestamp="1503074362930">
         <mark key="[" line="11" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/views.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/views.inc" />
       <jump line="400" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/theme.inc" />
       <jump line="79" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_sort.inc" />
@@ -547,6 +547,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/bi_dtm_common/bi_dtm_common.module" />
       <jump line="37" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/bi_dtm_manager/bi_dtm_manager.module" />
       <jump line="84" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/bi_dtm_manager/bi_dtm_manager.module" />
+      <jump line="61" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/.platform.app.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -556,7 +557,7 @@
         <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>bi_dtm_manager_url</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAndGV4dCc6ICc8aHR0cDovL2l0YWxicm90LmNvbS9pbmRleC5waHA/cj1tZW51fEl0YWxicm90PicsCiAgICAgICAgfSwK</text>
@@ -599,13 +600,13 @@
       </register>
     </registers>
     <search>
-      <last-search>bi_dtm_manager_url</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>bi_dtm_manager_url</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -629,6 +630,7 @@
         <entry>dtm</entry>
         <entry>_bi_dtm_common_get_site_hubcore_url</entry>
         <entry>bi_dtm_manager_url</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
