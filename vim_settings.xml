@@ -137,6 +137,12 @@
         <mark key="^" line="27" column="78" />
         <mark key="." line="70" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/functions/events/message/__main__.js" timestamp="1503396062563">
+        <mark key="[" line="97" column="93" />
+        <mark key="]" line="97" column="94" />
+        <mark key="." line="97" column="94" />
+        <mark key="^" line="97" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/module-card/module-card.twig" timestamp="1502706450631">
         <mark key="[" line="33" column="76" />
         <mark key="]" line="33" column="99" />
@@ -543,16 +549,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bi_dtm_common</text>
+        <text>Italbrot</text>
       </register>
       <register name="-" type="4">
-        <text>bi_dtm_common</text>
+        <text>Italbrot</text>
       </register>
       <register name="/" type="4">
         <text>bi_dtm_manager_url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoaW5fYXJyYXkoJHZhcnNbJ3ZpZXdfbW9kZSddLCBhcnJheSgnZmVhdHVyZWQnLCAndGVhc2VyJykpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAndGV4dCc6ICc8aHR0cDovL2l0YWxicm90LmNvbS9pbmRleC5waHA/cj1tZW51fEl0YWxicm90PicsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iR3JpZC1jZWxsIHUtbWQtc2l6ZTFvZjIgdS1sZy1zaXplMW9mMiB1LXNtLWhpZGRlbiI+CiAgICAgICAgeyUgaW5jbHVkZSAiQG1vbGVjdWxlcy9jYXJkL2NhcmQtc2hvd3Jvb20udHdpZyIgd2l0aCB7CiAgICAgICAgICAibWl4IjogInUtYmdXaGl0ZSIsCiAgICAgICAgICAidXJsIjogIi9zaG93cm9vbS9kZXRhaWwiLAogICAgICAgICAgInN1cGVybGluZV91cmwiOiBwYXRoKCdlbnRpdHkubm9kZS5jYW5vbmljYWwnLCB7J25vZGUnOiA1OH0pLAogICAgICAgICAgInN1cGVybGluZSI6ICJTaG93cm9vbSIsCiAgICAgICAgICAiaGVhZGxpbmUiOiAiU3BvcnRsaWNoZSA8YnI+TGVpc3R1bmciLAogICAgICAgICAgImltYWdlIjogbWFjcm9zLmltYWdlX3NsaWRlKCdzdGFydF9tZHdfMDQnLCAnY29sXzZfM2J5MicsICdNZWRpYUVtYmVkLS1yYXRpbzNieTInKQogICAgICAgIH0gJX0KICAgICAgPC9kaXY+Cg==</text>
@@ -598,14 +604,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rx_utils_get_image_data</entry>
-        <entry>kpr</entry>
-        <entry>misc</entry>
-        <entry>youtube</entry>
         <entry>video</entry>
         <entry>rxevolve_frontend_preprocess_field</entry>
         <entry>update_index</entry>
