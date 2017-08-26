@@ -63,6 +63,12 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.breakpoints.yml" timestamp="1503762955879">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="20" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/dropdown/dropdown.js" timestamp="1503610834333">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="13" />
@@ -73,6 +79,11 @@
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/source/_patterns/00-particles/base/base.css" timestamp="1503762845999">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/factorial_media_image_render/src/Handler/MediaImageRenderHandler.php" timestamp="1503597623596">
         <mark key="[" line="119" column="53" />
@@ -297,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdpdGggeyBub19qczogdHJ1ZSB9</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpdGggeyBub19qczogdHJ1ZSB9</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>theme(</text>
