@@ -237,6 +237,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/trial-with-subcontent/inoncology-trial-with-subcontent.tpl.twig" timestamp="1503758347303">
+        <mark key="[" line="42" column="78" />
+        <mark key="]" line="42" column="78" />
+        <mark key="." line="42" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/reading-time/reading-time.js" timestamp="1503605844232">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="120" />
@@ -370,11 +375,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trial-teaser-filter-item.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRleGMtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHdpdGggeyBub19qczogdHJ1ZSB9</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IHdpdGggeyBub19qczogdHJ1ZSB9</text>
       </register>
       <register name="/" type="4">
         <text>theme(</text>
