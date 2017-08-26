@@ -57,6 +57,12 @@
         <mark key="]" line="43" column="74" />
         <mark key="." line="43" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1503775730450">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/dropdown-item/dropdown-item.twig" timestamp="1503605052096">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="5" />
@@ -150,6 +156,9 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/page-components/back-to-top-sharing/back-to-top-sharing.js" timestamp="1503774999652">
+        <mark key="[" line="57" column="62" />
+      </file>
       <file name="/Dummy.txt" timestamp="1503605934271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,7 +176,8 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/dropdown/dropdown.twig" timestamp="1503610826367">
         <mark key="[" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/trials-overview/trials-overview.js" timestamp="1503611247471">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1503775409376" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/trials-overview/trials-overview.js" timestamp="1503775645216">
         <mark key="[" line="39" column="48" />
         <mark key="]" line="39" column="48" />
         <mark key="." line="39" column="48" />
@@ -307,11 +317,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trial-teaser-filter-item.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZWwgPSB0aGlzLnNsaWRlcnNbaV07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>that</text>
       </register>
       <register name="/" type="4">
         <text>theme(</text>
@@ -320,40 +330,42 @@
         <text encoding="base64">ICAgICAgICBpdGVtLmNsYXNzTGlzdC5yZW1vdmUoJ1RyaWFsc092ZXJ2aWV3LXRyaWFsSGlkZGVuJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRleGMtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZWwgPSB0aGlzLnNsaWRlcnNbaV07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrcHIoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRoYXQgPSB0aGlzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBrcHIoJGRhdGEpOwo=</text>
+      <register name="4" type="4">
+        <text>let i;
+    for (i in this.sliders) {
+      if (parseInt(i, 10) === i) {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtwcigkbm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAga3ByKCRleGMtPmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JSBzZXQgZmlsdGVycyAlfQoKICB7JSBpbmNsdWRlICJAbW9sZWN1bGVzL2ZpbHRlci1kcm9wZG93bi9maWx0ZXItZHJvcGRvd24udHdpZyIgd2l0aCB7CiAgICAibGFiZWwiOiAiU2hvdyBhbGwgdHJpYWxzIiB8IHQsCiAgICAib3B0aW9ucyI6IGRhdGEuZmlsdGVyX29wdGlvbnMKICB9JX0KeyUgZW5kc2V0ICV9Cgp7JSBpbmNsdWRlICdAb3JnYW5pc21zL3RyaWFscy1vdmVydmlldy90cmlhbHMtb3ZlcnZpZXcudHdpZycgd2l0aCB7CiAgInRyaWFscyI6IGRhdGEudHJpYWxzLAogICJmaWx0ZXJzIjogZmlsdGVycwp9ICV9Cg==</text>
+        <text encoding="base64">ICBrcHIoJGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRub2RlKTsK</text>
+        <text encoding="base64">ICBrcHIoJGRhdGEpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBrcHIoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGtwcigkbm9kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>85</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -407,8 +419,8 @@
         <entry>245</entry>
         <entry>210</entry>
         <entry>30</entry>
-        <entry>w</entry>
         <entry>85</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
