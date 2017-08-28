@@ -236,6 +236,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/ckeditor.styles.js" timestamp="1503941237155">
+        <mark key="[" line="18" column="95" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="60" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/trials-overview/trials-overview.js" timestamp="1503775645216">
         <mark key="[" line="39" column="48" />
         <mark key="]" line="39" column="48" />
@@ -377,19 +383,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
-      <register name="0" type="4">
-        <text>field_view_field('node', $node, 'field_article_headline', 'teaser'),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgMycJCSwgZWxlbWVudCA6ICdoMycgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -398,28 +404,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLyogSW5saW5lIFN0eWxlcyAqLwoKICAgICAgICAgICAgLy8gVGhlc2UgYXJlIGNvcmUgc3R5bGVzIGF2YWlsYWJsZSBhcyB0b29sYmFyIGJ1dHRvbnMuIFlvdSBtYXkgb3B0IGVuYWJsaW5nCiAgICAgICAgICAgIC8vIHNvbWUgb2YgdGhlbSBpbiB0aGUgIlN0eWxlcyIgZHJvcC1kb3duIGxpc3QsIHJlbW92aW5nIHRoZW0gZnJvbSB0aGUgdG9vbGJhci4KICAgICAgICAgICAgLyoKICAgICAgICAgICAgeyBuYW1lIDogJ1N0cm9uZycJCQksIGVsZW1lbnQgOiAnc3Ryb25nJywgb3ZlcnJpZGVzIDogJ2InIH0sCiAgICAgICAgICAgIHsgbmFtZSA6ICdFbXBoYXNpcycJCQksIGVsZW1lbnQgOiAnZW0nCSwgb3ZlcnJpZGVzIDogJ2knIH0sCiAgICAgICAgICAgIHsgbmFtZSA6ICdVbmRlcmxpbmUnCQksIGVsZW1lbnQgOiAndScgfSwKICAgICAgICAgICAgeyBuYW1lIDogJ1N0cmlrZXRocm91Z2gnCSwgZWxlbWVudCA6ICdzdHJpa2UnIH0sCiAgICAgICAgICAgIHsgbmFtZSA6ICdTdWJzY3JpcHQnCQksIGVsZW1lbnQgOiAnc3ViJyB9LAogICAgICAgICAgICB7IG5hbWUgOiAnU3VwZXJzY3JpcHQnCQksIGVsZW1lbnQgOiAnc3VwJyB9LAogICAgICAgICAgICAqLw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuQXJ0aWNsZUxpYnJhcnlSZXN1bHQtbGluayBhIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgNCcJCSwgZWxlbWVudCA6ICdoNCcgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgMycJCSwgZWxlbWVudCA6ICdoMycgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgMicJCSwgZWxlbWVudCA6ICdoMicgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7eyBkdW1wKGFydGljbGUsICdrcGRkcicpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgLSBncmV5JwkJLCBlbGVtZW50IDogJ2gyJywgYXR0cmlidXRlcyA6IHsnY2xhc3MnIDogJ0hlYWRsaW5lIEhlYWRsaW5lLS1ncmV5J30gfSwK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtwcigkbm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgLSB3aGl0ZScJCSwgZWxlbWVudCA6ICdoMicsIGF0dHJpYnV0ZXMgOiB7J2NsYXNzJyA6ICdIZWFkbGluZSBIZWFkbGluZS0td2hpdGUnfSB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -480,8 +486,8 @@
         <entry>85</entry>
         <entry>66</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry>Gblame</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
