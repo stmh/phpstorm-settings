@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" timestamp="1503667807061">
-        <mark key="'" line="184" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1503598281053">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -45,6 +42,17 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1503936071111">
+        <mark key="'" line="542" column="21" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/article-library-results/article-library-results.twig" timestamp="1503936076461">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/page.inc" timestamp="1503606117583">
         <mark key="[" line="10" column="45" />
@@ -155,6 +163,16 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/article-library-results/article-library-results.css" timestamp="1503936333414">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/exit-modal/exit-modal.js" timestamp="1503936536593">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_utils/src/Routing/RouteSubscriber.php" timestamp="1503581131569">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -181,19 +199,16 @@
         <mark key="[" line="57" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/home/home.twig" timestamp="1503934232476" />
-      <file name="/Dummy.txt" timestamp="1503605934271">
+      <file name="/Dummy.txt" timestamp="1503935364955">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inoncology_deploy/inoncology_deploy.info" timestamp="1503674414137">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--contact.html.twig" timestamp="1503598284893">
         <mark key="[" line="90" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/css_js.inc" timestamp="1503606534979">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/css_js.inc" timestamp="1503935018100">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/dropdown/dropdown.twig" timestamp="1503610826367">
         <mark key="[" line="3" column="6" />
@@ -203,6 +218,12 @@
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/default/settings.php" timestamp="1503935159520">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="631" column="0" />
+        <mark key="]" line="631" column="0" />
+        <mark key="." line="631" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepge/homepage.tpl.twig" timestamp="1503934244211">
         <mark key="[" line="0" column="0" />
@@ -240,18 +261,14 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/text-image-block/text-image-block.twig" timestamp="1503074362930">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1503591665587">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1503936109927">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_saved_searches.inc" />
-      <jump line="83" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/plugins/content_types/profile_saved_searches.inc" />
-      <jump line="35" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_saved_filter/rx_saved_filter.module" />
-      <jump line="152" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_saved_filter/rx_saved_filter.module" />
       <jump line="7" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_modules/rx_modules.module" />
       <jump line="276" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="8" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
@@ -348,65 +365,69 @@
       <jump line="186" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
       <jump line="184" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trial-teaser-filter-item.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/default/settings.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="501" column="82" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="542" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyUgIGluY2x1ZGUgIkBvcmdhbmlzbXMvZG93bmxvYWQtbGlicmFyeS10ZW1wbGF0ZS9kb3dubG9hZC1saWJyYXJ5LXRlbXBsYXRlLnR3aWciIHdpdGggewogICAgaW50cm9kdWN0aW9uIDogY29udGVudC5wcmVfY29udGVudCB+IGNvbnRlbnQuZHluYW1pY19jb250ZW50LAogICAgbWFpbiA6IGNvbnRlbnQuY29udGVudCB+IGNvbnRlbnQucG9zdF9jb250ZW50LAogICAgc2VhcmNoX2Zvcm0gOiBjb250ZW50LnNlYXJjaF9mb3JtLAogIH0KJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>theme(</text>
+        <text>url</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmNsYXNzTGlzdC5yZW1vdmUoJ1RyaWFsc092ZXJ2aWV3LXRyaWFsSGlkZGVuJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>field_view_field('node', $node, 'field_article_headline', 'teaser'),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgIGluY2x1ZGUgIkBvcmdhbmlzbXMvZG93bmxvYWQtbGlicmFyeS10ZW1wbGF0ZS9kb3dubG9hZC1saWJyYXJ5LXRlbXBsYXRlLnR3aWciIHdpdGggewogICAgaW50cm9kdWN0aW9uIDogY29udGVudC5wcmVfY29udGVudCB+IGNvbnRlbnQuZHluYW1pY19jb250ZW50LAogICAgbWFpbiA6IGNvbnRlbnQuY29udGVudCB+IGNvbnRlbnQucG9zdF9jb250ZW50LAogICAgc2VhcmNoX2Zvcm0gOiBjb250ZW50LnNlYXJjaF9mb3JtLAogIH0KJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PD9waHAgaWYgKCRjb250ZW50WydwcmVfY29udGVudCddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsncHJlX2NvbnRlbnQnXTsgPz4KPD9waHAgZW5kaWY7ID8+Cgo8P3BocCBpZiAoJGNvbnRlbnRbJ2R5bmFtaWNfY29udGVudCddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsnZHluYW1pY19jb250ZW50J107ID8+Cjw/cGhwIGVuZGlmOyA/PgoKPD9waHAgaWYgKCRjb250ZW50WydzZWFyY2hfZm9ybSddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsnc2VhcmNoX2Zvcm0nXTsgPz4KPD9waHAgZW5kaWY7ID8+Cgo8P3BocCBpZiAoJGNvbnRlbnRbJ2NvbnRlbnQnXSk6ID8+CiAgPD9waHAgcHJpbnQgJGNvbnRlbnRbJ2NvbnRlbnQnXTsgPz4KPD9waHAgZW5kaWY7ID8+CgoKPD9waHAgaWYgKCRjb250ZW50Wydwb3N0X2NvbnRlbnQnXSk6ID8+CiAgPD9waHAgcHJpbnQgJGNvbnRlbnRbJ3Bvc3RfY29udGVudCddOyA/Pgo8P3BocCBlbmRpZjsgPz4K</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdoaWRkZW4nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7eyBkdW1wKGFydGljbGUsICdrcGRkcicpIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdwb3N0X2NvbnRlbnQnLAo=</text>
+        <text encoding="base64">ICAgIGtwcigkbm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdzZWFyY2hfZm9ybScsCg==</text>
+        <text encoding="base64">ICAgICAgJ21pc2MvanF1ZXJ5Lm9uY2UuanMnID0+IEZBTFNFLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjb250ZW50JywK</text>
+        <text encoding="base64">eyUgIGluY2x1ZGUgIkBvcmdhbmlzbXMvZG93bmxvYWQtbGlicmFyeS10ZW1wbGF0ZS9kb3dubG9hZC1saWJyYXJ5LXRlbXBsYXRlLnR3aWciIHdpdGggewogICAgaW50cm9kdWN0aW9uIDogY29udGVudC5wcmVfY29udGVudCB+IGNvbnRlbnQuZHluYW1pY19jb250ZW50LAogICAgbWFpbiA6IGNvbnRlbnQuY29udGVudCB+IGNvbnRlbnQucG9zdF9jb250ZW50LAogICAgc2VhcmNoX2Zvcm0gOiBjb250ZW50LnNlYXJjaF9mb3JtLAogIH0KJX0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdwcmVfY29udGVudCcsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PD9waHAgaWYgKCRjb250ZW50WydwcmVfY29udGVudCddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsncHJlX2NvbnRlbnQnXTsgPz4KPD9waHAgZW5kaWY7ID8+Cgo8P3BocCBpZiAoJGNvbnRlbnRbJ2R5bmFtaWNfY29udGVudCddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsnZHluYW1pY19jb250ZW50J107ID8+Cjw/cGhwIGVuZGlmOyA/PgoKPD9waHAgaWYgKCRjb250ZW50WydzZWFyY2hfZm9ybSddKTogPz4KICA8P3BocCBwcmludCAkY29udGVudFsnc2VhcmNoX2Zvcm0nXTsgPz4KPD9waHAgZW5kaWY7ID8+Cgo8P3BocCBpZiAoJGNvbnRlbnRbJ2NvbnRlbnQnXSk6ID8+CiAgPD9waHAgcHJpbnQgJGNvbnRlbnRbJ2NvbnRlbnQnXTsgPz4KPD9waHAgZW5kaWY7ID8+CgoKPD9waHAgaWYgKCRjb250ZW50Wydwb3N0X2NvbnRlbnQnXSk6ID8+CiAgPD9waHAgcHJpbnQgJGNvbnRlbnRbJ3Bvc3RfY29udGVudCddOyA/Pgo8P3BocCBlbmRpZjsgPz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdwb3N0X2NvbnRlbnQnID0+IHQoJ1Bvc3QgY29udGVudCcpLAo=</text>
+        <text encoding="base64">ICAgICdoaWRkZW4nLAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdzZWFyY2hfZm9ybScgPT4gdCgnU2VhcmNoIEZvcm0nKSwK</text>
+        <text encoding="base64">ICAgICdwb3N0X2NvbnRlbnQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>theme(</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>theme(</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -430,6 +451,7 @@
         <entry>cache</entry>
         <entry>jobs</entry>
         <entry>theme(</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
