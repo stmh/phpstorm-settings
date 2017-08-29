@@ -66,7 +66,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" timestamp="1503938057496" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/download/download.twig" timestamp="1503492721560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -204,7 +203,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/page-components/back-to-top-sharing/back-to-top-sharing.js" timestamp="1503774999652">
         <mark key="[" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/home/home.twig" timestamp="1503934232476" />
       <file name="/Dummy.txt" timestamp="1503935364955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,6 +244,13 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="20" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" timestamp="1503996177508">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="147" column="38" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/trials-overview/trials-overview.js" timestamp="1503775645216">
         <mark key="[" line="39" column="48" />
         <mark key="]" line="39" column="48" />
@@ -284,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="8" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="9" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
       <jump line="1599" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/contrib/apachesolr/apachesolr.module" />
@@ -384,70 +388,69 @@
       <jump line="501" column="82" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="542" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="500" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBrcHIoZnVuY19nZXRfYXJncygpKTsK</text>
+        <text encoding="base64">ICAgICR2YXJzWydhbHQnXSA9ICRpbWFnZVsnYWx0J107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rmh_utils</text>
+        <text>fpp_image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lIDogJ0hlYWRpbmcgMycJCSwgZWxlbWVudCA6ICdoMycgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBrcHIoZnVuY19nZXRfYXJncygpKTsK</text>
+        <text encoding="base64">ICAgICR2YXJzWydhbHQnXSA9ICRpbWFnZVsnYWx0J107Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ0EnID0+IHQoJ0FwcHJvdmVkJyksCg==</text>
+        <text encoding="base64">ICAgICR2YXJzWyd0aXRsZSddID0gJGltYWdlWyd0aXRsZSddOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ1BBJyA9PiB0KCdQb3N0LWFwcHJvdmFsJyksCg==</text>
+        <text encoding="base64">ICAgICR2YXJzWydsYXJnZV9zcmMnXSA9ICRpbWFnZV9zcmM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJzJiJyA9PiB0KCdQaGFzZSBJSWInKSwK</text>
+        <text encoding="base64">ICAgICRpbWFnZV9zcmMgPSBmaWxlX2NyZWF0ZV91cmwoJGltYWdlWyd1cmknXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGtwcigkaW1hZ2UpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">J0EnID0+IGFycmF5KAogICAgICAnZnVsbCcgPT4gdCgnQScpLAogICAgICAnc2hvcnQnID0+ICdBJywKICAgICAgJ251bScgPT4gNCwKICAgICAgJ2tleScgPT4gJ0EnLAogICAgICAnY29sb3InID0+ICdvcmFuZ2UnLAogICAgKSw=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBrcHIoZnVuY19nZXRfYXJncygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ0EnID0+IHQoJ0FwcHJvdmVkJyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ1BBJyA9PiB0KCdQb3N0LWFwcHJvdmFsJyksCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJzJiJyA9PiB0KCdQaGFzZSBJSWInKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rmh_utils</last-search>
+      <last-search>fpp_image</last-search>
       <last-offset />
-      <last-pattern>rmh_utils</last-pattern>
+      <last-pattern>fpp_image</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>featured_mo</entry>
-        <entry>is_fea</entry>
         <entry>'featured'</entry>
         <entry>featured</entry>
         <entry>sup</entry>
@@ -468,12 +471,9 @@
         <entry>theme(</entry>
         <entry>url</entry>
         <entry>rmh_utils</entry>
+        <entry>fpp_image</entry>
       </history-search>
       <history-cmd>
-        <entry>87</entry>
-        <entry>341</entry>
-        <entry>153</entry>
-        <entry>90</entry>
         <entry>47</entry>
         <entry>wq</entry>
         <entry>662</entry>
@@ -482,7 +482,6 @@
         <entry>109</entry>
         <entry>12</entry>
         <entry>161</entry>
-        <entry>noh</entry>
         <entry>14</entry>
         <entry>tabNext</entry>
         <entry>245</entry>
@@ -493,6 +492,7 @@
         <entry>45</entry>
         <entry>Gblame</entry>
         <entry>216</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
