@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" timestamp="1503942873337">
-        <mark key="'" line="184" column="1" />
-        <mark key="[" line="215" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1503598281053">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -68,8 +64,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/page.inc" timestamp="1503606117583">
-        <mark key="[" line="10" column="45" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/page.inc" timestamp="1504013535463">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/source/_patterns/03-organisms/footer/footer.twig" timestamp="1502794174975">
         <mark key="[" line="27" column="0" />
@@ -105,8 +104,16 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" timestamp="1504014290129">
+        <mark key="'" line="26" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" timestamp="1503999032894">
         <mark key="'" line="1762" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/inc-homepage.tpl.twig" timestamp="1504014231182">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.breakpoints.yml" timestamp="1503762955879">
         <mark key="[" line="20" column="51" />
@@ -217,7 +224,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504001989398">
+      <file name="/PHP Console" timestamp="1504015063531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1503760897955">
@@ -231,6 +238,9 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/page-components/back-to-top-sharing/back-to-top-sharing.js" timestamp="1503774999652">
         <mark key="[" line="57" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/home/home.twig" timestamp="1504013846254">
+        <mark key="[" line="0" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1504001471923">
         <mark key="[" line="0" column="0" />
@@ -313,18 +323,19 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/text-image-block/text-image-block.twig" timestamp="1503074362930">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1503936109927">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1504012347172">
+        <mark key="[" line="69" column="3" />
+        <mark key="]" line="69" column="3" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="69" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/layout/page.tpl.twig" timestamp="1504013581324">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/profile/rxevolve-frontend-profile.tpl.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/layouts/profile/rxevolve-frontend-profile.tpl.twig" />
-      <jump line="1" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/02-molecules/image-bar/image-bar.twig" />
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/fieldable_panels_pane.inc" />
       <jump line="101" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="102" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
@@ -421,62 +432,65 @@
       <jump line="117" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="123" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="15" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
+      <jump line="27" column="378" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
+      <jump line="100" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
+      <jump line="2" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
+      <jump line="26" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>inc_layoutd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBYWFhYWFgK</text>
       </register>
       <register name="-" type="4">
-        <text>inc_layoutd</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>inc_</text>
+        <text>content</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgJ2luY19sYXlvdXRkJzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBYWFhYWFgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAkX1NFU1NJT05bJ3ZpZGVvLXJhdGluZy1pbi13b3JrcyddID0gVFJVRTsK</text>
+        <text encoding="base64">ICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkcnVwYWxfc2Vzc2lvbl9zdGFydCgpOwo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRydXBhbF9zZXNzaW9uX3N0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHt7IHBhZ2UuaGlnaGxpZ2h0ZWQgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBrcHIoJ3ZpZGVvLXJhdGluZycgLiAkdmFyc1snZW50aXR5X2lkJ10pOwo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJkcnVwYWwtbWVzc2FnZXMgY29udGFpbmVyIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAga3ByKCRpdGVtKTsK</text>
+        <text encoding="base64">ICB7JSBpZiBwYWdlLmhpZ2hsaWdodGVkICV9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Override the default field-collection-item.tpl.php with our own so that we cav override the default
-  // play , pause and stop method handlers</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAga3ByKCR2YXJzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR0aGVtZV9yZWdpc3RyeVsnYnJpZ2h0Y292ZV9maWVsZF9lbWJlZCddWyd0ZW1wbGF0ZSddID0gJG1vZHVsZV9wYXRoIC4gJy90ZW1wbGF0ZS9icmlnaHRjb3ZlLWZpZWxkLWVtYmVkJzsK</text>
+        <text encoding="base64">ICAgICAga3ByKCRkaXNwbGF5KTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRtb2R1bGVfcGF0aCA9IGRydXBhbF9nZXRfcGF0aCgnbW9kdWxlJywgJ2JpX2JyaWdodGNvdmVfY3JlZGVudGlhbHNfc3luYycpOwo=</text>
+        <text encoding="base64">ICBrcHIocGFuZWxzX2dldF9jdXJyZW50X3BhZ2VfZGlzcGxheSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inc_</last-search>
+      <last-search>content</last-search>
       <last-offset />
-      <last-pattern>inc_</last-pattern>
+      <last-pattern>content</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -509,6 +523,8 @@
         <entry>brightcove_field_video</entry>
         <entry>brightcove_field_embed</entry>
         <entry>inc_</entry>
+        <entry>console.</entry>
+        <entry>content</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
@@ -534,6 +550,7 @@
         <entry>38</entry>
         <entry>171</entry>
         <entry>72</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
