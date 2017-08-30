@@ -43,6 +43,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/homepage.tpl.twig" timestamp="1504011570239">
         <mark key="[" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.js" timestamp="1504106603733">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trials-teaser-filter-item.tpl.twig" timestamp="1503666990227">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -90,18 +96,24 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" timestamp="1504105493169">
-        <mark key="'" line="80" column="20" />
-        <mark key="[" line="81" column="1" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" timestamp="1504107863320">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item--slide.tpl.twig" timestamp="1504018834770">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slide/bulb-slide.css" timestamp="1504108774673">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/download/download.twig" timestamp="1503492721560">
         <mark key="[" line="0" column="0" />
@@ -215,6 +227,12 @@
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.css" timestamp="1504108022225">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/mdw-media-embed.html.twig" timestamp="1502826315982">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -276,6 +294,7 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/variables.css" timestamp="1504107687422" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/page-components/back-to-top-sharing/back-to-top-sharing.js" timestamp="1503774999652">
         <mark key="[" line="57" column="62" />
       </file>
@@ -308,19 +327,21 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.twig" timestamp="1504105164555">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.twig" timestamp="1504108348719">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_dtm/rmh_dtm.module" timestamp="1503999983594">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1503939219561">
-        <mark key="[" line="32" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1504106399914">
+        <mark key="[" line="31" column="81" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/default/settings.php" timestamp="1503935159520">
         <mark key="'" line="0" column="0" />
@@ -334,11 +355,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slide/bulb-slide.twig" timestamp="1504105545745">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="8" column="36" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slide/bulb-slide.twig" timestamp="1504107256949">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepge/homepage.tpl.twig" timestamp="1503934244211">
         <mark key="[" line="0" column="0" />
@@ -388,7 +409,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/text-image-block/text-image-block.twig" timestamp="1503074362930">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/slide/slide.css" timestamp="1504105041074" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/slide/slide.css" timestamp="1504107225055" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1504024286390">
         <mark key="[" line="71" column="49" />
         <mark key="]" line="70" column="3" />
@@ -398,6 +419,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.css" timestamp="1504108207234">
+        <mark key="[" line="138" column="16" />
+        <mark key="]" line="138" column="16" />
+        <mark key="." line="138" column="16" />
+        <mark key="^" line="138" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -504,75 +531,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>2.8em;</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>2.8em;</text>
       </register>
       <register name="/" type="4">
         <text>colors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LkJ1dHRvbi0tYmx1ZSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYmx1ZSk7Cn0KCi5CdXR0b24tLWJsdWU6aG92ZXIsCi5CdXR0b24tLWJsdWU6Zm9jdXMsCi5CdXR0b24tLWJsdWU6YWN0aXZlIHsKICBjb2xvcjogdmFyKC0tYmx1ZSk7Cn0K</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib3JkZXItYm94Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.Button--blue {
-  background-color: var(--blue);
-}
-
-.Button--blue:hover,
-.Button--blue:focus,
-.Button--blue:active {
-  color: var(--blue);
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHt7IGR1bXAoc2xpZGVyLCAna3ByJykgfX0K</text>
       </register>
-      <register name="3" type="4">
-        <text>.is-red .Button {
-  background-color: var(--red);
-  color: var(--white);
-}
-
-.is-blue .Button {
-  background-color: var(--blue);
-  color: var(--white);
-}
-
-.is-green .Button {
-  color: var(--white);
-  background-color: var(--green);
-}
-
-.is-orange .Button {
-  color: var(--white);
-  background-color: var(--orange);
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZH0K</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGRpdiBpZD0iI3t7Y29udGVudC5maWVsZF9hX2lkLjBbJyNtYXJrdXAnXX19Ij48L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text>.BulbSlide {
+  width: 35%;
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ie3sgY2xhc3Nlc319IiB7eyBhdHRyaWJ1dGVzIH19IgogIDxkaXYgY2xhc3M9ImNvbnRlbnQiIHt7IGNvbnRlbnRfYXR0cmlidXRlcyB9fT4KICAgIHt7IGNvbnRlbnQgfX0KICA8L2Rpdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS1tZWRpdW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB4eHhkZHgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYCg==</text>
+        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL2J1bGItc2xpZGVyL2J1bGItc2xpZGVyLmNzcyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -647,6 +650,8 @@
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>275</entry>
         <entry>157</entry>
+        <entry>65</entry>
+        <entry>160</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
