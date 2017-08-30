@@ -8,13 +8,6 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--video.tpl.twig" timestamp="1504002168639">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/includes/page.inc" timestamp="1502706598114">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="22" column="56" />
@@ -89,20 +82,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" timestamp="1504011674960">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--buesum-events.html.twig" timestamp="1503761565969">
         <mark key="[" line="46" column="74" />
         <mark key="]" line="43" column="74" />
         <mark key="." line="43" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1503775730450">
-        <mark key="[" line="42" column="25" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1504099958657">
+        <mark key="[" line="156" column="105" />
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
@@ -126,6 +112,12 @@
         <mark key="]" line="20" column="54" />
         <mark key="^" line="20" column="54" />
         <mark key="." line="20" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/slider/slider.js" timestamp="1504099893811">
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="77" column="43" />
+        <mark key="^" line="77" column="43" />
+        <mark key="." line="77" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/dropdown/dropdown.js" timestamp="1503610834333">
         <mark key="[" line="6" column="9" />
@@ -342,10 +334,9 @@
         <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/templates/layout/layout.twig" timestamp="1504024286390">
-        <mark key="[" line="70" column="49" />
-        <mark key="]" line="69" column="3" />
-        <mark key="^" line="43" column="20" />
-        <mark key="." line="69" column="3" />
+        <mark key="[" line="71" column="49" />
+        <mark key="]" line="70" column="3" />
+        <mark key="." line="70" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/layout/page.tpl.twig" timestamp="1504024308777">
         <mark key="[" line="4" column="0" />
@@ -502,7 +493,7 @@
         <text encoding="base64">e3sgZHVtcChfY29udGV4dCwgJ2twcicpIH19Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>275</text>
+        <text>157</text>
       </register>
     </registers>
     <search>
@@ -572,6 +563,7 @@
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>w</entry>
         <entry>275</entry>
+        <entry>157</entry>
       </history-cmd>
       <history-expr />
       <history-input />
