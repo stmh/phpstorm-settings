@@ -8,11 +8,11 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/sns_push/sns_push.module" timestamp="1504185671378">
-        <mark key="[" line="398" column="6" />
-        <mark key="]" line="389" column="14" />
-        <mark key="." line="389" column="14" />
-        <mark key="^" line="389" column="14" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/sns_push/sns_push.module" timestamp="1504187768707">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1503485486905">
         <mark key="[" line="0" column="0" />
@@ -79,8 +79,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.batch.inc" timestamp="1504184599874">
-        <mark key="[" line="50" column="65" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_exchange/bmw_exchange.batch.inc" timestamp="1504187751682">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_deploy/bmw_deploy.info" timestamp="1504185914794">
         <mark key="'" line="0" column="0" />
@@ -559,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICRmb3JtWydmaWVsZGRkXyddCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>'article_1'</text>
@@ -571,37 +574,37 @@
         <text>sns_push_list_option_push_recipients'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICRmb3JtWydmaWVsZGRkXyddCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtwcigkZm9ybSk7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlIGRlcml2YXRlcyBvbiBiYXRjaCBydW4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcjb3B0aW9ucycgPT4gJG9wdGlvbnMsCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkc20oJGZvcm1faWQpOwo=</text>
+        <text encoding="base64">ICogQGZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRmb3JtX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRmb3JtX3N0YXRlCg==</text>
+        <text encoding="base64">ICAvLyBjYWNoZV9zZXQoJGNhY2hlX2tleSwgJGRhdGEpOy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRmb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBjaG9zZW4K</text>
+        <text encoding="base64">ICAvLyAgcmV0dXJuICRkYXRhLT5kYXRhOy4K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGFyclswXSwK</text>
+        <text encoding="base64">ICAvLyBpZigkZGF0YSA9IGNhY2hlX2dldCgkY2FjaGVfa2V5KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -686,6 +689,9 @@
         <entry>160</entry>
         <entry>71</entry>
         <entry>7929</entry>
+        <entry>4</entry>
+        <entry>215</entry>
+        <entry>6</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
