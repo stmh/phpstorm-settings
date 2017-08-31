@@ -44,12 +44,6 @@
         <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/slide/slide.twig" timestamp="1504018818549" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--bulb-slider.tpl.twig" timestamp="1504104287789">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item--slide.tpl.twig" timestamp="1504018834770">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="35" />
@@ -130,11 +124,13 @@
         <mark key="." line="138" column="16" />
         <mark key="^" line="138" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1504175242940">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="162" column="2" />
-        <mark key="]" line="162" column="3" />
-        <mark key="." line="162" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" timestamp="1504200758573">
+        <mark key="a" line="152" column="1" />
+        <mark key="'" line="152" column="1" />
+        <mark key="[" line="152" column="1" />
+        <mark key="]" line="152" column="4" />
+        <mark key="." line="152" column="4" />
+        <mark key="^" line="152" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--video.tpl.twig" timestamp="1504002168639">
         <mark key="'" line="0" column="0" />
@@ -151,12 +147,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/includes/form.inc" timestamp="1504191866984" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/homepage.tpl.twig" timestamp="1504011570239">
         <mark key="[" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" timestamp="1503943215118">
-        <mark key="'" line="500" column="0" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/article-library-results/article-library-results.twig" timestamp="1503938073630">
         <mark key="[" line="15" column="60" />
@@ -289,12 +279,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/dropdown/dropdown.twig" timestamp="1503610826367">
         <mark key="[" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/default/settings.php" timestamp="1503935159520">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="631" column="0" />
-        <mark key="]" line="631" column="0" />
-        <mark key="." line="631" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/blueprint/templates/fpp/fieldable-panels-pane--slider.tpl.twig" timestamp="1503044971218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -320,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/.platform.app.yaml" />
-      <jump line="50" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/bi_vault_display/bi_vault_display.module" />
       <jump line="340" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/node.inc" />
       <jump line="19" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_veeva_utils/rmh_veeva_utils.module" />
@@ -420,6 +402,8 @@
       <jump line="92" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="99" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="237" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
+      <jump line="162" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" />
+      <jump line="152" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/mdw_frontend.theme" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -429,7 +413,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pager</text>
+        <text>main_na</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncXVlcnknID0+IGRydXBhbF9nZXRfZGVzdGluYXRpb24oKSwK</text>
@@ -472,13 +456,13 @@
       </register>
     </registers>
     <search>
-      <last-search>pager</last-search>
+      <last-search>main_na</last-search>
       <last-offset />
-      <last-pattern>pager</last-pattern>
+      <last-pattern>main_na</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -518,6 +502,7 @@
         <entry>mulit</entry>
         <entry>'article_1'</entry>
         <entry>pager</entry>
+        <entry>main_na</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
