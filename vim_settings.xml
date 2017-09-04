@@ -65,6 +65,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/helper.inc" timestamp="1504024552620">
         <mark key="[" line="63" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_twig_filter/src/TwigExtension/DefaultTwigExtension.php" timestamp="1504541535800">
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="74" column="65" />
+        <mark key="." line="74" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/organisms/slider/slider.twig" timestamp="1504017908835">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -491,11 +496,11 @@
       <jump line="38" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>skipAnimation</text>
