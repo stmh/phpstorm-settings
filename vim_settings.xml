@@ -95,7 +95,6 @@
         <mark key="." line="313" column="7" />
         <mark key="^" line="313" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imagecache_external/imagecache_external.module" timestamp="1504604817154" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/source/_patterns/03-organisms/footer/footer.twig" timestamp="1502794174975">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -204,6 +203,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/includes/common.inc" timestamp="1504371670889">
         <mark key="[" line="7927" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/dzvier_map.html.twig" timestamp="1504605152680">
+        <mark key="[" line="3" column="139" />
+        <mark key="]" line="3" column="139" />
+        <mark key="." line="3" column="139" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--terms.html.twig" timestamp="1502794302341">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="33" />
@@ -275,10 +279,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504604885319">
+      <file name="/PHP Console" timestamp="1504605261953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imagecache_external/imagecache_external.api.php" timestamp="1504601114735" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1503760897955">
         <mark key="[" line="84" column="71" />
       </file>
@@ -305,10 +308,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--contact.html.twig" timestamp="1503598284893">
         <mark key="[" line="90" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/00-particles/components/components-map/components-map.js" timestamp="1504539384064">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/00-particles/components/components-map/components-map.js" timestamp="1504605185022">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/css_js.inc" timestamp="1503935018100">
         <mark key="[" line="74" column="0" />
@@ -331,11 +335,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1504113439655">
         <mark key="[" line="31" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504604926478">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="63" column="49" />
-        <mark key="." line="63" column="49" />
-        <mark key="^" line="63" column="49" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504605247791">
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--slider.tpl.twig" timestamp="1504020917110">
         <mark key="[" line="0" column="42" />
@@ -405,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--about_us.html.twig" />
       <jump line="142" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_utils/mdw_utils.module" />
       <jump line="186" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
       <jump line="184" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
@@ -505,61 +508,62 @@
       <jump line="12" column="67" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--404.html.twig" />
       <jump line="37" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" />
       <jump line="38" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" />
+      <jump line="176" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/00-particles/components/components-map/components-map.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>$path</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>skipAnimation</text>
+        <text>imageBase</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRhdGEtdHJhY2sta2V5PSJidXR0b24iIGRhdGEtdHJhY2stdmFsdWU9ImludGVyYWN0aW9uOnNraXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyLT5hdHRyaWJ1dGVzKCktPmJpbGQtPl90b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtWydiaWxkJ10gPSBtWydiaWxkJ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkcGF5bG9hZCwgVFJVRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCh0eXBlb2YobVsnYmlsZCddKSA9PT0gJ3N0cmluZycpICYmIChtWydiaWxkJ10ubGVuZ3RoID4gMCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyLT5hdHRyaWJ1dGVzKCktPmJpbGQtPl90b1N0cmluZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKSAK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkcGF5bG9hZCwgVFJVRSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcihqc29uX2RlY29kZSgkcGF5bG9hZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skipAnimation</last-search>
+      <last-search>imageBase</last-search>
       <last-offset />
-      <last-pattern>skipAnimation</last-pattern>
+      <last-pattern>imageBase</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -587,6 +591,8 @@
         <entry>submit</entry>
         <entry>applyTracker</entry>
         <entry>skipAnimation</entry>
+        <entry>image_base_url</entry>
+        <entry>imageBase</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
