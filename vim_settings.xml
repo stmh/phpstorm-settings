@@ -40,8 +40,8 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/homepage.tpl.twig" timestamp="1504011570239">
         <mark key="[" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.js" timestamp="1504284662610">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.js" timestamp="1504634568514">
+        <mark key="[" line="9" column="25" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -136,12 +136,12 @@
         <mark key="]" line="43" column="74" />
         <mark key="." line="43" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1504522476466">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1504634546412">
         <mark key="'" line="38" column="13" />
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="37" column="44" />
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="10" />
+        <mark key="." line="51" column="10" />
+        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1504183967839">
         <mark key="[" line="46" column="90" />
@@ -518,11 +518,11 @@
       <jump line="380" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICk=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>responsive_</text>
