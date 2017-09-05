@@ -15,6 +15,13 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="22" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1504629281359">
+        <mark key="'" line="380" column="43" />
+        <mark key="[" line="593" column="0" />
+        <mark key="]" line="593" column="0" />
+        <mark key="." line="593" column="0" />
+        <mark key="^" line="595" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/sns_push/sns_push.module" timestamp="1504546047595">
         <mark key="'" line="278" column="3" />
         <mark key="[" line="434" column="22" />
@@ -279,7 +286,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504607971757">
+      <file name="/PHP Console" timestamp="1504629301164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1503760897955">
@@ -409,11 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/modules/custom/mdw_utils/mdw_utils.module" />
-      <jump line="186" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
-      <jump line="184" column="1" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_compound/inc_compound.module" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trial-teaser-filter-item.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/default/settings.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="501" column="82" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="542" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
@@ -509,65 +511,70 @@
       <jump line="37" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" />
       <jump line="38" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/00-particles/components/components-map/components-map.js" />
+      <jump line="233" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="292" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="296" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="374" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
+      <jump line="380" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">ICk=</text>
       </register>
       <register name="/" type="4">
-        <text>imageBase</text>
+        <text>responsive_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRhdGEtdHJhY2sta2V5PSJidXR0b24iIGRhdGEtdHJhY2stdmFsdWU9ImludGVyYWN0aW9uOnNraXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtWydiaWxkJ10gPSBtWydiaWxkJ107Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtICR2YXJkZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCh0eXBlb2YobVsnYmlsZCddKSA9PT0gJ3N0cmluZycpICYmIChtWydiaWxkJ10ubGVuZ3RoID4gMCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyLT5hdHRyaWJ1dGVzKCktPmJpbGQtPl90b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIHVuc2V0KCR2YXJzWydpbWdfZWxlbWVudCddWycjc3Jjc2V0J10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyKTsK</text>
+        <text encoding="base64">ICAgICR2YXJzWydpbWdfZWxlbWVudCddWycjYXR0cmlidXRlcyddWydkYXRhLXNyYyddID0gJHZhcnNbJ2ltZ19lbGVtZW50J11bJyNzcmNzZXQnXVswXVsndXJpJ107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkcGF5bG9hZCwgVFJVRSk7Cg==</text>
+        <text encoding="base64">ICBpZiAoIWVtcHR5KCR2YXJzWydpbWdfZWxlbWVudCddWycjc3Jjc2V0J11bMF1bJ3VyaSddKSkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imageBase</last-search>
+      <last-search>responsive_</last-search>
       <last-offset />
-      <last-pattern>imageBase</last-pattern>
+      <last-pattern>responsive_</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -591,6 +598,7 @@
         <entry>skipAnimation</entry>
         <entry>image_base_url</entry>
         <entry>imageBase</entry>
+        <entry>responsive_</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
