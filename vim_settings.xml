@@ -279,7 +279,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504606051045">
+      <file name="/PHP Console" timestamp="1504607320803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/templates/content/node--static-page--frontpage.html.twig" timestamp="1503760897955">
@@ -335,11 +335,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1504113439655">
         <mark key="[" line="31" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504606202136">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-        <mark key="^" line="67" column="23" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504607075113">
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="23" />
+        <mark key="^" line="76" column="23" />
+        <mark key="." line="76" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--slider.tpl.twig" timestamp="1504020917110">
         <mark key="[" line="0" column="42" />
@@ -512,10 +512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>imageBase</text>
@@ -567,12 +567,10 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>brightcove_field_embed</entry>
-        <entry>inc_</entry>
         <entry>console.</entry>
         <entry>content</entry>
         <entry>blue</entry>
