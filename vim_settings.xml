@@ -95,7 +95,7 @@
         <mark key="." line="313" column="7" />
         <mark key="^" line="313" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imagecache_external/imagecache_external.module" timestamp="1504601201039" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imagecache_external/imagecache_external.module" timestamp="1504604817154" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/source/_patterns/03-organisms/footer/footer.twig" timestamp="1502794174975">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -275,7 +275,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504602804508">
+      <file name="/PHP Console" timestamp="1504604885319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/contrib/imagecache_external/imagecache_external.api.php" timestamp="1504601114735" />
@@ -331,11 +331,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/index.js" timestamp="1504113439655">
         <mark key="[" line="31" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504602971648">
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1504604926478">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="63" column="49" />
+        <mark key="." line="63" column="49" />
+        <mark key="^" line="63" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--slider.tpl.twig" timestamp="1504020917110">
         <mark key="[" line="0" column="42" />
@@ -508,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$json</text>
+        <text>$path</text>
       </register>
       <register name="-" type="4">
-        <text>$json</text>
+        <text>$path</text>
       </register>
       <register name="/" type="4">
         <text>skipAnimation</text>
@@ -520,37 +520,37 @@
         <text encoding="base64">IGRhdGEtdHJhY2sta2V5PSJidXR0b24iIGRhdGEtdHJhY2stdmFsdWU9ImludGVyYWN0aW9uOnNraXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkcGF5bG9hZCwgVFJVRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyLT5hdHRyaWJ1dGVzKCktPmJpbGQtPl90b1N0cmluZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkbWFya2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKSAK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkcGF5bG9hZCwgVFJVRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcihqc29uX2RlY29kZSgkcGF5bG9hZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgJHBheWxvYWQgPSAoc3RyaW5nKSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBidXR0b246ICwK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcihqc29uX2RlY29kZSgkcGF5bG9hZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -563,7 +563,7 @@
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
