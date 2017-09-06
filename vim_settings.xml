@@ -40,10 +40,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/homepage.tpl.twig" timestamp="1504011570239">
         <mark key="[" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.js" timestamp="1504634568514">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.js" timestamp="1504685845619">
         <mark key="[" line="9" column="25" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/block/inc-trials-teaser-filter-item.tpl.twig" timestamp="1503666990227">
         <mark key="[" line="0" column="37" />
@@ -90,11 +91,10 @@
         <mark key="." line="34" column="51" />
         <mark key="^" line="34" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.css" timestamp="1504197273099">
-        <mark key="[" line="137" column="42" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="137" column="39" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.css" timestamp="1504687489729">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.service.inc.php" timestamp="1504371830521">
         <mark key="[" line="311" column="101" />
@@ -119,6 +119,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slide/bulb-slide.css" timestamp="1504687297033">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/download/download.twig" timestamp="1503492721560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,13 +141,6 @@
         <mark key="[" line="46" column="74" />
         <mark key="]" line="43" column="74" />
         <mark key="." line="43" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/intro-animation/intro-animation.js" timestamp="1504634546412">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="51" column="6" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="51" column="10" />
-        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1504183967839">
         <mark key="[" line="46" column="90" />
@@ -518,11 +517,11 @@
       <jump line="380" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>responsive_</text>
@@ -531,37 +530,37 @@
         <text encoding="base64">IGRhdGEtdHJhY2sta2V5PSJidXR0b24iIGRhdGEtdHJhY2stdmFsdWU9ImludGVyYWN0aW9uOnNraXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
+        <text encoding="base64">ICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtICR2YXJkZGQK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVuc2V0KCR2YXJzWydpbWdfZWxlbWVudCddWycjc3Jjc2V0J10pOwo=</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICR2YXJzWydpbWdfZWxlbWVudCddWycjYXR0cmlidXRlcyddWydkYXRhLXNyYyddID0gJHZhcnNbJ2ltZ19lbGVtZW50J11bJyNzcmNzZXQnXVswXVsndXJpJ107Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtICR2YXJkZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoIWVtcHR5KCR2YXJzWydpbWdfZWxlbWVudCddWycjc3Jjc2V0J11bMF1bJ3VyaSddKSkgewo=</text>
+        <text encoding="base64">ICAgIHVuc2V0KCR2YXJzWydpbWdfZWxlbWVudCddWycjc3Jjc2V0J10pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICR2YXJzWydpbWdfZWxlbWVudCddWycjYXR0cmlidXRlcyddWydkYXRhLXNyYyddID0gJHZhcnNbJ2ltZ19lbGVtZW50J11bJyNzcmNzZXQnXVswXVsndXJpJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
