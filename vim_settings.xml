@@ -151,6 +151,12 @@
         <mark key="^" line="27" column="103" />
         <mark key="." line="27" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" timestamp="1504709900191">
+        <mark key="[" line="708" column="9" />
+        <mark key="]" line="708" column="21" />
+        <mark key="^" line="708" column="21" />
+        <mark key="." line="708" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--contact-person.html.twig" timestamp="1504173580242">
         <mark key="'" line="1" column="86" />
         <mark key="[" line="1" column="40" />
@@ -523,13 +529,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TRUE</text>
+        <text>function mycustommodule</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>function mycustommodule</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text>views_alter</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRhdGEtdHJhY2sta2V5PSJidXR0b24iIGRhdGEtdHJhY2stdmFsdWU9ImludGVyYWN0aW9uOnNraXA=</text>
@@ -572,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
+      <last-search>views_alter</last-search>
       <last-offset />
-      <last-pattern>events</last-pattern>
+      <last-pattern>views_alter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -604,6 +610,7 @@
         <entry>imageBase</entry>
         <entry>responsive_</entry>
         <entry>events</entry>
+        <entry>views_alter</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
