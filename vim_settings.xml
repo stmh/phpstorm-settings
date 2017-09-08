@@ -40,6 +40,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/modules/node/node.module" timestamp="1504890280854">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/homepage/homepage.tpl.twig" timestamp="1504011570239">
         <mark key="[" line="1" column="24" />
       </file>
@@ -155,7 +158,7 @@
         <mark key="." line="43" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/_patterns/organisms/module-card/module-card.twig" timestamp="1504803872813">
-        <mark key="[" line="33" column="68" />
+        <mark key="[" line="18" column="68" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
@@ -461,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--video.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--video.tpl.twig" />
       <jump line="132" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
@@ -561,6 +563,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/modules/image/image.module" />
       <jump line="380" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/css/style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/modules/node/node.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -570,7 +573,7 @@
         <text>image.alt</text>
       </register>
       <register name="/" type="4">
-        <text>'alt'</text>
+        <text>node_save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChkYl90YWJsZV9leGlzdHMoJ2ZpZWxkX2RhdGFfJyAuICRmaWVsZCkpIHsKICAgICAgZGJfZHJvcF90YWJsZSgnZmllbGRfZGF0YV8nIC4gJGZpZWxkKTsKICAgIH0K</text>
@@ -613,9 +616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'alt'</last-search>
+      <last-search>node_save</last-search>
       <last-offset />
-      <last-pattern>'alt'</last-pattern>
+      <last-pattern>node_save</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>console.</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lampImage</entry>
         <entry>-30px</entry>
         <entry>main</entry>
         <entry>categories</entry>
@@ -644,6 +646,7 @@
         <entry>views_alter</entry>
         <entry>menu</entry>
         <entry>'alt'</entry>
+        <entry>node_save</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
