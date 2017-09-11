@@ -207,6 +207,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_polls/rmh_polls.module" timestamp="1504517835423">
         <mark key="[" line="126" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/default/settings.php" timestamp="1505119675946">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="764" column="0" />
+        <mark key="]" line="764" column="0" />
+        <mark key="." line="764" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.twig" timestamp="1504168284654">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="2" column="0" />
@@ -482,6 +488,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/node/node--static-page--contact.html.twig" timestamp="1503598284893">
         <mark key="[" line="90" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/default/settings.local.php" timestamp="1505119706497">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="1" />
+        <mark key="^" line="83" column="1" />
+        <mark key="." line="83" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/css_js.inc" timestamp="1503935018100">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -534,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="752" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="767" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
@@ -634,13 +645,14 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/themes/custom/dprxs_york/css/style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/modules/node/node.module" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRvdXRwdXQtPndyaXRlbG4oJycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>REQUIRED</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>node_save</text>
@@ -718,13 +730,6 @@
         <entry>node_save</entry>
       </history-search>
       <history-cmd>
-        <entry>87</entry>
-        <entry>noh</entry>
-        <entry>434</entry>
-        <entry>88</entry>
-        <entry>197</entry>
-        <entry>418</entry>
-        <entry>7929</entry>
         <entry>311</entry>
         <entry>313</entry>
         <entry>659</entry>
