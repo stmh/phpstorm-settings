@@ -49,6 +49,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/entity_scaffolder/Drush/EntityScaffolder/d7/templates/field_preprocess/link/code.contents.twig" timestamp="1505204579491">
+        <mark key="[" line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/dtmMapping.js" timestamp="1504522169117">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="17" />
@@ -105,11 +108,11 @@
         <mark key="^" line="27" column="103" />
         <mark key="." line="27" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/_tools/es/paragraphs/slider.yaml" timestamp="1505161050655">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="21" column="12" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/_tools/es/paragraphs/slider.yaml" timestamp="1505204397917">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="17" />
         <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/swipe-bmw.yaml" timestamp="1504986551536">
         <mark key="[" line="9" column="13" />
@@ -266,7 +269,7 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/entity_scaffolder/Drush/EntityScaffolder/d7/templates/field_preprocess/link/code.content.twig" timestamp="1505160876217">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/entity_scaffolder/Drush/EntityScaffolder/d7/templates/field_preprocess/link/code.content.twig" timestamp="1505204570131">
         <mark key="[" line="4" column="78" />
         <mark key="]" line="4" column="73" />
         <mark key="^" line="4" column="73" />
@@ -323,7 +326,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/_tools/es/paragraphs/slide.yaml" timestamp="1505162895092">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/_tools/es/paragraphs/slide.yaml" timestamp="1505204248724">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
@@ -621,10 +624,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>field_link</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>field_link</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>field_name</text>
