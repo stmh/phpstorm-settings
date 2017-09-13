@@ -23,10 +23,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" timestamp="1505298582016">
         <mark key="'" line="381" column="43" />
-        <mark key="[" line="133" column="23" />
-        <mark key="]" line="133" column="23" />
-        <mark key="." line="133" column="23" />
-        <mark key="^" line="133" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/sns_push/sns_push.module" timestamp="1504546047595">
         <mark key="'" line="278" column="3" />
@@ -246,12 +242,6 @@
         <mark key="]" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/03-organisms/image-text/image-text.twig" timestamp="1505298551816">
-        <mark key="[" line="99" column="30" />
-        <mark key="]" line="99" column="42" />
-        <mark key="." line="99" column="42" />
-        <mark key="^" line="99" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/source/_patterns/00-particles/base/base.css" timestamp="1503762845999">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="55" />
@@ -317,6 +307,11 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/01-atoms/button/button.css" timestamp="1505307582035">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mediadruckwerk/web/themes/custom/mdw_frontend/templates/macros.twig" timestamp="1502826402481">
         <mark key="[" line="96" column="0" />
@@ -455,11 +450,6 @@
         <mark key="]" line="23" column="33" />
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_consultant/src/Plugin/views/field/FileFormatField.php" timestamp="1505293318132">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1504547644884">
         <mark key="[" line="935" column="14" />
@@ -638,8 +628,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/es_test/entity_scaffolder/Drush/EntityScaffolder/d7/templates/field_instance/link/feature.content.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$node</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB6LWluZGV4OiAxOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$node</text>
@@ -651,37 +641,37 @@
         <text encoding="base64">ICAgICd0ZXh0X21vZGlmaWVyJyA9PiBub2RlLT5nZXQoJ2ZpZWxkX2l0Yl9ub19pbmRlbnQnKS0+dmFsdWUgPyAnJyA6ICdSdGUtLWluZGVudCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInRleHRfbW9kaWZpZXIiIDogdGV4dF9tb2RpZmllciwK</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInRleHRfbW9kaWZpZXIiIDogLAo=</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7eyBub2RlLmdldCgnIlJ0ZS0taW5kZW50IicpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgInRleHRfbW9kaWZpZXIiIDogdGV4dF9tb2RpZmllciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdhbGlnbicgPT4gWyRibG9jay0+Z2V0KCdmaWVsZF9pdGJfZWxlbWVudF9vcmRlcicpLT52YWx1ZV0sCg==</text>
+        <text encoding="base64">ICAgICAgInRleHRfbW9kaWZpZXIiIDogLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ2FsaWduJyA9PiBbJGFsaWduX3N3YXBwZWRdLAo=</text>
+        <text encoding="base64">ICB7eyBub2RlLmdldCgnIlJ0ZS0taW5kZW50IicpIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge3sgaGFzX3RleHQgaXMgZW1wdHkgfX0K</text>
+        <text encoding="base64">ICAgICdhbGlnbicgPT4gWyRibG9jay0+Z2V0KCdmaWVsZF9pdGJfZWxlbWVudF9vcmRlcicpLT52YWx1ZV0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2FsaWduJyA9PiBbJGFsaWduX3N3YXBwZWRdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGJ1aWxkT3B0aW9uc0Zvcm0oJiRmb3JtLCBGb3JtU3RhdGVJbnRlcmZhY2UgJGZvcm1fc3RhdGUpIHsKICAgIHBhcmVudDo6YnVpbGRPcHRpb25zRm9ybSgkZm9ybSwgJGZvcm1fc3RhdGUpOwogIH0K</text>
+        <text encoding="base64">ICAgICAge3sgaGFzX3RleHQgaXMgZW1wdHkgfX0K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2aWV3X3Jlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
