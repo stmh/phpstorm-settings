@@ -4,7 +4,7 @@
     <property name="created">2017-02-12T14:04:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-08-12T13:23:19</property>
+    <property name="modified">2017-09-18T18:40:10</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -461,7 +461,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff8e88" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -503,7 +503,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff8eaa" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -518,7 +518,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff8e88" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1163,12 +1163,12 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="be2c23" />
+        <option name="FOREGROUND" value="ff8173" />
       </value>
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff8e88" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
