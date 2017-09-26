@@ -390,12 +390,12 @@
         <mark key="^" line="39" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" timestamp="1506421534210">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" timestamp="1506421812489">
         <mark key="'" line="32" column="14" />
         <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="29" />
+        <mark key="]" line="52" column="11" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="52" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/test.yaml" timestamp="1504981382416">
         <mark key="[" line="12" column="0" />
@@ -709,7 +709,7 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist help</text>
+        <text>action QuickJavaDoc</text>
       </register>
     </registers>
     <search>
@@ -761,10 +761,16 @@
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
-        <entry>actionlist</entry>
         <entry>action help</entry>
         <entry>action help*</entry>
+        <entry>actionlist</entry>
         <entry>actionlist help</entry>
+        <entry>actionlist documentation</entry>
+        <entry>:actionlist doc</entry>
+        <entry>action QuickDocCOpy</entry>
+        <entry>actionlist quick</entry>
+        <entry>q</entry>
+        <entry>action QuickJavaDoc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
