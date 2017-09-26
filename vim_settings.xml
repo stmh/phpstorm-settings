@@ -709,7 +709,7 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickJavaDoc</text>
+        <text encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</text>
       </register>
     </registers>
     <search>
@@ -765,6 +765,7 @@
         <entry>actionlist quick</entry>
         <entry>q</entry>
         <entry>action QuickJavaDoc</entry>
+        <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
