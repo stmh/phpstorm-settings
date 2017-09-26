@@ -390,7 +390,7 @@
         <mark key="^" line="39" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" timestamp="1506001054989">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" timestamp="1506421405872">
         <mark key="'" line="32" column="14" />
         <mark key="^" line="256" column="25" />
       </file>
@@ -706,7 +706,7 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>actionlist help</text>
       </register>
     </registers>
     <search>
@@ -765,6 +765,10 @@
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
+        <entry>actionlist</entry>
+        <entry>action help</entry>
+        <entry>action help*</entry>
+        <entry>actionlist help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
