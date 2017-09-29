@@ -219,6 +219,16 @@
         <mark key="]" line="764" column="0" />
         <mark key="." line="764" column="0" />
       </file>
+      <file name="/fragment.php" timestamp="1506681520390">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Plugin/resource/Resource.php" timestamp="1506681015144">
+        <mark key="'" line="88" column="11" />
+        <mark key="[" line="646" column="71" />
+        <mark key="]" line="646" column="71" />
+        <mark key="^" line="646" column="71" />
+        <mark key="." line="646" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/molecules/bulb-slider/bulb-slider.twig" timestamp="1504168284654">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="2" column="0" />
@@ -341,7 +351,6 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/config/variables.conf.dev" timestamp="1506595990513" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" timestamp="1504195940242">
         <mark key="'" line="238" column="19" />
         <mark key="[" line="240" column="37" />
@@ -474,7 +483,9 @@
         <mark key="^" line="86" column="12" />
         <mark key="." line="86" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/profiles/hub/modules/contrib/gelf/gelf.module" timestamp="1506595556255" />
+      <file name="/PHP Console" timestamp="1506681526780">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1505829024586">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="2" column="14" />
@@ -499,6 +510,9 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1506681510683">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1504977516579">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="2" column="0" />
@@ -511,7 +525,6 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/config/variables.conf.dev" timestamp="1506595928095" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/sites/default/settings.local.php" timestamp="1505119706497">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="1" />
@@ -529,6 +542,8 @@
         <mark key="^" line="76" column="23" />
         <mark key="." line="76" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/restful.module" timestamp="1506681335987" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/RequestInterface.php" timestamp="1506680531665" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1504547644884">
         <mark key="[" line="935" column="14" />
         <mark key="]" line="935" column="13" />
@@ -564,8 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1145" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
-      <jump line="1750" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1762" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="178" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="17" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
@@ -664,6 +677,8 @@
       <jump line="34" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.breakpoints.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Plugin/resource/Resource.php" />
+      <jump line="88" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Plugin/resource/Resource.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -673,7 +688,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>mdw_</text>
+        <text>initAut</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJHRoaXMtPm91dHB1dC0+d3JpdGVsbihzcHJpbnRmKCc8ZXJyb3I+Q291bGQgbm90IGhhbmRsZSBpc3N1ZSAlczogJXM8L2Vycm9yPicsICRpc3N1ZS0+a2V5LCAkaXNzdWUtPmZpZWxkcy0+c3VtbWFyeSkpOwo=</text>
@@ -712,17 +727,17 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>539</text>
       </register>
     </registers>
     <search>
-      <last-search>mdw_</last-search>
+      <last-search>initAut</last-search>
       <last-offset />
-      <last-pattern>mdw_</last-pattern>
+      <last-pattern>initAut</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -746,6 +761,7 @@
         <entry>jobs</entry>
         <entry>mdw</entry>
         <entry>mdw_</entry>
+        <entry>initAut</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -768,6 +784,7 @@
         <entry>tabNext</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>w</entry>
+        <entry>539</entry>
       </history-cmd>
       <history-expr />
       <history-input />
