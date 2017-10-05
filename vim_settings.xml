@@ -80,17 +80,29 @@
         <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/core/modules/language/language.module" timestamp="1507156196210" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--recent-posts.html.twig" timestamp="1506971585229">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" timestamp="1506969067120">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/button/button.twig" timestamp="1507150915395">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--full.html.twig" timestamp="1507149755697">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="13" />
-        <mark key="^" line="27" column="50" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--full.html.twig" timestamp="1507192683494">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/taxonomy_term/taxonomy-term--tags.html.twig" timestamp="1506972937835">
         <mark key="[" line="0" column="28" />
@@ -108,6 +120,12 @@
         <mark key="]" line="42" column="10" />
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/sites/default/settings.php" timestamp="1507193132838">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="764" column="0" />
+        <mark key="]" line="764" column="0" />
+        <mark key="." line="764" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--frontpage.html.twig" timestamp="1507103283501">
         <mark key="[" line="17" column="52" />
@@ -329,7 +347,6 @@
       <jump line="165" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/Request.php" />
       <jump line="318" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/Request.php" />
       <jump line="8" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/Request.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/sites/default/settings.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-sidebar-ads/blog-sidebar-ads.twig" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" />
@@ -343,13 +360,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/form--comment-form.html.twig" />
       <jump line="12" column="1504" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" />
       <jump line="10" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sga2ludChjb250ZW50KSB9fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -391,7 +409,7 @@
         <text encoding="base64">eyUgaW5jbHVkZSAiQGNvbXBvbmVudHMvY29tbWVudC1mb3JtL2NvbW1lbnQtZm9ybS50d2lnIiB3aXRoIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>442</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -451,9 +469,9 @@
         <entry>w+</entry>
         <entry>72</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>442</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
