@@ -61,7 +61,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" timestamp="1507155212414">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" timestamp="1507159480076">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
@@ -193,8 +193,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" timestamp="1507155197884">
-        <mark key="^" line="4" column="16" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" timestamp="1507159638387">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="1504" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/rtp_utils.module" timestamp="1507153589952">
         <mark key="[" line="39" column="34" />
@@ -239,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
-      <jump line="26" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_data/data.json" />
       <jump line="29" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item.tpl.twig" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item.tpl.twig" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item.tpl.twig" />
@@ -339,61 +341,63 @@
       <jump line="12" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/form--comment-form.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/form--comment-form.html.twig" />
+      <jump line="12" column="1504" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" />
+      <jump line="10" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sga2ludChjb250ZW50KSB9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sugg</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7JSBpZiB2YWx1ZSAlfXZhbHVlPSJ7eyB2YWx1ZSB9fSIgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBraW50KCRjZGRvbW1lbnQpOwo=</text>
+        <text encoding="base64">e3sga2ludChjb250ZW50KSB9fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sga2ludChlbGVtZW50KSB9fQo=</text>
+        <text encoding="base64">ICBraW50KCR2YXJpYWJsZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sga2ludCggfX0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB7eyBraW50KG1hcmt1cCkgfX0KICAgIFhYWFhY</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBraW50KCRjZGRvbW1lbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sga2ludChmb3JtKSB9fQo=</text>
+        <text encoding="base64">e3sga2ludChlbGVtZW50KSB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGNvbXBvbmVudHMvY29tbWVudC1mb3JtL2NvbW1lbnQtZm9ybS50d2lnIiB3aXRoIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBraW50KCRmb3JtX2lkKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICB7eyBraW50KG1hcmt1cCkgfX0KICAgIFhYWFhY</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">e3sga2ludChmb3JtKSB9fQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAiQGNvbXBvbmVudHMvY29tbWVudC1mb3JtL2NvbW1lbnQtZm9ybS50d2lnIiB3aXRoIHsK</text>
       </register>
       <register name=":" type="4">
         <text>442</text>
       </register>
     </registers>
     <search>
-      <last-search>sugg</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>sugg</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
@@ -423,6 +427,8 @@
         <entry>Bad</entry>
         <entry>exit</entry>
         <entry>sugg</entry>
+        <entry>content</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry>action help</entry>
@@ -444,10 +450,10 @@
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>w+</entry>
         <entry>72</entry>
-        <entry>W</entry>
         <entry>1</entry>
         <entry>w</entry>
         <entry>442</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
