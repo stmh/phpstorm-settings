@@ -191,7 +191,6 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/comment--field-blog-comments.html.twig" timestamp="1507149331351" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/region/region--sidebar.html.twig" timestamp="1506969161436">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="26" />
@@ -239,6 +238,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" timestamp="1507232242204">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/html.html.twig" timestamp="1506969510216">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
@@ -253,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item--slide.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item--bulb-slide.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--bulb-slider.tpl.twig" />
       <jump line="55" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
@@ -353,6 +354,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--cover.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/block/block--views-block.html.twig" />
       <jump line="107" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +364,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text>slider</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7JSBpZiB2YWx1ZSAlfXZhbHVlPSJ7eyB2YWx1ZSB9fSIgeyUgZW5kaWYgJX0K</text>
@@ -405,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search>slider</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern>slider</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
@@ -440,6 +442,7 @@
         <entry>content</entry>
         <entry>comment</entry>
         <entry>page</entry>
+        <entry>slider</entry>
       </history-search>
       <history-cmd>
         <entry>action help</entry>
