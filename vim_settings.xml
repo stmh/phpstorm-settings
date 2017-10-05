@@ -33,11 +33,11 @@
         <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/core/modules/language/src/Entity/ContentLanguageSettings.php" timestamp="1507156256221" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/src/Plugin/Block/CoverArticleBlock.php" timestamp="1507196075733">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/src/Plugin/Block/CoverArticleBlock.php" timestamp="1507197669225">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/card-teaser/card-teaser.twig" timestamp="1506970300455">
         <mark key="[" line="13" column="5" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$row</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>$row</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
