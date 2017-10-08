@@ -26,13 +26,12 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/contrib/factorial_tools/src/TwigExtension/DefaultTwigExtension.php" timestamp="1506952573902">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/contrib/factorial_tools/src/TwigExtension/DefaultTwigExtension.php" timestamp="1507476345523">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="8" />
+        <mark key="^" line="65" column="8" />
+        <mark key="." line="65" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/core/modules/language/src/Entity/ContentLanguageSettings.php" timestamp="1507156256221" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/src/Plugin/Block/CoverArticleBlock.php" timestamp="1507197669225">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="5" />
@@ -86,7 +85,6 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/core/modules/language/language.module" timestamp="1507156196210" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--recent-posts.html.twig" timestamp="1506971585229">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="20" column="0" />
@@ -251,8 +249,8 @@
         <mark key="]" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--teaser.html.twig" timestamp="1507142927858">
-        <mark key="[" line="4" column="52" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--teaser.html.twig" timestamp="1507476222771">
+        <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="54" />
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
@@ -387,8 +385,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgZHVtcChmaWVsZF9zbGlkZV9pbWFnZSkgfX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -443,16 +441,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dsm</entry>
-        <entry>tableselect</entry>
-        <entry>submit</entry>
-        <entry>applyTracker</entry>
-        <entry>skipAnimation</entry>
-        <entry>image_base_url</entry>
         <entry>imageBase</entry>
         <entry>responsive_</entry>
         <entry>events</entry>
@@ -475,9 +467,6 @@
         <entry>slider</entry>
       </history-search>
       <history-cmd>
-        <entry>action help</entry>
-        <entry>action help*</entry>
-        <entry>actionlist</entry>
         <entry>actionlist help</entry>
         <entry>actionlist documentation</entry>
         <entry>:actionlist doc</entry>
