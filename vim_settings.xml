@@ -94,6 +94,13 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/contrib/factorial_tools/factorial_tools.module" timestamp="1507478469398">
         <mark key="[" line="190" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1508149443411">
+        <mark key="'" line="211" column="47" />
+        <mark key="[" line="213" column="23" />
+        <mark key="]" line="213" column="33" />
+        <mark key="^" line="213" column="33" />
+        <mark key="." line="213" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--recent-posts.html.twig" timestamp="1506971585229">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="20" column="0" />
@@ -104,6 +111,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="72" />
+        <mark key="^" line="42" column="72" />
+        <mark key="." line="42" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" timestamp="1506969067120">
         <mark key="'" line="5" column="0" />
@@ -228,7 +241,14 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507477345720">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_deploy/dzvier_deploy.install" timestamp="1508149458863">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="106" column="37" />
+        <mark key="]" line="106" column="61" />
+        <mark key="." line="106" column="61" />
+        <mark key="^" line="106" column="61" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508149644935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/region/region--sidebar.html.twig" timestamp="1506969161436">
@@ -295,14 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/paragraphs-item/paragraphs-item--bulb-slide.tpl.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/templates/fpp/fieldable-panels-pane--bulb-slider.tpl.twig" />
-      <jump line="55" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="56" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="59" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="60" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="61" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="62" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="64" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="65" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="68" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
@@ -395,61 +407,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/block/block--views-block.html.twig" />
       <jump line="107" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/fieldable_panels_pane.inc" />
+      <jump line="18" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="182" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="616" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="322" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="282" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="234" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="211" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_deploy/dzvier_deploy.install" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkcXVlcnktPmNvbmRpdGlvbignbGFuZ2NvZGUnLCAnZGUnLCAnIT0nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Mehr laden</text>
       </register>
       <register name="-" type="4">
-        <text>language</text>
+        <text>Mehr laden</text>
       </register>
       <register name="/" type="4">
-        <text>slider</text>
+        <text>_dzvier_utils_validate_telephone_field</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7JSBpZiB2YWx1ZSAlfXZhbHVlPSJ7eyB2YWx1ZSB9fSIgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICBfZHp2aWVyX3V0aWxzX3ZhbGlkYXRlX3RlbGVwaG9uZV9maWVsZCgkZm9ybSwgJGZvcm1fc3RhdGUsICdmaWVsZF9jZl9waG9uZV9udW1iZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkcXVlcnktPmNvbmRpdGlvbignbGFuZ2NvZGUnLCAnZGUnLCAnIT0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkZmllbGRfdmFsdWUgPSAkZm9ybV92YWx1ZXNbJ2ZpZWxkX2NmX3Bob25lX251bWJlciddWzBdWyd2YWx1ZSddOwogICRmaWVsZF9sYWJlbCA9ICRmb3JtWydmaWVsZF9jZl9waG9uZV9udW1iZXInXVsnd2lkZ2V0J11bJyN0aXRsZSddOwogIGlmICghcHJlZ19tYXRjaCgnL15bMC05XSokLycsICRmaWVsZF92YWx1ZSkpIHsKICAgICRmb3JtX3N0YXRlLT5zZXRFcnJvckJ5TmFtZSgnZmllbGRfY2ZfcGhvbmVfbnVtYmVyJywgdCgnQGZpZWxkX2xhYmVsIGZpZWxkIGFjY2VwdHMgb25seSBudW1iZXJzLicsIFsnQGZpZWxkX2xhYmVsJyA9PiAkZmllbGRfbGFiZWxdKSk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJkYXRlIiA6IG5vZGUuZ2V0KCdjcmVhdGVkJykudmFsdWUgfCBkYXRlKCdkLm0uWScpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3sgZHVtcChmaWVsZF9zbGlkZV9pbWFnZSkgfX0K</text>
+        <text encoding="base64">ICAkZmllbGRfdmFsdWUgPSAkZm9ybV92YWx1ZXNbJ2ZpZWxkX2NmX3Bob25lX251bWJlciddWzBdWyd2YWx1ZSddOwogICRmaWVsZF9sYWJlbCA9ICRmb3JtWydmaWVsZF9jZl9waG9uZV9udW1iZXInXVsnd2lkZ2V0J11bJyN0aXRsZSddOwogIGlmICghcHJlZ19tYXRjaCgnL15bMC05XSokLycsICRmaWVsZF92YWx1ZSkpIHsKICAgICRmb3JtX3N0YXRlLT5zZXRFcnJvckJ5TmFtZSgnZmllbGRfY2ZfcGhvbmVfbnVtYmVyJywgdCgnQGZpZWxkX2xhYmVsIGZpZWxkIGFjY2VwdHMgb25seSBudW1iZXJzLicsIFsnQGZpZWxkX2xhYmVsJyA9PiAkZmllbGRfbGFiZWxdKSk7CiAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAkZmllbGRfdmFsdWUgPSAkZm9ybV92YWx1ZXNbJ2ZpZWxkX2NmX3Bob25lX251bWJlciddWzBdWyd2YWx1ZSddOwogICRmaWVsZF9sYWJlbCA9ICRmb3JtWydmaWVsZF9jZl9waG9uZV9udW1iZXInXVsnd2lkZ2V0J11bJyN0aXRsZSddOwogIGlmICghcHJlZ19tYXRjaCgnL15bMC05XSokLycsICRmaWVsZF92YWx1ZSkpIHsKICAgICRmb3JtX3N0YXRlLT5zZXRFcnJvckJ5TmFtZSgnZmllbGRfY2ZfcGhvbmVfbnVtYmVyJywgdCgnQGZpZWxkX2xhYmVsIGZpZWxkIGFjY2VwdHMgb25seSBudW1iZXJzLicsIFsnQGZpZWxkX2xhYmVsJyA9PiAkZmllbGRfbGFiZWxdKSk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAkZmllbGRfdmFsdWUgPSAkZm9ybV92YWx1ZXNbJ2ZpZWxkX2Z3Zl9hbl90ZWxlZm9uJ11bMF1bJ3ZhbHVlJ107CiAgJGZpZWxkX2xhYmVsID0gJGZvcm1bJ2ZpZWxkX2Z3Zl9hbl90ZWxlZm9uJ11bJ3dpZGdldCddWycjdGl0bGUnXTsKICBpZiAoIXByZWdfbWF0Y2goJy9eWzAtOV0qJC8nLCAkZmllbGRfdmFsdWUpKSB7CiAgICAkZm9ybV9zdGF0ZS0+c2V0RXJyb3JCeU5hbWUoJ2ZpZWxkX2Z3Zl9hbl90ZWxlZm9uJywgdCgnQGZpZWxkX2xhYmVsIGZpZWxkIGFjY2VwdHMgb25seSBudW1iZXJzLicsIFsnQGZpZWxkX2xhYmVsJyA9PiAkZmllbGRfbGFiZWxdKSk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga2ludCgkdmFyc1snZm9vdGVyX2xpbmtzJ10pOwo=</text>
+        <text encoding="base64">ICAkdGVsZXBob25lID0gJGZvcm1fc3RhdGUtPmdldFZhbHVlKCRmaWVsZF9uYW1lKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHslIHNldCBwYWdlcyA9IFt7IHRpdGxlOiAnSW1wcmVzc3VtJywgdXJsOiAnL2ltcHJlc3N1bScgfSwgeyB0aXRsZTogJ0tvbnRha3QnLCB1cmw6ICcva29udGFrdCcgfSBdICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slider</last-search>
+      <last-search>_dzvier_utils_validate_telephone_field</last-search>
       <last-offset />
-      <last-pattern>slider</last-pattern>
+      <last-pattern>_dzvier_utils_validate_telephone_field</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
@@ -477,6 +497,10 @@
         <entry>comment</entry>
         <entry>page</entry>
         <entry>slider</entry>
+        <entry>form_alter</entry>
+        <entry encoding="base64">XDxfZHp2aWVyX3V0aWxzX2NvbnRhY3RfbWVzc2FnZV9mcmV1bmRlX3dlcmJlbl9mcmV1bmRlX2Zvcm1cPg==</entry>
+        <entry encoding="base64">XDxjcm1fZmllbGRfbmFtZXNcPg==</entry>
+        <entry>_dzvier_utils_validate_telephone_field</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist help</entry>
@@ -489,7 +513,6 @@
         <entry>539</entry>
         <entry>400</entry>
         <entry>81</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>w+</entry>
         <entry>72</entry>
@@ -498,6 +521,7 @@
         <entry>1</entry>
         <entry>tabNext</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
