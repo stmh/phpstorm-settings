@@ -55,7 +55,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.json" timestamp="1508267953219" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.twig" timestamp="1508268529748">
         <mark key="[" line="13" column="62" />
         <mark key="]" line="21" column="52" />
@@ -125,7 +124,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/templates/pattern.css" timestamp="1508166499908" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/sociallinks/sociallinks.twig" timestamp="1508174335545">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -355,7 +353,7 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508149644935">
+      <file name="/Dummy.txt" timestamp="1508497612283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/region/region--sidebar.html.twig" timestamp="1506969161436">
@@ -392,7 +390,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/twocolumntext/twocolumntext.json" timestamp="1508175022842" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/index.css" timestamp="1508174730997">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -415,6 +412,7 @@
         <mark key="." line="40" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/thunder/config/staging/core.entity_form_display.taxonomy_term.rubrik.default.yml" timestamp="1508497657102" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-layout/blog-layout.json" timestamp="1506968683937">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="6" column="1" />
@@ -581,15 +579,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>imageBase</entry>
-        <entry>responsive_</entry>
-        <entry>events</entry>
-        <entry>views_alter</entry>
-        <entry>menu</entry>
         <entry>'alt'</entry>
         <entry>node_save</entry>
         <entry>field_name</entry>
@@ -612,9 +605,6 @@
         <entry>dashless</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist help</entry>
-        <entry>actionlist documentation</entry>
-        <entry>:actionlist doc</entry>
         <entry>action QuickDocCOpy</entry>
         <entry>actionlist quick</entry>
         <entry>q</entry>
