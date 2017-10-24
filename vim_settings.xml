@@ -21,6 +21,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/plugins/entityqueue/handler/RmhSimpleEntityQueueHandler.class.php" timestamp="1508833311140">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/phb_deploy/phb_deploy.install" timestamp="1507479148184">
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="29" />
@@ -356,7 +362,7 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508497612283">
+      <file name="/Dummy.txt" timestamp="1508832870138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/region/region--sidebar.html.twig" timestamp="1506969161436">
@@ -421,11 +427,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" timestamp="1508832916717">
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="69" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
-      <jump line="70" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="71" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="73" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
       <jump line="74" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/source/_patterns/atoms/button/button.css" />
@@ -523,65 +531,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_deploy/dzvier_deploy.install" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_data/data.json" />
+      <jump line="358" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
+      <jump line="294" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
+      <jump line="313" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgiZ2VodCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>quote</text>
+        <text>$this</text>
       </register>
       <register name="/" type="4">
-        <text>dashless</text>
+        <text>rbsimple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgICJpbmNsdWRlKCkiOiB7CiAgICAgICAgICAicGF0dGVybiI6ICJvcmdhbmlzbXMtbmV3c3RlYXNlciIKICAgICAgICB9CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgiZ2VodCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7JSBpbmNsdWRlICJAYXRvbXMvYnV0dG9uL2J1dHRvbi50d2lnIiAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iTmV3c1RlYXNlckxpc3QtLWN0YS51cmwiPnt7IGN0YS51cmx8cmF3IH19PC9kaXY+CiAgPGRpdiBjbGFzcz0iTmV3c1RlYXNlckxpc3QtLWN0YS5sYWJlbCI+e3sgY3RhLmxhYmVsfHJhdyB9fTwvZGl2Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PC9hPgogIAogICAgPGRpdiBjbGFzcz0iQnV0dG9uLS1sYWJlbCI+e3sgbGFiZWx8cmF3IH19PC9kaXY+IAogICAgPGRpdiBjbGFzcz0iQnV0dG9uLS11cmwiPnt7IHVybHxyYXcgfX08L2Rpdj4gCiAgICA8ZGl2IGNsYXNzPSJCdXR0b24tLW5hbWUiPnt7IG5hbWV8cmF3IH19PC9kaXY+IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdCgnUGFja2FnZSBzdGF0dXMnKSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJRdW90ZS0tY3RhLmxhYmVsIj57eyBjdGEubGFiZWx8cmF3IH19PC9kaXY+IAogICAgPGRpdiBjbGFzcz0iUXVvdGUtLWN0YS51cmwiPnt7IGN0YS51cmx8cmF3IH19PC9kaXY+IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcm93W10gPSBybWhfcXVldWVzX3JlbmRlcl9zdGF0dXMoJGZvcm1bJGtleV1bJ3RhcmdldF9pZCddWycjdmFsdWUnXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCRxdWV1ZS0+aGFuZGxlciA9PSAncmJzaW1wbGUnKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iQ1RBLS1sYWJlbCI+e3sgbGFiZWx8cmF3IH19PC9kaXY+IAogICAgPGRpdiBjbGFzcz0iQ1RBLS11cmwiPnt7IHVybHxyYXcgfX08L2Rpdj4g</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLy8gQ29uZGl0aW9uIGZvciBtb2JpbGUgcXVldWUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dashless</last-search>
+      <last-search>rbsimple</last-search>
       <last-offset />
-      <last-pattern>dashless</last-pattern>
+      <last-pattern>rbsimple</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -605,9 +616,10 @@
         <entry encoding="base64">XDxjcm1fZmllbGRfbmFtZXNcPg==</entry>
         <entry>_dzvier_utils_validate_telephone_field</entry>
         <entry>dashless</entry>
+        <entry encoding="base64">XDxybWhfcXVldWVzX3JlbmRlcl9zdGF0dXNcPg==</entry>
+        <entry>rbsimple</entry>
       </history-search>
       <history-cmd>
-        <entry>action QuickDocCOpy</entry>
         <entry>actionlist quick</entry>
         <entry>q</entry>
         <entry>action QuickJavaDoc</entry>
@@ -618,7 +630,6 @@
         <entry>w+</entry>
         <entry>72</entry>
         <entry>442</entry>
-        <entry>W</entry>
         <entry>tabNext</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>noh</entry>
@@ -626,8 +637,9 @@
         <entry>1</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>w</entry>
         <entry>Gblame</entry>
+        <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
