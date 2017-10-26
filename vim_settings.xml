@@ -65,6 +65,7 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/component.json" timestamp="1509029394565" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.twig" timestamp="1508268529748">
         <mark key="[" line="13" column="62" />
         <mark key="]" line="21" column="52" />
@@ -264,6 +265,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/swiper.tpl.php" timestamp="1509029619665" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.twig" timestamp="1508173915709">
         <mark key="[" line="9" column="29" />
       </file>
@@ -283,6 +285,12 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/icon-module-container/icon-module-container.tpl.php" timestamp="1509029653433">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="38" column="75" />
+        <mark key="^" line="38" column="75" />
+        <mark key="." line="38" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quote/quote.twig" timestamp="1508267926588">
         <mark key="[" line="13" column="54" />
@@ -400,6 +408,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/flexslider.css" timestamp="1509029750548">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.json" timestamp="1508174672722">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="6" column="31" />
@@ -433,6 +446,7 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="32" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/build/scripts/main.css" timestamp="1509029723206" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/rtp_utils.module" timestamp="1507153589952">
         <mark key="[" line="39" column="34" />
         <mark key="]" line="39" column="34" />
@@ -592,11 +606,11 @@
       <jump line="185" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9jcm9vdC9wcm9maWxlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>--color-grey-lig-grey-lightest</text>
       </register>
       <register name="-" type="4">
-        <text>/sites/default/files</text>
+        <text>--color-grey-lig-grey-lightest</text>
       </register>
       <register name="/" type="4">
         <text>form_alter</text>
