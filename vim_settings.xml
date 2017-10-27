@@ -33,6 +33,7 @@
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/accordion-image-onscroll-header/accordion-image-onscroll-header.js" timestamp="1509121368264" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--tags.html.twig" timestamp="1506973258962">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="24" />
@@ -65,7 +66,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/component.json" timestamp="1509029394565" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.twig" timestamp="1508268529748">
         <mark key="[" line="13" column="62" />
         <mark key="]" line="21" column="52" />
@@ -265,7 +265,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/swiper.tpl.php" timestamp="1509029619665" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.twig" timestamp="1508173915709">
         <mark key="[" line="9" column="29" />
       </file>
@@ -419,7 +418,7 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508832870138">
+      <file name="/Dummy.txt" timestamp="1509121266857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/region/region--sidebar.html.twig" timestamp="1506969161436">
@@ -446,7 +445,6 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/build/scripts/main.css" timestamp="1509029723206" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/rtp_utils.module" timestamp="1507153589952">
         <mark key="[" line="39" column="34" />
         <mark key="]" line="39" column="34" />
@@ -606,50 +604,50 @@
       <jump line="185" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>--color-grey-lig-grey-lightest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZigoKSA9PiB0aGlzLl90cmlnZ2VyU2Nyb2xsKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>--color-grey-lig-grey-lightest</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>form_alter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWxhZG1pbjogZG9ja2VyIGV4ZWMgLWkgZmFjdG9yaWFsX3BlcmNvbmFkYl8xIGJhc2ggLWMgIm15c3FsYWRtaW4gJWFyZ3VtZW50cyUiCg==</text>
+        <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZih0aGlzLl90cmlnZ2VyU2Nyb2xsLmJpbmQodGhpcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9jcm9vdC9wcm9maWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZigoKSA9PiB0aGlzLl90cmlnZ2VyU2Nyb2xsKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9jcm9vdC9saWJyYXJpZXMK</text>
+        <text encoding="base64">ZG9jcm9vdC9wcm9maWxlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG9jcm9vdC90aGVtZXMvY29udHJpYgo=</text>
+        <text encoding="base64">ZG9jcm9vdC9saWJyYXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9jcm9vdC9tb2R1bGVzL2NvbnRyaWIK</text>
+        <text encoding="base64">ZG9jcm9vdC90aGVtZXMvY29udHJpYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9jcm9vdC9jb3JlCg==</text>
+        <text encoding="base64">ZG9jcm9vdC9tb2R1bGVzL2NvbnRyaWIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tcG9zZXIuanNvbgo=</text>
+        <text encoding="base64">ZG9jcm9vdC9jb3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29tcG9zZXIubG9jawo=</text>
+        <text encoding="base64">Y29tcG9zZXIuanNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWxhZG1pbjogZG9ja2VyIGV4ZWMgLWkgJWhvc3QuZG9ja2VyLm5hbWUlIGJhc2ggLWMgImNkICVob3N0LmRvY2tlci5jb21wb3NlclJvb3RGb2xkZXIlICYmIGNvbXBvc2VyICVhcmd1bWVudHMlIgo=</text>
+        <text encoding="base64">Y29tcG9zZXIubG9jawo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWxhZG1pbjogCg==</text>
+        <text encoding="base64">ICAgICAgbXlzcWxhZG1pbjogZG9ja2VyIGV4ZWMgLWkgJWhvc3QuZG9ja2VyLm5hbWUlIGJhc2ggLWMgImNkICVob3N0LmRvY2tlci5jb21wb3NlclJvb3RGb2xkZXIlICYmIGNvbXBvc2VyICVhcmd1bWVudHMlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
