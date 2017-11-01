@@ -243,6 +243,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1509554666206">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/thunder/docroot/modules/custom/klambt/klambt_utils/klambt_utils.module" timestamp="1508938823341">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="3" />
@@ -397,12 +404,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509552779525">
-        <mark key="'" line="66" column="5" />
-        <mark key="[" line="66" column="135" />
-        <mark key="]" line="66" column="6" />
-        <mark key="." line="66" column="6" />
-        <mark key="^" line="66" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509554669371">
+        <mark key="'" line="69" column="5" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
+        <mark key="^" line="77" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/.gitignore" timestamp="1508968779899">
         <mark key="[" line="1" column="0" />
@@ -463,7 +470,7 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="/PHP Console" timestamp="1509553082068">
+      <file name="/PHP Console" timestamp="1509554625448">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -529,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="85" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="92" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
       <jump line="99" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/includes/theme.inc" />
@@ -629,19 +635,20 @@
       <jump line="501" column="119" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_utils/rmh_utils.module" />
       <jump line="66" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" />
+      <jump line="6" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>cron</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZih0aGlzLl90cmlnZ2VyU2Nyb2xsLmJpbmQodGhpcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYnVpbGRbSGVscGVyOjpSRUZFUkVOQ0VfVFlQRV9GSUVMRF9OQU1FXSA9IFsnI21hcmt1cCcgPT4gIlNpbWlsYXIgYXJ0aWNsZXMiXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
@@ -650,31 +657,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">dXNlIERydXBhbFxwYXJhZ3JhcGhfaW50ZXJlc3RpbmdfaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdQQVJBR1JBUEhTX0lOVEVSRVNUSU5HX0FSVElDTEVTX1JFRkVSRU5DRV9UWVBFX0ZJRUxEX05BTUUnLCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkc20oJHN1YmZvcm0pOwo=</text>
+        <text encoding="base64">ZGVmaW5lKCdQQVJBR1JBUEhTX0lOVEVSRVNUSU5HX0FSVElDTEVTX0JVTkRMRV9OQU1FJywgJ2ludGVyZXN0aW5nX2FydGljbGVzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkc20oYXJyYXlfa2V5cygkc3ViZm9ybSkpOwo=</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludF9yKGdldF9jbGFzcygkY29udGV4dFsnd2lkZ2V0J10pIC4gIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludF9yKGdldF9jbGFzcygkY29udGV4dFsnd2lkZ2V0J10pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -687,7 +694,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
