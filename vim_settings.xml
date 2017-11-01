@@ -21,7 +21,6 @@
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/accordion-image-onscroll-header/accordion-image-onscroll-header.js" timestamp="1509121368264" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/src/Plugin/Block/CoverArticleBlock.php" timestamp="1507197669225">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="5" />
@@ -129,11 +128,9 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/apachesolr/apachesolr.index.inc" timestamp="1509139577773" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/contrib/apachesolr/apachesolr.api.php" timestamp="1509139423059" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.twig" timestamp="1508173915709">
         <mark key="[" line="9" column="29" />
       </file>
@@ -390,11 +387,18 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/config/install/field.storage.paragraph.field_reference_type.yml" timestamp="1509538167728" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/footer/footer.twig" timestamp="1508174243833">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509538172648">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="41" column="134" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/.gitignore" timestamp="1508968779899">
         <mark key="[" line="1" column="0" />
@@ -412,6 +416,11 @@
         <mark key="]" line="38" column="75" />
         <mark key="^" line="38" column="75" />
         <mark key="." line="38" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.info.yml" timestamp="1509536127093">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--cover.html.twig" timestamp="1507194862766">
         <mark key="[" line="3" column="76" />
@@ -438,6 +447,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/config/install/field.field.paragraph.interesting_articles.field_reference_type.yml" timestamp="1509537917965" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/templates/pattern.json" timestamp="1508169389902">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="95" />
@@ -472,6 +482,7 @@
       <file name="/Dummy.txt" timestamp="1509139175774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_iframe/paragraphs_iframe.info.yml" timestamp="1509536120389" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/bi_helpdesk_api/src/Plugin/resource/Chats__1_0.php" timestamp="1506694911660">
         <mark key="[" line="116" column="33" />
         <mark key="]" line="115" column="8" />
@@ -617,10 +628,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXNwb25zZS0+cmVzcG9uc2UtPmRvY3MpOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>kpr</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>cron</text>
@@ -629,37 +640,37 @@
         <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZih0aGlzLl90cmlnZ2VyU2Nyb2xsLmJpbmQodGhpcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXNwb25zZS0+cmVzcG9uc2UtPmRvY3MpOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICogSW1wbGVtZW50cyBob29rX2VudGl0eV9idW5kbGVfZmllbGRfaW5mb19hbHRlcigpLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvblNjcm9sbFJhZigoKSA9PiB0aGlzLl90cmlnZ2VyU2Nyb2xsKCkpOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9jcm9vdC9wcm9maWxlcwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGZpZWxkc1snZmllbGRfcmVmZXJlbmNlX3R5cGUnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9jcm9vdC9saWJyYXJpZXMK</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZG9jcm9vdC90aGVtZXMvY29udHJpYgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">YnVuZGxlX2ZpZWxkX2luZm9fYWx0ZXIoJiRmaWVsZHMsIFxEcnVwYWxcQ29yZVxFbnRpdHlcRW50aXR5VHlwZUludGVyZmFjZSAkZW50aXR5X3R5cGUsICRidW5kbGUpIHsKICBpZiAoIWVtcHR5KCRmaWVsZHNbJ2ZpZWxkX3JlZmVyZW5jZV90eXBlJ10pKSB7CiAgICBwcmludF9yKCRmaWVsZHNbJ2ZpZWxkX3JlZmVyZW5jZV90eXBlJ10pOwogICAgZXhpdCgpOwogIH0KfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9jcm9vdC9tb2R1bGVzL2NvbnRyaWIK</text>
+        <text encoding="base64">ICBwcmludF9yKGFycmF5X2tleXMoJGZpZWxkcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9jcm9vdC9jb3JlCg==</text>
+        <text encoding="base64">ICBleGl0KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29tcG9zZXIuanNvbgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -672,12 +683,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>content</entry>
-        <entry>comment</entry>
         <entry>page</entry>
         <entry>slider</entry>
         <entry encoding="base64">XDxfZHp2aWVyX3V0aWxzX2NvbnRhY3RfbWVzc2FnZV9mcmV1bmRlX3dlcmJlbl9mcmV1bmRlX2Zvcm1cPg==</entry>
