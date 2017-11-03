@@ -243,12 +243,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1509638657080">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1509707516134">
         <mark key="'" line="36" column="18" />
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="26" />
-        <mark key="^" line="52" column="26" />
+        <mark key="[" line="64" column="82" />
+        <mark key="]" line="64" column="82" />
+        <mark key="." line="64" column="82" />
+        <mark key="^" line="64" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/thunder/docroot/modules/custom/klambt/klambt_utils/klambt_utils.module" timestamp="1508938823341">
         <mark key="[" line="12" column="2" />
@@ -325,12 +325,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/RelatedArticlesInterface.php" timestamp="1509637741645">
-        <mark key="[" line="24" column="77" />
-        <mark key="]" line="24" column="75" />
-        <mark key="^" line="24" column="75" />
-        <mark key="." line="24" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--taxonomy-blocks--categories.html.twig" timestamp="1506972320458">
         <mark key="[" line="17" column="24" />
@@ -413,12 +407,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509615795798">
-        <mark key="'" line="81" column="20" />
-        <mark key="[" line="82" column="57" />
-        <mark key="]" line="82" column="96" />
-        <mark key="." line="82" column="96" />
-        <mark key="^" line="82" column="96" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509707671603">
+        <mark key="'" line="83" column="20" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/.gitignore" timestamp="1508968779899">
         <mark key="[" line="1" column="0" />
@@ -659,49 +652,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR0aWRzICs9IHNlbGY6OmdldElkcygkYXJ0aWNsZSwgJ2ZpZWxkX2RlcGFybScpCiAgICAgICRhcnRpY2xlLT5nZXQoJ2ZpZWxkX2RlcGFydG1lbnQnKS0+dGFyZ2V0X2lkLAogICAgICAkYXJ0aWNsZS0+Z2V0KCdmaWVsZF9zdGFycycpLT50YXJnZXRfaWQsCiAgICBdOwogICAgJHRpZHMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCR2YWx1ZSkgewogICAgICByZXR1cm4gJHZhbHVlWyd0YXJnZXRfaWQnXTsKICAgIH0sICRhcnRpY2xlLT5nZXQoJ2ZpZWxkX3RhZ3MnKS0+Z2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>'field_stars'</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCg==</text>
+      <register name="0" type="4">
+        <text>self::getIds($article, $field_name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR0aWRzICs9IHNlbGY6OmdldElkcygkYXJ0aWNsZSwgJ2ZpZWxkX2RlcGFybScpCiAgICAgICRhcnRpY2xlLT5nZXQoJ2ZpZWxkX2RlcGFydG1lbnQnKS0+dGFyZ2V0X2lkLAogICAgICAkYXJ0aWNsZS0+Z2V0KCdmaWVsZF9zdGFycycpLT50YXJnZXRfaWQsCiAgICBdOwogICAgJHRpZHMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCR2YWx1ZSkgewogICAgICByZXR1cm4gJHZhbHVlWyd0YXJnZXRfaWQnXTsKICAgIH0sICRhcnRpY2xlLT5nZXQoJ2ZpZWxkX3RhZ3MnKS0+Z2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICRidWlsZFtIZWxwZXI6OkFSVElDTEVfUkVGRVJFTkNFX0ZJRUxEX05BTUVdID0gSGVscGVyOjpnZXRTaW1pbGFyQXJ0aWNsZXNCeVN0YXIoJHBhcmVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldFRhcmdldElkKCRlbGVtKSB7CiAgICByZXR1cm4gaXNzZXQoJGVsZW1bJ3RhcmdldF9pZCddKSA/ICRlbGVtWyd0YXJnZXRfaWQnXSA6IE5VTEw7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRlZGRsZW0pOwo=</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vJHF1ZXJ5LT5vcmRlckJ5KCdzb3J0JywgJ0RFU0MnKTsK</text>
+        <text encoding="base64">ICAgKiBHZXQgcmVsYXRlZCBhcnRpY2xlcyBmb3IgYSBnaXZlbiBzZXQgb2YgdGVybXMuCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vJHF1ZXJ5LT5hZGRFeHByZXNzaW9uKCdNQVgobnAuZmllbGRfcHVibGlzaGVkX3NvcnRfdmFsdWUpJywgJ3NvcnQnKTsK</text>
+        <text encoding="base64">ICAgICRzdGFycyA9IHNlbGY6OmdldElkcygkYXJ0aWNsZSwgJ2ZpZWxkX3N0YXJzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -765,6 +758,7 @@
         <entry>noh</entry>
         <entry>40</entry>
         <entry>53</entry>
+        <entry>65</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
