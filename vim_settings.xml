@@ -243,11 +243,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1509717414629">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1509804953077">
         <mark key="'" line="36" column="18" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="37" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/thunder/docroot/modules/custom/klambt/klambt_utils/klambt_utils.module" timestamp="1508938823341">
@@ -412,8 +412,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509717085409">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/paragraphs_interesting_articles.module" timestamp="1509804967429">
         <mark key="'" line="83" column="20" />
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/.gitignore" timestamp="1508968779899">
         <mark key="[" line="1" column="0" />
@@ -656,11 +660,11 @@
       <jump line="36" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>field_article_ref</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>field_article_ref</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -669,37 +673,37 @@
         <text>self::getIds($article, $field_name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAvKioKICAgKiBHZXQgYSByZW5kZXItYXJyYXkgZnJvbSBhIHZpZXcuCiAgICovCiAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiByZW5kZXJWaWV3KCR2aWV3X25hbWUsICRkaXNwbGF5X2lkID0gJ2RlZmF1bHQnLCBhcnJheSAkYXJncyA9IFtdKSB7CiAgICAkdmlldyA9IFZpZXdzOjpnZXRWaWV3KCR2aWV3X25hbWUpOwogICAgaWYgKGlzX29iamVjdCgkdmlldykpIHsKICAgICAgJHZpZXctPnNldEFyZ3VtZW50cygkYXJncyk7CiAgICAgICR2aWV3LT5zZXREaXNwbGF5KCRkaXNwbGF5X2lkKTsKICAgICAgJHZpZXctPnByZUV4ZWN1dGUoKTsKICAgICAgJHZpZXctPmV4ZWN1dGUoKTsKICAgICAgcmV0dXJuICR2aWV3LT5idWlsZFJlbmRlcmFibGUoJGRpc3BsYXlfaWQsICRhcmdzKTsKICAgIH0KICAgIHJldHVybiBbXTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICRidWlsZFtIZWxwZXI6OkFSVElDTEVfUkVGRVJFTkNFX0ZJRUxEX05BTUVdID0gSGVscGVyOjpnZXRTaW1pbGFyQXJ0aWNsZXNCeVN0YXIoJHBhcmVudCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBTSU1JTEFSX0FSVElDTEVTX1ZJRVdfTkFNRSA9ICdpbnRlcmVzdGluZ19hcnRpY2xlc19zaW1pbGFyX2FydGljbGVzJzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICRidWlsZFtIZWxwZXI6OkFSVElDTEVfUkVGRVJFTkNFX0ZJRUxEX05BTUVdID0gSGVscGVyOjpnZXRTaW1pbGFyQXJ0aWNsZXNCeVN0YXIoJHBhcmVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBHZXQgcmVsYXRlZCBhcnRpY2xlcyBmb3IgYSBnaXZlbiBzZXQgb2YgdGVybXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRzdGFycyA9IHNlbGY6OmdldElkcygkYXJ0aWNsZSwgJ2ZpZWxkX3N0YXJzJyk7Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
