@@ -231,10 +231,11 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/quotewithimage.yaml" timestamp="1510000789812">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/quotewithimage.yaml" timestamp="1510002144195">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.twig" timestamp="1508174721714">
         <mark key="[" line="12" column="0" />
@@ -729,8 +730,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/layouts/onecol/sscild-frontend-onecol.tpl.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBib2R5OgogICAgbWFwOiBxdW90ZQogICAgdHlwZTogdGV4dF9sb25nCiAgICBsYWJlbDogQm9keQogICAgYWxsb3dlZF9mb3JtYXRzOgogICAgICAtIHBsYWluX3RleHQKICAgIGRlZmF1bHRfZm9ybWF0OiBwbGFpbl90ZXh0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>html</text>
@@ -739,7 +740,7 @@
         <text encoding="base64">XDxwbV9qaXJhX3RlbXBvX3Byb2Nlc3Nfd29ya2xvZ3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZXhwb3J0IERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSAmJiBhcHQtZ2V0IC15IC1xIGluc3RhbGwgcGhwNS14ZGVidWcK</text>
+        <text encoding="base64">ICBib2R5OgogICAgbWFwOiBxdW90ZQogICAgdHlwZTogdGV4dF9sb25nCiAgICBsYWJlbDogQm9keQogICAgYWxsb3dlZF9mb3JtYXRzOgogICAgICAtIHBsYWluX3RleHQKICAgIGRlZmF1bHRfZm9ybWF0OiBwbGFpbl90ZXh0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBFeHBvc2UgdGhlIHBhbmUgdGl0bGUgYXMgYSAidGl0bGUiIHZhcmliYWxlLgo=</text>
