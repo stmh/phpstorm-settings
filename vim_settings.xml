@@ -231,11 +231,11 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/quotewithimage.yaml" timestamp="1510002144195">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/quotewithimage.yaml" timestamp="1510003193970">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="29" />
+        <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.twig" timestamp="1508174721714">
         <mark key="[" line="12" column="0" />
@@ -731,7 +731,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBib2R5OgogICAgbWFwOiBxdW90ZQogICAgdHlwZTogdGV4dF9sb25nCiAgICBsYWJlbDogQm9keQogICAgYWxsb3dlZF9mb3JtYXRzOgogICAgICAtIHBsYWluX3RleHQKICAgIGRlZmF1bHRfZm9ybWF0OiBwbGFpbl90ZXh0Cg==</text>
+        <text encoding="base64">ICAgIHRleHRfcHJvY2Vzc2luZzogMAo=</text>
       </register>
       <register name="-" type="4">
         <text>html</text>
@@ -740,7 +740,7 @@
         <text encoding="base64">XDxwbV9qaXJhX3RlbXBvX3Byb2Nlc3Nfd29ya2xvZ3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBib2R5OgogICAgbWFwOiBxdW90ZQogICAgdHlwZTogdGV4dF9sb25nCiAgICBsYWJlbDogQm9keQogICAgYWxsb3dlZF9mb3JtYXRzOgogICAgICAtIHBsYWluX3RleHQKICAgIGRlZmF1bHRfZm9ybWF0OiBwbGFpbl90ZXh0Cg==</text>
+        <text encoding="base64">ICAgIHRleHRfcHJvY2Vzc2luZzogMAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBFeHBvc2UgdGhlIHBhbmUgdGl0bGUgYXMgYSAidGl0bGUiIHZhcmliYWxlLgo=</text>
