@@ -322,6 +322,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/misc/brightcove-field-embed.tpl.twig" timestamp="1510045185494">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/sites/development.services.yml" timestamp="1506949183070">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -730,11 +736,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/layouts/onecol/sscild-frontend-onecol.tpl.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRleHRfcHJvY2Vzc2luZzogMAo=</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbV9qaXJhX3RlbXBvX3Byb2Nlc3Nfd29ya2xvZ3NcPg==</text>
