@@ -151,6 +151,12 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.module" timestamp="1510077594718">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
       </file>
@@ -190,7 +196,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/entitycache/includes/entitycache.entitycachecontrollerhelper.inc" timestamp="1509998293154" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/layouta/layouta.inc" timestamp="1508854641411">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="16" />
@@ -288,12 +293,6 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" timestamp="1510054346812">
-        <mark key="'" line="55" column="31" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/default/settings.php" timestamp="1509997110304">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="631" column="0" />
@@ -311,7 +310,6 @@
         <mark key="]" line="362" column="0" />
         <mark key="." line="362" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/panels/plugins/layouts/onecol/onecol.inc" timestamp="1509997635037" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.json" timestamp="1508268431870">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="18" column="7" />
@@ -500,6 +498,12 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.info.yml" timestamp="1510077844941">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/templates/pattern.twig" timestamp="1508170017190">
         <mark key="[" line="8" column="83" />
@@ -704,11 +708,11 @@
       <jump line="58" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiAgIFRoZSB0YXhvbm9teS10ZXJtLgo=</text>
+      <register name="&quot;" type="4">
+        <text>paragraphs_tools</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>paragraphs_tools</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZlcmVuY2VGaWVsZFw+</text>
@@ -716,38 +720,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRleHRfcHJvY2Vzc2luZzogMAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgKiAgIFRoZSB0YXhvbm9teS10ZXJtLgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgaG9va190aGVtZSgpLgogKi8KZnVuY3Rpb24gYXJ0aWNsZV9wcmVzZXRzX3RoZW1lKCkgewogIHJldHVybiBbCiAgICAnYXJ0aWNsZV9wcmVzZXRzJyA9PiBbCiAgICAgICdyZW5kZXIgZWxlbWVudCcgPT4gJ2NoaWxkcmVuJywKICAgIF0sCiAgXTsKfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gXERydXBhbFx0YXhvbm9teVxUZXJtSW50ZXJmYWNlICR0ZXJtCg==</text>
+        <text encoding="base64">ICAgKiAgIFRoZSB0YXhvbm9teS10ZXJtLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gXERydXBhbFx0YXhvbm9teVxUZXJtSW50ZXJmYWNlICR0ZXJtCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIGJvb2wK</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAgVHJ1ZSBvbiBzdWNjZXNzLgo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIGJvb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gXERydXBhbFx0YXhvbm9teVxUZXJtSW50ZXJmYWNlICR0ZXJtCg==</text>
+        <text encoding="base64">ICAgKiAgVHJ1ZSBvbiBzdWNjZXNzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gXERydXBhbFx0YXhvbm9teVxUZXJtSW50ZXJmYWNlICR0ZXJtCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBFeHBvc2UgdGhlIHBhbmUgdGl0bGUgYXMgYSAidGl0bGUiIHZhcmliYWxlLgo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -760,11 +764,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>mdw_</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_dzvier_utils_validate_telephone_field</entry>
         <entry>dashless</entry>
         <entry encoding="base64">XDxybWhfcXVldWVzX3JlbmRlcl9zdGF0dXNcPg==</entry>
         <entry>rbsimple</entry>
@@ -787,13 +790,6 @@
         <entry encoding="base64">XDxyZWZlcmVuY2VGaWVsZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
-        <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
-        <entry>57</entry>
-        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
-        <entry>w:w</entry>
-        <entry>noh</entry>
-        <entry>40</entry>
         <entry>53</entry>
         <entry>65</entry>
         <entry>w+</entry>
