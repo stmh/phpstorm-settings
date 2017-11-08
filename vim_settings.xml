@@ -262,12 +262,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" timestamp="1510131800302">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="1" />
-        <mark key="." line="124" column="1" />
-        <mark key="^" line="124" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" timestamp="1510135205786">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="152" column="7" />
+        <mark key="." line="152" column="7" />
+        <mark key="^" line="152" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/swiper/flexslider.css" timestamp="1509029750548">
         <mark key="[" line="42" column="18" />
@@ -747,11 +747,11 @@
       <jump line="127" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>dsm</text>
