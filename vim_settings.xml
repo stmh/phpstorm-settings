@@ -95,10 +95,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" timestamp="1510079569418">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" timestamp="1510159915974">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
@@ -262,7 +263,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" timestamp="1510157773981">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" timestamp="1510158336617">
         <mark key="'" line="173" column="0" />
         <mark key="[" line="157" column="4" />
         <mark key="]" line="157" column="28" />
@@ -747,45 +748,45 @@
       <jump line="127" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>array_filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRzbSgkcHJlc2V0LT5nZXRFbnRpdHlUeXBlKCktPmdldExpc3RDYWNoZVRhZ3MoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>array_filter</text>
+        <text>['article_preset_list'],</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdGhpcy0+ZW50aXR5LT5nZXQoJ2ZpZWxkX25hbWUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmRlcml2YXRpdmVzWyRrZXldWydhcHBlYXJzX29uJ10gPSBbCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRzbSgkcHJlc2V0cyk7Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkcHJlc2V0LT5nZXRFbnRpdHlUeXBlKCktPmdldExpc3RDYWNoZVRhZ3MoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRzbSgkc2V0dGluZ3MpOwo=</text>
+        <text encoding="base64">ICAgIGRzbSgkdGhpcy0+ZGVyaXZhdGl2ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICBmb3JlYWNoICgkdGhpcy0+ZGVyaXZhdGl2ZXMgYXMgJiRlbnRyeSkgewogICAgICAgICRlbnRyeSArPSAkYmFzZV9wbHVnaW5fZGVmaW5pdGlvbjsKICAgICAgICAkZW50cnkgICs9IFsnY2FjaGVfdGFncycgPT4gW11dOwogICAgICAgICRlbnRyeVsnY2FjaGVfdGFncyddICs9ICRlbnRpdHlUeXBlLT5nZXRMaXN0Q2FjaGVUYWdzKCk7CiAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRzbSgkcHJlc2V0cyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRzbSgkc2V0dGluZ3MpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRzbSgkZmllbGRfZGVmaXRpbml0aW9uKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>$keys);
     }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJGtleXMgPSBhcnJheV9rZXlzKCRmaWVsZHMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnI3RpdGxlJyA9PiB0KCdXZWlnaHQgZm9yIEB0aXRsZScsIGFycmF5KCdAdGl0bGUnID0+ICRlbnRpdHktPnRpdGxlKSksCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJHByZXNldCA9IAo=</text>
+        <text encoding="base64">ICAgICAgJGtleXMgPSBhcnJheV9rZXlzKCRmaWVsZHMpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
@@ -856,6 +857,8 @@
         <entry>157</entry>
         <entry>119</entry>
         <entry>W</entry>
+        <entry>m .+1</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
