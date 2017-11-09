@@ -60,11 +60,11 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/sscild_frontend.info" timestamp="1510226565980">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/sscild_frontend.info" timestamp="1510227418897">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/ad/ad.twig" timestamp="1506968746243">
         <mark key="[" line="0" column="0" />
@@ -131,8 +131,8 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1509999065198">
-        <mark key="[" line="31" column="25" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1510228356721">
+        <mark key="[" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/Pattern/PatternlabPattern.php" timestamp="1509917599811">
         <mark key="[" line="2" column="17" />
@@ -742,17 +742,17 @@
       <jump line="127" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIENsZWFyIHRoZSBjYWNoZSBmb3IgbG9jYWxfYWN0aW9ucwogICAgXERydXBhbDo6c2VydmljZSgncGx1Z2luLm1hbmFnZXIubWVudS5sb2NhbF9hY3Rpb24nKS0+Y2xlYXJDYWNoZWREZWZpbml0aW9ucygpOwo=</text>
+        <text encoding="base64">bXVsdGlwbGllcnNbbWQtdmlld3BvcnRdW10gPSAyeAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
