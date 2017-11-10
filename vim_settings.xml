@@ -58,10 +58,10 @@
         <mark key="." line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/sscild_frontend.info" timestamp="1510227418897">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="22" column="13" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/ad/ad.twig" timestamp="1506968746243">
         <mark key="[" line="0" column="0" />
@@ -128,9 +128,7 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1510228356721">
-        <mark key="[" line="18" column="22" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1510228356721" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/Pattern/PatternlabPattern.php" timestamp="1509917599811">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="38" />
@@ -165,6 +163,13 @@
         <mark key="]" line="41" column="20" />
         <mark key="." line="41" column="20" />
         <mark key="^" line="40" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510329258395">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
@@ -255,6 +260,12 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.info" timestamp="1510329065473">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.twig" timestamp="1508174721714">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="3" />
@@ -292,11 +303,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/ssc_utils/ssc_utils.module" timestamp="1510321164270">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/ssc_utils/ssc_utils.module" timestamp="1510325956774" />
       <file name="/fragment.php" timestamp="1510000687081">
         <mark key="[" line="0" column="0" />
       </file>
@@ -524,6 +531,9 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" timestamp="1510329298095">
+        <mark key="'" line="1265" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/icon-module-container/icon-module-container.tpl.php" timestamp="1509029653433">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="38" column="75" />
@@ -571,7 +581,7 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="/PHP Console" timestamp="1510321107359">
+      <file name="/PHP Console" timestamp="1510323699830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -655,13 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="39" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/Request.php" />
-      <jump line="8" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-helpdesk/sites/all/modules/custom/restful/src/Http/Request.php" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-sidebar-ads/blog-sidebar-ads.twig" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page.html.twig" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/views/views-view-unformatted--recent-posts.html.twig" />
       <jump line="15" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form--comment-form.html.twig" />
       <jump line="14" column="22" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/comment-form/comment-form.twig" />
@@ -755,64 +758,71 @@
       <jump line="1037" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1046" column="74" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1054" column="74" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
+      <jump line="7" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
+      <jump line="99" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="669" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="1184" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="1199" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="1266" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="1265" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkc20oJGVudGl0eS0+ZW50aXR5VHlwZSgpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Merge some of the BI DTM related code.</text>
       </register>
       <register name="/" type="4">
-        <text>hook_entity_access</text>
+        <text encoding="base64">XDxpdGVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bXVsdGlwbGllcnNbbWQtdmlld3BvcnRdW10gPSAyeAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkc20oJGVudGl0eS0+ZW50aXR5VHlwZSgpKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIENhY2hlOjptZXJnZVRhZ3MoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAqIEFkZCByZXF1aXJlZCB2YXJpYWJsZXMgdG8gdGhlIGRhdGFsYXllci4KICovCgovKioKICogSW1wbGVtZW50cyBob29rX3ByZXByb2Nlc3NfZmllbGQoKS4KICovCmZ1bmN0aW9uIHJtaF9kdG1fcHJlcHJvY2Vzc19maWVsZCgmJHZhcnMpIHsKICAkZmllbGRfdHlwZSA9ICR2YXJzWydlbGVtZW50J11bJyNmaWVsZF90eXBlJ107CgogIHN3aXRjaCAoJGZpZWxkX3R5cGUpIHsKICAgIGNhc2UgJ2JyaWdodGNvdmVfZmllbGQnOgogICAgICBfcm1oX2R0bV9wcm9jZXNzX2JyaWdodGNvdmVfZmllbGQoJHZhcnMpOwogICAgICBicmVhazsKCiAgICBkZWZhdWx0OgogICAgICBicmVhazsKICB9Cn0KCi8qKgogKiBIZWxwZXIgdG8gZXh0cmFjdCBhbmQgYXR0YWNoIHJpY2ggdmlkZW8gc25pcHBldHMgdG8gYnJpZ2h0Y292ZSBmaWVsZHMuCiAqLwpmdW5jdGlvbiBfcm1oX2R0bV9wcm9jZXNzX2JyaWdodGNvdmVfZmllbGQoJiR2YXJzKSB7CiAgaWYgKCFlbXB0eSgkdmFyc1snaXRlbXMnXSkpIHsKICAgIGZvcmVhY2ggKCR2YXJzWydpdGVtcyddIGFzICYkaXRlbSkgewogICAgICAkaXRlbVsnI3ByZWZpeCddID0gaXNzZXQoJGl0ZW1bJyNwcmVmaXgnXSkgPyAkaXRlbVsnI3ByZWZpeCddIDogJyc7CiAgICAgICRiY2lkID0gJGl0ZW1bJyNlbGVtZW50J11bJ2JjaWQnXTsKICAgICAgJGJyaWdodGNvdmVfaWQgPSAkaXRlbVsnI2VsZW1lbnQnXVsnYnJpZ2h0Y292ZV9pZCddOwogICAgICAkY2xpZW50ID0gYnJpZ2h0Y292ZV9jbGllbnRfbG9hZF9vcl9kZWZhdWx0KCRiY2lkKTsKICAgICAgJHZpZGVvID0gYnJpZ2h0Y292ZV9sb2FkX3ZpZGVvKCRicmlnaHRjb3ZlX2lkLCAkY2xpZW50KTsKICAgICAgaWYgKCFpc19vYmplY3QoJHZpZGVvKSkgewogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICAkaW5mbyA9IGFycmF5KAogICAgICAgICdAY29udGV4dCcgPT4gJ2h0dHBzOi8vc2NoZW1hLm9yZycsCiAgICAgICAgJ0B0eXBlJyA9PiAnVmlkZW9PYmplY3QnLAogICAgICAgICdoZWFkbGluZScgPT4gJHZpZGVvLT5nZXROYW1lKCksCiAgICAgICAgJ2tleXdvcmRzJyA9PiBpbXBsb2RlKCcsICcsICR2aWRlby0+Z2V0VGFncygpKSwKICAgICAgICAnY2FwdGlvbicgPT4gJHZpZGVvLT5nZXREZXNjcmlwdGlvbigpLAogICAgICAgICd0ZXh0JyA9PiAkdmlkZW8tPmdldExvbmdEZXNjcmlwdGlvbigpLAogICAgICAgICdwdWJsaXNoZXInID0+IGFycmF5KAogICAgICAgICAgJ0B0eXBlJyA9PiAnT3JnYW5pemF0aW9uJywKICAgICAgICAgICduYW1lJyA9PiB2YXJpYWJsZV9nZXQoJ3NpdGVfbmFtZScsICdiaS1mbG93JyksCiAgICAgICAgICAnQGxvZ28nID0+IGFycmF5KAogICAgICAgICAgICAnQHR5cGUnID0+ICdJbWFnZU9iamVjdCcsCiAgICAgICAgICAgICd1cmwnID0+IHVybChwYXRoX3RvX3RoZW1lKCkgLiAnL3NvdXJjZS9mYXZpY29ucy9hcHBsZS1pY29uLTE4MHgxODAucG5nJywgYXJyYXkoJ2Fic29sdXRlJyA9PiBUUlVFKSksCiAgICAgICAgICAgICd3aWR0aCcgPT4gJzE4MCcsCiAgICAgICAgICAgICdoZWlnaHQnID0+ICcxODAnLAogICAgICAgICAgKSwKICAgICAgICApLAogICAgICApOwogICAgICAkc2NyaXB0X3RhZyA9ICc8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iPicgLiBkcnVwYWxfanNvbl9lbmNvZGUoJGluZm8pIC4gJzwvc2NyaXB0Pic7CiAgICAgICRpdGVtWycjcHJlZml4J10gPSAkc2NyaXB0X3RhZyAuICRpdGVtWycjcHJlZml4J107CgogICAgICBybWhfZHRtX2FkZF92aWRlb3NfdG9fZGF0YWxheWVyKGFycmF5KCRicmlnaHRjb3ZlX2lkKSk7CiAgICB9CiAgfQp9CgovKioKICogR2V0IHVuaXF1ZSB2aWRlbyBpZC4KICovCmZ1bmN0aW9uIHJtaF9kdG1fZ2V0X3VuaXF1ZV92aWRlb19pZCgkaWQpIHsKICByZXR1cm4gJGlkIC4gJ19iaV9odG1sNV9hcGknOwp9CgovKioKICogQWRkIGJyaWdodGNvdmUgdmlkZW9zIHRvIGRhdGFsYXllci4KICogKi8KZnVuY3Rpb24gcm1oX2R0bV9hZGRfdmlkZW9zX3RvX2RhdGFsYXllcigkYnJpZ2h0Y292ZV9pZHMpIHsKCiAgJGN1cnJlbnRfZGF0YWxheWVyID0gZGF0YWxheWVyX2FkZCgpOwogICR2aWRlb19saXN0ID0gaXNzZXQoJGN1cnJlbnRfZGF0YWxheWVyWyd2aWRlbyddWyd2aWRlb1RhZ0lEJ10pID8gJGN1cnJlbnRfZGF0YWxheWVyWyd2aWRlbyddWyd2aWRlb1RhZ0lEJ10gLiAnLCcgOiAnJzsKICAkaWRzID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkaWQpIHsKICAgIHJldHVybiBybWhfZHRtX2dldF91bmlxdWVfdmlkZW9faWQoJGlkKTsKICB9LCAkYnJpZ2h0Y292ZV9pZHMpOwoKICAkdmlkZW9fbGlzdCAuPSBpbXBsb2RlKCcsJywgJGlkcyk7CiAgZGF0YWxheWVyX2FkZCgKICAgIGFycmF5KAogICAgICAndmlkZW8nID0+IGFycmF5KAogICAgICAgICd2aWRlb1RhZ0lEJyA9PiAkdmlkZW9fbGlzdCwKICAgICAgKSwKICAgICksCiAgICBUUlVFCiAgKTsKfQoKLyoqCiAqIEltcGxlbWVudHMgaG9va19kYXRhbGF5ZXJfYWx0ZXIoKS4KICovCmZ1bmN0aW9uIHJtaF9kdG1fZGF0YWxheWVyX2FsdGVyKCYkZGF0YV9sYXllcikgewogICRkYXRhX2xheWVyWyd3ZWJzaXRlJ11bJ3dlYnNpdGVJbmZvJ11bJ29wdSddID0gJ0NvcnBvcmF0ZSc7CiAgJGRhdGFfbGF5ZXJbJ3dlYnNpdGUnXVsnd2Vic2l0ZUluZm8nXVsnY291bnRyeSddID0gJ3d3JzsKICAkZGF0YV9sYXllclsnd2Vic2l0ZSddWyd3ZWJzaXRlSW5mbyddWyd3ZWJzaXRlVGl0bGUnXSA9IHZhcmlhYmxlX2dldCgnc2l0ZV9uYW1lJywgJ0JJIFNpdGUnKTsKfQoKLyoqCiAqIFRoaXMgZnVuY3Rpb24gaXMgdXNlZCB0byBpbmplY3QgdmFyaWFibGVzIGZvciBicmlnaHRjb3ZlIGludG8gdGhlIHRlbXBsYXRlLgogKgogKiBAcGFyYW0gYXJyYXkgJHZhcnMKICogICBUaGlzIGZ1bmN0aW9uIHByb2Nlc3NlcyBhbGwgdGhlIGRldGFpbHMgYWJvdXQgYnJpZ2h0Y292ZSB2aWRlbyBiZWluZyBsb2FkZWQKICogICBhbmQgc3RvcmUgaW4gdGVubXBsYXRlIHZhcmlhYmxlcyAsIHdoaWNoIGNhbiBiZSBlYXNpbHkgYWNjZXNlZCBieSBqYXZhc2NyaXB0CiAqICAgZXZlbnQgdHJhY2tpbmcgbG9naWMgdG8gZ2F0aGVyIGFsbCB0aGUgaW1wb3J0YW50LgogKi8KZnVuY3Rpb24gcm1oX2R0bV9wcmVwcm9jZXNzX2JyaWdodGNvdmVfZmllbGRfZW1iZWQoYXJyYXkgJiR2YXJzKSB7CiAgLy8gTG9hZGluZyB2aWRlbyBvYmplY3Qgd2hpY2ggY29udGFpbiBhbGwgdGhlIGRldGFpbCBhYm91dCB0aGUgdmlkZW8gaWQgYmVpbmcgc2VudC4KICAkYmNpZCA9ICR2YXJzWydicmlnaHRjb3ZlX2lkJ107CgogIC8vIEdldHRpbmcgdGhlIGRlZmF1bHQgY2xpZW50IGNyZWRlbnRpYWxzIHdoaWNoIGFyZSBzZXQgYXMgZGVmYXVsdCBjdXJyZW50bHkuCiAgJGNsaWVudCA9IGJyaWdodGNvdmVfY2xpZW50X2xvYWRfb3JfZGVmYXVsdCgpOwogICR2aWRlbyA9IGJyaWdodGNvdmVfbG9hZF92aWRlbygkYmNpZCwgJGNsaWVudCk7CgogIGlmICghaXNfb2JqZWN0KCR2aWRlbykpIHsKICAgIHJldHVybjsKICB9CiAgLy8gR2V0dGluZyBicmlnaHRjb3ZlIHZpZGVvIGlkLgogICR2aWRlb19pZCA9ICR2aWRlby0+Z2V0SWQoKTsKICAkdmlkZW9fbmFtZSA9ICR2aWRlby0+Z2V0TmFtZSgpOwoKICAvLyBDcmVhdGluZyB0aGUgdmFyaWFibGVzIHdoaWNoIHdlIG5lZWQgaW4gYnJpZ2h0Y292ZSBwbGF5ZXIgdGVtcGxhdGUgZm9yIHRyYWNraW5nIHB1cnBvc2UuCiAgJHZhcnNbJ2JyaWdodGNvdmVfdmlkZW9faWQnXSA9ICR2aWRlb19pZDsKICAkdmFyc1sndmlkZW9fbmFtZSddID0gJHZpZGVvX2lkIC4gJzonIC4gJHZpZGVvX25hbWU7CiAgJHZhcnNbJ2lkJ10gPSBybWhfZHRtX2dldF91bmlxdWVfdmlkZW9faWQoJHZpZGVvX2lkKTsKfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb3JlOwo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBiaV9kdG1fY29tbW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRQcmVzZXRzKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICBkc20oJGVudGl0eS0+ZW50aXR5VHlwZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRDb250ZW50VHlwZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gZ2V0UHJlc2V0cygpOzsK</text>
+        <text encoding="base64">ICAgIENhY2hlOjptZXJnZVRhZ3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gZ2V0UHJlc2V0cygpLH0K</text>
+        <text encoding="base64">dXNlIERydXBhbFxDb3JlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRQcmVzZXRzKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hook_entity_access</last-search>
+      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
       <last-offset />
-      <last-pattern>hook_entity_access</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>dsm</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -839,6 +849,9 @@
         <entry>dsm</entry>
         <entry>access(</entry>
         <entry>hook_entity_access</entry>
+        <entry>theme</entry>
+        <entry>theme_picture</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
