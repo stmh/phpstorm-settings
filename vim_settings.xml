@@ -276,6 +276,11 @@
         <mark key="." line="102" column="48" />
         <mark key="^" line="102" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/quotewithimage.yaml" timestamp="1510422754160">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.info" timestamp="1510329065473">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -810,8 +815,8 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>module_is_enabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBpY3R1cmVfbWFwcGluZzogcXVvdGVfaW1hZ2UK</text>
       </register>
       <register name="-" type="4">
         <text>module_is_enabled</text>
@@ -822,40 +827,40 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBwYXR0ZXJubGFiX3BpY3R1cmUK</text>
       </register>
-      <register name="1" type="4">
-        <text>{% set img %}
-  {% include &quot;@atoms/image/image.twig&quot; with image %}
-{% endset %}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBpY3R1cmVfbWFwcGluZzogcXVvdGVfaW1hZ2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3NjX2lsZF9mZV9pbWFnZV9zdHlsZXMK</text>
+      <register name="2" type="4">
+        <text>{% set img %}
+  {% include &quot;@atoms/image/image.twig&quot; with image %}
+{% endset %}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkc20oJHRoZW1lX3JlZ2lzdHJ5WydwaWN0dXJlJ10pOwo=</text>
+        <text encoding="base64">c3NjX2lsZF9mZV9pbWFnZV9zdHlsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG5vc2NyaXB0PgogICAgICAgIDxpbWcKICAgICAgICAgIGNsYXNzPSJJbWFnZSIKICAgICAgICAgIHNyYz0ie3sgc3JjIH19IgogICAgICAgICAgYWx0PSJ7eyBhbHQgfX0iCiAgICAgICAgPgogICAgICA8L25vc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICBkc20oJHRoZW1lX3JlZ2lzdHJ5WydwaWN0dXJlJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBrcHIoJGphdmFzY3JpcHQpOwo=</text>
+        <text encoding="base64">ICAgICAgPG5vc2NyaXB0PgogICAgICAgIDxpbWcKICAgICAgICAgIGNsYXNzPSJJbWFnZSIKICAgICAgICAgIHNyYz0ie3sgc3JjIH19IgogICAgICAgICAgYWx0PSJ7eyBhbHQgfX0iCiAgICAgICAgPgogICAgICA8L25vc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICBrcHIoJGphdmFzY3JpcHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1bnNldCgkamF2YSkK</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICB1bnNldCgkamF2YSkK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -915,7 +920,6 @@
         <entry>102</entry>
         <entry>157</entry>
         <entry>119</entry>
-        <entry>W</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
         <entry>211</entry>
@@ -923,6 +927,7 @@
         <entry>131</entry>
         <entry>20</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
