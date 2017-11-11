@@ -140,7 +140,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1510228356721" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/quotewithimage/quotewithimage.twig" timestamp="1510421652325">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/Pattern/PatternlabPattern.php" timestamp="1509917599811">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="38" />
@@ -176,11 +180,12 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510335716188">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="133" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510422012013">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/field/field_blog_comments.html.twig" timestamp="1507149188752">
         <mark key="[" line="3" column="2" />
@@ -554,6 +559,9 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" timestamp="1510330133412">
         <mark key="'" line="1265" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/core/includes/module.inc" timestamp="1510421713852">
+        <mark key="[" line="399" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/components_local/icon-module-container/icon-module-container.tpl.php" timestamp="1509029653433">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="38" column="75" />
@@ -608,7 +616,7 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="/PHP Console" timestamp="1510323699830">
+      <file name="/PHP Console" timestamp="1510422038885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/misc/picture.tpl.twig" timestamp="1510333748276">
@@ -700,7 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/form--comment-form.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/form--comment-form.html.twig" />
       <jump line="12" column="1504" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/comment.html.twig" />
@@ -800,64 +807,67 @@
       <jump line="133" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/modules_enabled.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/ssc_deploy/ssc_deploy.info" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3NjX2lsZF9mZV9pbWFnZV9zdHlsZXMK</text>
+      <register name="&quot;" type="4">
+        <text>module_is_enabled</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>module_is_enabled</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtXD4=</text>
+        <text>module_e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBwYXR0ZXJubGFiX3BpY3R1cmUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3NjX2lsZF9mZV9pbWFnZV9zdHlsZXMK</text>
+      <register name="1" type="4">
+        <text>{% set img %}
+  {% include &quot;@atoms/image/image.twig&quot; with image %}
+{% endset %}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJHRoZW1lX3JlZ2lzdHJ5WydwaWN0dXJlJ10pOwo=</text>
+        <text encoding="base64">c3NjX2lsZF9mZV9pbWFnZV9zdHlsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG5vc2NyaXB0PgogICAgICAgIDxpbWcKICAgICAgICAgIGNsYXNzPSJJbWFnZSIKICAgICAgICAgIHNyYz0ie3sgc3JjIH19IgogICAgICAgICAgYWx0PSJ7eyBhbHQgfX0iCiAgICAgICAgPgogICAgICA8L25vc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICBkc20oJHRoZW1lX3JlZ2lzdHJ5WydwaWN0dXJlJ10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBrcHIoJGphdmFzY3JpcHQpOwo=</text>
+        <text encoding="base64">ICAgICAgPG5vc2NyaXB0PgogICAgICAgIDxpbWcKICAgICAgICAgIGNsYXNzPSJJbWFnZSIKICAgICAgICAgIHNyYz0ie3sgc3JjIH19IgogICAgICAgICAgYWx0PSJ7eyBhbHQgfX0iCiAgICAgICAgPgogICAgICA8L25vc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICBrcHIoJGphdmFzY3JpcHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1bnNldCgkamF2YSkK</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICB1bnNldCgkamF2YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
+      <last-search>module_e</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
+      <last-pattern>module_e</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>dsm</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -887,6 +897,7 @@
         <entry>theme</entry>
         <entry>theme_picture</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry>module_e</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
