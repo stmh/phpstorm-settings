@@ -685,6 +685,11 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/settings/settings.php" timestamp="1510651851357">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510607665112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -857,8 +862,8 @@
       <jump line="119" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/ssc_deploy/ssc_deploy.info" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMKTsK</text>
       </register>
       <register name="-" type="4">
         <text>all</text>
@@ -870,37 +875,37 @@
         <text encoding="base64">ICAgICRvdXRwdXQtPndyaXRlbG4oJ0dldHRpbmcgYWxsIGVwaWNzIC4uLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRvdXRwdXQtPndyaXRlbG4oJ0dldHRpbmcgYWxsIGVwaWNzIC4uLicpOwo=</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGpxbCk7Cg==</text>
+        <text encoding="base64">ICAgICRvdXRwdXQtPndyaXRlbG4oJ0dldHRpbmcgYWxsIGVwaWNzIC4uLicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBTT1VSQ0VfRVBJQ19MSU5LX0ZJRUxEX05BTUUgPSAnY3VzdG9tZmllbGRfMTAwMDUnOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGpxbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBTT1VSQ0VfRVBJQ19MSU5LX0ZJRUxEX05BTUUgPSAnY3VzdG9tZmllbGRfMTAwMDUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgJGVwaWNzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgJGVwaWNzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGVwaWNXb3JrZXItPmdldEVwaWNzKCkpOwo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRlcGljcyA9ICR3Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGVwaWNXb3JrZXItPmdldEVwaWNzKCkpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRpc3N1ZV90eXBlID0gJHRoaXMtPmlzRXBpYygkaXNzdWUpID8gJ0VwaWMnIDogJ1Rhc2snOwogICAgJGlzc3VlRmllbGQgPSBuZXcgSXNzdWVGaWVsZCgpOwogICAgJGlzc3VlRmllbGQtPnNldFByb2plY3RLZXkoJHRoaXMtPmNvbmZpZ1sncHJvamVjdCddKQogICAgICAtPnNldFN1bW1hcnkoJGlzc3VlLT5rZXkgLiAnICcgLiAkaXNzdWUtPmZpZWxkcy0+c3VtbWFyeSkKICAgICAgLT5zZXREZXNjcmlwdGlvbihzZWxmOjplc2NhcGVTdHJpbmcoJGlzc3VlLT5maWVsZHMtPmRlc2NyaXB0aW9uKSkKICAgICAgLT5zZXRJc3N1ZVR5cGUoJGlzc3VlX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICRlcGljcyA9ICR3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
