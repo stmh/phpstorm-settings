@@ -57,12 +57,11 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510852311825">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="67" column="77" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510856616112">
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="71" column="67" />
+        <mark key="." line="71" column="67" />
+        <mark key="^" line="71" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1510614260687">
         <mark key="[" line="83" column="18" />
@@ -156,11 +155,11 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/article_image.yaml" timestamp="1510845967257">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/_tools/es/fpp/article_image.yaml" timestamp="1510855731366">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/layoutc/layoutc.inc" timestamp="1508854675217">
         <mark key="[" line="8" column="16" />
@@ -208,9 +207,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" timestamp="1510846861050">
         <mark key="'" line="1334" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" timestamp="1510846244333">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" timestamp="1510855262881">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/cover/cover.twig" timestamp="1507194892983">
         <mark key="[" line="2" column="34" />
@@ -222,7 +224,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510852321455">
+      <file name="/PHP Console" timestamp="1510856359704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/layoutb/layoutb.inc" timestamp="1508854662063">
@@ -263,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="294" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="313" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="7" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
@@ -363,52 +364,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" />
       <jump line="54" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkc20oJGZpZWxkcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Select the image field containing the mobile alternative.</text>
       </register>
       <register name="-" type="4">
-        <text>merge_fields</text>
+        <text>Select the image field containing the mobile alternative.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkbW9iaWxlX2ZpZWxkID0gJGluc3RhbmNlWydkaXNwbGF5J11bJ2RlZmF1bHQnXVsnc2V0dGluZ3MnXVsnbWVyZ2VfZmllbGRzJ107Cg==</text>
+        <text encoding="base64">ICB1bnNldCgkdmFyaWFibGVzWydhdHRyaWJ1dGVzJ11bJ2RhdGEtYnJlYWtwb2ludC1vdmVycmlkZSddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkc20oJGZpZWxkcyk7Cg==</text>
+        <text encoding="base64">eHh4eAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkc20oJHJlbmRlcik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkc20oJG1vYmlsZV9pbWFnZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAkcmVuZGVyWycjaXRlbSddCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAkYnJlYWtwb2ludHMgPSBbXTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">e3sgaW1hZ2UgfX0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJHBpY3R1cmVfbWFwcGluZy0+Z2V0QnJlYWtwb2ludEdyb3VwKCkpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdXJpID0gJHZhcmlhYmxlc1sndXJpJ107Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text>) {
+      if</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkcGljdHVyZV9tYXBwaW5nLT5sb2FkQWxsTWFwcGluZ3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHNtKCRmaWVsZFska11bJyNpdGVtJ10pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRmb3JtWydicmVha3BvaW50X292ZXJyaWRlJ10gPSBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyRicmVha3BvaW50ID0+ICRtb2JpbGVfaW1hZ2VdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -421,7 +424,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>dsm</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -468,13 +471,13 @@
         <entry>155</entry>
         <entry>wq</entry>
         <entry>tabNext</entry>
-        <entry>noh</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>75</entry>
-        <entry>W</entry>
         <entry>1</entry>
         <entry>55</entry>
         <entry>247</entry>
+        <entry>noh</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
