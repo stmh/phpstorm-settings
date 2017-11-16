@@ -194,12 +194,11 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510760994851">
-        <mark key="'" line="62" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="75" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510831219514">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1510614260687">
         <mark key="[" line="83" column="18" />
@@ -684,7 +683,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510686669373">
+      <file name="/PHP Console" timestamp="1510831249377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -900,10 +899,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</text>
@@ -945,7 +944,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -1008,6 +1007,7 @@
         <entry>W</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
