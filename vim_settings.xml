@@ -57,11 +57,10 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510856616112">
-        <mark key="[" line="71" column="27" />
-        <mark key="]" line="71" column="67" />
-        <mark key="." line="71" column="67" />
-        <mark key="^" line="71" column="67" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" timestamp="1510936189549">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="6" />
+        <mark key="." line="236" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1510614260687">
         <mark key="[" line="83" column="18" />
@@ -204,8 +203,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" timestamp="1510846861050">
-        <mark key="'" line="1334" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" timestamp="1510935785718">
+        <mark key="'" line="342" column="4" />
+        <mark key="[" line="1162" column="20" />
+        <mark key="]" line="1162" column="23" />
+        <mark key="^" line="1162" column="23" />
+        <mark key="." line="1162" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" timestamp="1510855262881">
         <mark key="'" line="0" column="0" />
@@ -224,7 +227,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510856359704">
+      <file name="/PHP Console" timestamp="1510935796764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/themes/custom/inoncology/layouts/layoutb/layoutb.inc" timestamp="1508854662063">
@@ -265,12 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="313" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="7" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="356" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="217" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="360" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="152" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="151" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="306" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
@@ -365,66 +362,72 @@
       <jump line="54" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
+      <jump line="66" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
+      <jump line="1147" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="1211" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="332" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="342" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
+      <jump line="230" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Select the image field containing the mobile alternative.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Select the image field containing the mobile alternative.</text>
+        <text encoding="base64">ICAk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</text>
+        <text encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1bnNldCgkdmFyaWFibGVzWydhdHRyaWJ1dGVzJ11bJ2RhdGEtYnJlYWtwb2ludC1vdmVycmlkZSddKTsK</text>
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eHh4eAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKDEgJiYgIWVtcHR5KCR2YXJpYWJsZXNbJ2xhenlsb2FkX2FzcGVjdF9yYXRpbyddKSAmJiAhZW1wdHkoJGltYWdlX3N0eWxlc1skbWFwcGluZ19kZWZpbml0aW9uWydpbWFnZV9zdHlsZSddXSkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgaW1hZ2UgfX0K</text>
+        <text encoding="base64">eHh4eAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJpID0gJHZhcmlhYmxlc1sndXJpJ107Cg==</text>
+        <text encoding="base64">e3sgaW1hZ2UgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>) {
-      if</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdXJpID0gJHZhcmlhYmxlc1sndXJpJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHNtKCRmaWVsZFska11bJyNpdGVtJ10pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyRicmVha3BvaW50ID0+ICRtb2JpbGVfaW1hZ2VdOwo=</text>
+      <register name="9" type="4">
+        <text>) {
+      if</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</last-pattern>
       <last-replace>phb_</last-replace>
-      <last-substitute>dsm</last-substitute>
+      <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -452,6 +455,9 @@
         <entry>implements_al</entry>
         <entry>tooln</entry>
         <entry encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</entry>
+        <entry>aspect</entry>
+        <entry>'picture_formatter</entry>
+        <entry encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xMDI=</entry>
