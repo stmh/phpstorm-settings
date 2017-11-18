@@ -217,6 +217,11 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511019466971">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/cover/cover.twig" timestamp="1507194892983">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
@@ -370,8 +375,10 @@
       <jump line="230" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>unction () {
+    return view('welcome');
+})</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAk</text>
@@ -382,39 +389,40 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>unction () {
+    return view('welcome');
+})</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKDEgJiYgIWVtcHR5KCR2YXJpYWJsZXNbJ2xhenlsb2FkX2FzcGVjdF9yYXRpbyddKSAmJiAhZW1wdHkoJGltYWdlX3N0eWxlc1skbWFwcGluZ19kZWZpbml0aW9uWydpbWFnZV9zdHlsZSddXSkpIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eHh4eAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKDEgJiYgIWVtcHR5KCR2YXJpYWJsZXNbJ2xhenlsb2FkX2FzcGVjdF9yYXRpbyddKSAmJiAhZW1wdHkoJGltYWdlX3N0eWxlc1skbWFwcGluZ19kZWZpbml0aW9uWydpbWFnZV9zdHlsZSddXSkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eHh4eAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sgaW1hZ2UgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">e3sgaW1hZ2UgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJpID0gJHZhcmlhYmxlc1sndXJpJ107Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdXJpID0gJHZhcmlhYmxlc1sndXJpJ107Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>) {
-      if</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
