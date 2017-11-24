@@ -21,7 +21,6 @@
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_pages/occhio_pages.frontpage.inc.php" timestamp="1511348647296" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_utils/src/Plugin/Block/CoverArticleBlock.php" timestamp="1507197669225">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="5" />
@@ -541,7 +540,6 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/modules/custom/occhio_context/occhio_context.module" timestamp="1511348893510" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.info.yml" timestamp="1510077844941">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="27" />
@@ -592,7 +590,7 @@
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="95" />
       </file>
-      <file name="/PHP Console" timestamp="1511363483548">
+      <file name="/PHP Console" timestamp="1511524620753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -664,6 +662,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" timestamp="1511524569820">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="210" column="44" />
+        <mark key="]" line="210" column="50" />
+        <mark key="^" line="210" column="50" />
+        <mark key="." line="210" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" timestamp="1510615013488">
         <mark key="[" line="90" column="30" />
         <mark key="]" line="90" column="35" />
@@ -684,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="303" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="268" column="40" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
@@ -784,6 +788,7 @@
       <jump line="230" column="34" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="5" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-luxembourg/settings.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/template.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -837,7 +842,7 @@
     </registers>
     <search>
       <last-search>store-muc</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>store-muc</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
@@ -846,7 +851,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbV9qaXJhX3RlbXBvX3Byb2Nlc3Nfd29ya2xvZ3NcPg==</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VGaWVsZFw+</entry>
         <entry>admin</entry>
         <entry>dsm</entry>
