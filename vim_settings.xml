@@ -223,6 +223,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/layout/page--user.tpl.twig" timestamp="1511621385579">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/block/block.html.twig" timestamp="1506967769205">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="13" />
@@ -480,6 +486,11 @@
         <mark key="^" line="97" column="29" />
         <mark key="." line="97" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/config.yaml" timestamp="1511620339316">
+        <mark key="[" line="18" column="83" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/mainnavigation/mainnavigation.twig" timestamp="1508173684271">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
@@ -596,7 +607,7 @@
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="95" />
       </file>
-      <file name="/PHP Console" timestamp="1511524788651">
+      <file name="/PHP Console" timestamp="1511621138519">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -668,12 +679,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" timestamp="1511524569820">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" timestamp="1511619964308">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="210" column="44" />
-        <mark key="]" line="210" column="50" />
-        <mark key="^" line="210" column="50" />
-        <mark key="." line="210" column="50" />
+        <mark key="[" line="138" column="10" />
+        <mark key="]" line="138" column="13" />
+        <mark key="^" line="138" column="13" />
+        <mark key="." line="138" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" timestamp="1510615013488">
         <mark key="[" line="90" column="30" />
@@ -798,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>z</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>store-muc</text>
@@ -854,7 +865,7 @@ body.node-type-module-d</text>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -880,7 +891,6 @@ body.node-type-module-d</text>
         <entry>store-muc</entry>
       </history-search>
       <history-cmd>
-        <entry>m .-2</entry>
         <entry>211</entry>
         <entry>131</entry>
         <entry>20</entry>
