@@ -456,17 +456,21 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/env.json" timestamp="1511710557953">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/sociallinks/sociallinks.twig" timestamp="1508174335545">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/functions/events/message/__main__.js" timestamp="1511709419612">
-        <mark key="[" line="115" column="42" />
-        <mark key="]" line="115" column="5" />
-        <mark key="." line="115" column="5" />
-        <mark key="^" line="115" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/functions/events/message/__main__.js" timestamp="1511712401275">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-rothenburg/settings.php" timestamp="1511346298205">
         <mark key="[" line="4" column="38" />
@@ -815,10 +819,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHsndGV4dCc6IHJldmVyc2UodGV4dCl9KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>echo</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>store-muc</text>
@@ -827,37 +831,40 @@
         <text encoding="base64">Ym9keS5wYW5lbHMtaXBlLWVkaXRpbmcgLnVpLXdpZGdldC1jb250ZW50IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHsndGV4dCc6IHJldmVyc2UodGV4dCl9KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uZGRzb2xlLmxvZyh1c2VyLCB0ZXh0LCBldmVudCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluaXRpYWwgPSB7fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSGFuZGxpbmcgcmVzdWx0cyBmcm9tICIgKyBjcmVkZW50aWFscy5ob3N0KTsK</text>
+        <text encoding="base64">ICBpZiAoIWluaXRpYWwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFsdWVbdXNlcklkXSA9IDA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlZC5sb2coY3JlZGVudGlhbHMpOwo=</text>
+      <register name="7" type="4">
+        <text>) {
+      value = {};
+    }
+    if (</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNyZWRlbnRpYWxzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTtkZAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1lc3NhZ2UoY2FsbGJhY2ssIGJhc2VfdXJsLCBpc3N1ZXMpIHsKICB2YXIgbXNnID0gJ1lvdSBtaWdodCBiZSBpbnRlcmVzdGVkIGluOiAnOwogIHZhciBhdHRhY2htZW50cyA9IFtdOwogIHZhciBpOwogIGZvcihpID0gMDsgaSA8IGlzc3Vlcy5sZW5ndGg7ICsraSkgewogICAgY29uc3QgaXNzdWUgPSBpc3N1ZXNbaV07CiAgICAvLyBjb25zb2xlLmxvZyhpc3N1ZS5maWVsZHMpOwogICAgYXR0YWNobWVudHMucHVzaCg7CiAgfQogIGNhbGxiYWNrKG51bGwsIHsKICAgIHRleHQ6IG1zZywKICAgIGF0dGFjaG1lbnRzCiAgfSk7Cn0KCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -914,8 +921,9 @@
         <entry>noh</entry>
         <entry>tabNext</entry>
         <entry>w:w</entry>
-        <entry>W</entry>
         <entry>19</entry>
+        <entry>144</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
