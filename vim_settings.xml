@@ -467,10 +467,10 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/functions/events/message/__main__.js" timestamp="1511712401275">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stdlib/stmh/slack-app/functions/events/message/__main__.js" timestamp="1511717376823">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-rothenburg/settings.php" timestamp="1511346298205">
         <mark key="[" line="4" column="38" />
@@ -819,52 +819,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">JiYgKGVsZW0uY291bnQgPiAwKQ==</text>
       </register>
       <register name="/" type="4">
         <text>store-muc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ym9keS5wYW5lbHMtaXBlLWVkaXRpbmcgLnVpLXdpZGdldC1jb250ZW50IHsK</text>
+        <text encoding="base64">ICAgICAgc3RhdGVbc2xhY2tVc2VyLmlkXS5uYW1lID0gbmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text>})
+  forEach(function(key) {
+    if (state[key].inactive || state[key].count === 0) {
+      return;
+    }
+    const elem = state[key];</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWwgPSB7fTsK</text>
+        <text encoding="base64">ICBsZXQgYXR0YWNobWVudHMgPSBbXTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoIWluaXRpYWwpIHsK</text>
+      <register name="5" type="4">
+        <text>)
+  })
+  let active = state.filter(function (elem) {
+    return !elem.inactive;
+  });
+  let attachments = active.map(function(elem) {
+    return</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVbdXNlcklkXSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHt9KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>) {
-      value = {};
-    }
-    if (</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTtkZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHNsYWNrVXNlci5kZWxldGVkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -877,7 +885,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -914,16 +922,16 @@
         <entry>155</entry>
         <entry>wq</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
-        <entry>75</entry>
         <entry>1</entry>
         <entry>55</entry>
         <entry>247</entry>
         <entry>noh</entry>
-        <entry>tabNext</entry>
         <entry>w:w</entry>
         <entry>19</entry>
         <entry>144</entry>
         <entry>W</entry>
+        <entry>75</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
