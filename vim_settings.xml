@@ -72,7 +72,6 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1512062027945" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="42" column="72" />
@@ -91,7 +90,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/apachesolr/apachesolr.api.php" timestamp="1512061535359" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--full.html.twig" timestamp="1507477330553">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="2" column="53" />
@@ -237,6 +235,9 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127255561">
+        <mark key="[" line="43" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/JiraSyncer.php" timestamp="1510614891034">
         <mark key="[" line="57" column="43" />
         <mark key="]" line="57" column="43" />
@@ -279,6 +280,7 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/core/includes/common.inc" timestamp="1512126656297" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/form/textarea.html.twig" timestamp="1507146207445">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -323,14 +325,6 @@
         <mark key="]" line="12" column="3" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-luxembourg/settings.php" timestamp="1511345451700">
-        <mark key="b" line="5" column="3" />
-        <mark key="'" line="5" column="41" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.json" timestamp="1508268431870">
         <mark key="[" line="19" column="5" />
@@ -619,7 +613,7 @@
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="95" />
       </file>
-      <file name="/PHP Console" timestamp="1511621138519">
+      <file name="/PHP Console" timestamp="1512127009433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -820,11 +814,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJGxpbmsgPSByZW5kZXIoJGxpbmspOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$markup</text>
       </register>
       <register name="/" type="4">
         <text>store-muc</text>
@@ -833,15 +827,21 @@
         <text encoding="base64">ICAgICAgc3RhdGVbc2xhY2tVc2VyLmlkXS5uYW1lID0gbmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJGxpbmsgPSByZW5kZXIoJGxpbmspOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgJyNtYXJrdXAnID0+ICRtYXJrdXAsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>})
   forEach(function(key) {
     if (state[key].inactive || state[key].count === 0) {
@@ -849,10 +849,10 @@
     }
     const elem = state[key];</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBsZXQgYXR0YWNobWVudHMgPSBbXTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>)
   })
   let active = state.filter(function (elem) {
@@ -861,20 +861,14 @@
   let attachments = active.map(function(elem) {
     return</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHt9KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHt9KTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNsYWNrVXNlci5kZWxldGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
