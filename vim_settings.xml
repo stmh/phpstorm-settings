@@ -227,6 +227,12 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/source/source/components/clients/clients.tpl.haml" timestamp="1512471920922">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="68" />
+        <mark key="." line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/cta/cta.twig" timestamp="1508174912499">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -658,7 +664,7 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512412071825">
+      <file name="/Dummy.txt" timestamp="1512471848769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityDeleteForm.php" timestamp="1510178450763">
@@ -833,10 +839,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Is Portrait</text>
+        <text>white</text>
       </register>
       <register name="-" type="4">
-        <text>Is Portrait</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
         <text>article_im</text>
