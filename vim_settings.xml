@@ -203,12 +203,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1512775416678">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1512776618993">
         <mark key="'" line="96" column="18" />
-        <mark key="[" line="114" column="45" />
-        <mark key="]" line="114" column="45" />
-        <mark key="." line="114" column="45" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
         <mark key="^" line="114" column="8" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/UiPatterns/Patternlab/PatternlabPattern.php" timestamp="1509917735581">
         <mark key="[" line="2" column="65" />
@@ -526,7 +526,7 @@
         <mark key="^" line="97" column="29" />
         <mark key="." line="97" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/mappings.yml" timestamp="1512775345838">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/mappings.yml" timestamp="1512776608584">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
@@ -865,8 +865,8 @@
       <jump line="95" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -878,37 +878,37 @@
         <text encoding="base64">ICAgICAgLQogICAgICAgIG5hbWU6IEhhcnJvZHMKICAgICAgICBhbHQ6ICJIYXJyb2RzIgogICAgICAgIGxvZ286IGhhcnJvZHMuc3ZnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiSW4gQmFja2xvZyI6ICJQcmVwYXJhdGlvbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT50cmFuc2l0aW9uSWZOZWVkZWQoJGNvcHksICRpc3N1ZSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRzb3VyY2VfY2F0ID09ICdkb25lJykgewogICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uID0gJ0RvbmUnOwogICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uZGF0ZSA9ICRpc3N1ZS0+ZmllbGRzLT51cGRhdGVkOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiSW4gQmFja2xvZyI6ICJQcmVwYXJhdGlvbiIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICR0aGlzLT50cmFuc2l0aW9uSWZOZWVkZWQoJGNvcHksICRpc3N1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICR0aGlzLT50cmFuc2l0aW9uSWZOZWVkZWQoJGNvcHksICRpc3N1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uZGF0ZSA9ICRpc3N1ZS0+ZmllbGRzLT5yZXNvbHV0aW9uZGF0ZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uID0gJHRoaXMtPm1hcHBpbmdzWydyZXNvbHV0aW9ucyddWyRyZXNvbHV0aW9uXTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
