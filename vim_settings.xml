@@ -203,12 +203,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1512772140458">
-        <mark key="'" line="95" column="18" />
-        <mark key="[" line="114" column="7" />
-        <mark key="]" line="109" column="4" />
-        <mark key="." line="109" column="4" />
-        <mark key="^" line="114" column="6" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1512775416678">
+        <mark key="'" line="96" column="18" />
+        <mark key="[" line="114" column="45" />
+        <mark key="]" line="114" column="45" />
+        <mark key="." line="114" column="45" />
+        <mark key="^" line="114" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/UiPatterns/Patternlab/PatternlabPattern.php" timestamp="1509917735581">
         <mark key="[" line="2" column="65" />
@@ -526,11 +526,11 @@
         <mark key="^" line="97" column="29" />
         <mark key="." line="97" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/mappings.yml" timestamp="1512771425374">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/mappings.yml" timestamp="1512775345838">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/mainnavigation/mainnavigation.twig" timestamp="1508173684271">
         <mark key="[" line="10" column="19" />
@@ -643,7 +643,7 @@
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="95" />
       </file>
-      <file name="/PHP Console" timestamp="1512772153039">
+      <file name="/PHP Console" timestamp="1512775421246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -866,10 +866,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVFBfQ09NTUVOVFNfRElTQUJMRURcPg==</text>
@@ -878,37 +878,37 @@
         <text encoding="base64">ICAgICAgLQogICAgICAgIG5hbWU6IEhhcnJvZHMKICAgICAgICBhbHQ6ICJIYXJyb2RzIgogICAgICAgIGxvZ286IGhhcnJvZHMuc3ZnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiSW4gQmFja2xvZyI6ICJQcmVwYXJhdGlvbiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT50cmFuc2l0aW9uSWZOZWVkZWQoJGNvcHksICRpc3N1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGlzc3VlLT5maWVsZHMtPmFzc2lnbmVlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT50cmFuc2l0aW9uSWZOZWVkZWQoJGNvcHksICRpc3N1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoIVJUUF9DT01NRU5UU19ESVNBQkxFRCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIVJUUF9DT01NRU5UU19ESVNBQkxFRCkgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uZGF0ZSA9ICRpc3N1ZS0+ZmllbGRzLT5yZXNvbHV0aW9uZGF0ZTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICcjcmVxdWlyZWQnID0+IFRSVUUsCg==</text>
+        <text encoding="base64">ICAgICAgICAkY29weUZpZWxkLT5yZXNvbHV0aW9uID0gJHRoaXMtPm1hcHBpbmdzWydyZXNvbHV0aW9ucyddWyRyZXNvbHV0aW9uXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -970,6 +970,7 @@
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>110</entry>
+        <entry>114</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
