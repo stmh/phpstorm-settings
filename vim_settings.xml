@@ -60,6 +60,12 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" timestamp="1512752928425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="2" />
+        <mark key="." line="212" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/linklist/linklist.twig" timestamp="1508173419187">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="10" />
@@ -331,11 +337,12 @@
       <file name="/fragment.php" timestamp="1511289652418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" timestamp="1512746146642">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="91" column="77" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" timestamp="1512753084832">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--teaser.html.twig" timestamp="1507477389976">
         <mark key="[" line="2" column="54" />
@@ -745,11 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="741" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
-      <jump line="171" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/rmh_cv_search.module" />
-      <jump line="319" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="347" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
-      <jump line="167" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="126" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="185" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_cv_search/plugins/content_types/search_result.inc" />
@@ -845,65 +847,70 @@
       <jump line="103" column="73" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/includes/fieldable_panels_pane.inc" />
       <jump line="33" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/data/clients.yml" />
       <jump line="37" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-onepager/data/clients.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
+      <jump line="86" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
+      <jump line="16" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FALSE</text>
+        <text>RTP_COMMENTS_DISABLED</text>
       </register>
       <register name="-" type="4">
-        <text>FALSE</text>
+        <text>RTP_COMMENTS_DISABLED</text>
       </register>
       <register name="/" type="4">
-        <text>mess</text>
+        <text encoding="base64">XDxSVFBfQ09NTUVOVFNfRElTQUJMRURcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLQogICAgICAgIG5hbWU6IEhhcnJvZHMKICAgICAgICBhbHQ6ICJIYXJyb2RzIgogICAgICAgIGxvZ286IGhhcnJvZHMuc3ZnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcjcmVxdWlyZWQnID0+IFRSVUUsCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICcjZGVzY3JpcHRpb24nID0+IHQoIlRoZSBtYXhpbXVtIG51bWJlciBvZiBsaW5rcyB0byBkaXNwbGF5IGluIHRoZSBibG9jay4iKSwK</text>
+        <text encoding="base64">ICBpZiAoIVJUUF9DT01NRU5UU19ESVNBQkxFRCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcjbWF4bGVuZ3RoJyA9PiAyLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICcjc2l6ZScgPT4gMiwK</text>
+        <text encoding="base64">ICBpZiAoIVJUUF9DT01NRU5UU19ESVNBQkxFRCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICVoMi5QYXJ0bmVyLXN1bW1hcnkudS1tYjYK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPSBJMThuLnQoZGF0YS5jbGllbnRzLnN1bW1hcnkpCg==</text>
+        <text encoding="base64">ICAgICcjcmVxdWlyZWQnID0+IFRSVUUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnRzX3N1bW1hcnk6IEhlcmUncyBhIGV4Y2VycHQgb2Ygb3VyIGNsaWVudCBsaXN0cy4K</text>
+        <text encoding="base64">ICAgICcjZGVzY3JpcHRpb24nID0+IHQoIlRoZSBtYXhpbXVtIG51bWJlciBvZiBsaW5rcyB0byBkaXNwbGF5IGluIHRoZSBibG9jay4iKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGllbnRzX3N1bW1hcnk6IAo=</text>
+        <text encoding="base64">ICAgICcjbWF4bGVuZ3RoJyA9PiAyLAo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLQogICAgICAgIG5hbWU6IE1lc3NtZXIKICAgICAgICBhbHQ6ICJNZXNzbWVyIgogICAgICAgIGxvZ286IG1lc3NtZXIuc3ZnCg==</text>
+        <text encoding="base64">ICAgICcjc2l6ZScgPT4gMiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mess</last-search>
+      <last-search encoding="base64">XDxSVFBfQ09NTUVOVFNfRElTQUJMRURcPg==</last-search>
       <last-offset />
-      <last-pattern>mess</last-pattern>
+      <last-pattern encoding="base64">XDxSVFBfQ09NTUVOVFNfRElTQUJMRURcPg==</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -927,6 +934,9 @@
         <entry>article_im</entry>
         <entry>suf</entry>
         <entry>mess</entry>
+        <entry>comment(</entry>
+        <entry>RTP_COMM</entry>
+        <entry encoding="base64">XDxSVFBfQ09NTUVOVFNfRElTQUJMRURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
