@@ -681,7 +681,6 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/vendor/lesstif/php-jira-rest-client/src/Issue/IssueField.php" timestamp="1512839842488" />
       <file name="/Dummy.txt" timestamp="1512478493038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -744,7 +743,7 @@
         <mark key="^" line="188" column="44" />
         <mark key="." line="188" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" timestamp="1512771694645">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" timestamp="1513098860300">
         <mark key="[" line="81" column="39" />
         <mark key="]" line="45" column="21" />
         <mark key="." line="45" column="21" />
@@ -922,15 +921,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>access(</entry>
-        <entry>hook_entity_access</entry>
-        <entry>theme</entry>
-        <entry>theme_picture</entry>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>module_e</entry>
         <entry>ok</entry>
         <entry>print_r</entry>
@@ -953,9 +947,6 @@
         <entry>populate</entry>
       </history-search>
       <history-cmd>
-        <entry>20</entry>
-        <entry>79</entry>
-        <entry encoding="base64">JzwsJz4x</entry>
         <entry>q</entry>
         <entry>d</entry>
         <entry>48</entry>
