@@ -565,6 +565,12 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/spiriva-edetailer/src/main.js" timestamp="1513200925020">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/footer/footer.twig" timestamp="1508174243833">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -745,6 +751,9 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/spiriva-edetailer/src/App.vue" timestamp="1513200745765">
+        <mark key="[" line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" timestamp="1512062038051">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="187" column="5" />
@@ -874,11 +883,11 @@
       <jump line="2147" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">e3sgdmlkZW9fd2lkdGggfX0gLyB7eyB2aWRlb19oZWlnaHQgfX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8qIHsgZGVmYXVsdCBnbG9iYWwgb3B0aW9ucyB9ICov</text>
       </register>
       <register name="-" type="4">
-        <text>720</text>
+        <text encoding="base64">IC8qIHsgZGVmYXVsdCBnbG9iYWwgb3B0aW9ucyB9ICov</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</text>
@@ -887,37 +896,37 @@
         <text encoding="base64">ICAgICAgLQogICAgICAgIG5hbWU6IEhhcnJvZHMKICAgICAgICBhbHQ6ICJIYXJyb2RzIgogICAgICAgIGxvZ286IGhhcnJvZHMuc3ZnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgdmlkZW9fd2lkdGggfX0gLyB7eyB2aWRlb19oZWlnaHQgfX0K</text>
+        <text encoding="base64">aW1wb3J0ICdzd2lwZXIvZGlzdC9jc3Mvc3dpcGVyLmNzcyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgdmlkZW9fd2lkdGggfX0gLyB7eyB2aWRlb19oZWlnaHQgfX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA6d2ViZm9ybV9oYW5kbGVyX2ZpZWxkX2Zvcm1fYm9keQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIHNzY2lsZF9mcm9udGVuZF9wcmVwcm9jZXNzX2ZpZWxkKCYkdmFycywgJGhvb2spIHsKICAkZWxlbWVudCA9ICR2YXJzWydlbGVtZW50J107CiAgaWYgKCRlbGVtZW50WycjZmllbGRfdHlwZSddID09ICdicmlnaHRjb3ZlX2ZpZWxkJykgewoKICAgIC8qKiBAdmFyIFxCcmlnaHRjb3ZlXE9iamVjdFxWaWRlb1xWaWRlbyAkdmlkZW8gKi8KICAgICR2aWRlbyA9ICRlbGVtZW50WzBdWycjdmlkZW8nXTsKCiAgfQp9</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gcmVxdWlyZSBzdHlsZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL0FwcCc7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">e3sgdmlkZW9fd2lkdGggfX0gLyB7eyB2aWRlb19oZWlnaHQgfX0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">e3sgdmlkZW9fd2lkdGggfX0gLyB7eyB2aWRlb19oZWlnaHQgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludF9yKCR2YXJzKTsK</text>
+        <text encoding="base64">ICA6d2ViZm9ybV9oYW5kbGVyX2ZpZWxkX2Zvcm1fYm9keQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHNzY2lsZF9mcm9udGVuZF9wcmVwcm9jZXNzX2ZpZWxkKCYkdmFycywgJGhvb2spIHsKICAkZWxlbWVudCA9ICR2YXJzWydlbGVtZW50J107CiAgaWYgKCRlbGVtZW50WycjZmllbGRfdHlwZSddID09ICdicmlnaHRjb3ZlX2ZpZWxkJykgewoKICAgIC8qKiBAdmFyIFxCcmlnaHRjb3ZlXE9iamVjdFxWaWRlb1xWaWRlbyAkdmlkZW8gKi8KICAgICR2aWRlbyA9ICRlbGVtZW50WzBdWycjdmlkZW8nXTsKCiAgfQp9</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIENvbXB1dGUgYXNwZWN0IHJhdGlvLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -930,12 +939,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>module_e</entry>
-        <entry>ok</entry>
         <entry>print_r</entry>
         <entry>ssc_ild_fe_image_styles</entry>
         <entry>_theme(</entry>
@@ -958,7 +965,6 @@
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>d</entry>
         <entry>48</entry>
         <entry>155</entry>
