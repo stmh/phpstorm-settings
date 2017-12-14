@@ -1,14 +1,34 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-11T12:14:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-11T17:27:42</property>
+    <property name="modified">2017-12-14T12:20:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="a3be8c" />
+    <option name="FILESTATUS_DELETED" value="bf616a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_MERGED" value="81a1c1" />
+    <option name="FILESTATUS_MODIFIED" value="ebcb8b" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="88c0d0" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="88c0d0" />
+    <option name="FILESTATUS_UNKNOWN" value="bf616a" />
+    <option name="FILESTATUS_addedOutside" value="a3be8c" />
+    <option name="FILESTATUS_changelistConflict" value="d08770" />
+    <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
+  </colors>
 </scheme>
