@@ -553,12 +553,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-notification-server/app.js" timestamp="1513250945584">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-notification-server/app.js" timestamp="1513252060054">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/sociallinks/sociallinks.json" timestamp="1508174463305">
         <mark key="[" line="8" column="17" />
@@ -890,11 +890,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bi-notification-server/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>ENVIRONMENT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ENVIRONMENT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</text>
