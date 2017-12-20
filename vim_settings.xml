@@ -209,12 +209,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1512840184333">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1513782104509">
         <mark key="'" line="143" column="51" />
-        <mark key="[" line="143" column="47" />
-        <mark key="]" line="143" column="51" />
+        <mark key="[" line="118" column="34" />
+        <mark key="]" line="118" column="34" />
         <mark key="^" line="143" column="51" />
-        <mark key="." line="143" column="51" />
+        <mark key="." line="118" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/patternlab_integration/src/Plugin/UiPatterns/Patternlab/PatternlabPattern.php" timestamp="1509917735581">
         <mark key="[" line="2" column="65" />
@@ -903,10 +903,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ENVIRONMENT</text>
+        <text encoding="base64">IHx8ICR0aGlzLT51cGRhdGVFeGlzdGluZw==</text>
       </register>
       <register name="-" type="4">
-        <text>ENVIRONMENT</text>
+        <text encoding="base64">IHx8ICR0aGlzLT51cGRhdGVFeGlzdGluZw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmlnaHRjb3ZlX2xvYWRfdmlkZW9cPg==</text>
