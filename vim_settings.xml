@@ -276,8 +276,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" timestamp="1515963567699">
-        <mark key="[" line="103" column="67" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor.js" timestamp="1515965626440">
+        <mark key="[" line="56" column="4" />
         <mark key="]" line="103" column="66" />
         <mark key="." line="103" column="66" />
         <mark key="^" line="103" column="66" />
@@ -770,7 +770,7 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515963628851">
+      <file name="/Dummy.txt" timestamp="1515967352883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1512771650502">
@@ -874,11 +874,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/host.js" timestamp="1515964785805">
-        <mark key="[" line="138" column="32" />
-        <mark key="]" line="139" column="10" />
-        <mark key="." line="139" column="10" />
-        <mark key="^" line="139" column="10" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/host.js" timestamp="1515967396194">
+        <mark key="[" line="257" column="49" />
+        <mark key="]" line="257" column="49" />
+        <mark key="." line="257" column="49" />
+        <mark key="^" line="143" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -985,10 +985,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, this.host.config.name, this.host.config.interval, this.host.config.timeout)</text>
+        <text>then( function () {},</text>
       </register>
       <register name="-" type="4">
-        <text>, this.host.config.name, this.host.config.interval, this.host.config.timeout)</text>
+        <text>then( function () {},</text>
       </register>
       <register name="/" type="4">
         <text>presave</text>
@@ -997,37 +997,43 @@
         <text encoding="base64">ICAgIGtleTogZnMucmVhZEZpbGVTeW5jKGBjZXJ0cy8keyBwcm9jZXNzLmVudi5FTlZJUk9OTUVOVH0va2V5LnBlbWApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5FV19PVkVSVklFVyhzdGF0ZSwgZGF0YSkgewogICAgICBzdGF0ZS5vdmVydmlldyA9IGRhdGE7CiAgICB9LAoKICAgIE5FV19EQVRBKHN0YXRlLCBkYXRhKSB7CiAgICAgIHN0YXRlLmRhdGEgPSBkYXRhOwogICAgICBzdGF0ZS5vdmVydmlldyA9IGNvbXB1dGVPdmVydmlldyhkYXRhKTsKICAgIH0sCgogICAgTkVXX0hPU1RfU1RBVEUoc3RhdGUsIGRhdGEpIHsKICAgICAgY29uc3QgaG9zdHMgPSBzdGF0ZS5kYXRhLmhvc3RzOwogICAgICBjb25zdCBuZHggPSBob3N0cy5yZWR1Y2UoKHByZSwgY3VyLCBpbmRleCkgPT4gewogICAgICAgIGlmIChkYXRhLmlkID09PSBjdXIuaWQpIHsKICAgICAgICAgIHJldHVybiBpbmRleDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHByZTsKICAgICAgfSwgLTEpOwogICAgICBpZiAobmR4ID49IDApIHsKICAgICAgICBzdGF0ZS5kYXRhLmhvc3RzW25keF0gPSBkYXRhOwogICAgICAgIHN0YXRlLm92ZXJ2aWV3ID0gY29tcHV0ZU92ZXJ2aWV3KHN0YXRlLmRhdGEpOwogICAgICB9CiAgICB9LAoKICAgIFNFVF9DT01QQVJFX1ZBTFVFUyhzdGF0ZSwgeyBncm91cCwgdmFsdWVHcm91cCwgdmFsdWUsIGRhdGEgfSkgewogICAgICBWdWUuc2V0KHN0YXRlLmNvbXBhcmUsIGdldEtleShncm91cCwgdmFsdWVHcm91cCwgdmFsdWUpLCBkYXRhLmdyYXBoKTsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gYCR7Y29uZmlnLm1vbml0b3JpbmcuanNvblVybH0vc3RhdHVzLWJvYXJkL2NvbXBhcmUvJHtncm91cH0vJHt2YWx1ZUdyb3VwfS8ke3ZhbHVlfWA7CiAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgd2luZG93LmZldGNoKHVybCk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICAgIGNvbnRleHQuY29tbWl0KCdTRVRfQ09NUEFSRV9WQUxVRVMnLCB7CiAgICAgICAgZ3JvdXAsCiAgICAgICAgdmFsdWVHcm91cCwKICAgICAgICB2YWx1ZSwKICAgICAgICBkYXRhLAogICAgICB9KTsK</text>
+      <register name="2" type="4">
+        <text>);
+        promise.error(f</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJ2aWV3OiBzdGF0ZSA9PiBzdGF0ZS5vdmVydmlldywKICAgIGhvc3RzOiBzdGF0ZSA9PiBzdGF0ZS5kYXRhLmhvc3RzLAogICAgY29tcGFyZVZhbHVlczoKICAgICAgc3RhdGUgPT4gKGdyb3VwLCB2YWx1ZUdyb3VwLCB2YWx1ZSkgPT4gewogICAgICAgIGNvbnN0IGtleSA9IGdldEtleShncm91cCwgdmFsdWVHcm91cCwgdmFsdWUpOwogICAgICAgIHJldHVybiBzdGF0ZS5jb21wYXJlW2tleV0gPyBzdGF0ZS5jb21wYXJlW2tleV0gOiB7fTsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgaG9zdHM6IFtdLAogICAgfSwKICAgIG92ZXJ2aWV3OiB7CiAgICAgIGNoZWNrZWQ6IDAsCiAgICAgIHdhcm5pbmc6IDAsCiAgICAgIGVycm9yOiAwLAogICAgfSwKICAgIGNvbXBhcmU6IHt9LAo=</text>
+      <register name="4" type="4">
+        <text>if (e) {
+      console.log(e);
+      logger.log(e);
+      callback();
+      return;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgfQogIGlmICgka2V5ID09</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE5FV19PVkVSVklFVyhzdGF0ZSwgZGF0YSkgewogICAgICBzdGF0ZS5vdmVydmlldyA9IGRhdGE7CiAgICB9LAoKICAgIE5FV19EQVRBKHN0YXRlLCBkYXRhKSB7CiAgICAgIHN0YXRlLmRhdGEgPSBkYXRhOwogICAgICBzdGF0ZS5vdmVydmlldyA9IGNvbXB1dGVPdmVydmlldyhkYXRhKTsKICAgIH0sCgogICAgTkVXX0hPU1RfU1RBVEUoc3RhdGUsIGRhdGEpIHsKICAgICAgY29uc3QgaG9zdHMgPSBzdGF0ZS5kYXRhLmhvc3RzOwogICAgICBjb25zdCBuZHggPSBob3N0cy5yZWR1Y2UoKHByZSwgY3VyLCBpbmRleCkgPT4gewogICAgICAgIGlmIChkYXRhLmlkID09PSBjdXIuaWQpIHsKICAgICAgICAgIHJldHVybiBpbmRleDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHByZTsKICAgICAgfSwgLTEpOwogICAgICBpZiAobmR4ID49IDApIHsKICAgICAgICBzdGF0ZS5kYXRhLmhvc3RzW25keF0gPSBkYXRhOwogICAgICAgIHN0YXRlLm92ZXJ2aWV3ID0gY29tcHV0ZU92ZXJ2aWV3KHN0YXRlLmRhdGEpOwogICAgICB9CiAgICB9LAoKICAgIFNFVF9DT01QQVJFX1ZBTFVFUyhzdGF0ZSwgeyBncm91cCwgdmFsdWVHcm91cCwgdmFsdWUsIGRhdGEgfSkgewogICAgICBWdWUuc2V0KHN0YXRlLmNvbXBhcmUsIGdldEtleShncm91cCwgdmFsdWVHcm91cCwgdmFsdWUpLCBkYXRhLmdyYXBoKTsKICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gYCR7Y29uZmlnLm1vbml0b3JpbmcuanNvblVybH0vc3RhdHVzLWJvYXJkL2NvbXBhcmUvJHtncm91cH0vJHt2YWx1ZUdyb3VwfS8ke3ZhbHVlfWA7CiAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgd2luZG93LmZldGNoKHVybCk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICAgIGNvbnRleHQuY29tbWl0KCdTRVRfQ09NUEFSRV9WQUxVRVMnLCB7CiAgICAgICAgZ3JvdXAsCiAgICAgICAgdmFsdWVHcm91cCwKICAgICAgICB2YWx1ZSwKICAgICAgICBkYXRhLAogICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCRyZXN1bHRbJ3Jlc3VsdCddICE9IHRydWUpIHsK</text>
+        <text encoding="base64">ICAgIG92ZXJ2aWV3OiBzdGF0ZSA9PiBzdGF0ZS5vdmVydmlldywKICAgIGhvc3RzOiBzdGF0ZSA9PiBzdGF0ZS5kYXRhLmhvc3RzLAogICAgY29tcGFyZVZhbHVlczoKICAgICAgc3RhdGUgPT4gKGdyb3VwLCB2YWx1ZUdyb3VwLCB2YWx1ZSkgPT4gewogICAgICAgIGNvbnN0IGtleSA9IGdldEtleShncm91cCwgdmFsdWVHcm91cCwgdmFsdWUpOwogICAgICAgIHJldHVybiBzdGF0ZS5jb21wYXJlW2tleV0gPyBzdGF0ZS5jb21wYXJlW2tleV0gOiB7fTsKICAgICAgfSwK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgaG9va19tYWlsKCkuCiAqLwo=</text>
+        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgaG9zdHM6IFtdLAogICAgfSwKICAgIG92ZXJ2aWV3OiB7CiAgICAgIGNoZWNrZWQ6IDAsCiAgICAgIHdhcm5pbmc6IDAsCiAgICAgIGVycm9yOiAwLAogICAgfSwKICAgIGNvbXBhcmU6IHt9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
