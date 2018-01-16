@@ -87,7 +87,6 @@
         <mark key="." line="25" column="43" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.articlepage.inc" timestamp="1516019315601" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="42" column="72" />
@@ -313,10 +312,10 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/config.js" timestamp="1515865066667">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/config.js" timestamp="1516122298986">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
         <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.json" timestamp="1508174672722">
@@ -529,7 +528,6 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_backend_tools/bmw_backend_tools.module" timestamp="1516014624689" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/button/button.twig" timestamp="1507150915395">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -577,6 +575,12 @@
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/FritzboxPerformanceMetrics.vue" timestamp="1516123485613">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/footernavigation/footernavigation.json" timestamp="1508173588604">
         <mark key="[" line="18" column="4" />
@@ -689,6 +693,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
         <mark key="[" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/index.js" timestamp="1516122821187" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/templates/pattern.json" timestamp="1508169389902">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="95" />
@@ -746,8 +751,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1512771650502">
         <mark key="[" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideOne.vue" timestamp="1515857360473">
-        <mark key="[" line="11" column="66" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideOne.vue" timestamp="1516123556272">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="83" column="44" />
+        <mark key="." line="83" column="44" />
+        <mark key="^" line="83" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Form/ArticlePresetEntityDeleteForm.php" timestamp="1510178450763">
         <mark key="[" line="40" column="40" />
@@ -767,11 +775,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1515865652806">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="11" column="43" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1516122895531">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor-drupal.js" timestamp="1515963677252">
         <mark key="[" line="14" column="27" />
@@ -809,6 +817,10 @@
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/MonitoringOneliner.vue" timestamp="1516123418853">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-layout/blog-layout.json" timestamp="1506968683937">
         <mark key="[" line="5" column="3" />
@@ -948,49 +960,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGhwY3M6aWdub3JlLgo=</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzIH0gZnJvbSAndnVleCc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
         <text>menu(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdjb250ZXh0JyA9PiBhcnJheSgnbGFuZ19jb2RlJyA9PiAkbGFuZ3VhZ2UpLAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzIH0gZnJvbSAndnVleCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGhwY3M6aWdub3JlLgo=</text>
+        <text encoding="base64">ICAgICAgaXRlbXMoKSB7CiAgICAgICAgY29uc3QgaG9zdHMgPSB0aGlzLmhvc3RzOwogICAgICAgIGlmICghaG9zdHMpIHsKICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBob3N0cwogICAgICAgICAgLmZpbHRlcigoZWxlbSkgPT4gKHRoaXMuZ3JvdXAgPyBlbGVtLmdyb3Vwcy5pbmRleE9mKHRoaXMuZ3JvdXApICE9PSAtMSA6IHRydWUpKQogICAgICAgICAgLmZpbHRlcigoZWxlbSkgPT4gZWxlbS5zdGF0ZSAhPT0gJ2Rpc2FibGVkJykKICAgICAgICAgIC5tYXAoKGVsZW0pID0+IHsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gewogICAgICAgICAgICAgIGlkOiBlbGVtLmlkLAogICAgICAgICAgICAgIGhvc3Q6IGVsZW0ubmFtZSwKICAgICAgICAgICAgICBzdGF0ZTogZWxlbS5zdGF0ZSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgIH0pOwogICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBwaHBjczppZ25vcmUuCg==</text>
+        <text encoding="base64">ICAgICAgQXV0b1NjYWxpbmdUZXh0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgJGl0ZW1zWydhZG1pbi9jb250ZW50L2Y=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiBmYWxzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZik7Cg==</text>
+        <text encoding="base64">ICAgICAgfSxjCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICRtYXJrdXAgPSBhcnJheSgKICAgICAgJyN0aGVtZScgPT4gJ2l0ZW1zJywKICAgICAgJyNpdGVtcycgPT4gJGxpbmtzLAogICAgKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">PHRlbXBsYXRlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cGFsX3JlbmRlcihhcnJheSgKICAgICAgICAnI3RoZW1lJyA9PiAnaXRlbXMnLAogICAgICAgICcjaXRlbXMnID0+ICRsaW5rcywKICAgICAgKSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">PC90ZW1wbD4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZik7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICA8dGlja2VyIHNwZWVkPSI5MCI+CiAgICAgICAgICA8bW9uaXRvcmluZy1vbmVsaW5lciBncm91cD0iY3VzdG9tZXJzIj48L21vbml0b3Jpbmctb25lbGluZXI+CiAgICAgICAgPC90aWNrZXI+</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkc20oJHJkZCAgZXR1cm4pOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgPHRpY2tlciBzcGVlZD0iOTAiPgogICAgICAgICAgPG1vbml0b3Jpbmctb25lbGluZXIgZ3JvdXA9ImN1c3RvbWVycyI+PC9tb25pdG9yaW5nLW9uZWxpbmVyPgogICAgICAgIDwvdGlja2VyPgogICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1003,12 +1015,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>implements_al</entry>
-        <entry>tooln</entry>
         <entry encoding="base64">XDxrcF91dGlsc19ldmVudHNcPg==</entry>
         <entry>aspect</entry>
         <entry>'picture_formatter</entry>
@@ -1031,7 +1041,6 @@
         <entry>menu(</entry>
       </history-search>
       <history-cmd>
-        <entry>55</entry>
         <entry>247</entry>
         <entry>w:w</entry>
         <entry>19</entry>
