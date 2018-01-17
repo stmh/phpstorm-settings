@@ -436,10 +436,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/FritzboxPerformanceMetrics.vue" timestamp="1516177226998">
-        <mark key="[" line="41" column="42" />
-        <mark key="]" line="41" column="42" />
-        <mark key="." line="41" column="42" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/FritzboxPerformanceMetrics.vue" timestamp="1516188403860">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/templates/breakpoint_groups/feature.breakpoints.content.twig" timestamp="1510508237035">
         <mark key="[" line="8" column="25" />
@@ -761,8 +762,8 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1512771650502">
         <mark key="[" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideOne.vue" timestamp="1516123556272">
-        <mark key="[" line="83" column="43" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/SlideOne.vue" timestamp="1516187966929">
+        <mark key="[" line="17" column="37" />
         <mark key="]" line="83" column="44" />
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="41" />
@@ -785,11 +786,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1516184096810">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="78" column="14" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1516188283969">
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="91" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/utils/map2d.js" timestamp="1516176618172">
         <mark key="[" line="0" column="0" />
@@ -976,49 +977,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRzQXZhaWxhYmxlOiBmYWxzZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>loggingIn</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
         <text>menu(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3RhcnQgbG9nZ2luZyBpbicpOwo=</text>
+        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHdpbmRvdy5mZXRjaCh1cmwpOwogIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS50ZXh0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRzQXZhaWxhYmxlOiBmYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkOiBzdGF0ZSA9PiBzdGF0ZS5kb3dubG9hZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYWxsZW5nZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkOiBbXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgIHVwbG9hZDogW10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHN0ci5jaGFyQXQoaSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3dubG9hZDogJ2ZyaXR6Ym94L2Rvd25sb2FkJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YXVlX2tleSA9IHRoaXMuaXNVcGxvYWQgPyAnY29uc3QgbWF4ID0gdGhpcy51cGxvYWQucmVkdWNlKChlbGVtLCBhY2MpID0+IE1hdGgubWF4KGVsZW0sIGFjYyksIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy50eXBlID09ICd1cGxvYWQnID0+IGFycmF5KCdwcmlvX3JlYWx0aWRkbScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzaWQsIGNoYWxsZW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1075,8 +1076,9 @@
         <entry>noh</entry>
         <entry>183</entry>
         <entry>670</entry>
-        <entry>w</entry>
+        <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
