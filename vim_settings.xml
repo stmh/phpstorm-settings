@@ -697,7 +697,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/index.js" timestamp="1516122821187" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/monitoring/index.js" timestamp="1516180223903" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/generator-pattern/app/templates/pattern.json" timestamp="1508169389902">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="95" />
@@ -785,11 +785,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1516178220136">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/store/fritzbox/index.js" timestamp="1516184096810">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="78" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/utils/map2d.js" timestamp="1516176618172">
         <mark key="[" line="0" column="0" />
@@ -975,50 +975,50 @@
       <jump line="929" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>input</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>loggingIn</text>
       </register>
       <register name="/" type="4">
         <text>menu(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzIH0gZnJvbSAndnVleCc7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3RhcnQgbG9nZ2luZyBpbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgYSA9IGlucHV0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2LWZvcj0ic2VxdWVuY2UsIGluZGV4IGluIGRhdGEuZGF0YXNlcXVlbmNlcyIK</text>
+        <text encoding="base64">ICAgIGNoYWxsZW5nZTogZmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2LWlmPSIhaW50ZXJsZWF2ZWQiCg==</text>
+        <text encoding="base64">ICAgIGNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHN0ci5jaGFyQXQoaSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXRlbXMoKSB7CiAgICAgICAgY29uc3QgaG9zdHMgPSB0aGlzLmhvc3RzOwogICAgICAgIGlmICghaG9zdHMpIHsKICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBob3N0cwogICAgICAgICAgLmZpbHRlcigoZWxlbSkgPT4gKHRoaXMuZ3JvdXAgPyBlbGVtLmdyb3Vwcy5pbmRleE9mKHRoaXMuZ3JvdXApICE9PSAtMSA6IHRydWUpKQogICAgICAgICAgLmZpbHRlcigoZWxlbSkgPT4gZWxlbS5zdGF0ZSAhPT0gJ2Rpc2FibGVkJykKICAgICAgICAgIC5tYXAoKGVsZW0pID0+IHsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gewogICAgICAgICAgICAgIGlkOiBlbGVtLmlkLAogICAgICAgICAgICAgIGhvc3Q6IGVsZW0ubmFtZSwKICAgICAgICAgICAgICBzdGF0ZTogZWxlbS5zdGF0ZSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgIH0pOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQXV0b1NjYWxpbmdUZXh0LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXA6IHsK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzaWQsIGNoYWxsZW5nZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1026,12 +1026,12 @@
     </registers>
     <search>
       <last-search>menu(</last-search>
-      <last-offset />
+      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
       <last-pattern>menu(</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1068,7 +1068,6 @@
         <entry>114</entry>
         <entry>92</entry>
         <entry>278</entry>
-        <entry>W</entry>
         <entry>163</entry>
         <entry>140</entry>
         <entry>155</entry>
@@ -1077,6 +1076,7 @@
         <entry>183</entry>
         <entry>670</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
