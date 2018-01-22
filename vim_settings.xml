@@ -72,12 +72,8 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.admin.timeline.inc" timestamp="1516020803269">
-        <mark key="a" line="56" column="9" />
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="43" />
-        <mark key="." line="25" column="43" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" timestamp="1516631458322">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
@@ -445,6 +441,11 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1516631393982">
+        <mark key="[" line="764" column="0" />
+        <mark key="]" line="764" column="0" />
+        <mark key="." line="764" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/taxonomy_term/taxonomy-term--categories.html.twig" timestamp="1506972945771">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="33" />
@@ -559,7 +560,6 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/toolbar/toolbar.api.php" timestamp="1516626320983" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/slides/Footer.vue" timestamp="1516191923165">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -827,13 +827,6 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" timestamp="1516021149159">
-        <mark key="'" line="929" column="44" />
-        <mark key="[" line="680" column="0" />
-        <mark key="]" line="680" column="0" />
-        <mark key="." line="680" column="0" />
-        <mark key="^" line="680" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-layout/blog-layout.twig" timestamp="1506968757008">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="3" column="0" />
@@ -891,7 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
       <jump line="154" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
       <jump line="120" column="20" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
       <jump line="101" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
@@ -991,13 +983,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_tools/bmw_tools.module" />
       <jump line="929" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_pages/bmw_pages.module" />
       <jump line="15" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/FritzboxPerformanceMetrics.vue" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProductMenuLink</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ProductMenuLink</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>menu(</text>
@@ -1039,7 +1032,7 @@
         <text encoding="base64">ICByZXR1cm4gWwogICAgJ2tsYW1idCcgPT4gCiAgXQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1075,7 +1068,6 @@
         <entry>menu(</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>19</entry>
         <entry>144</entry>
         <entry>75</entry>
@@ -1094,8 +1086,8 @@
         <entry>670</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>W</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
