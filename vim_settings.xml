@@ -78,11 +78,10 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" timestamp="1516694765875">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" timestamp="1516698321875">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
@@ -188,6 +187,12 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.module" timestamp="1516699674333">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/resources/views/default.twig" timestamp="1511022790778">
         <mark key="[" line="7" column="0" />
@@ -533,16 +538,17 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.links.menu.yml" timestamp="1516694658482">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.links.menu.yml" timestamp="1516699410672">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/ArticlePresetsMenuLink.php" timestamp="1516694217709">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/ArticlePresetsMenuLink.php" timestamp="1516699395826">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/button/button.twig" timestamp="1507150915395">
         <mark key="[" line="5" column="24" />
@@ -739,7 +745,7 @@
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
       </file>
-      <file name="/PHP Console" timestamp="1516694803377">
+      <file name="/PHP Console" timestamp="1516700479361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.info.yml" timestamp="1506967333716">
@@ -1002,7 +1008,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtZW51X25hbWU6IG1haW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>navigation</text>
@@ -1014,37 +1020,37 @@
         <text encoding="base64">ICBkZXJpdmVyOiAnRHJ1cGFsXGFydGljbGVfcHJlc2V0c1xQbHVnaW5cRGVyaXZhdGl2ZVxEeW5hbWljTG9jYWxBY3Rpb25zJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtZW51X25hbWU6IG1haW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgXTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCiAgICogQ29tcHV0ZSBhIHF1ZXJ5IGZyb20gdGhlIGFydGljbGUgcHJlc2V0LgogICAqLwogIHB1YmxpYyBmdW5jdGlvbiBjb21wdXRlUXVlcnkoQXJ0aWNsZVByZXNldEVudGl0eUludGVyZmFjZSAkcHJlc2V0KSB7CiAgICAkYXJncyA9IGFycmF5X21hcChmdW5jdGlvbiAoJHApIHVzZSAoJHByZXNldCkgewogICAgICByZXR1cm4gaW1wbG9kZSgnOicsIFsKICAgICAgICAnbm9kZScsCiAgICAgICAgJHByZXNldC0+Z2V0UGFyYWdyYXBoc0ZpZWxkTmFtZSgpLAogICAgICAgICRwWydidW5kbGVfbmFtZSddLAogICAgICBdKTsKICAgIH0sICRwcmVzZXQtPmdldFByZXNldCgpKTsKCiAgICByZXR1cm4gWydwYXJhZ3JhcGhzLXRvb2xzLWF1dG9hZGQnID0+IGltcGxvZGUoJ3wnLCAkYXJncyldOwogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmFkbWluX2NvbnRlbnQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmRlcml2YXRpdmVzWyRrZXldWydhcHBlYXJzX29uJ10gPSBbCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtZW51X25hbWU6IHByb2R1Y3QK</text>
+        <text encoding="base64">ICBtZW51X25hbWU6IG1haW4K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGFzczogRHJ1cGFsXGFydGljbGVfcHJlc2V0c1xQbHVnaW5cTWVudVxBcml0Y2xlUHJlc2V0c01lbnVMaW5rCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
