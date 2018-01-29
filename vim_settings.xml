@@ -400,6 +400,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.services.yml" timestamp="1517227935405" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.json" timestamp="1508268431870">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="18" column="7" />
@@ -666,6 +667,12 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1517229972383">
+        <mark key="[" line="154" column="42" />
+        <mark key="]" line="100" column="45" />
+        <mark key="^" line="100" column="42" />
+        <mark key="." line="100" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-aarhus/settings.php" timestamp="1511345383070">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="43" />
@@ -783,7 +790,7 @@
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
       </file>
-      <file name="/PHP Console" timestamp="1517076264094">
+      <file name="/PHP Console" timestamp="1517229973097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" timestamp="1517076369128">
@@ -902,6 +909,12 @@
         <mark key="]" line="23" column="4" />
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistServiceInterface.php" timestamp="1517227490696">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-layout/blog-layout.twig" timestamp="1506968757008">
         <mark key="[" line="5" column="0" />
@@ -1063,50 +1076,50 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>klambt_toolbar.root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRjaWQgPSAia2xhbWJ0X2JsYWNrbWFpbDokZW1haWw6JGFjdGlvbiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>klambt_toolbar.root</text>
+        <text>$em</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleHBhbmRlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICRjaWQgPSAia2xhbWJ0X2JsYWNrbWFpbDokZW1haWw6JGFjdGlvbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmRlcml2YXRpdmVzWyRrZXldWydwYXJlbnQnXSA9ICdrbGFtYnRfdG9vbGJhci5hcnRpY2xlX2FkZCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmRlcml2YXRpdmVzWyRrZXldWydtZW51X25hbWUnXSA9ICdrbGFtYnQnOwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmRlcml2YXRpdmVzWyRrZXldWydwYXJlbnQnXSA9ICdrbGFtYnRfdG9vbGJhci5hcnRpY2xlX2FkZCc7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0d2lnOgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmljZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCByZW1vdmVGcm9tVGVtcExpc3QoKSBtZXRob2QuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCByZW1vdmVGcm9tVGVtcExpc3QoKSBtZXRob2QuCg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBhZGRUb1RlbXBMaXN0KCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
