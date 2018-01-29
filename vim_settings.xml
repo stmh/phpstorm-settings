@@ -36,11 +36,11 @@
       <file name="/a.dummy" timestamp="1511019953804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" timestamp="1517074423600">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" timestamp="1517221644879">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-sidebar-ads/blog-sidebar-ads.twig" timestamp="1506968797758">
         <mark key="[" line="3" column="0" />
@@ -632,6 +632,12 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/themes/stable/templates/navigation/menu--toolbar.html.twig" timestamp="1517221477359">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/footernavigation/footernavigation.json" timestamp="1508173588604">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="2" />
@@ -1058,10 +1064,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
