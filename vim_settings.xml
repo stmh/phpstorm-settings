@@ -33,7 +33,7 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1511019953804">
+      <file name="/a.dummy" timestamp="1517230436907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" timestamp="1517223344815">
@@ -388,6 +388,12 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.module" timestamp="1517233490023">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="29" column="55" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1509987111110">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="12" column="16" />
@@ -400,7 +406,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.services.yml" timestamp="1517227935405" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.services.yml" timestamp="1517230905691">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.json" timestamp="1508268431870">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="18" column="7" />
@@ -667,11 +678,11 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1517229972383">
-        <mark key="[" line="154" column="42" />
-        <mark key="]" line="100" column="45" />
-        <mark key="^" line="100" column="42" />
-        <mark key="." line="100" column="42" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1517232703324">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-aarhus/settings.php" timestamp="1511345383070">
         <mark key="[" line="5" column="0" />
@@ -763,6 +774,7 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" timestamp="1517230709226" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--archive-item.html.twig" timestamp="1506970077759">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="33" />
@@ -784,13 +796,19 @@
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/readme.md" timestamp="1517233077651">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Form/GaiaPatientMailPinEditForm.php" timestamp="1513260327731">
         <mark key="[" line="77" column="25" />
         <mark key="]" line="78" column="46" />
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
       </file>
-      <file name="/PHP Console" timestamp="1517229973097">
+      <file name="/PHP Console" timestamp="1517233487230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" timestamp="1517076369128">
@@ -910,7 +928,7 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistServiceInterface.php" timestamp="1517227490696">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistServiceInterface.php" timestamp="1517232965994">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
@@ -1076,50 +1094,50 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRjaWQgPSAia2xhbWJ0X2JsYWNrbWFpbDokZW1haWw6JGFjdGlvbiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>interface</text>
       </register>
       <register name="-" type="4">
-        <text>$em</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRjaWQgPSAia2xhbWJ0X2JsYWNrbWFpbDokZW1haWw6JGFjdGlvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRoaXMtPmdldENhY2hlSUQoc2VsZjo6QUNUSU9OX0NIRUNLLCAkZW1haWwpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRzbSgkYWN0aW9uIC4gJzogJyAuICR1cmwgLiAnIC0+ICcgLiAkY29udGVudHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBLTEFNQlRfQkxBS0xJU1RfQ0hFQ0tfQUNUSU9OID0gJ2NoZWNrJzsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCByZW1vdmVGcm9tVGVtcExpc3QoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCByZW1vdmVGcm9tVGVtcExpc3QoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBhZGRUb1RlbXBMaXN0KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgImtsYW1idF9ibGFja21haWw6JGVtYWlsOiRhY3Rpb24iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
