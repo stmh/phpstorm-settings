@@ -472,13 +472,20 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="53" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/FritzboxPerformanceMetrics.vue" timestamp="1516192112400">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/templates/breakpoint_groups/feature.breakpoints.content.twig" timestamp="1510508237035">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1517071997821">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1517331148661">
+        <mark key="'" line="778" column="0" />
         <mark key="[" line="764" column="0" />
         <mark key="]" line="764" column="0" />
         <mark key="." line="764" column="0" />
@@ -737,6 +744,12 @@
         <mark key="^" line="26" column="27" />
         <mark key="." line="26" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/RelatedArticlesService.php" timestamp="1517331195104">
+        <mark key="[" line="30" column="77" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/article_presets.info.yml" timestamp="1517068021661">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
@@ -992,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="31" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/media_entity_social/src/Social/SocialImportBase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/node/node.routing.yml" />
       <jump line="5" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/node/node.routing.yml" />
       <jump line="96" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/node/node.routing.yml" />
@@ -1092,13 +1104,14 @@
       <jump line="54" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" />
       <jump line="64" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" />
+      <jump line="778" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>interface</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
