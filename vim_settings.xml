@@ -212,6 +212,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.install" timestamp="1517388290525">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/resources/views/default.twig" timestamp="1511022790778">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -389,12 +395,7 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.module" timestamp="1517233490023">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="29" column="55" />
-        <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.module" timestamp="1517388202639" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1509987111110">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="12" column="16" />
@@ -690,11 +691,11 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1517232703324">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="56" />
-        <mark key="." line="14" column="56" />
-        <mark key="^" line="14" column="58" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1517388117805">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-aarhus/settings.php" timestamp="1511345383070">
         <mark key="[" line="5" column="0" />
@@ -1110,68 +1111,67 @@
       <jump line="778" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7-10-18</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogSW5zdGFsbCBmaWxlIGZvciBrbGFtYnRfYmxhY2tsaXN0Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text>7-10-18</text>
+        <text>!$secret</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>'picture_formatter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmdldENhY2hlSUQoc2VsZjo6QUNUSU9OX0NIRUNLLCAkZW1haWwpLAo=</text>
+        <text encoding="base64">ICAgICAgJHJldHVyblsnc2V2ZXJpdHknXSA9PiBSRVFVSVJFTUVOVF9FUlJPUiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGRzbSgkYWN0aW9uIC4gJzogJyAuICR1cmwgLiAnIC0+ICcgLiAkY29udGVudHMpOwo=</text>
+        <text encoding="base64">ICogSW5zdGFsbCBmaWxlIGZvciBrbGFtYnRfYmxhY2tsaXN0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzZWNyZXQgPSAkdGhpcy0+a2V5UmVwb3NpdG9yeS0+Z2V0S2V5KHNlbGY6OktFWV9JRCktPmdldEtleVZhbHVlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkdXJsKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gaXNDb25maWd1cmVkKCkgewogIH0KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBLTEFNQlRfQkxBS0xJU1RfQ0hFQ0tfQUNUSU9OID0gJ2NoZWNrJzsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cmV0dXJuIFsKICAgICAgICAndGl0bGUnID0+IHQoJ0tsYW1iIEJsYWNrbGlzdCBTZXJ2aWNlJyksCiAgICAgICAgJ3ZhbHVlJyA9PiB0KCdBUEktS2V5IGlzIG5vdCBjb25maWd1cmVkIScpLAogICAgICAgICdzZXZlcml0eScgPT4gCiAgICAgIF0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3ZhbHVlJyA9PiB0KCdBUEktS2V5IGlzIG5vdCBjb25maWd1cmVkIScpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImtsYW1idF9ibGFja21haWw6JGVtYWlsOiRhY3Rpb24iOwo=</text>
+        <text encoding="base64">ICAgIC8vIGRzbSgkYWN0aW9uIC4gJzogJyAuICR1cmwgLiAnIC0+ICcgLiAkY29udGVudHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>'picture_formatter</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>'picture_formatter</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>aspect</entry>
-        <entry>'picture_formatter</entry>
         <entry encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</entry>
         <entry>store-muc</entry>
         <entry>article_im</entry>
@@ -1190,6 +1190,7 @@
         <entry>get_mar</entry>
         <entry>menu(</entry>
         <entry>config</entry>
+        <entry>'picture_formatter</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
@@ -1211,6 +1212,7 @@
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>W</entry>
         <entry>1</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
