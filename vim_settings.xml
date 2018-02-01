@@ -320,11 +320,11 @@
         <mark key="^" line="63" column="3" />
         <mark key="." line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_polls/src/Plugin/Field/FieldType/PollAnswerFieldType.php" timestamp="1517501645720">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="43" column="12" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_polls/src/Plugin/Field/FieldType/PollAnswerFieldType.php" timestamp="1517503223180">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="47" column="0" />
         <mark key="o" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.json" timestamp="1508173877993">
@@ -1150,8 +1150,8 @@
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1163,37 +1163,37 @@
         <text encoding="base64">ICAgICRlbGVtZW50Wyd2YWx1ZSddID0gJGVsZW1lbnQgKyBbCiAgICAgICcjdHlwZScgPT4gJ3RleHRmaWVsZCcsCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gaXNzZXQoJGl0ZW1zWyRkZWx0YV0tPnZhbHVlKSA/ICRpdGVtc1skZGVsdGFdLT52YWx1ZSA6IE5VTEwsCiAgICAgICcjc2l6ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3NpemUnKSwKICAgICAgJyNwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyksCiAgICAgICcjbWF4bGVuZ3RoJyA9PiAkdGhpcy0+Z2V0RmllbGRTZXR0aW5nKCdtYXhfbGVuZ3RoJyksCiAgICBdOwogICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3JlbW90ZV9pZCcgPT4gWwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogIC8qKgogICAqIHtAaW5oZXJpdGRvY30KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gc2V0dGluZ3NTdW1tYXJ5KCkgewogICAgJHN1bW1hcnkgPSBbXTsKCiAgICAkc3VtbWFyeVtdID0gdCgnVGV4dGZpZWxkIHNpemU6IEBzaXplJywgWydAc2l6ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3NpemUnKV0pOwogICAgaWYgKCFlbXB0eSgkdGhpcy0+Z2V0U2V0dGluZygncGxhY2Vob2xkZXInKSkpIHsKICAgICAgJHN1bW1hcnlbXSA9IHQoJ1BsYWNlaG9sZGVyOiBAcGxhY2Vob2xkZXInLCBbJ0BwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyldKTsKICAgIH0KCiAgICByZXR1cm4gJHN1bW1hcnk7CiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJyNtYXhsZW5ndGgnID0+ICR0aGlzLT5nZXRGaWVsZFNldHRpbmcoJ21heF9sZW5ndGgnKSwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgogIC8qKgogICAqIHtAaW5oZXJpdGRvY30KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gc2V0dGluZ3NTdW1tYXJ5KCkgewogICAgJHN1bW1hcnkgPSBbXTsKCiAgICAkc3VtbWFyeVtdID0gdCgnVGV4dGZpZWxkIHNpemU6IEBzaXplJywgWydAc2l6ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3NpemUnKV0pOwogICAgaWYgKCFlbXB0eSgkdGhpcy0+Z2V0U2V0dGluZygncGxhY2Vob2xkZXInKSkpIHsKICAgICAgJHN1bW1hcnlbXSA9IHQoJ1BsYWNlaG9sZGVyOiBAcGxhY2Vob2xkZXInLCBbJ0BwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyldKTsKICAgIH0KCiAgICByZXR1cm4gJHN1bW1hcnk7CiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJyNwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJyNzaXplJyA9PiAkdGhpcy0+Z2V0U2V0dGluZygnc2l6ZScpLAo=</text>
+        <text encoding="base64">ICAgICAgJyNtYXhsZW5ndGgnID0+ICR0aGlzLT5nZXRGaWVsZFNldHRpbmcoJ21heF9sZW5ndGgnKSwK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCiAgICoge0Bpbmhlcml0ZG9jfQogICAqLwogIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGVmYXVsdFNldHRpbmdzKCkgewogICAgcmV0dXJuIFsKICAgICAgJ3NpemUnID0+IDYwLAogICAgICAncGxhY2Vob2xkZXInID0+ICcnLAogICAgXSArIHBhcmVudDo6ZGVmYXVsdFNldHRpbmdzKCk7CiAgfQoKICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHNldHRpbmdzRm9ybShhcnJheSAkZm9ybSwgRm9ybVN0YXRlSW50ZXJmYWNlICRmb3JtX3N0YXRlKSB7CiAgICAkZWxlbWVudHMgPSBbXTsKCiAgICAkZWxlbWVudHNbJ3NpemUnXSA9IFsKICAgICAgJyN0eXBlJyA9PiAnbnVtYmVyJywKICAgICAgJyN0aXRsZScgPT4gdCgnU2l6ZSBvZiB0ZXh0ZmllbGQnKSwKICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAkdGhpcy0+Z2V0U2V0dGluZygnc2l6ZScpLAogICAgICAnI3JlcXVpcmVkJyA9PiBUUlVFLAogICAgICAnI21pbicgPT4gMSwKICAgIF07CiAgICAkZWxlbWVudHNbJ3BsYWNlaG9sZGVyJ10gPSBbCiAgICAgICcjdHlwZScgPT4gJ3RleHRmaWVsZCcsCiAgICAgICcjdGl0bGUnID0+IHQoJ1BsYWNlaG9sZGVyJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyksCiAgICAgICcjZGVzY3JpcHRpb24nID0+IHQoJ1RleHQgdGhhdCB3aWxsIGJlIHNob3duIGluc2lkZSB0aGUgZmllbGQgdW50aWwgYSB2YWx1ZSBpcyBlbnRlcmVkLiBUaGlzIGhpbnQgaXMgdXN1YWxseSBhIHNhbXBsZSB2YWx1ZSBvciBhIGJyaWVmIGRlc2NyaXB0aW9uIG9mIHRoZSBleHBlY3RlZCBmb3JtYXQuJyksCiAgICBdOwoKICAgIHJldHVybiAkZWxlbWVudHM7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJyNwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
