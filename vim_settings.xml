@@ -103,6 +103,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_voting/src/Entity/VotingEntityInterface.php" timestamp="1517506010246">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/rmh_queues/rmh_queues.info" timestamp="1508842397954">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="6" column="26" />
@@ -1167,11 +1172,11 @@
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -1186,25 +1191,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtwcigkZWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAvLyBBZGQgZ2V0L3NldCBtZXRob2RzIGZvciB5b3VyIGNvbmZpZ3VyYXRpb24gcHJvcGVydGllcyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3JlbW90ZV9pZCcgPT4gWwo=</text>
+        <text encoding="base64">ICAgIGtwcigkZWxlbWVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3JlbW90ZV9pZCcgPT4gWwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogIC8qKgogICAqIHtAaW5oZXJpdGRvY30KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gc2V0dGluZ3NTdW1tYXJ5KCkgewogICAgJHN1bW1hcnkgPSBbXTsKCiAgICAkc3VtbWFyeVtdID0gdCgnVGV4dGZpZWxkIHNpemU6IEBzaXplJywgWydAc2l6ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3NpemUnKV0pOwogICAgaWYgKCFlbXB0eSgkdGhpcy0+Z2V0U2V0dGluZygncGxhY2Vob2xkZXInKSkpIHsKICAgICAgJHN1bW1hcnlbXSA9IHQoJ1BsYWNlaG9sZGVyOiBAcGxhY2Vob2xkZXInLCBbJ0BwbGFjZWhvbGRlcicgPT4gJHRoaXMtPmdldFNldHRpbmcoJ3BsYWNlaG9sZGVyJyldKTsKICAgIH0KCiAgICByZXR1cm4gJHN1bW1hcnk7CiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
