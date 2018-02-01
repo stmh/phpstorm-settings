@@ -327,6 +327,13 @@
         <mark key="^" line="63" column="3" />
         <mark key="." line="57" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_polls/src/Plugin/Field/FieldType/PollAnswerFieldType.php" timestamp="1517500248527">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="42" />
+        <mark key="^" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="o" line="31" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.json" timestamp="1508173877993">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -899,6 +906,12 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_polls/src/Plugin/Field/FieldFormatter/PollAnswerFormatterType.php" timestamp="1517500306590">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="22" column="57" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1517069680484">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1133,11 +1146,11 @@
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ISRhY2NvdW50LT5oYXNQZXJtaXNzaW9uKCdtYXkgdm90ZScp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISRhY2NvdW50LT5oYXNQZXJtaXNzaW9uKCdtYXkgdm90ZScp</text>
+        <text>FormatterBase</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -1146,37 +1159,37 @@
         <text encoding="base64">ICAgICAgJHJldHVyblsnc2V2ZXJpdHknXSA9PiBSRVFVSVJFTUVOVF9FUlJPUiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRhY2NvdW50ID0gVXNlcjo6bG9hZCgkdWlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRhY2NvdW50KTsK</text>
+        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHNldHRpbmdzU3VtbWFyeSgpIHsKICAgICRzdW1tYXJ5ID0gW107CiAgICAvLyBJbXBsZW1lbnQgc2V0dGluZ3Mgc3VtbWFyeS4KCiAgICByZXR1cm4gJHN1bW1hcnk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRjdXJyZW50X3VzZXItPmlkKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF9yKCc+Pj4+ICcgLiBydHBfY29tbWVudHNfdXNlcl9tYXlfdm90ZSgkY3VycmVudF91c2VyLT5pZCgpKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAkaGFuZGxlciA9IFxEcnVwYWw6OnNlcnZpY2UoJ3J0cF9jb21tZW50cy5jb21tZW50c19oYW5kbGVyJyk7Cn0KICBpZiAoISRoYW5kbGVyLT51c2VyQ2FuVm90ZSgkY2lkLCAkZGlyZWN0aW9uKSkgewogICAgcmV0dXJuIEZBTFNFOwogIH1pcnRwX2NvbW1lbnQK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgI30K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgogIC8qKgogICAqIHtAaW5oZXJpdGRvY30KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gaXNFbXB0eSgpIHsKICAgICR2YWx1ZSA9ICR0aGlzLT5nZXQoJ3ZhbHVlJyktPmdldFZhbHVlKCk7CiAgICByZXR1cm4gJHZhbHVlID09PSBOVUxMIHx8ICR2YWx1ZSA9PT0gJyc7CiAgfQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IAoKICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHN0b3JhZ2VTZXR0aW5nc0Zvcm0oYXJyYXkgJiRmb3JtLCBGb3JtU3RhdGVJbnRlcmZhY2UgJGZvcm1fc3RhdGUsICRoYXNfZGF0YSkgewogICAgJGVsZW1lbnRzID0gW107CgogICAgJGVsZW1lbnRzWydtYXhfbGVuZ3RoJ10gPSBbCiAgICAgICcjdHlwZScgPT4gJ251bWJlcicsCiAgICAgICcjdGl0bGUnID0+IHQoJ01heGltdW0gbGVuZ3RoJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJHRoaXMtPmdldFNldHRpbmcoJ21heF9sZW5ndGgnKSwKICAgICAgJyNyZXF1aXJlZCcgPT4gVFJVRSwKICAgICAgJyNkZXNjcmlwdGlvbicgPT4gdCgnVGhlIG1heGltdW0gbGVuZ3RoIG9mIHRoZSBmaWVsZCBpbiBjaGFyYWN0ZXJzLicpLAogICAgICAnI21pbicgPT4gMSwKICAgICAgJyNkaXNhYmxlZCcgPT4gJGhhc19kYXRhLAogICAgXTsKCiAgICByZXR1cm4gJGVsZW1lbnRzOwogIH0=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IAoKICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZW5lcmF0ZVNhbXBsZVZhbHVlKEZpZWxkRGVmaW5pdGlvbkludGVyZmFjZSAkZmllbGRfZGVmaW5pdGlvbikgewogICAgJHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKICAgICR2YWx1ZXNbJ3ZhbHVlJ10gPSAkcmFuZG9tLT53b3JkKG10X3JhbmQoMSwgJGZpZWxkX2RlZmluaXRpb24tPmdldFNldHRpbmcoJ21heF9sZW5ndGgnKSkpOwogICAgcmV0dXJuICR2YWx1ZXM7CiAgfQ==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqCiAgICoge0Bpbmhlcml0ZG9jfQogICAqLwogIHB1YmxpYyBmdW5jdGlvbiBnZXRDb25zdHJhaW50cygpIHsKICAgICRjb25zdHJhaW50cyA9IHBhcmVudDo6Z2V0Q29uc3RyYWludHMoKTsKCiAgICBpZiAoJG1heF9sZW5ndGggPSAkdGhpcy0+Z2V0U2V0dGluZygnbWF4X2xlbmd0aCcpKSB7CiAgICAgICRjb25zdHJhaW50X21hbmFnZXIgPSBcRHJ1cGFsOjp0eXBlZERhdGFNYW5hZ2VyKCktPmdldFZhbGlkYXRpb25Db25zdHJhaW50TWFuYWdlcigpOwogICAgICAkY29uc3RyYWludHNbXSA9ICRjb25zdHJhaW50X21hbmFnZXItPmNyZWF0ZSgnQ29tcGxleERhdGEnLCBbCiAgICAgICAgJ3ZhbHVlJyA9PiBbCiAgICAgICAgICAnTGVuZ3RoJyA9PiBbCiAgICAgICAgICAgICdtYXgnID0+ICRtYXhfbGVuZ3RoLAogICAgICAgICAgICAnbWF4TWVzc2FnZScgPT4gdCgnJW5hbWU6IG1heSBub3QgYmUgbG9uZ2VyIHRoYW4gQG1heCBjaGFyYWN0ZXJzLicsIFsKICAgICAgICAgICAgICAnJW5hbWUnID0+ICR0aGlzLT5nZXRGaWVsZERlZmluaXRpb24oKS0+Z2V0TGFiZWwoKSwKICAgICAgICAgICAgICAnQG1heCcgPT4gJG1heF9sZW5ndGgKICAgICAgICAgICAgXSksCiAgICAgICAgICBdLAogICAgICAgIF0sCiAgICAgIF0pOwogICAgfQoKICAgIHJldHVybiAkY29uc3RyYWludHM7CiAgfQ==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeyMK</text>
+      <register name="9" type="4">
+        <text encoding="base64">J3R5cGUnID0+ICRmaWVsZF9kZWZpbml0aW9uLT5nZXRTZXR0aW5nKCdpc19hc2NpaScpID09PSBUUlVFID8gJ3ZhcmNoYXJfYXNjaWknIDogJ3ZhcmNoYXInLAogICAgICAgICAgJ2xlbmd0aCcgPT4gKGludCkgJGZpZWxkX2RlZmluaXRpb24tPmdldFNldHRpbmcoJ21heF9sZW5ndGgnKSwKICAgICAgICAgICdiaW5hcnknID0+ICRmaWVsZF9kZWZpbml0aW9uLT5nZXRTZXR0aW5nKCdjYXNlX3NlbnNpdGl2ZScpLA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1193,10 +1206,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aspect</entry>
-        <entry encoding="base64">XDxsYXp5bG9hZF9hc3BlY3RfcmF0aW9cPg==</entry>
-        <entry>store-muc</entry>
-        <entry>article_im</entry>
         <entry>suf</entry>
         <entry>mess</entry>
         <entry>comment(</entry>
