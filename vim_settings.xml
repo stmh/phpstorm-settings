@@ -762,6 +762,12 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_featured_modules_resources.inc" timestamp="1517667978195">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="24" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/store-aarhus/settings.php" timestamp="1511345383070">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="43" />
@@ -1192,11 +1198,11 @@
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBrcHIoUk1IX0ZPUkNFX0xPR0lOX0ZJRUxEX05BTUUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
