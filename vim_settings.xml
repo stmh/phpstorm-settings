@@ -439,11 +439,11 @@
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.inc.php" timestamp="1517664579664">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.inc.php" timestamp="1517676502319">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
         <mark key="[" line="16" column="21" />
@@ -783,11 +783,11 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.module" timestamp="1517673702210">
-        <mark key="[" line="123" column="58" />
-        <mark key="]" line="124" column="4" />
-        <mark key="." line="124" column="4" />
-        <mark key="^" line="124" column="4" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.module" timestamp="1517677150819">
+        <mark key="[" line="135" column="82" />
+        <mark key="]" line="135" column="81" />
+        <mark key="^" line="135" column="81" />
+        <mark key="." line="135" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/hero/hero.json" timestamp="1508174672722">
         <mark key="[" line="4" column="20" />
@@ -1029,7 +1029,7 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/PHP Console" timestamp="1517239586631">
+      <file name="/PHP Console" timestamp="1517677154260">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/layouts/onecol/onecol.inc" timestamp="1509997641955">
@@ -1211,11 +1211,11 @@
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'rmh_force_login_replacement'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'rmh_force_login_replacement'</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -1224,7 +1224,7 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
+        <text encoding="base64">ICAgIGRzbSgkdGFza3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1233,28 +1233,28 @@
         <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sIj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sIj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb2xvcjogI2ZmZjsK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogI2ZmZjsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtLWNvbG9yLWxpZ2h0LWJsdWU6ICM1YjliZDU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1315,6 +1315,7 @@
         <entry>5</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>125</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
