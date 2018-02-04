@@ -933,6 +933,11 @@
         <mark key="^" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/features/rx_fe_roles_and_permission/rx_fe_roles_and_permission.info" timestamp="1517747886915">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/molecules/breadcrumb/breadcrumb.twig" timestamp="1517693455913">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="9" column="110" />
@@ -1193,6 +1198,12 @@
         <mark key="." line="40" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/module-card/module-card.twig" timestamp="1517747617592">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/host.js" timestamp="1515967396194">
         <mark key="[" line="257" column="49" />
         <mark key="]" line="257" column="49" />
@@ -1303,8 +1314,8 @@
       <jump line="120" column="338" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_deploy/rx_deploy.install" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSByeF9zYXZlZF9maWx0ZXIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1316,44 +1327,38 @@
         <text encoding="base64">LkNvbnRlbnREaXNjbGFpbWVyLWJvdHRvbS0tZ3JlZW4gYSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSByeF9zYXZlZF9maWx0ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>dependencies[] = diff
+dependencies[] = em</text>
       </register>
-      <register name="3" type="4">
-        <text>@media (--lg-xlg-viewport) {
-  .Userlogin-block {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: calc(50% - var(--col-margin-lg));
-  }
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzW10gPSBkZXZlbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">VXNlcmxvZ2luLWJsb2NrIj4KICAgICAgICB7eyBsZWZ0fHJhdyB9fQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iYw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJNb2R1bGVDYXJkLWltYWdlIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAge3sgbGVmdHxyYXcgfX0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBpZiBub3QgZmVhdHVyZWQgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDUwJSAtIHZhcigtLWNvbC1tYXJnaW4tbGcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuVGV4dEltYWdlQmxvY2staW1hZ2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
