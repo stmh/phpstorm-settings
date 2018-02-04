@@ -57,6 +57,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/modules_enabled.txt" timestamp="1517678671385">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_wysiwyg/src/Plugin/Filter/FilterCta.php" timestamp="1508149790312">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="42" column="72" />
@@ -408,10 +411,10 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_featured_modules_resources.inc" timestamp="1517667978195">
-        <mark key="[" line="20" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_featured_modules_resources.inc" timestamp="1517737520605">
+        <mark key="[" line="222" column="79" />
         <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+        <mark key="." line="222" column="38" />
         <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/footernavigation/footernavigation.twig" timestamp="1508173660827">
@@ -840,7 +843,7 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.module" timestamp="1517701514533">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.module" timestamp="1517736857086">
         <mark key="[" line="149" column="49" />
         <mark key="]" line="150" column="30" />
         <mark key="^" line="150" column="30" />
@@ -938,6 +941,9 @@
         <mark key="]" line="9" column="110" />
         <mark key="." line="9" column="110" />
         <mark key="^" line="9" column="110" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_search/rmh_search.module" timestamp="1517737292546">
+        <mark key="'" line="424" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/newsteaserlist/newsteaserlist.twig" timestamp="1508268529748">
         <mark key="[" line="13" column="62" />
@@ -1162,6 +1168,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/es_helper/es_helper.module" timestamp="1517679942822">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/utils/map2d.js" timestamp="1516176618172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="13" />
@@ -1198,7 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1033" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1034" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1037" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
       <jump line="1046" column="74" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/brightcove/brightcove.module" />
@@ -1298,6 +1306,7 @@
       <jump line="3" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/templates/profile/user-login.tpl.twig" />
       <jump line="140" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="393" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
+      <jump line="424" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_search/rmh_search.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1307,7 +1316,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>user_login</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LkNvbnRlbnREaXNjbGFpbWVyLWJvdHRvbS0tZ3JlZW4gYSwK</text>
@@ -1353,13 +1362,13 @@
         <text encoding="base64">ICAuVGV4dEltYWdlQmxvY2staW1hZ2Ugewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>211</text>
       </register>
     </registers>
     <search>
-      <last-search>user_login</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern>user_login</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,6 +1402,7 @@
         <entry>form_alter</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry>user_login</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
@@ -1425,6 +1435,9 @@
         <entry>W</entry>
         <entry>133</entry>
         <entry>w</entry>
+        <entry>50</entry>
+        <entry>223</entry>
+        <entry>211</entry>
       </history-cmd>
       <history-expr />
       <history-input />
