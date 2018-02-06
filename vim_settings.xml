@@ -263,14 +263,14 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1517941487808">
-        <mark key="c" line="143" column="10" />
-        <mark key="e" line="165" column="107" />
-        <mark key="'" line="393" column="0" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="0" />
-        <mark key="." line="337" column="0" />
-        <mark key="^" line="333" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1517947148680">
+        <mark key="c" line="145" column="10" />
+        <mark key="e" line="167" column="107" />
+        <mark key="'" line="395" column="0" />
+        <mark key="[" line="50" column="29" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/card-teaser/card-teaser.twig" timestamp="1517823634237">
         <mark key="[" line="13" column="5" />
@@ -512,6 +512,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/place_default_content.inc" timestamp="1517946677660">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+        <mark key="." line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--cover.html.twig" timestamp="1507194862766">
         <mark key="[" line="3" column="76" />
@@ -1450,17 +1456,17 @@
       <jump line="4" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_user_edit/rmh_user_edit.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+      <register name="&quot;" type="4">
+        <text>Disclaimer/Note Placement</text>
       </register>
       <register name="-" type="4">
-        <text>Dashboard</text>
+        <text>Disclaimer/Note Placement</text>
       </register>
       <register name="/" type="4">
         <text>rmh_user_edit_update_preferences_form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnY2F0ZWdvcnknID0+IGFycmF5KHQoJ1VzZXIgUHJvZmlsZScpLCAtOCksCg==</text>
+        <text encoding="base64">ICAgICAgJ3Byb21vdGlvbmFsLWJhbm5lci1wbGFjZW1lbnQnID0+IHQoJ0Rpc2NsYWltZXIvTm90ZSBQbGFjZW1lbnQnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJycK</text>
