@@ -295,6 +295,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/layouts/profile/rmh-user-edit-reset-password.tpl.twig" timestamp="1517859063203">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/app/Http/Controllers/RenderYamlController.php" timestamp="1511957190812">
         <mark key="[" line="48" column="74" />
         <mark key="]" line="48" column="74" />
@@ -468,11 +473,10 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_featured_modules_resources.inc" timestamp="1517953699260">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_featured_modules_resources.inc" timestamp="1517996734773">
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="0" />
         <mark key="." line="263" column="0" />
-        <mark key="^" line="221" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_user_edit/templates/rmh-user-edit-reset-password.tpl.php" timestamp="1517847217663">
         <mark key="[" line="3" column="8" />
@@ -659,6 +663,11 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1517996593365">
+        <mark key="[" line="1583" column="0" />
+        <mark key="]" line="1583" column="0" />
+        <mark key="." line="1583" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-monitor/src/server/modules/monitor-drupal.js" timestamp="1515963677252">
         <mark key="[" line="14" column="27" />
@@ -1238,6 +1247,11 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/layouts/profilepage/emed-frontend-profilepage.tpl.php" timestamp="1517846649855">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/layouts/onecol/onecol.inc" timestamp="1509997641955">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="35" />
@@ -1261,6 +1275,11 @@
         <mark key="]" line="57" column="27" />
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_user_edit/plugins/content_types/rmh_reset_password.inc" timestamp="1517858664582">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_voting/src/Plugin/Field/FieldWidget/VotingAnswerWidgetType.php" timestamp="1517505234185">
         <mark key="[" line="31" column="0" />
@@ -1324,27 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="38" column="49" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/ESBreakPointGroup.php" />
-      <jump line="76" column="10" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/ESBreakPointGroup.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/ESBreakPointGroup.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/templates/breakpoint_groups/features.inc.breakpoint_groups.content.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/templates/breakpoint_groups/features.inc.breakpoint_groups.content.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/.drush/entity_scaffolder/Drush/EntityScaffolder/d7_1/templates/picture/feature.picturee.header.twig" />
-      <jump line="119" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/ssc_deploy/ssc_deploy.info" />
-      <jump line="1334" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
-      <jump line="63" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="189" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuehne-prototype/docroot/modules/custom/fac_utils/fac_utils.module" />
-      <jump line="62" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuehne-prototype/docroot/modules/custom/fac_utils/fac_utils.module" />
-      <jump line="198" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuehne-prototype/docroot/modules/custom/fac_utils/fac_utils.module" />
-      <jump line="32" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" />
-      <jump line="218" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="236" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/templates/fpp/fieldable-panels-pane--article-image.tpl.twig" />
-      <jump line="54" column="57" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="66" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/patternlab_picture/patternlab_picture.module" />
       <jump line="1147" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
       <jump line="1211" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/contrib/picture/picture.module" />
@@ -1424,61 +1422,82 @@
       <jump line="186" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" />
       <jump line="193" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" />
       <jump line="199" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="298" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="300" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="396" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="397" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="405" column="32" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="406" column="55" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="466" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="482" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="548" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="549" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="551" column="43" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="568" column="77" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="634" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="637" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="669" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="672" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="767" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="770" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="1239" column="25" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
+      <jump line="1583" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkc20oJG1hcCk7Cg==</text>
+        <text encoding="base64">ICBkc20oJHF1ZXJ5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>render</text>
       </register>
       <register name="/" type="4">
-        <text>rmh_cv_search_search_sort_option</text>
+        <text>query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3Byb21vdGlvbmFsLWJhbm5lci1wbGFjZW1lbnQnID0+IHQoJ0Rpc2NsYWltZXIvTm90ZSBQbGFjZW1lbnQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkc20oJG1hcCk7Cg==</text>
+        <text encoding="base64">ICBkc20oJHF1ZXJ5KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHJvd1snc29ydGVkX2Ryb3Bkb3duJ10gPSAkZHJvcGRvd247Cg==</text>
+        <text encoding="base64">ICAkcmVzcG9uc2UgPSAkcXVlcnktPnNlYXJjaCgka2V5cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogNC43cmVtOwo=</text>
+        <text encoding="base64">ICBkc20oJG1hcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHJvd1snc29ydGVkX2Ryb3Bkb3duJ10gPSAkZHJvcGRvd247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL25vdGUvbm90ZS5jc3MiOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLXRvcDogNC43cmVtOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvdGVtcGxhdGVzL3VzZXItbG9naW4vdXNlci1sb2dpbi5jc3MiOwo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL25vdGUvbm90ZS5jc3MiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ7JSBpZiBjb2xvciAlfWNvbnRhaW5lciB7JSAgJX0iPgo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvdGVtcGxhdGVzL3VzZXItbG9naW4vdXNlci1sb2dpbi5jc3MiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rmh_cv_search_search_sort_option</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern>rmh_cv_search_search_sort_option</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
@@ -1515,6 +1534,7 @@
         <entry>search_sea</entry>
         <entry>sort_option</entry>
         <entry>rmh_cv_search_search_sort_option</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
