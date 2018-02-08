@@ -265,6 +265,12 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-frontend/src/components/PhHero/PhHero.vue" timestamp="1518121003304">
+        <mark key="'" line="153" column="10" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/frontpage_user_login.inc" timestamp="1517693766313">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -1277,8 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/occhio-cms/sites/all/themes/custom/occhio_frontend/template.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_search/rmh_search.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/includes/fieldable_panels_pane.inc" />
       <jump line="99" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/includes/fieldable_panels_pane.inc" />
       <jump line="100" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/includes/fieldable_panels_pane.inc" />
@@ -1377,61 +1381,63 @@
       <jump line="9" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/templates/paragraphs/paragraphs-item--paragraph-slide.tpl.twig" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/templates/paragraphs/paragraphs-item--paragraph-slide.tpl.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/node.inc" />
+      <jump line="188" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-frontend/src/components/PhHero/PhHero.vue" />
+      <jump line="153" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-frontend/src/components/PhHero/PhHero.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBvc3RzIGZyb20gJy4vUGhIZXJvLmFwaS5qc29uJzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>posts</text>
       </register>
       <register name="/" type="4">
-        <text>content_format</text>
+        <text>axios</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3Byb21vdGlvbmFsLWJhbm5lci1wbGFjZW1lbnQnID0+IHQoJ0Rpc2NsYWltZXIvTm90ZSBQbGFjZW1lbnQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgIGljb25uYW1lIH19Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvc3RzIGZyb20gJy4vUGhIZXJvLmFwaS5qc29uJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I30K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5kYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMK</text>
+        <text encoding="base64">e3sgIGljb25uYW1lIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sgZmllbGRfcGFyYWdyYXBoX3NsaWRlX2ljb24uMC52YWx1ZX19Cg==</text>
+        <text encoding="base64">eyMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkc20oJGFjY291bnQpOwo=</text>
+        <text encoding="base64">e3sgZmllbGRfcGFyYWdyYXBoX3NsaWRlX2ljb24uMC52YWx1ZX19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkc20oJGZvcm1fc3RhdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICBkc20oJGFjY291bnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>content_format</last-search>
+      <last-search>axios</last-search>
       <last-offset />
-      <last-pattern>content_format</last-pattern>
+      <last-pattern>axios</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
@@ -1463,6 +1469,7 @@
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>icons</entry>
         <entry>content_format</entry>
+        <entry>axios</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
