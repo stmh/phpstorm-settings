@@ -258,6 +258,13 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" timestamp="1518712745381">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="344" column="69" />
+        <mark key="]" line="345" column="59" />
+        <mark key="^" line="345" column="59" />
+        <mark key="." line="345" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/card-teaser/card-teaser.twig" timestamp="1517823634237">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="7" />
@@ -528,11 +535,11 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/place_default_content.inc" timestamp="1517946677660">
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="52" column="40" />
-        <mark key="^" line="52" column="40" />
-        <mark key="." line="52" column="40" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/place_default_content.inc" timestamp="1518714271086">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/us040_ssc_ild_us/sites/all/modules/contrib/pathologic/pathologic.module" timestamp="1518701229931" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/content/node--blog--cover.html.twig" timestamp="1507194862766">
@@ -1314,7 +1321,7 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/PHP Console" timestamp="1518708066372">
+      <file name="/PHP Console" timestamp="1518713077428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/layouts/onecol/onecol.inc" timestamp="1509997641955">
@@ -1369,6 +1376,9 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/rx_modules.module" timestamp="1518712574178">
+        <mark key="'" line="214" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/html.html.twig" timestamp="1506969510216">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
@@ -1394,7 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
       <jump line="17" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_comments/rtp_comments.module" />
       <jump line="95" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" />
       <jump line="77" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" />
@@ -1424,7 +1433,6 @@
       <jump line="778" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
       <jump line="61" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/comment-nested/comment-nested.twig" />
       <jump line="60" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/es_helper/es_helper.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/banana_dashboard.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_deploy/rx_deploy.install" />
@@ -1494,65 +1502,67 @@
       <jump line="42" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/module_overview_header.inc" />
       <jump line="22" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_utils/klambt_utils.module" />
+      <jump line="214" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/rx_modules.module" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlTbWFydHk6OlNtYXJ0eSgpOwo=</text>
+        <text encoding="base64">ICAkbm9kZSA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Smarty::Smarty();</text>
+        <text>contexts</text>
       </register>
       <register name="/" type="4">
-        <text>hook_node_pre</text>
+        <text>user_regis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgaW5jbHVkZSAnQGF0b21zL3RleHQvdGV4dC50d2lnJyB3aXRoIHsgdGV4dDogY29weSB9JX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTbWFydHk6OlNtYXJ0eSgpOwo=</text>
+        <text encoding="base64">ICAkbm9kZSA9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZGRzbShmdW5jX2dldF9hcmdzKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wyd5ZWFyJ10gPSBhcnJheV9wb3AoJGRhdGUpOwo=</text>
+        <text encoding="base64">CQlTbWFydHk6OlNtYXJ0eSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGRhdGUpID09IDMpIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBwcmludF9yKCRfUkVRVUVTVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wyd5ZWFyJ10gPSBhcnJheV9wb3AoJGRhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGRhdGUpID09IDMpIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZmlsZSk7Cg==</text>
+        <text encoding="base64">CSAgICBwcmludF9yKCRfUkVRVUVTVCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRkb3dubG9hZF91cmwgPSBmaWxlX2NyZWF0ZV91cmwoJGZpbGVbJ3VyaSddKTsKICAgICRkb3dubG9hZF9zaXplID0gZm9ybWF0X3NpemUoJGZpbGVbJ2ZpbGVzaXplJ10pOwo=</text>
+        <text encoding="base64">ICAgIGRzbSgkZmlsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hook_node_pre</last-search>
+      <last-search>user_regis</last-search>
       <last-offset />
-      <last-pattern>hook_node_pre</last-pattern>
+      <last-pattern>user_regis</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1576,6 +1586,9 @@
         <entry>rx_frontend_page_header</entry>
         <entry>rx_frontend_button</entry>
         <entry>hook_node_pre</entry>
+        <entry>field_info</entry>
+        <entry>user_res</entry>
+        <entry>user_regis</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
