@@ -1071,6 +1071,12 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/docker-compose-mbb.yml" timestamp="1518775038227">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/templates/search/facetapi-link.tpl.twig" timestamp="1517763352415">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="52" />
@@ -1610,7 +1616,7 @@ if (!empty(getenv('ELASTICSEARCH_URL'))) {
         <text encoding="base64">ICAgIGRwbSgkY29uZmlnKTtkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1666,6 +1672,7 @@ if (!empty(getenv('ELASTICSEARCH_URL'))) {
         <entry>noh</entry>
         <entry>72</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
