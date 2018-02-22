@@ -469,6 +469,12 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/sites/default/settings.php" timestamp="1519334958275">
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="765" column="0" />
+        <mark key="." line="765" column="0" />
+        <mark key="^" line="765" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/footernavigation/footernavigation.json" timestamp="1508173588604">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="2" />
@@ -481,8 +487,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/block/block--adplaceholderblock.html.twig" timestamp="1518519338014">
-        <mark key="[" line="4" column="29" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/block/block--adplaceholderblock.html.twig" timestamp="1519334867229">
+        <mark key="[" line="5" column="48" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="31" />
@@ -825,12 +831,6 @@
         <mark key="]" line="32" column="13" />
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" timestamp="1519048167206">
-        <mark key="'" line="225" column="22" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/linklist/linklist.twig" timestamp="1508173419187">
         <mark key="[" line="11" column="5" />
@@ -1277,6 +1277,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="1" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/core/lib/Drupal/Core/Field/Entity/BaseFieldOverride.php" timestamp="1519335025264">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/custom/billing_deploy/billing_deploy.install" timestamp="1518790801568">
         <mark key="[" line="230" column="7" />
         <mark key="]" line="230" column="51" />
@@ -1507,11 +1512,11 @@
       <jump line="394" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>disclaimer</text>
@@ -1519,26 +1524,26 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL25vdGUubm90ZS5jc3MiOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGdldENsYXNzKCkgewogICAgcmV0dXJuICR0aGlzLT5nZXRCYXNlRmllbGREZWZpbml0aW9uKCktPmdldENsYXNzKCk7CiAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>foreach ($mobile_items as $i) {
     $i['hidden'] = TRUE;
     $items[] = $i;
   }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAkbW9iaWxlX2l0ZW1zID0gZW1lZF9mcm9udGVuZF9nZXRfbWVudSgnbWVudS1tYWluLW1lbnUtbW9iaWxlJyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjb250ZW50KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRib2R5KTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjb250ZW50KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludF9yKCRib2R5KTsK</text>
@@ -1547,13 +1552,13 @@
         <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRib2R5KTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkc20oJHZhcmlhYmxlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1611,6 +1616,7 @@
         <entry>:w</entry>
         <entry>1</entry>
         <entry>tabNext</entry>
+        <entry>155</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
