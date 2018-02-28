@@ -983,8 +983,16 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/classes/BookItem.class.php" timestamp="1519838884533" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" timestamp="1519839120347">
+        <mark key="'" line="109" column="47" />
+        <mark key="[" line="71" column="62" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/header/header.json" timestamp="1508173877993">
         <mark key="[" line="2" column="22" />
@@ -1134,6 +1142,12 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/tmpl/templates/Book.tpl.html" timestamp="1519837870184">
+        <mark key="[" line="29" column="314" />
+        <mark key="]" line="29" column="314" />
+        <mark key="." line="29" column="314" />
+        <mark key="^" line="29" column="314" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/molecules/breadcrumb/breadcrumb.twig" timestamp="1517850433390">
         <mark key="[" line="0" column="28" />
@@ -1374,6 +1388,7 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/prefs.php" timestamp="1519837940160" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/settings/settings.php" timestamp="1518732461434">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1433,10 +1448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/FritzboxPerformanceMetrics.vue" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/article_presets/src/Plugin/Derivative/DynamicLocalActions.php" />
-      <jump line="54" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" />
-      <jump line="64" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/src/ToolbarHandler.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_toolbar/klambt_toolbar.links.menu.yml" />
       <jump line="778" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
       <jump line="61" column="52" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/comment-nested/comment-nested.twig" />
@@ -1533,36 +1544,46 @@
       <jump line="29" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/patternlab_integration/patternlab_integration.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/patternlab_integration/templates/patterlab-integration.tpl.twig" />
       <jump line="394" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
+      <jump line="63" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
+      <jump line="71" column="71" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
+      <jump line="107" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
+      <jump line="109" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>theme(</text>
+        <text>isbn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgaW5jbHVkZSAiQGxheW91dC9wcm9maWxlL3Byb2ZpbGUudHdpZyIgd2l0aCB7CiAgICAic2lkZWJhciI6IHsKICAgICAgICAiYXZhdGFyIjogewogICAgICAgICAgICAic3JjIjogImh0dHA6Ly9pLnByYXZhdGFyLmNjLzMwMCIsCiAgICAgICAgICAgICJzaXplIjogImxhcmdlIgogICAgICAgIH0sCiAgICAgICAgIm5hbWUiOiAiTWF4IE11c3Rlcm1hbm4iLAogICAgICAgICJzdGF0dXMiOiAiR2Vmw6RocnRlIiwKICAgICAgICAiYWJvbm5lbWVudHMiOiAyMCwKICAgICAgICAibWVtYmVyX3NpbmNlIjogIjEyLiBKYW4gMjAxOCIsCiAgICAgICAgImFjaGlldmVtZW50cyI6IHsKICAgICAgICAgICAgImZsYWdzIjogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogInRvcCIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiVEsiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiY29tbWVudHMiLAogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIksiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIzMAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgImFib3V0IjogIkFib3V0IHRlc3QiLAogICAgfSwKfSAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7JSBpbmNsdWRlICJAbGF5b3V0L29wcm9maWxlcHJldmlldy50d2lnIiB3aXRoIHsK</text>
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+c2VhcmNoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICB7JSBpbmNsdWRlICJAbGF5b3V0L29wcm9maWxlcHJldmlldy50d2lnIiB3aXRoIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJhY2hpZXZlbWVudHMiOiB7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
         &quot;avatar&quot;: {
             &quot;src&quot;: &quot;http://i.pravatar.cc/300&quot;,
@@ -1589,39 +1610,30 @@
         &quot;about&quot;: &quot;About test&quot;,
     },</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJzaWRlYmFyIjogewogICAgICAgICJhdmF0YXIiOiB7CiAgICAgICAgICAgICJzcmMiOiAiaHR0cDovL2kucHJhdmF0YXIuY2MvMzAwIiwKICAgICAgICAgICAgInNpemUiOiAibGFyZ2UiCiAgICAgICAgfSwKICAgICAgICAibmFtZSI6ICJNYXggTXVzdGVybWFubiIsCiAgICAgICAgInN0YXR1cyI6ICJHZWbDpGhydGUiLAogICAgICAgICJhYm9ubmVtZW50cyI6IDIwLAogICAgICAgICJtZW1iZXJfc2luY2UiOiAiMTIuIEphbiAyMDE4IiwKICAgICAgICAiYWNoaWV2ZW1lbnRzIjogewogICAgICAgICAgICAiZmxhZ3MiOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidG9wIiwKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJUSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJjb21tZW50cyIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMjMwCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAiYWJvdXQiOiAiQWJvdXQgdGVzdCIsCiAgICB9LAo=</text>
       </register>
-      <register name="6" type="4">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGdldENsYXNzKCkgewogICAgcmV0dXJuICR0aGlzLT5nZXRCYXNlRmllbGREZWZpbml0aW9uKCktPmdldENsYXNzKCk7CiAgfQ==</text>
+        <text />
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>foreach ($mobile_items as $i) {
-    $i['hidden'] = TRUE;
-    $items[] = $i;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>theme(</last-search>
+      <last-search>isbn</last-search>
       <last-offset />
-      <last-pattern>theme(</last-pattern>
+      <last-pattern>isbn</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1645,6 +1657,7 @@
         <entry>pager</entry>
         <entry>disclaimer</entry>
         <entry>theme(</entry>
+        <entry>isbn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xMDk=</entry>
