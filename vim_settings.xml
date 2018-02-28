@@ -30,7 +30,6 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" timestamp="1519658456619" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/br001_inoncology/_tools/es/.es.log.yaml" timestamp="1519638177012">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -954,6 +953,13 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/user-mappings.yml" timestamp="1512765954272">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/layout/page--user--%.html.twig" timestamp="1519812874331">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/templates/user/user.html.twig" timestamp="1519812571668" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/atoms/search/search.twig" timestamp="1508174092080">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1265,7 +1271,6 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_algorithm/bi_corporate_algorithm.module" timestamp="1519658243604" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rmh_force_login/rmh_force_login.install" timestamp="1517673531698">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="33" />
@@ -1370,6 +1375,7 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/01-components/profilepreview/profilepreview.json" timestamp="1519812419150" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/settings/settings.php" timestamp="1518732461434">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1531,53 +1537,80 @@
       <jump line="394" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_utils/rx_utils.module" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <text />
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>disclaimer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9fcGF0dGVybnMvbW9sZWN1bGVzL25vdGUubm90ZS5jc3MiOwo=</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAiQGxheW91dC9wcm9maWxlL3Byb2ZpbGUudHdpZyIgd2l0aCB7CiAgICAic2lkZWJhciI6IHsKICAgICAgICAiYXZhdGFyIjogewogICAgICAgICAgICAic3JjIjogImh0dHA6Ly9pLnByYXZhdGFyLmNjLzMwMCIsCiAgICAgICAgICAgICJzaXplIjogImxhcmdlIgogICAgICAgIH0sCiAgICAgICAgIm5hbWUiOiAiTWF4IE11c3Rlcm1hbm4iLAogICAgICAgICJzdGF0dXMiOiAiR2Vmw6RocnRlIiwKICAgICAgICAiYWJvbm5lbWVudHMiOiAyMCwKICAgICAgICAibWVtYmVyX3NpbmNlIjogIjEyLiBKYW4gMjAxOCIsCiAgICAgICAgImFjaGlldmVtZW50cyI6IHsKICAgICAgICAgICAgImZsYWdzIjogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogInRvcCIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiVEsiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiY29tbWVudHMiLAogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIksiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIzMAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgImFib3V0IjogIkFib3V0IHRlc3QiLAogICAgfSwKfSAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7JSBpbmNsdWRlICJAbGF5b3V0L29wcm9maWxlcHJldmlldy50d2lnIiB3aXRoIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGdldENsYXNzKCkgewogICAgcmV0dXJuICR0aGlzLT5nZXRCYXNlRmllbGREZWZpbml0aW9uKCktPmdldENsYXNzKCk7CiAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>foreach ($mobile_items as $i) {
-    $i['hidden'] = TRUE;
-    $items[] = $i;
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJhY2hpZXZlbWVudHMiOiB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAkbW9iaWxlX2l0ZW1zID0gZW1lZF9mcm9udGVuZF9nZXRfbWVudSgnbWVudS1tYWluLW1lbnUtbW9iaWxlJyk7Cg==</text>
+      <register name="4" type="4">
+        <text>{
+        &quot;avatar&quot;: {
+            &quot;src&quot;: &quot;http://i.pravatar.cc/300&quot;,
+            &quot;size&quot;: &quot;large&quot;
+        },
+        &quot;name&quot;: &quot;Max Mustermann&quot;,
+        &quot;status&quot;: &quot;Gefährte&quot;,
+        &quot;abonnements&quot;: 20,
+        &quot;member_since&quot;: &quot;12. Jan 2018&quot;,
+        &quot;achievements&quot;: {
+            &quot;flags&quot;: [
+                {
+                    &quot;name&quot;: &quot;top&quot;,
+                    &quot;type&quot;: &quot;TK&quot;,
+                    &quot;count&quot;: 2
+                },
+                {
+                    &quot;name&quot;: &quot;comments&quot;,
+                    &quot;type&quot;: &quot;K&quot;,
+                    &quot;count&quot;: 230
+                },
+            ]
+        },
+        &quot;about&quot;: &quot;About test&quot;,
+    },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjb250ZW50KTsK</text>
+        <text encoding="base64">ICAgICJzaWRlYmFyIjogewogICAgICAgICJhdmF0YXIiOiB7CiAgICAgICAgICAgICJzcmMiOiAiaHR0cDovL2kucHJhdmF0YXIuY2MvMzAwIiwKICAgICAgICAgICAgInNpemUiOiAibGFyZ2UiCiAgICAgICAgfSwKICAgICAgICAibmFtZSI6ICJNYXggTXVzdGVybWFubiIsCiAgICAgICAgInN0YXR1cyI6ICJHZWbDpGhydGUiLAogICAgICAgICJhYm9ubmVtZW50cyI6IDIwLAogICAgICAgICJtZW1iZXJfc2luY2UiOiAiMTIuIEphbiAyMDE4IiwKICAgICAgICAiYWNoaWV2ZW1lbnRzIjogewogICAgICAgICAgICAiZmxhZ3MiOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidG9wIiwKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJUSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJjb21tZW50cyIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMjMwCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAiYWJvdXQiOiAiQWJvdXQgdGVzdCIsCiAgICB9LAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRib2R5KTsK</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRib2R5KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAvKioKICAgKiB7QGluaGVyaXRkb2N9CiAgICovCiAgcHVibGljIGZ1bmN0aW9uIGdldENsYXNzKCkgewogICAgcmV0dXJuICR0aGlzLT5nZXRCYXNlRmllbGREZWZpbml0aW9uKCktPmdldENsYXNzKCk7CiAgfQ==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+      <register name="9" type="4">
+        <text>foreach ($mobile_items as $i) {
+    $i['hidden'] = TRUE;
+    $items[] = $i;
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
