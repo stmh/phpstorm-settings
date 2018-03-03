@@ -261,6 +261,11 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" timestamp="1520075068441">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="48" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/molecules/zinc-nr/zinc-nr.twig" timestamp="1519057245804">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="15" />
@@ -1573,74 +1578,50 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>home</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>home</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja1RBQ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAiQGxheW91dC9wcm9maWxlL3Byb2ZpbGUudHdpZyIgd2l0aCB7CiAgICAic2lkZWJhciI6IHsKICAgICAgICAiYXZhdGFyIjogewogICAgICAgICAgICAic3JjIjogImh0dHA6Ly9pLnByYXZhdGFyLmNjLzMwMCIsCiAgICAgICAgICAgICJzaXplIjogImxhcmdlIgogICAgICAgIH0sCiAgICAgICAgIm5hbWUiOiAiTWF4IE11c3Rlcm1hbm4iLAogICAgICAgICJzdGF0dXMiOiAiR2Vmw6RocnRlIiwKICAgICAgICAiYWJvbm5lbWVudHMiOiAyMCwKICAgICAgICAibWVtYmVyX3NpbmNlIjogIjEyLiBKYW4gMjAxOCIsCiAgICAgICAgImFjaGlldmVtZW50cyI6IHsKICAgICAgICAgICAgImZsYWdzIjogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogInRvcCIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiVEsiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiY29tbWVudHMiLAogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIksiLAogICAgICAgICAgICAgICAgICAgICJjb3VudCI6IDIzMAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgImFib3V0IjogIkFib3V0IHRlc3QiLAogICAgfSwKfSAlfQo=</text>
+        <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+c2VhcmNoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7JSBpbmNsdWRlICJAbGF5b3V0L29wcm9maWxlcHJldmlldy50d2lnIiB3aXRoIHsK</text>
+        <text encoding="base64">ICB4ZGVidWc6CiAgICAtIGV4cG9ydCBERUJJQU5fRlJPTlRFTkQ9bm9uaW50ZXJhY3RpdmUgJiYgYXB0LWdldCAteSAtcSBpbnN0YWxsIHBocDUteGRlYnVnCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9MSA+PiAvZXRjL3BocDUvYXBhY2hlMi9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9lbmFibGU9MSA+PiAvZXRjL3BocDUvYXBhY2hlMi9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9ob3N0PTMzLjMzLjMzLjEgPj4gL2V0Yy9waHA1L2FwYWNoZTIvcGhwLmluaQogICAgLSBlY2hvIHhkZWJ1Zy5pZGVrZXk9UEhQLVhERUJVRyA+PiAvZXRjL3BocDUvYXBhY2hlMi9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9tb2RlPXJlcSA+PiAvZXRjL3BocDUvYXBhY2hlMi9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9wb3J0PTkwMDAgPj4gL2V0Yy9waHA1L2FwYWNoZTIvcGhwLmluaQogICAgLSBlY2hvIHhkZWJ1Zy5tYXhfbmVzdGluZ19sZXZlbD0xMDAwID4+IC9ldGMvcGhwNS9hcGFjaGUyL3BocC5pbmkKICAgIC0gZWNobyB6ZW5kX2V4dGVuc2lvbiB4ZGVidWcuc28gPj4gL2V0Yy9waHA1L2FwYWNoZTIvcGhwLmluaQogICAgLSBlY2hvIHhkZWJ1Zy5yZW1vdGVfYXV0b3N0YXJ0PTEgPj4gL2V0Yy9waHA1L2NsaS9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9lbmFibGU9MSA+PiAvZXRjL3BocDUvY2xpL3BocC5pbmkKICAgIC0gZWNobyB4ZGVidWcucmVtb3RlX2hvc3Q9MzMuMzMuMzMuMSA+PiAvZXRjL3BocDUvY2xpL3BocC5pbmkKICAgIC0gZWNobyB4ZGVidWcuaWRla2V5PVBIUC1YREVCVUcgPj4gL2V0Yy9waHA1L2NsaS9waHAuaW5pCiAgICAtIGVjaG8geGRlYnVnLnJlbW90ZV9tb2RlPXJlcSA+PiAvZXRjL3BocDUvY2xpL3BocC5pbmkKICAgIC0gZWNobyB4ZGVidWcucmVtb3RlX3BvcnQ9OTAwMCA+PiAvZXRjL3BocDUvY2xpL3BocC5pbmkKICAgIC0gZWNobyB4ZGVidWcubWF4X25lc3RpbmdfbGV2ZWw9MTAwMCA+PiAvZXRjL3BocDUvY2xpL3BocC5pbmkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyB6ZW5kX2V4dGVuc2lvbiB4ZGVidWcuc28gPj4gL2V0Yy9waHA1L2FwYWNoZTIvcGhwLmluaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhY2hpZXZlbWVudHMiOiB7Cg==</text>
+        <text encoding="base64">ICAgIC0gc2VydmljZSBhcGFjaGUyIGdyYWNlZnVsCiAgcwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        &quot;avatar&quot;: {
-            &quot;src&quot;: &quot;http://i.pravatar.cc/300&quot;,
-            &quot;size&quot;: &quot;large&quot;
-        },
-        &quot;name&quot;: &quot;Max Mustermann&quot;,
-        &quot;status&quot;: &quot;Gefährte&quot;,
-        &quot;abonnements&quot;: 20,
-        &quot;member_since&quot;: &quot;12. Jan 2018&quot;,
-        &quot;achievements&quot;: {
-            &quot;flags&quot;: [
-                {
-                    &quot;name&quot;: &quot;top&quot;,
-                    &quot;type&quot;: &quot;TK&quot;,
-                    &quot;count&quot;: 2
-                },
-                {
-                    &quot;name&quot;: &quot;comments&quot;,
-                    &quot;type&quot;: &quot;K&quot;,
-                    &quot;count&quot;: 230
-                },
-            ]
-        },
-        &quot;about&quot;: &quot;About test&quot;,
-    },</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzaWRlYmFyIjogewogICAgICAgICJhdmF0YXIiOiB7CiAgICAgICAgICAgICJzcmMiOiAiaHR0cDovL2kucHJhdmF0YXIuY2MvMzAwIiwKICAgICAgICAgICAgInNpemUiOiAibGFyZ2UiCiAgICAgICAgfSwKICAgICAgICAibmFtZSI6ICJNYXggTXVzdGVybWFubiIsCiAgICAgICAgInN0YXR1cyI6ICJHZWbDpGhydGUiLAogICAgICAgICJhYm9ubmVtZW50cyI6IDIwLAogICAgICAgICJtZW1iZXJfc2luY2UiOiAiMTIuIEphbiAyMDE4IiwKICAgICAgICAiYWNoaWV2ZW1lbnRzIjogewogICAgICAgICAgICAiZmxhZ3MiOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidG9wIiwKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJUSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJjb21tZW50cyIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiSyIsCiAgICAgICAgICAgICAgICAgICAgImNvdW50IjogMjMwCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAiYWJvdXQiOiAiQWJvdXQgdGVzdCIsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkdGhpcy0+c2VhcmNoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICB7JSBpbmNsdWRlICJAbGF5b3V0L29wcm9maWxlcHJldmlldy50d2lnIiB3aXRoIHsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1653,12 +1634,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry>icons</entry>
         <entry>content_format</entry>
         <entry>axios</entry>
         <entry encoding="base64">XDx1c2VyX2lzX2xvZ2dlZF9pblw+</entry>
@@ -1688,7 +1667,6 @@
         <entry>118</entry>
         <entry>86</entry>
         <entry>72</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>229</entry>
@@ -1697,9 +1675,10 @@
         <entry>W</entry>
         <entry>830</entry>
         <entry>:w</entry>
-        <entry>1</entry>
         <entry>tabNext</entry>
         <entry>155</entry>
+        <entry>1</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
