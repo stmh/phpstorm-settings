@@ -314,6 +314,12 @@
         <mark key="^" line="27" column="48" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1520244145358">
+        <mark key="[" line="784" column="0" />
+        <mark key="]" line="784" column="0" />
+        <mark key="^" line="799" column="54" />
+        <mark key="." line="784" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/profile-settings/profile-settings.json" timestamp="1517852358080">
         <mark key="[" line="6" column="385" />
         <mark key="]" line="7" column="30" />
@@ -740,6 +746,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.env.php" timestamp="1520244010652">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1518466848037">
         <mark key="[" line="2062" column="6" />
       </file>
@@ -754,6 +766,12 @@
         <mark key="]" line="23" column="4" />
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/docker-compose-mbb.yml" timestamp="1520244026346">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/source/_patterns/04-layout/blog-layout/blog-layout.twig" timestamp="1506968757008">
         <mark key="[" line="5" column="0" />
@@ -1578,17 +1596,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja1RBQ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
+        <text encoding="base64">IyBpZiAoZmlsZV9leGlzdHMoJGFwcF9yb290IC4gJy8nIC4gJHNpdGVfcGF0aCAuICcvc2V0dGluZ3MubG9jYWwucGhwJykpIHsKIyAgIGluY2x1ZGUgJGFwcF9yb290IC4gJy8nIC4gJHNpdGVfcGF0aCAuICcvc2V0dGluZ3MubG9jYWwucGhwJzsKIyB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gY2QgJWhvc3Qucm9vdEZvbGRlciUgJiYgZHJ1c2ggZW4gc2hpZWxkIC15Cg==</text>
