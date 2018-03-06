@@ -15,11 +15,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/ConfigurableImageAPIOptimizeProcessorBase.php" timestamp="1520366073733" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/klambt_image_optimize.module" timestamp="1520366295225">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="38" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/klambt_image_optimize.module" timestamp="1520373464205">
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="6" />
         <mark key="^" line="49" column="1" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="46" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1520260821017">
         <mark key="[" line="784" column="0" />
@@ -81,12 +81,12 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" timestamp="1520372583766">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" timestamp="1520373982494">
         <mark key="p" line="121" column="6" />
         <mark key="'" line="117" column="10" />
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/patternlab_integration/templates/patternlab-integration.tpl.php" timestamp="1519047967108">
@@ -122,7 +122,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520372746554">
+      <file name="/PHP Console" timestamp="1520373606476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -304,10 +304,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>http://87b8edc4.ngrok.io</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>http://87b8edc4.ngrok.io</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
