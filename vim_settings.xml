@@ -11,7 +11,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517503980365">
+      <file name="/a.dummy" timestamp="1520368402359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/ConfigurableImageAPIOptimizeProcessorBase.php" timestamp="1520366073733" />
@@ -37,6 +37,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Plugin/ImageAPIOptimizeProcessor/KlamtbImageOptimizeProcessor.php" timestamp="1520368799546">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="34" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/includes/common.inc" timestamp="1518126409950">
         <mark key="[" line="6045" column="39" />
       </file>
@@ -45,9 +51,6 @@
         <mark key="]" line="140" column="78" />
         <mark key="^" line="140" column="78" />
         <mark key="." line="140" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_utils/klambt_utils.module" timestamp="1520260530811">
-        <mark key="'" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1518131260327">
         <mark key="[" line="934" column="0" />
@@ -72,6 +75,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/panelizer/plugins/entity/PanelizerEntityDefault.class.php" timestamp="1516816797557">
         <mark key="[" line="2121" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/Entity/ImageStyleWithPipeline.php" timestamp="1520367553995" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/Annotation/ImageAPIOptimizeProcessor.php" timestamp="1520365408738" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/src/BlacklistService.php" timestamp="1520280548142">
         <mark key="[" line="56" column="16" />
@@ -109,19 +113,17 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" timestamp="1520267765593">
-        <mark key="'" line="879" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
         <mark key="[" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/ImageAPIOptimizeHookImplementations.php" timestamp="1520367625520" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/klambt_image_optimize.services.yml" timestamp="1520366197603">
         <mark key="[" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520336788095">
+      <file name="/PHP Console" timestamp="1520368496379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -130,13 +132,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/gaia_export.module" timestamp="1513859031014">
         <mark key="[" line="62" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/imageapi_optimize/src/Entity/ImageAPIOptimizePipeline.php" timestamp="1520367453396" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/patternlab_integration/patternlab_integration.module" timestamp="1519052143112">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/lib/Drupal/Core/Entity/ContentEntityBase.php" timestamp="1520270435584">
-        <mark key="'" line="20" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1520270718916">
         <mark key="[" line="0" column="0" />
@@ -158,8 +158,8 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1518466848037">
         <mark key="[" line="2062" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Plugin/ImageAPIOptimizeProcessor/klambt_image_optimize.php" timestamp="1520366326060">
-        <mark key="[" line="62" column="14" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Plugin/ImageAPIOptimizeProcessor/klambt_image_optimize.php" timestamp="1520368397209">
+        <mark key="[" line="19" column="25" />
         <mark key="]" line="64" column="16" />
         <mark key="." line="64" column="16" />
         <mark key="^" line="64" column="16" />
@@ -191,9 +191,6 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="48" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" timestamp="1519991618022">
-        <mark key="'" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/klambt_image_optimize.info.yml" timestamp="1520269006361">
         <mark key="[" line="0" column="28" />
@@ -307,11 +304,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICgkZmlsZV9wYXRoKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
