@@ -20,7 +20,7 @@
         <mark key="^" line="49" column="1" />
         <mark key="." line="46" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1520590582279">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1520859342202">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="784" column="0" />
         <mark key="]" line="784" column="0" />
@@ -124,6 +124,12 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
         <mark key="[" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/development.services.yml" timestamp="1520859428454">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/klambt_image_optimize.services.yml" timestamp="1520366197603">
         <mark key="[" line="3" column="16" />
@@ -312,10 +318,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>thunder_admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>thunder_admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
