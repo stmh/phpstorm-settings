@@ -32,6 +32,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/stage_file_proxy/INSTALL.txt" timestamp="1520861486390" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/patternlab_integration/patternlab-pattern.tpl.twig" timestamp="1519051742792">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -52,6 +53,13 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1518131260327">
         <mark key="[" line="934" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.local.php" timestamp="1520861536930">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="70" />
+        <mark key="]" line="115" column="70" />
+        <mark key="." line="115" column="70" />
+        <mark key="^" line="115" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Controller/ImageHandledCallbackController.php" timestamp="1520269937770">
         <mark key="[" line="36" column="0" />
@@ -212,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/module_content_header.inc" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/module_content_header.inc" />
       <jump line="297" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/includes/theme.inc" />
       <jump line="42" column="46" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/custom/rx_modules/plugins/content_types/module_overview_header.inc" />
@@ -312,16 +319,17 @@
       <jump line="16" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" />
       <jump line="115" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.local.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>myusername:letme%26in@example.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>myusername:letme%26in@example.com</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
