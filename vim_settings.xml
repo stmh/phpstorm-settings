@@ -39,6 +39,12 @@
         <mark key="^" line="142" column="15" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521197203871">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="107" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/br001_inoncology/_tools/es/.es.log.yaml" timestamp="1519638177012">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -377,8 +383,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -390,40 +396,40 @@
         <text encoding="base64">cmVnaW9uczoKICBoZWFkZXI6ICdIZWFkZXInCiAgcHJlX2NvbnRlbnQ6ICdQcmUtY29udGVudCcKICBoaWdobGlnaHRlZDogSGlnaGxpZ2h0ZWQKICBjb250ZW50OiBDb250ZW50CiAgcGFnZV90b3A6ICdQYWdlIHRvcCcKICBwYWdlX2JvdHRvbTogJ1BhZ2UgYm90dG9tJwogIHNpZGViYXJfZmlyc3Q6ICdGaXJzdCBzaWRlYmFyJwpyZWdpb25zX2hpZGRlbjoKICAtIHNpZGViYXJfZmlyc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLyoqIEB2YXIgXERydXBhbFxyZWxhdGVkX2FydGljbGVzXFJlbGF0ZWRBcnRpY2xlc0ludGVyZmFjZSAkc2VydmljZSAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHNlcnZpY2UgPSBcRHJ1cGFsOjpzZXJ2aWNlKCdyZWxhdGVkX2FydGljbGVzLnJlbGF0ZWRfYXJ0aWNsZXMnKTsK</text>
+        <text encoding="base64">ICAgICAgJGV4Y2x1ZGVkX25vZGVzW10gPSAkbm9kZS0+aWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRidWlsZFsncmVsYXRlZF9hcnRpY2xlc19ibG9ja19udW1iZXJfb2ZfdGVhc2VycyddWycjbWFya3VwJ10gPSAnPHA+JyAuICAuICc8L3A+JzsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRidWlsZCA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgJHRpZHMgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRidWlsZCA9IFtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKFsnZmllbGRfc3RhcnMnLCAnZmllbGRfdGFncyddIGFzICRmaWVsZF9uYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLyoqIEB2YXIgXERydXBhbFxyZWxhdGVkX2FydGljbGVzXFJlbGF0ZWRBcnRpY2xlc0ludGVyZmFjZSAkc2VydmljZSAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRoZWFkX2VsZW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgJHNlcnZpY2UgPSBcRHJ1cGFsOjpzZXJ2aWNlKCdyZWxhdGVkX2FydGljbGVzLnJlbGF0ZWRfYXJ0aWNsZXMnKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICRidWlsZFsncmVsYXRlZF9hcnRpY2xlc19ibG9ja19udW1iZXJfb2ZfdGVhc2VycyddWycjbWFya3VwJ10gPSAnPHA+JyAuICAuICc8L3A+JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>310</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -479,9 +485,9 @@
         <entry>114</entry>
         <entry>W</entry>
         <entry>tabNext</entry>
-        <entry>w</entry>
         <entry>501</entry>
         <entry>310</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
