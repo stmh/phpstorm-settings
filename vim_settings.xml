@@ -40,11 +40,11 @@
         <mark key="^" line="142" column="15" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521208395760">
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="5" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521209718874">
+        <mark key="[" line="48" column="78" />
+        <mark key="]" line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+        <mark key="." line="35" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/br001_inoncology/_tools/es/.es.log.yaml" timestamp="1519638177012">
         <mark key="[" line="0" column="11" />
@@ -163,10 +163,11 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/RelatedArticlesService.php" timestamp="1521208031131">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/RelatedArticlesService.php" timestamp="1521209613151">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" timestamp="1521203010614" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/pradaxa-uk/routes/web.php" timestamp="1511025516841">
@@ -405,62 +406,62 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Database</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Database</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXNzYWdlRm9ybVZhbHVlc1w+</text>
+        <text>40</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudCgkdGlkcykgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgKiB7QGluaGVyaXRkb2N9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAK</text>
+        <text encoding="base64">ICAgICAgJyNkZXNjcmlwdGlvbicgPT4gJHRoaXMtPnQoJycpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdGhpcy0+bm9kZXNfdG9faWdub3JlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0Ogo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgKgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRzbSgkdGhpcy0+bm9kZXNfdG9faWdub3JlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRjb250ZW50ID0gW107Cg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiAgIEFuIGFycmF5IG9mIHRlcm0taWRzLgo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXNzYWdlRm9ybVZhbHVlc1w+</last-search>
+      <last-search>40</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXNzYWdlRm9ybVZhbHVlc1w+</last-pattern>
+      <last-pattern>40</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -484,6 +485,7 @@
         <entry>entity</entry>
         <entry>save(</entry>
         <entry encoding="base64">XDxtYXNzYWdlRm9ybVZhbHVlc1w+</entry>
+        <entry>40</entry>
       </history-search>
       <history-cmd>
         <entry>Gblame</entry>
@@ -510,6 +512,8 @@
         <entry>86</entry>
         <entry>w:w</entry>
         <entry>W</entry>
+        <entry>40</entry>
+        <entry>97</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
