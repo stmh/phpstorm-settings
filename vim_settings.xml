@@ -43,6 +43,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/vendor/lesstif/php-jira-rest-client/src/JiraClient.php" timestamp="1523303760825" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521209718874">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="35" column="41" />
@@ -137,6 +138,7 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/vendor/lesstif/php-jira-rest-client/src/Issue/IssueService.php" timestamp="1523302288269" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/panelizer/plugins/entity/PanelizerEntityDefault.class.php" timestamp="1516816797557">
         <mark key="[" line="2121" column="4" />
       </file>
@@ -150,7 +152,7 @@
         <mark key="^" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/thewsd/web/modules/custom/wsd_project/src/Entity/Project.php" timestamp="1523263387289" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1523289266785">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1523302719324">
         <mark key="a" line="128" column="44" />
         <mark key="'" line="118" column="46" />
         <mark key="[" line="134" column="18" />
@@ -190,6 +192,15 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/SyncSprints.php" timestamp="1523305230728">
+        <mark key="[" line="17" column="81" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/conf/projects/klambt.yml" timestamp="1523304774000">
+        <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mutabor-faces-website/sites/all/modules/custom/mm_blocks/mm_blocks.module" timestamp="1522332481453">
         <mark key="[" line="217" column="14" />
@@ -240,7 +251,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1523296932963">
+      <file name="/PHP Console" timestamp="1523304629872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -295,6 +306,11 @@
       <file name="/fragment.php" timestamp="1518783195251">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/JiraRestExtensions/JiraBoardService.php" timestamp="1523305354985">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.env.php" timestamp="1521153952330">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -307,6 +323,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1522187988974">
         <mark key="[" line="98" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateAndStoreEpics.php" timestamp="1523301148983" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Plugin/ImageAPIOptimizeProcessor/klambt_image_optimize.php" timestamp="1520368397209">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="64" column="16" />
@@ -331,6 +348,7 @@
         <mark key="^" line="125" column="12" />
         <mark key="." line="125" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/vendor/lesstif/php-jira-rest-client/src/Issue/IssueSearchResult.php" timestamp="1523304091684" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_blacklist/klambt_blacklist.services.yml" timestamp="1520279060551">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="66" />
@@ -359,6 +377,12 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/Commands/SyncCommand.php" timestamp="1523301504879">
+        <mark key="[" line="122" column="88" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="124" column="10" />
+        <mark key="^" line="124" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/custom/related_articles/src/RelatedArticlesInterface.php" timestamp="1521205000023">
         <mark key="[" line="59" column="0" />
@@ -484,11 +508,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Preparation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Preparation</text>
+        <text>. preg_repla;</text>
       </register>
       <register name="/" type="4">
         <text>dsm</text>
@@ -497,39 +521,71 @@
         <text>$value) {
       $</text>
       </register>
-      <register name="1" type="4">
-        <text>'';
-    if</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDb21wbGV0ZTogIkZpeGVkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGFnZW5kYSBtYXBwaW5nCg==</text>
+      <register name="3" type="4">
+        <text>/**
+ * A board class.
+ */
+class Board {
+  public $id;
+  public $name;
+  public $type;
+
+}
+/**
+ * A board list.
+ */
+class BoardList {
+  /**
+   * @var int
+   */
+  public $startAt;
+
+  /**
+   * @var int
+   */
+  public $maxResults;
+
+  /**
+   * @var int
+   */
+  public $total;
+
+  /**
+   * @var Board[]
+   */
+  public $boards;
+
+};</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCYWNrbG9nOiAiUHJlcGFyYXRpb24iCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHVybCAuICJcbiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDYW5jZWxlZDogIkNsb3NlZCIK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGJvYXJkcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFzdF9zeW5jX2RhdGU6ICcyMDE3LTEyLTA5Jwo=</text>
+        <text encoding="base64">dXNlIEppcmFSZXN0QXBpXElzc3VlXElzc3VlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
+        <text encoding="base64">dXNlIEppcmFCb2FyZFNlcnZpY2U7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRncm91cCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -580,7 +636,6 @@
         <entry>_w</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>57</entry>
-        <entry>tabNext</entry>
         <entry>70</entry>
         <entry>72</entry>
         <entry>159</entry>
@@ -589,6 +644,8 @@
         <entry>51</entry>
         <entry>119</entry>
         <entry>135</entry>
+        <entry>29</entry>
+        <entry>tabNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
