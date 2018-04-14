@@ -318,11 +318,11 @@
         <mark key="^" line="57" column="24" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/conf/mappings.yml" timestamp="1523427409833">
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="52" column="9" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="52" column="9" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/conf/mappings.yml" timestamp="1523726994312">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -431,8 +431,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiUmV2aWV3IjogIkluIFJldmlldyIK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -443,38 +443,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gc3luY1NwcmludHMoKSB7CiAgICAkdGhpcy0+c3luY1NwcmludHNJbXBsZW1lbnRhdGlvbihmYWxzZSk7CiAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIAogICAgICAkY29weUZpZWxkLT5jdXN0b21GaWVsZHNbJHRoaXMtPnRhcmdldFNwcmludEZpZWxkTmFtZV0gPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRzcHJpbnRfaW5mbykgewogICAgICB9LCAkc3ByaW50X3JlZik7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiUmV2aWV3IjogIkluIFJldmlldyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgIAogICAgICAkY29weUZpZWxkLT5jdXN0b21GaWVsZHNbJHRoaXMtPnRhcmdldFNwcmludEZpZWxkTmFtZV0gPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRzcHJpbnRfaW5mbykgewogICAgICB9LCAkc3ByaW50X3JlZik7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IFtdOwogICAgICAgIGlmIChwcmVnX21hdGNoKCcvaWQ9KFswLTldKiksLycsICRzcHJpbnRfaW5mbywgJG1hdGNoZXMpKSB7CiAgICAgICAgICAkaWQgPSAkbWF0Y2hlc1sxXTsKICAgICAgICAgIHJldHVybiAhZW1wdHkoJHRoaXMtPnNwcmludHNbJGlkXSkgPyAkdGhpcy0+c3ByaW50c1skaWRdLT5pZCA6IGZhbHNlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG1hcHBpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IFtdOwogICAgICAgIGlmIChwcmVnX21hdGNoKCcvaWQ9KFswLTldKiksLycsICRzcHJpbnRfaW5mbywgJG1hdGNoZXMpKSB7CiAgICAgICAgICAkaWQgPSAkbWF0Y2hlc1sxXTsKICAgICAgICAgIHJldHVybiAhZW1wdHkoJHRoaXMtPnNwcmludHNbJGlkXSkgPyAkdGhpcy0+c3ByaW50c1skaWRdLT5pZCA6IGZhbHNlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkc3ByaW50X3JlZik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG1hcHBpbmcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkc3ByaW50X3JlZik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzcHJpbnRGaWVsZHMgPSAkdGhpcy0+bWFwcGluZ3NbJ3NwcmludEZpZWxkcyddOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT50YXJnZXRFcGljTGlua0ZpZWxkTmFtZSA9ICR0aGlzLT5tYXBwaW5nc1snZXBpY0xpbmtGaWVsZHMnXVskdGhpcy0+c291cmNlQ29uZmlnWydob3N0J11dID8/IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICRzcHJpbnRGaWVsZHMgPSAkdGhpcy0+bWFwcGluZ3NbJ3NwcmludEZpZWxkcyddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
