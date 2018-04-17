@@ -77,6 +77,11 @@
         <mark key="^" line="85" column="40" />
         <mark key="." line="85" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/themes/bi_corporate/js/behaviors/bi_corporate_adobe.behaviors.js" timestamp="1523981594825">
+        <mark key="[" line="73" column="80" />
+        <mark key="]" line="73" column="80" />
+        <mark key="." line="73" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/Controller/HandleProcessedImageController.php" timestamp="1520283073396">
         <mark key="[" line="44" column="56" />
         <mark key="]" line="45" column="3" />
@@ -151,12 +156,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/user-mappings.yml" timestamp="1512765954272">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/SyncSprints.php" timestamp="1523874161118">
-        <mark key="'" line="33" column="6" />
-        <mark key="[" line="63" column="62" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/conf/projects/klambt.yml" timestamp="1523737579895">
         <mark key="[" line="4" column="17" />
@@ -464,11 +463,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>val</text>
       </register>
       <register name="-" type="4">
-        <text>$adobe_js['page']['pageInfo']['pageType']</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text>xdebug_br</text>
