@@ -59,8 +59,13 @@
         <mark key="^" line="140" column="78" />
         <mark key="." line="140" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/modules/custom/bmw_rocket_fuel_integration/bmw_rocket_fuel_integration.module" timestamp="1524123062601" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/bmw-exchange-previewpage.tpl.mustache" timestamp="1524123887359" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.css" timestamp="1524166844938">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="158" column="13" />
+        <mark key="." line="158" column="13" />
+        <mark key="^" line="158" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1518131260327">
         <mark key="[" line="934" column="0" />
       </file>
@@ -93,7 +98,6 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/templates/html.tpl.mustache" timestamp="1524123837668" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/bi-pradaxa.yml" timestamp="1512769447666">
         <mark key="[" line="11" column="0" />
       </file>
@@ -358,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="71" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
       <jump line="107" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
       <jump line="109" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" />
@@ -458,16 +461,17 @@
       <jump line="1759" column="7" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="1761" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="211" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>val</text>
+        <text>98.38</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>98.38</text>
       </register>
       <register name="/" type="4">
         <text>preview</text>
@@ -519,14 +523,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pager</entry>
-        <entry>disclaimer</entry>
-        <entry>theme(</entry>
-        <entry>isbn</entry>
         <entry>home</entry>
         <entry encoding="base64">XDx0cmFja1RBQ1w+</entry>
         <entry>storave</entry>
