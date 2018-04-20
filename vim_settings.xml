@@ -32,12 +32,12 @@
         <mark key="." line="782" column="0" />
         <mark key="^" line="784" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" timestamp="1524237952604">
-        <mark key="'" line="797" column="9" />
-        <mark key="[" line="804" column="14" />
-        <mark key="]" line="804" column="14" />
-        <mark key="^" line="804" column="17" />
-        <mark key="." line="804" column="14" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" timestamp="1524242180655">
+        <mark key="'" line="847" column="5" />
+        <mark key="[" line="807" column="16" />
+        <mark key="]" line="808" column="37" />
+        <mark key="^" line="808" column="37" />
+        <mark key="." line="808" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521209718874">
         <mark key="[" line="48" column="78" />
@@ -216,7 +216,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524238472906">
+      <file name="/PHP Console" timestamp="1524242193510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -375,9 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" />
-      <jump line="84" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/tracking.js" />
       <jump line="80" column="11" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/tracking.js" />
       <jump line="60" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/docroot/modules/contrib/fastly/src/Api.php" />
       <jump line="42" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_utils/klambt_utils.module" />
@@ -475,6 +472,9 @@
       <jump line="108" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.css" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
       <jump line="797" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
+      <jump line="848" column="24" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
+      <jump line="11" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
+      <jump line="846" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -487,7 +487,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>brightco</text>
+        <text encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMyAvIDcyICogdmFyKC0tRm9vdGVyLWhlaWdodCkpOwo=</text>
@@ -530,12 +530,12 @@
       </register>
     </registers>
     <search>
-      <last-search>brightco</last-search>
+      <last-search encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</last-search>
       <last-offset />
-      <last-pattern>brightco</last-pattern>
+      <last-pattern encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -561,6 +561,8 @@
         <entry encoding="base64">XDxibXdfcm9ja2V0X2Z1ZWxfaW50ZWdyYXRpb25fYXJ0aWNsZV9wYWdlXD4=</entry>
         <entry>preview</entry>
         <entry>brightco</entry>
+        <entry encoding="base64">XDxCSV9DT1JQT1JBVEVfVVRJTF9CUklHSFRDT1ZFX0FDQ09VTlRfSURcPg==</entry>
+        <entry encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
