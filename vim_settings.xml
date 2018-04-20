@@ -32,7 +32,13 @@
         <mark key="." line="782" column="0" />
         <mark key="^" line="784" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" timestamp="1524235050240" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" timestamp="1524237952604">
+        <mark key="'" line="797" column="9" />
+        <mark key="[" line="804" column="14" />
+        <mark key="]" line="804" column="14" />
+        <mark key="^" line="804" column="17" />
+        <mark key="." line="804" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1521209718874">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="35" column="41" />
@@ -210,7 +216,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524135514360">
+      <file name="/PHP Console" timestamp="1524237975705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -369,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
-      <jump line="109" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/klinkhardt-website/web/newsite/php/actions/Search.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" />
       <jump line="84" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/public/tracking.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/RX-evolve/sites/all/themes/custom/rxevolve_frontend/source/tracking.js" />
@@ -469,19 +473,21 @@
       <jump line="1761" column="35" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="211" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bmwmagazine/sites/all/themes/custom/bmw_magazine_frontend/template.php" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/03-organisms/footer/footer.css" />
+      <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
+      <jump line="797" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/bicom/sites/all/modules/bi_corporate/bi_corporate_util/bi_corporate_util.module" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>180</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>180</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>preview</text>
+        <text>brightco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMyAvIDcyICogdmFyKC0tRm9vdGVyLWhlaWdodCkpOwo=</text>
@@ -524,13 +530,13 @@
       </register>
     </registers>
     <search>
-      <last-search>preview</last-search>
+      <last-search>brightco</last-search>
       <last-offset />
-      <last-pattern>preview</last-pattern>
+      <last-pattern>brightco</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -554,6 +560,7 @@
         <entry encoding="base64">XDxibXdfbWFnYXppbmVfZnJvbnRlbmRfcHJlcHJvY2Vzc19odG1sXD4=</entry>
         <entry encoding="base64">XDxibXdfcm9ja2V0X2Z1ZWxfaW50ZWdyYXRpb25fYXJ0aWNsZV9wYWdlXD4=</entry>
         <entry>preview</entry>
+        <entry>brightco</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
@@ -574,8 +581,8 @@
         <entry>61</entry>
         <entry>W</entry>
         <entry>97</entry>
-        <entry>w</entry>
         <entry>tabNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
