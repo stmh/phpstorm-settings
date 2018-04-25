@@ -57,6 +57,11 @@
         <mark key="^" line="788" column="57" />
         <mark key="." line="788" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/themes/custom/phb_frontend/phb_frontend.theme" timestamp="1524648681988">
+        <mark key="[" line="273" column="48" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/RelatedArticlesInterface.php" timestamp="1521207803059">
         <mark key="[" line="91" column="12" />
         <mark key="]" line="91" column="12" />
@@ -222,7 +227,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524407926242">
+      <file name="/PHP Console" timestamp="1524648935441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -505,8 +510,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>$permission</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>$permission</text>
@@ -518,37 +523,37 @@
         <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMyAvIDcyICogdmFyKC0tRm9vdGVyLWhlaWdodCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvbGVJbnRlcmZhY2U6OkFVVEhFTlRJQ0FURURfSUQK</text>
+        <text encoding="base64">ICB4ZGVidWdfYnJlYWsoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9wZXJtaXNzaW9uOiAnYWNjZXNzIGNvbnRlbnQnCg==</text>
+        <text encoding="base64">ICAgIFJvbGVJbnRlcmZhY2U6OkFVVEhFTlRJQ0FURURfSUQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXF1aXJlbWVudHM6Cg==</text>
+        <text encoding="base64">ICAgIF9wZXJtaXNzaW9uOiAnYWNjZXNzIGNvbnRlbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yZWFjaCAoJGV4dF9hY2NvdW50IGFzICRmaWVsZCA9PiAkdmFsdWUpIHsK</text>
+        <text encoding="base64">ICByZXF1aXJlbWVudHM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZm9yZWFjaCAoJGV4dF9hY2NvdW50IGFzICRmaWVsZCA9PiAkdmFsdWUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCRhY2NvdW50LT51aWQgPT0gMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCRhY2NvdW50LT51aWQgPT0gMSkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRzbSgkYWNjb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -561,7 +566,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -587,7 +592,6 @@
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
         <entry>70</entry>
         <entry>72</entry>
         <entry>159</entry>
