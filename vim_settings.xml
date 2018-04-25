@@ -31,6 +31,7 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/navbar-error-demo/docroot/profiles/contrib/thunder/modules/thunder_updater/thunder_updater.module" timestamp="1524654024075" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" timestamp="1523905895493">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="782" column="0" />
@@ -227,7 +228,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524648935441">
+      <file name="/PHP Console" timestamp="1524654029072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -245,6 +246,7 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/navbar-error-demo/docroot/core/lib/Drupal/Core/Cache/DatabaseBackend.php" timestamp="1524654051582" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/gaia_export.module" timestamp="1513859031014">
         <mark key="[" line="62" column="17" />
       </file>
@@ -517,7 +519,7 @@
         <text>$permission</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</text>
+        <text>toolabr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMyAvIDcyICogdmFyKC0tRm9vdGVyLWhlaWdodCkpOwo=</text>
@@ -560,13 +562,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</last-pattern>
+      <last-search>toolabr</last-search>
+      <last-offset />
+      <last-pattern>toolabr</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -590,6 +592,7 @@
         <entry>brightco</entry>
         <entry encoding="base64">XDxCSV9DT1JQT1JBVEVfVVRJTF9CUklHSFRDT1ZFX0FDQ09VTlRfSURcPg==</entry>
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</entry>
+        <entry>toolabr</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
