@@ -336,11 +336,10 @@
         <mark key="." line="181" column="36" />
         <mark key="^" line="181" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/src/App.vue" timestamp="1525108364427">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/src/App.vue" timestamp="1525115698307">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/factorial-dashboard/src/components/GraylogHistogram.vue" timestamp="1516190937843">
         <mark key="[" line="18" column="38" />
@@ -574,8 +573,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>landingpage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJlc2V0IGZyb20gJ3Jlc2V0LWNzcy9yZXNldC5jc3MnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>landingpage</text>
@@ -586,39 +585,39 @@
       <register name="0" type="4">
         <text>https://www.drupal.org/u/stmh</text>
       </register>
-      <register name="1" type="4">
-        <text>Matterhorn
-  SERVICE_NAME: w</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHJlc2V0IGZyb20gJ3Jlc2V0LWNzcy9yZXNldC5jc3MnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAaW1wb3J0ICcvYXNzZXRzL3Jlc2V0LWNzcy9fcmVzZXQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAaW1wb3J0ICcvYXNzZXRzL3Jlc2V0LWNzcy9fcmVzZXQnCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHJlc2V0IGZyZGRvbSAncmVzZXQtY3NzJzsK</text>
+      </register>
+      <register name="5" type="4">
+        <text>Matterhorn
+  SERVICE_NAME: w</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3N0ZXBoYW5odWJlciI+4pieIFR3aXR0ZXI8L2E+PC9saT4K</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3RtaCI+4pieIEdpdEh1YjwvYT48L2xpPgogICAgICAgICAgPGxpPjxhIGhy</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTogJzxBcHAvPicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZpc2libGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZpc2libGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3N0ZXBoYW5odWJlciI+4pieIFR3aXR0ZXI8L2E+PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -684,8 +683,8 @@
         <entry>w:w</entry>
         <entry>tabNext</entry>
         <entry>8</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
