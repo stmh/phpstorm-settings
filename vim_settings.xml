@@ -60,11 +60,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/nginx.conf/default.conf" timestamp="1525120000979">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/nginx.conf/default.conf" timestamp="1525121756810">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="36" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1525086445149">
         <mark key="[" line="120" column="5" />
@@ -558,18 +558,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>new CopyWebpackPlugin([
-      {
-        from: path.resolve(__dirname, '../static'),
-        to: config.build.assetsSubDirectory,
-        ignore: ['.*']
-      },
-      {
-        from: path.resolve(__dirname, '../root'),
-        to: config.build.assetsRoot,
-        ignore: ['.*']
-      }
-    ])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -580,7 +569,13 @@
       <register name="0" type="2">
         <text encoding="base64">Q09QWSAuL25naW54LmNvbmYvZ3ppcC5jb25mIC9ldGMvbmdpbngvY29uZi5kL2d6aXAuY29uZgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Z3ppcF92YXJ5IG9uOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>new CopyWebpackPlugin([
       {
         from: path.resolve(__dirname, '../static'),
@@ -594,22 +589,19 @@
       }
     ])</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByb290ICAgL3Vzci9zaGFyZS9uZ2lueC9odG1sOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxvY2F0aW9uIH4qIFwuKGljb3xjc3N8anN8Z2lmfGpwZWd8anBnfHBuZ3x3b2ZmfHR0ZnxvdGZ8c3ZnfHdvZmYyfGVvdCkkIHsKICAgICAgICBleHBpcmVzIDE0ZDsKICAgICAgICBhY2Nlc3NfbG9nIG9mZjsKICAgICAgICBhZGRfaGVhZGVyIFByYWdtYSBwdWJsaWM7CiAgICAgICAgYWRkX2hlYWRlciBDYWNoZS1Db250cm9sICJwdWJsaWMsIG1heC1hZ2U9ODY0MDAiOwogICAgICAgIGFkZF9oZWFkZXIgWC1Bc3NldCAieWVzIjsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICNjaGFyc2V0IGtvaTgtcjsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICNhY2Nlc3NfbG9nICAvdmFyL2xvZy9uZ2lueC9ob3N0LmFjY2Vzcy5sb2cgIG1haW47Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>location ~* \.(ico|css|js|gif|jpeg|jpg|png|woff|ttf|otf|svg|woff2|eot)$ {
         expires 14d;
         access_log off;
@@ -618,11 +610,8 @@
         add_header X-Asset &quot;yes&quot;;
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q09QWSAuL25naW54LmNvbmYvZ3ppcC5jb25mIC9ldGMvbmdpbngvY29uZi5kL2d6aXAuY29uZgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuL25naW54LmNvbmYvZ3ppcC5jb25mIC9ldGMvbmdpbngvY29uZi5kL2d6aXAuY29uZgo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
