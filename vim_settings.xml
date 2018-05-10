@@ -183,11 +183,11 @@
         <mark key="^" line="82" column="6" />
         <mark key="." line="82" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BaseConfigTest.php" timestamp="1525968455472">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="28" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BaseConfigTest.php" timestamp="1525970391384">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="83" />
+        <mark key="^" line="21" column="83" />
+        <mark key="." line="21" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1521207714818">
         <mark key="[" line="41" column="33" />
@@ -338,6 +338,12 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BasePlaceHolderFactory.php" timestamp="1525970368577">
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="16" column="65" />
+        <mark key="." line="16" column="65" />
+        <mark key="^" line="16" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/toolbar/toolbar.module" timestamp="1523954913752">
         <mark key="[" line="54" column="45" />
         <mark key="]" line="55" column="16" />
@@ -410,14 +416,20 @@
       <file name="/PHP Console" timestamp="1525786573897">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1525970411336">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
         <mark key="[" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1525967762731">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="16" column="39" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1525970365049">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/modules/contrib/factorial_monitoring_connector/factorial_monitoring_connector.permissions.yml" timestamp="1524405835867">
         <mark key="[" line="2" column="16" />
@@ -437,7 +449,7 @@
         <mark key="^" line="248" column="61" />
         <mark key="." line="248" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525967640116">
+      <file name="/Dummy.txt" timestamp="1525969913809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1512771650502">
@@ -605,10 +617,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>PHPUnit_Framework_TestCase</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>PHPUnit_Framework_TestCase</text>
       </register>
       <register name="/" type="4">
         <text>setlocal</text>
@@ -617,37 +629,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQbGFjZUhvbGRlckZhY3RvcnkoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlTdWJzZXQoWycoLiopXC50ZXN0LWJcLmRlJ10pOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlTdWJzZXQoWycoLiopXC50ZXN0LWJcLmRlJ10pOwo=</text>
+        <text encoding="base64">ZTogMTc6MzQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlTdWJzZXQoJGNvbmZpZy0+Z2V0SW50ZXJuYWxEb21haW5zKCksIFsnKC4qKVwudGVzdC1iXC5kZSddKTsK</text>
+      <register name="3" type="4">
+        <text>/**
+ * Created by PhpStorm.
+ * User: stephan
+ * Date: 10.05.18
+ * Ti</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IAogICAgICAgICQ=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIGtsYW1idFxFbWJlZEZpbHRlclxCYXNlQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkcGxhY2Vob2xkZXI7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>/**
+ * Created by PhpStorm.
+ * User: stephan
+ * Date: 10.05.18
+ * Time: 18:32
+ */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0UGxhY2VIb2xkZXJGYWN0b3J5KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY3JlYXRlUGxhY2VIb2xkZXIoKSBtZXRob2QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UGxhY2VIb2xkZXJGYWN0b3J5KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4KICogVXNlcjogc3RlcGhhbgogKiBEYXRlOiAxMC4wNS4xOAogKiBUaW1lOiAxNzo1NAogKi8K</text>
+        <text encoding="base64">dXNlIGtsYW1idFxFbWJlZEZpbHRlclxQbGFjZUhvbGRlckZhY3RvcnlJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -703,8 +724,8 @@
         <entry>8</entry>
         <entry>wq</entry>
         <entry>437</entry>
-        <entry>tabNext</entry>
         <entry>W</entry>
+        <entry>tabNext</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>w</entry>
       </history-cmd>
