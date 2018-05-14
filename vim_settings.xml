@@ -15,6 +15,12 @@
         <mark key="^" line="49" column="1" />
         <mark key="." line="46" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" timestamp="1526296619869">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1525340931703">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="35" column="41" />
@@ -207,7 +213,7 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/Filter.php" timestamp="1526294028110">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/Filter.php" timestamp="1526295684907">
         <mark key="[" line="56" column="48" />
         <mark key="]" line="56" column="49" />
         <mark key="." line="56" column="49" />
@@ -362,7 +368,7 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterTest.php" timestamp="1526294650836">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterTest.php" timestamp="1526295468130">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="24" />
         <mark key="^" line="39" column="24" />
@@ -397,11 +403,11 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/ConfigInterface.php" timestamp="1526293196883">
-        <mark key="[" line="10" column="92" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="8" column="47" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/ConfigInterface.php" timestamp="1526296246476">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/themes/custom/kuestenperle_frontend/source/_patterns/02-molecules/socialicons/socialicons.css" timestamp="1524169482970">
         <mark key="[" line="20" column="19" />
@@ -436,11 +442,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
         <mark key="[" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1526293868478">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="10" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1526296258853">
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="40" />
+        <mark key="^" line="62" column="40" />
+        <mark key="." line="62" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/modules/contrib/factorial_monitoring_connector/factorial_monitoring_connector.permissions.yml" timestamp="1524405835867">
         <mark key="[" line="2" column="16" />
@@ -628,10 +634,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>assertTrue</text>
+        <text>H</text>
       </register>
       <register name="-" type="4">
-        <text>assertTrue</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text>setlocal</text>
@@ -640,53 +646,40 @@
         <text encoding="base64">ICAgICAgICAgICAgJzxzY3JpcHQoLiopc3JjPSIoW14iXSspJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0ZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0VGFnc1RvQ2hlY2soKSBtZXRob2QuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGFnc1RvQ2hlY2soKSBtZXRob2QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaGFzRXh0ZXJuYWxTb3VyY2VzKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGFnc1RvQ2hlY2soKSBtZXRob2QuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzxpZnJhbWUoLiopc3JjPSIoW14iXSspJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>public function testHasEmbedTags()
-    {
-
-    }
-
-    public function testFilterHtml()
-    {
-
-    }
-
-    public function testHasExternalSources()
-    {
-
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCRmaWxlaW5mby0+Z2V0RmlsZW5hbWUoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0U2V0SW50ZXJuYWxEb21haW5zKCkKICAgIHsKICAgICAgICAkZmlsdGVyID0gbmV3IEZpbHRlcigpOwogICAgICAgICRjb25maWcgPSAkZmlsdGVyLT5nZXRPckNyZWF0ZUNvbmZpZygpOwogICAgICAgICRjb25maWctPnNldEludGVybmFsRG9tYWlucyhbJ3d3d1wudGVzdFwuZGUnLCAnd3d3XC50ZXN0MlwuZGUnXSk7CgogICAgICAgICR0aGlzLT5hc3NlcnRDb250YWlucygnd3d3XC50ZXN0XC5kZScsICRmaWx0ZXItPmdldE9yQ3JlYXRlQ29uZmlnKCktPmdldEludGVybmFsRG9tYWlucygpKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdElzRXh0ZXJuYWxVcmwoKQogICAgewogICAgICAgICRmaWx0ZXIgPSBuZXcgRmlsdGVyKCk7CiAgICAgICAgJGZpbHRlci0+Z2V0T3JDcmVhdGVDb25maWcoKQogICAgICAgICAgICAtPmFkZEludGVybmFsRG9tYWluKCcoLiopXC50ZXN0XC5kZScpCiAgICAgICAgICAgIC0+YWRkSW50ZXJuYWxEb21haW4oJ1wudGVzdC0yXC5jb20nKQogICAgICAgICAgICAtPmFkZEludGVybmFsRG9tYWluKCd3d3dcLnRlc3QtM1wuY29tJyk7CgogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCcvJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCcvd2hhdGV2ZXIvcGFnZS5odG1sJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJGZpbHRlci0+aXNFeHRlcm5hbFVybCgnaHR0cDovL3d3dy50ZXN0LTMuY29tL3doYXRldmVyL3BhZ2UuaHRtbCcpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJGZpbHRlci0+aXNFeHRlcm5hbFVybCgnaHR0cHM6Ly93d3cudGVzdC0zLmNvbScpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJGZpbHRlci0+aXNFeHRlcm5hbFVybCgnLy93d3cudGVzdC0zLmNvbTo4MDgwL3doYXRldmVyL3BhZ2UuaHRtbCcpKTsKCiAgICAgICAgLy8gVXJsIG5vdCB2YWxpZCBhcyBpdCBpcyBtaXNzaW5nIHRoZSBwcm90b2NvbC4KICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCd3d3cudGVzdC0zLmNvbTo4MDgwL3doYXRldmVyL3BhZ2UuaHRtbCcpKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJGZpbHRlci0+aXNFeHRlcm5hbFVybCgnaHR0cDovL29yaWdpbi50ZXN0LTMuY29tL3doYXRldmVyL3BhZ2UuaHRtbCcpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwczovL29yaWdpbi50ZXN0LTMuY29tJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRmaWx0ZXItPmlzRXh0ZXJuYWxVcmwoJy8vb3JpZ2luLnRlc3QtMy5jb206ODA4MC93aGF0ZXZlci9wYWdlLmh0bWwnKSk7CgogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwOi8vd3d3LnRlc3QuZGUvd2hhdGV2ZXIvcGFnZS5odG1sJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwczovL3d3dy50ZXN0LmRlJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwOi8vb3JpZ2luLnRlc3QuZGUvd2hhdGV2ZXIvcGFnZS5odG1sJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwczovL2Nkbi50ZXN0LmRlJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwOi8vd3d3LnRlc3QuZGUvd2hhdGV2ZXIvcGFnZS5odG1sJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwczovL3d3dy50ZXN0LmRlJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCcvL2ltYWdlcy50ZXN0LmRlOjgwODAvd2hhdGV2ZXIvcGFnZS5odG1sJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkZmlsdGVyLT5pc0V4dGVybmFsVXJsKCdodHRwOi8vdGVzdC5kZS93aGF0ZXZlci9wYWdlLmh0bWwnKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJGZpbHRlci0+aXNFeHRlcm5hbFVybCgnaHR0cHM6Ly90ZXN0LmRlJykpOwogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRmaWx0ZXItPmlzRXh0ZXJuYWxVcmwoJy8vdGVzdC5kZTo4MDgwL3doYXRldmVyL3BhZ2UuaHRtbCcpKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldE9yQ3JlYXRlQ29uZmlnKCkKICAgIHsKICAgICAgICAkZmlsdGVyID0gbmV3IEZpbHRlcigpOwogICAgICAgICR0aGlzLT5hc3NlcnRJbnN0YW5jZU9mKCdca2xhbWJ0XEVtYmVkRmlsdGVyXEJhc2VDb25maWcnLCAkZmlsdGVyLT5nZXRPckNyZWF0ZUNvbmZpZygpKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdENvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgJGN1c3RvbV9jb25maWcgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoJ1xrbGFtYnRcRW1iZWRGaWx0ZXJcQmFzZUNvbmZpZycpLT5nZXRNb2NrKCk7CiAgICAgICAgJGZpbHRlciA9IG5ldyBGaWx0ZXIoJGN1c3RvbV9jb25maWcpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJGN1c3RvbV9jb25maWcsICRmaWx0ZXItPmdldE9yQ3JlYXRlQ29uZmlnKCkpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0U2V0Q29uZmlnKCkKICAgIHsKICAgICAgICAkY3VzdG9tX2NvbmZpZyA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcignXGtsYW1idFxFbWJlZEZpbHRlclxCYXNlQ29uZmlnJyktPmdldE1vY2soKTsKICAgICAgICAkZmlsdGVyID0gbmV3IEZpbHRlcigpOwogICAgICAgICRmaWx0ZXItPnNldENvbmZpZygkY3VzdG9tX2NvbmZpZyk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkY3VzdG9tX2NvbmZpZywgJGZpbHRlci0+Z2V0T3JDcmVhdGVDb25maWcoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVcmwgbm90IHZhbGlkIGFzIGl0IGlzIG1pc3NpbmcgdGhlIHByb3RvY29sLgo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0ZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -696,7 +689,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -740,8 +733,9 @@
         <entry>50</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>52</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>24</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
