@@ -182,11 +182,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" timestamp="1527251094197">
-        <mark key="[" line="44" column="54" />
-        <mark key="]" line="45" column="70" />
-        <mark key="^" line="45" column="70" />
-        <mark key="." line="45" column="70" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" timestamp="1527252771569">
+        <mark key="'" line="183" column="64" />
+        <mark key="[" line="183" column="89" />
+        <mark key="]" line="183" column="90" />
+        <mark key="^" line="183" column="90" />
+        <mark key="." line="183" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/JiraSyncer.php" timestamp="1523726138972">
         <mark key="[" line="61" column="35" />
@@ -529,7 +530,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1527250483875">
+      <file name="/PHP Console" timestamp="1527252837759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1526545001741">
@@ -646,8 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="572" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="573" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="574" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="575" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="576" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
@@ -746,19 +745,21 @@
       <jump line="150" column="45" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/index.js" />
       <jump line="146" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/index.js" />
       <jump line="784" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/sites/default/settings.php" />
+      <jump line="49" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
+      <jump line="183" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>'i</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>'i</text>
       </register>
       <register name="/" type="4">
-        <text>block</text>
+        <text>hook_mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJHZpZGVvX3JlbmRlclsnI2F0dHJpYnV0ZXMnXVsnY2xhc3MnXVtdID0gJ2pzLVJlbG9hZEFmdGVyQ29uc2VudCc7Cg==</text>
@@ -801,13 +802,13 @@
       </register>
     </registers>
     <search>
-      <last-search>block</last-search>
+      <last-search>hook_mail</last-search>
       <last-offset />
-      <last-pattern>block</last-pattern>
+      <last-pattern>hook_mail</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -834,6 +835,7 @@
         <entry>blocked</entry>
         <entry>isBlocked</entry>
         <entry>block</entry>
+        <entry>hook_mail</entry>
       </history-search>
       <history-cmd>
         <entry>437</entry>
@@ -845,7 +847,6 @@
         <entry>52</entry>
         <entry>24</entry>
         <entry>40</entry>
-        <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>1</entry>
         <entry>148</entry>
@@ -856,8 +857,9 @@
         <entry>82</entry>
         <entry>119</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>Gblame</entry>
+        <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
