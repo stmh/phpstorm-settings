@@ -52,11 +52,14 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" timestamp="1526306002157">
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" timestamp="1527421231768">
+        <mark key="'" line="0" column="0" />
+        <mark key="j" line="69" column="69" />
+        <mark key="[" line="44" column="21" />
+        <mark key="m" line="69" column="69" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="104" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1525340931703">
         <mark key="[" line="48" column="78" />
@@ -448,7 +451,7 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BasePlaceHolderFactory.php" timestamp="1526545020547">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BasePlaceHolderFactory.php" timestamp="1527420539019">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
@@ -530,7 +533,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1527252837759">
+      <file name="/PHP Console" timestamp="1527253829263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1526545001741">
@@ -647,9 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="574" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="575" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="576" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="580" column="107" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="583" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="584" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
@@ -747,55 +747,58 @@
       <jump line="784" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/sites/default/settings.php" />
       <jump line="49" column="28" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
       <jump line="183" column="64" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
+      <jump line="66" column="87" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>'i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hook_mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJHZpZGVvX3JlbmRlclsnI2F0dHJpYnV0ZXMnXVsnY2xhc3MnXVtdID0gJ2pzLVJlbG9hZEFmdGVyQ29uc2VudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0ZhaWxlZCBzbmlwcGV0IGZvciBwcm92aWRlciAnIC4gJHByb3ZpZGVyIC4gJzogJyAuICRodG1sX3NuaXBwZXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbG9hZEFmdGVyQ29uc2VudCBmcm9tICcuL19wYXR0ZXJucy8wMC1wYXJ0aWNsZXMvY29tcG9uZW50cy9jb21wb25lbnRzLXJlbG9hZC1hZnRlci1jb25zZW50L2NvbXBvbmVudHMtcmVsb2FkLWFmdGVyLWNvbnNlbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0ZhaWxlZCBzbmlwcGV0OiAnIC4gJGh0bWxfc25pcHBldCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbHRlci0+aGFzRXh0ZXJuYWxTb3VyY2VzKCRodG1sX3NuaXBwZXQpLCAnRmFpbGVkIHNuaXBwZXQgZm9yIHByb3ZpZGVyICcgLiAkcHJvdmlkZXIgLiAnOiAnIC4gJGh0bWxfc25pcHBldCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVsb2FkQWZ0ZXJDb25zZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBra2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9ydCB7IG1hcCB9IGZyb20gJ2xvZGFzaCc7CgpmdW5jdGlvbiByZWxvYWRBZnRlckNvbnNlbnQoKSB7CiAgaWYgKCF3aW5kb3cuRHJ1cGFsIHx8IHdpbmRvdy5EcnVwYWwuZXVfY29va2llX2NvbXBsaWFuY2UuaGFzQWdyZWVkKCkpIHsKICAgIG1hcChkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdqcy1SZWxvYWRBZnRlckNvbnNlbnQnKSwKICAgICAgZWxlbWVudCA9PiBlbGVtZW50LnNldEF0dHJpYnV0ZSgnc3JjJywgZWxlbWVudC5nZXRBdHRyaWJ1dGUoJ2RhdGEtc3JjJykpKTsKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IHJlbG9hZEFmdGVyQ29uc2VudDsK</text>
+        <text encoding="base64">aW1wb3J0IHJlbG9hZEFmdGVyQ29uc2VudCBmcm9tICcuL19wYXR0ZXJucy8wMC1wYXJ0aWNsZXMvY29tcG9uZW50cy9jb21wb25lbnRzLXJlbG9hZC1hZnRlci1jb25zZW50L2NvbXBvbmVudHMtcmVsb2FkLWFmdGVyLWNvbnNlbnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwcyA9IG1hcCgKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnanMtTWFwJyksCiAgICAgIGVsZW1lbnQgPT4gbmV3IE1hcChlbGVtZW50KSwKICAgICk7CgogICAgdGhpcy5zaW5nbGVNYXAgPSBtYXAoCiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzLVNpbmdsZS1NYXAnKSwKICAgICAgZWxlbWVudCA9PiBuZXcgU2luZ2xlTWFwKGVsZW1lbnQpLAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgcmVsb2FkQWZ0ZXJDb25zZW50KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9ydCB7IG1hcCB9IGZyb20gJ2xvZGFzaCc7CgpmdW5jdGlvbiByZWxvYWRBZnRlckNvbnNlbnQoKSB7CiAgaWYgKCF3aW5kb3cuRHJ1cGFsIHx8IHdpbmRvdy5EcnVwYWwuZXVfY29va2llX2NvbXBsaWFuY2UuaGFzQWdyZWVkKCkpIHsKICAgIG1hcChkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdqcy1SZWxvYWRBZnRlckNvbnNlbnQnKSwKICAgICAgZWxlbWVudCA9PiBlbGVtZW50LnNldEF0dHJpYnV0ZSgnc3JjJywgZWxlbWVudC5nZXRBdHRyaWJ1dGUoJ2RhdGEtc3JjJykpKTsKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IHJlbG9hZEFmdGVyQ29uc2VudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMueW91dHViZXMgPSBtYXAoCiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzLVZpZGVvWW91dHViZScpLAogICAgICBlbGVtZW50ID0+IG5ldyBZb3V0dWJlKGVsZW1lbnQpLAogICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwcyA9IG1hcCgKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnanMtTWFwJyksCiAgICAgIGVsZW1lbnQgPT4gbmV3IE1hcChlbGVtZW50KSwKICAgICk7CgogICAgdGhpcy5zaW5nbGVNYXAgPSBtYXAoCiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzLVNpbmdsZS1NYXAnKSwKICAgICAgZWxlbWVudCA9PiBuZXcgU2luZ2xlTWFwKGVsZW1lbnQpLAogICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -808,14 +811,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dsm</entry>
-        <entry>dtm_de</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>toolbar</entry>
         <entry>preprocess_page(</entry>
         <entry>cache.render</entry>
         <entry>xdebug_br</entry>
@@ -838,8 +837,6 @@
         <entry>hook_mail</entry>
       </history-search>
       <history-cmd>
-        <entry>437</entry>
-        <entry>:w</entry>
         <entry>33</entry>
         <entry>42</entry>
         <entry>47</entry>
@@ -848,7 +845,6 @@
         <entry>24</entry>
         <entry>40</entry>
         <entry encoding="base64">JzwsJz4x</entry>
-        <entry>1</entry>
         <entry>148</entry>
         <entry>w:w</entry>
         <entry>wq</entry>
@@ -859,6 +855,8 @@
         <entry>noh</entry>
         <entry>Gblame</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
+        <entry>1</entry>
+        <entry>96</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -894,6 +892,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
