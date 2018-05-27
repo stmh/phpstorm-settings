@@ -45,7 +45,7 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" timestamp="1527426454362">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/FilterHtmlTest.php" timestamp="1527427682502">
         <mark key="'" line="0" column="0" />
         <mark key="j" line="69" column="69" />
         <mark key="[" line="91" column="17" />
@@ -285,12 +285,12 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/Filter.php" timestamp="1527426623052">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/Filter.php" timestamp="1527427700880">
         <mark key="'" line="42" column="20" />
-        <mark key="[" line="143" column="12" />
-        <mark key="]" line="143" column="19" />
+        <mark key="[" line="135" column="30" />
+        <mark key="]" line="135" column="31" />
         <mark key="^" line="143" column="19" />
-        <mark key="." line="143" column="19" />
+        <mark key="." line="135" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/source/_patterns/00-particles/components/components-reload-after-consent/components-reload-after-consent.js" timestamp="1527022886283">
         <mark key="[" line="10" column="43" />
@@ -438,11 +438,11 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BasePlaceHolderFactory.php" timestamp="1527420539019">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="17" column="46" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BasePlaceHolderFactory.php" timestamp="1527428059996">
+        <mark key="[" line="17" column="65" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/modules/toolbar/toolbar.module" timestamp="1523954913752">
         <mark key="[" line="54" column="45" />
@@ -532,11 +532,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
         <mark key="[" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1527426198448">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="36" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/src/klambt/EmbedFilter/BaseConfig.php" timestamp="1527427899383">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/modules/contrib/factorial_monitoring_connector/factorial_monitoring_connector.permissions.yml" timestamp="1524405835867">
         <mark key="[" line="2" column="16" />
@@ -743,10 +743,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -798,7 +798,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -842,10 +842,10 @@
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>1</entry>
         <entry>96</entry>
-        <entry>W</entry>
         <entry>tabNext</entry>
         <entry>:w</entry>
         <entry>noh</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
