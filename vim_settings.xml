@@ -186,6 +186,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/gaia_export.module" timestamp="1513859031014">
         <mark key="[" line="62" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_pearl_comments/src/Form/RtpPearlCommentsSettingsForm.php" timestamp="1527695548538">
+        <mark key="[" line="54" column="55" />
+        <mark key="]" line="54" column="70" />
+        <mark key="." line="54" column="70" />
+        <mark key="^" line="54" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/external-snippets/etonline-002.html" timestamp="1526325806528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -390,6 +396,9 @@
         <mark key="]" line="33" column="25" />
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_pearl_comments/rtp_pearl_comments.module" timestamp="1527695430160">
+        <mark key="[" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/TwitterProviderPlugin.php" timestamp="1527432450663">
         <mark key="[" line="17" column="6" />
@@ -776,16 +785,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>86400</text>
+        <text>valid_time</text>
       </register>
       <register name="-" type="4">
-        <text>86400</text>
+        <text>valid_time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcoLiopXC52aW1lb1wuY29tXC8nLAo=</text>
+        <text encoding="base64">ICAgICAgLT5zZXQoJ3ZhbGlkX3RpbWUnLCAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3ZhbGlkX3RpbWUnKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcGF0dGVybik7Cg==</text>
