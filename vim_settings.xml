@@ -177,6 +177,9 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" timestamp="1527842043229">
+        <mark key="'" line="208" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/JiraSyncer.php" timestamp="1523726138972">
         <mark key="[" line="61" column="35" />
         <mark key="]" line="61" column="58" />
@@ -550,7 +553,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1527776212702">
+      <file name="/PHP Console" timestamp="1527841973076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1527494112169">
@@ -690,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="586" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="587" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="588" column="23" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
@@ -790,6 +792,7 @@
       <jump line="13" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" />
       <jump line="11" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPluginManager.php" />
+      <jump line="208" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -802,7 +805,7 @@
         <text>float</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text>honey</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLT5zZXQoJ3ZhbGlkX3RpbWUnLCAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3ZhbGlkX3RpbWUnKSkK</text>
@@ -845,13 +848,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search>honey</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-pattern>honey</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -875,6 +878,7 @@
         <entry>block</entry>
         <entry>hook_mail</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry>honey</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
