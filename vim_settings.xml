@@ -132,6 +132,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="36" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1527971576203">
+        <mark key="[" line="185" column="8" />
+        <mark key="]" line="143" column="3" />
+        <mark key="^" line="144" column="3" />
+        <mark key="." line="143" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/templates/dzvier_map.html.twig" timestamp="1527021725642">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="86" />
@@ -166,10 +172,7 @@
         <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/inOncology/sites/all/modules/custom/inc_node_ctools_plugins/plugins/content_types/event/event_presentations.inc" timestamp="1527868420941">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="39" column="136" />
-        <mark key="." line="38" column="0" />
+        <mark key="^" line="24" column="136" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/key-manager/web/modules/custom/ssh_key_manager/src/Plugin/ListOptions/ExternalProjects.php" timestamp="1524401282483">
         <mark key="[" line="8" column="3" />
@@ -561,7 +564,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1527868303735">
+      <file name="/PHP Console" timestamp="1527870492821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1527494112169">
@@ -806,11 +809,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>honey</text>
