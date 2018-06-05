@@ -306,8 +306,12 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1528212674994">
-        <mark key="'" line="10" column="9" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1528215692826">
+        <mark key="'" line="507" column="26" />
+        <mark key="[" line="179" column="21" />
+        <mark key="]" line="417" column="12" />
+        <mark key="^" line="417" column="12" />
+        <mark key="." line="417" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1521207714818">
         <mark key="[" line="41" column="33" />
@@ -413,6 +417,9 @@
         <mark key="]" line="91" column="12" />
         <mark key="^" line="91" column="12" />
         <mark key="." line="91" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/pm_jira.module" timestamp="1528214129604">
+        <mark key="'" line="187" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/Dockerfile" timestamp="1525118076082">
         <mark key="[" line="15" column="0" />
@@ -573,7 +580,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="/PHP Console" timestamp="1528191024444">
+      <file name="/PHP Console" timestamp="1528215696404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/embed_filter/tests/BasePlaceHolderFactoryTest.php" timestamp="1527494112169">
@@ -713,17 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="635" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="879" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="20" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/lib/Drupal/Core/Entity/ContentEntityBase.php" />
-      <jump line="16" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" />
-      <jump line="115" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/klambt_image_optimize/src/RemoteService.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.local.php" />
-      <jump line="131" column="18" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/custom/entity_reference_description/src/Plugin/Field/FieldWidget/EntityReferenceDescriptionBrowserWidget.php" />
-      <jump line="113" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/modules/custom/rmh_dtm/rmh_dtm.module" />
-      <jump line="784" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/settings.php" />
-      <jump line="25" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/custom/paragraphs_interesting_articles/src/Helper.php" />
-      <jump line="691" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/themes/custom/dz4/dz4.theme" />
       <jump line="70" column="4" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" />
       <jump line="28" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" />
       <jump line="227" column="10" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/fabfile.yaml" />
@@ -813,6 +809,17 @@
       <jump line="236" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="178" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="187" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/pm_jira.module" />
+      <jump line="417" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="754" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="456" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="633" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="339" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="929" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="831" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="801" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="701" column="13" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="507" column="26" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -825,7 +832,7 @@
         <text>kint</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</text>
+        <text encoding="base64">XDxwbV9qaXJhX2dldF9kcnVwYWxfdXNlcl9pZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLT5zZXQoJ3ZhbGlkX3RpbWUnLCAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3ZhbGlkX3RpbWUnKSkK</text>
@@ -868,9 +875,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</last-search>
+      <last-search encoding="base64">XDxwbV9qaXJhX2dldF9kcnVwYWxfdXNlcl9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbV9qaXJhX2dldF9kcnVwYWxfdXNlcl9pZFw+</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
@@ -900,8 +907,14 @@
         <entry encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</entry>
         <entry encoding="base64">XDxsYXN0X3VwZGF0ZWRfdGltZXN0YW1wXD4=</entry>
         <entry encoding="base64">XDxfcG1famlyYV9mZXRjaF91cGRhdGVzX2Zyb21famlyYV9pc3N1ZXNfY3JlYXRlX3F1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhX2lzc3Vlc1w+</entry>
         <entry encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhX2lzc3Vlc1w+</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV93b3JrbG9nX29uX3RoZV9mbHlcPg==</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX2lzc3VlXD4=</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV9pc3N1ZVw+</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX3VzZXJcPg==</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV91c2VyX29uX3RoZV9mbHlcPg==</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX2dldF9kcnVwYWxfdXNlcl9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
