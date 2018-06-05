@@ -64,6 +64,13 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" timestamp="1528194416250">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="708" column="4" />
+        <mark key="]" line="708" column="10" />
+        <mark key="." line="708" column="10" />
+        <mark key="^" line="708" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/fabfile.yaml" timestamp="1520260595221">
         <mark key="[" line="140" column="64" />
         <mark key="]" line="140" column="78" />
@@ -712,7 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="593" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="594" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="598" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="599" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
@@ -812,19 +818,20 @@
       <jump line="62" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
       <jump line="95" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
       <jump line="272" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
+      <jump line="18" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHRvID0gJF9QT1NUWydoYXNfYWdlbnQnXSA9PSAndHJ1ZScgPyAkcGxhdG51bV9kZWZhdWx0X21haWwgOiBfZ2V0X2FydGlzdF9lbWFpbHMoJF9QT1NUWydhcnRpc3RfaWQnXSwgJHBsYXRudW1fZGVmYXVsdF9tYWlsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>kint</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>kint</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X3BsYXRudW1fcmVxdWVzdF9tYWlsXD4=</text>
+        <text encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLT5zZXQoJ3ZhbGlkX3RpbWUnLCAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3ZhbGlkX3RpbWUnKSkK</text>
@@ -867,9 +874,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X3BsYXRudW1fcmVxdWVzdF9tYWlsXD4=</last-search>
+      <last-search encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X3BsYXRudW1fcmVxdWVzdF9tYWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
@@ -877,7 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxibXdfcm9ja2V0X2Z1ZWxfaW50ZWdyYXRpb25fYXJ0aWNsZV9wYWdlXD4=</entry>
         <entry>preview</entry>
         <entry>brightco</entry>
         <entry encoding="base64">XDxCSV9DT1JQT1JBVEVfVVRJTF9CUklHSFRDT1ZFX0FDQ09VTlRfSURcPg==</entry>
@@ -898,6 +904,7 @@
         <entry encoding="base64">XDxQTEFUTlVNX1JFUVVFU1RTX1RPS0VOX05BTUVcPg==</entry>
         <entry>xdebug</entry>
         <entry encoding="base64">XDxfZ2V0X3BsYXRudW1fcmVxdWVzdF9tYWlsXD4=</entry>
+        <entry encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
