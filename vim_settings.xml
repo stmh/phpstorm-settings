@@ -15,13 +15,6 @@
       <file name="/a.dummy" timestamp="1525965857902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/embed_filter.services.yml" timestamp="1527430420252">
-        <mark key="b" line="2" column="8" />
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" timestamp="1527432053175">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="26" />
@@ -47,6 +40,7 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/video-teaser/video-teaser.json" timestamp="1528201533078" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1525340931703">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="35" column="41" />
@@ -395,6 +389,7 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/card-related/card-related.json" timestamp="1528201622309" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/thewsd/web/sites/default/settings.php" timestamp="1523185465678">
         <mark key="[" line="788" column="52" />
         <mark key="]" line="788" column="57" />
@@ -427,13 +422,6 @@
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="55" />
         <mark key="." line="31" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/EventSubscriber/EmbedFilterExit.php" timestamp="1527495178616">
-        <mark key="b" line="2" column="27" />
-        <mark key="[" line="32" column="74" />
-        <mark key="]" line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ph-blogs/web/modules/custom/rtp_pearl_comments/rtp_pearl_comments.module" timestamp="1527698747144">
         <mark key="[" line="8" column="0" />
@@ -533,6 +521,7 @@
         <mark key="." line="105" column="1" />
         <mark key="^" line="105" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/article-image/article-image.json" timestamp="1528201457120" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mutabor-faces-website/sites/all/modules/custom/mm_blocks/mm_blocks.module" timestamp="1522332481453">
         <mark key="[" line="217" column="14" />
         <mark key="]" line="218" column="4" />
@@ -880,11 +869,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preview</entry>
         <entry>brightco</entry>
         <entry encoding="base64">XDxCSV9DT1JQT1JBVEVfVVRJTF9CUklHSFRDT1ZFX0FDQ09VTlRfSURcPg==</entry>
         <entry encoding="base64">XDxicmlnaHRjb3ZlX2h0bWw1XD4=</entry>
