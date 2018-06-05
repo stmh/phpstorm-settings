@@ -40,7 +40,6 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/organisms/video-teaser/video-teaser.json" timestamp="1528201533078" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/related_articles/src/Plugin/Block/RelatedArticlesBlock.php" timestamp="1525340931703">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="35" column="41" />
@@ -307,6 +306,9 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1528212674994">
+        <mark key="'" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/modules/paragraphs_interesting_articles/src/Helper.php" timestamp="1521207714818">
         <mark key="[" line="41" column="33" />
         <mark key="]" line="41" column="80" />
@@ -371,6 +373,11 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.admin.inc" timestamp="1528212353195">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/stephanmaximilianhuber/index.html" timestamp="1525120482846">
         <mark key="[" line="48" column="56" />
         <mark key="]" line="48" column="56" />
@@ -389,7 +396,6 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/card-related/card-related.json" timestamp="1528201622309" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/thewsd/web/sites/default/settings.php" timestamp="1523185465678">
         <mark key="[" line="788" column="52" />
         <mark key="]" line="788" column="57" />
@@ -521,7 +527,6 @@
         <mark key="." line="105" column="1" />
         <mark key="^" line="105" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssc_ild/sites/all/themes/custom/sscild_frontend/source/_patterns/molecules/article-image/article-image.json" timestamp="1528201457120" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/mutabor-faces-website/sites/all/modules/custom/mm_blocks/mm_blocks.module" timestamp="1522332481453">
         <mark key="[" line="217" column="14" />
         <mark key="]" line="218" column="4" />
@@ -708,10 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="594" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="598" column="17" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="599" column="30" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
-      <jump line="627" column="54" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="635" column="37" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="879" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/core.services.yml" />
       <jump line="20" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/core/lib/Drupal/Core/Entity/ContentEntityBase.php" />
@@ -808,68 +809,72 @@
       <jump line="95" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
       <jump line="272" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/platnum/sites/all/modules/custom/platnum_requests/platnum_requests.module" />
       <jump line="18" column="8" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_utils/dzvier_utils.module" />
+      <jump line="239" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="236" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="178" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
+      <jump line="10" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>kint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZSgnUmVzZXQgamlyYSB0aW1lc3RhbXAgJykK</text>
       </register>
       <register name="-" type="4">
         <text>kint</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</text>
+        <text encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLT5zZXQoJ3ZhbGlkX3RpbWUnLCAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3ZhbGlkX3RpbWUnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHRvID0gJF9QT1NUWydoYXNfYWdlbnQnXSA9PSAndHJ1ZScgPyAkcGxhdG51bV9kZWZhdWx0X21haWwgOiBfZ2V0X2FydGlzdF9lbWFpbHMoJF9QT1NUWydhcnRpc3RfaWQnXSwgJHBsYXRudW1fZGVmYXVsdF9tYWlsKTsK</text>
+        <text encoding="base64">ICAgIGRydXBhbF9zZXRfbWVzc2FnZSgnUmVzZXQgamlyYSB0aW1lc3RhbXAgJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHRvID0gX2dldF9nYWxsZXJ5X2VtYWlscygkX1BPU1RbJ2dhbGxlcnlfaWQnXSwgJHBsYXRudW1fZGVmYXVsdF9tYWlsKTsK</text>
+        <text encoding="base64">ICAgICAgJHRvID0gJF9QT1NUWydoYXNfYWdlbnQnXSA9PSAndHJ1ZScgPyAkcGxhdG51bV9kZWZhdWx0X21haWwgOiBfZ2V0X2FydGlzdF9lbWFpbHMoJF9QT1NUWydhcnRpc3RfaWQnXSwgJHBsYXRudW1fZGVmYXVsdF9tYWlsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRwb3NzaWJsZV90b2tlbiA9IGRydXBhbF9nZXRfdG9rZW4oUExBVE5VTV9SRVFVRVNUU19UT0tFTl9OQU1FKTsK</text>
+        <text encoding="base64">ICAgICAgJHRvID0gX2dldF9nYWxsZXJ5X2VtYWlscygkX1BPU1RbJ2dhbGxlcnlfaWQnXSwgJHBsYXRudW1fZGVmYXVsdF9tYWlsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">ICAgICRwb3NzaWJsZV90b2tlbiA9IGRydXBhbF9nZXRfdG9rZW4oUExBVE5VTV9SRVFVRVNUU19UT0tFTl9OQU1FKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkX1NFU1NJT05bJ2ZvbyddID0gJ2Jhcic7Cg==</text>
+        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnbG9iYWwgJF9TRVNTSU9OOwo=</text>
+        <text encoding="base64">ICAkX1NFU1NJT05bJ2ZvbyddID0gJ2Jhcic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkcnVwYWxfcGFnZV9pc19jYWNoZWFibGUoRkFMU0UpOwo=</text>
+        <text encoding="base64">ICBnbG9iYWwgJF9TRVNTSU9OOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkcnVwYWxfZGlzYQo=</text>
+        <text encoding="base64">ICBkcnVwYWxfcGFnZV9pc19jYWNoZWFibGUoRkFMU0UpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhkZWJ1Z19icmVhaygpOwo=</text>
+        <text encoding="base64">ICBkcnVwYWxfZGlzYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</last-search>
+      <last-search encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -893,6 +898,10 @@
         <entry>xdebug</entry>
         <entry encoding="base64">XDxfZ2V0X3BsYXRudW1fcmVxdWVzdF9tYWlsXD4=</entry>
         <entry encoding="base64">XDxEWlZJRVJfVVRJTFNfREVCVUdfQ1JNXD4=</entry>
+        <entry encoding="base64">XDxsYXN0X3VwZGF0ZWRfdGltZXN0YW1wXD4=</entry>
+        <entry encoding="base64">XDxfcG1famlyYV9mZXRjaF91cGRhdGVzX2Zyb21famlyYV9pc3N1ZXNfY3JlYXRlX3F1ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhX2lzc3Vlc1w+</entry>
+        <entry encoding="base64">XDxwbV9qaXJhX2ZldGNoX3VwZGF0ZXNfZnJvbV9qaXJhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
