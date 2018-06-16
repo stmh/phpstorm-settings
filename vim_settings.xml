@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1525965857902">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.services.yml" timestamp="1529136711638" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" timestamp="1527432053175">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="26" />
@@ -136,7 +137,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529135879943">
+      <file name="/PHP Console" timestamp="1529136528867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -156,12 +157,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/IssueService.php" timestamp="1528643859612">
-        <mark key="'" line="13" column="32" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="40" column="37" />
-        <mark key="." line="40" column="37" />
-        <mark key="^" line="40" column="37" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/IssueService.php" timestamp="1529136684274">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="51" />
+        <mark key="^" line="56" column="38" />
+        <mark key="." line="56" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1528643098507">
         <mark key="[" line="0" column="0" />
@@ -349,17 +349,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJwb3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsaWdodGhvdXNld29ya2VyOgogICAgYnVpbGQ6IC4vd29ya2Vycy9saWdodGhvdXNlLwogICAgbGlua3M6CiAgICAgIC0gcmFiYml0MTpyYWJiaXQxCiAgICBjb21tYW5kOgogICAgICAtIGNyb25kCiAgICAgIC0gLWYKICAgICAgLSAtbDAKICAgIGVudmlyb25tZW50OgogICAgICBSQUJCSVRfUVVFVUU6IHdzZF9saWdodGhvdXNlX3F1ZXVlCiAgICAgIFJBQkJJVF9IT1NUOiByYWJiaXQxCiAgICB2b2x1bWVzOgogICAgICAtIHdvcmtlci1jYWNoZTovdG1wL3RoZXdzZAogICAgICAtIC92YXIvcnVuL2RvY2tlci5zb2NrOi92YXIvcnVuL2RvY2tlci5zb2NrCiAgICBuZXR3b3JrczoKICAgICAgLSBkZWZhdWx0Cgo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHJldHVybiAkdGhpcy0+Z2V0Q2FjaGVkKCd3b3JrbG9nczonIC4gJGlzc3VlX2tleSwgZnVuY3Rpb24gKCkgdXNlICgkaXNzdWVfa2V5KSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pc3N1ZVNlcnZpY2UtPmdldFdvcmtsb2coJGlzc3VlX2tleSktPmdldFdvcmtsb2dzKCk7CiAgICAgIH0sIHNlbGY6OldPUktMT0dTX0NBQ0hFX0xJRkVUSU1FKTsKICAgIH0KICAgIGNhdGNoIChKaXJhRXhjZXB0aW9uICRlKSB7CiAgICB9CiAgICBjYXRjaCAoXEpzb25NYXBwZXJfRXhjZXB0aW9uICRlKSB7CiAgICB9CgogICAgcmV0dXJuIEZBTFNFOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
