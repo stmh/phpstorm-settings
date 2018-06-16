@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1525965857902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.services.yml" timestamp="1529165214064">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="81" />
-        <mark key="^" line="12" column="81" />
-        <mark key="." line="12" column="81" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.services.yml" timestamp="1529184418645">
+        <mark key="[" line="12" column="102" />
+        <mark key="]" line="12" column="119" />
+        <mark key="^" line="12" column="119" />
+        <mark key="." line="12" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" timestamp="1527432053175">
         <mark key="'" line="0" column="0" />
@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529169556741">
+      <file name="/PHP Console" timestamp="1529185097805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -190,7 +190,7 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/IssueService.php" timestamp="1529166862460">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/IssueService.php" timestamp="1529184332711">
         <mark key="[" line="95" column="25" />
         <mark key="]" line="95" column="27" />
         <mark key="^" line="95" column="27" />
@@ -226,14 +226,20 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/layout/html.html.twig" timestamp="1523908444018">
         <mark key="[" line="97" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/SyncService.php" timestamp="1529169246982">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="92" column="15" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/SyncService.php" timestamp="1529185065357">
+        <mark key="[" line="131" column="33" />
+        <mark key="]" line="131" column="33" />
+        <mark key="." line="131" column="33" />
+        <mark key="^" line="131" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1518466848037">
         <mark key="[" line="2062" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/UserService.php" timestamp="1529184131318">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1522187988974">
         <mark key="[" line="98" column="17" />
@@ -388,11 +394,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXREaXNwbGF5T3B0aW9ucygndmlldycsIFsKICAgICAgICAnbGFiZWwnID0+ICdhYm92ZScsCiAgICAgICAgJ3R5cGUnID0+ICdzdHJpbmcnLAogICAgICBdKQogICAgICAtPnNldERpc3BsYXlPcHRpb25zKCdmb3JtJywgWwogICAgICAgICd0eXBlJyA9PiAnZGF0ZXRpbWUnLAogICAgICBdKQogICAgICAtPnNldERpc3BsYXlDb25maWd1cmFibGUoJ2Zvcm0nLCBUUlVFKQogICAgICAtPnNldERpc3BsYXlDb25maWd1cmFibGUoJ3ZpZXcnLCBUUlVFKQogICAgICAtPnNldFJlcXVpcmVkKFRSVUUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJwb3NcPg==</text>
@@ -401,31 +407,31 @@
         <text encoding="base64">ICAgICAgLT5zZXREaXNwbGF5T3B0aW9ucygndmlldycsIFsKICAgICAgICAnbGFiZWwnID0+ICdhYm92ZScsCiAgICAgICAgJ3R5cGUnID0+ICdzdHJpbmcnLAogICAgICBdKQogICAgICAtPnNldERpc3BsYXlPcHRpb25zKCdmb3JtJywgWwogICAgICAgICd0eXBlJyA9PiAnZGF0ZXRpbWUnLAogICAgICBdKQogICAgICAtPnNldERpc3BsYXlDb25maWd1cmFibGUoJ2Zvcm0nLCBUUlVFKQogICAgICAtPnNldERpc3BsYXlDb25maWd1cmFibGUoJ3ZpZXcnLCBUUlVFKQogICAgICAtPnNldFJlcXVpcmVkKFRSVUUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLT5zZXREZWZhdWx0VmFsdWUoJycpCg==</text>
+        <text encoding="base64">ICAgICAgJGppcmFfdXNlciA9IChhcnJheSkgJGppcmFfdXNlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJ0RlbGV0ZWQgd29ya2xvZyB3aXRoIGlkICcuICRqaXJhX2lkKTsK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIGJvb2x8XERydXBhbFxDb3JlXFNlc3Npb25cQWNjb3VudEludGVyZmFjZXxtaXhlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZW50aXR5LT5zZXQoJ2ppcmFfaWQnKQo=</text>
+        <text encoding="base64">ICAgICRhY2NvdW50ID0gRkFMU0U7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLT5zZXREZWZhdWx0VmFsdWUoJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzbSgkbWFwcGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkc20oJ0RlbGV0ZWQgd29ya2xvZyB3aXRoIGlkICcuICRqaXJhX2lkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgJGV4aXN0aW5nX3dvcmtsb2dzX2lkcyA9IGFycmF5X21hcChmdW5jdGlvbiAoJGVsZW0pIHsKICAgICAgcmV0dXJuICRlbGVtLT5nZXQoJ2ppcmFfaWQnKS0+dmFsdWU7CiAgICB9LCAkZXhpc3Rpbmdfd29ya2xvZ3MpOwogICAgZHNtKCRleGlzdGluZ193b3JrbG9nc19pZHMpOwoKICAgIGZvcmVhY2ggKCRqaXJhX3dvcmtsb2dfaWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAkZW50aXR5LT5zZXQoJ2ppcmFfaWQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFlbXB0eSgkbWFwcGluZ11bXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
