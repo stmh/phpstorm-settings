@@ -15,6 +15,12 @@
         <mark key="^" line="12" column="119" />
         <mark key="." line="12" column="119" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/DbLogHandler.php" timestamp="1529269304963">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPlugin/YoutubeProviderPlugin.php" timestamp="1527432053175">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="26" />
@@ -92,12 +98,11 @@
         <mark key="^" line="12" column="95" />
         <mark key="." line="12" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/ClientService.php" timestamp="1528640409823">
-        <mark key="'" line="12" column="54" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="2" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/ClientService.php" timestamp="1529269536680">
+        <mark key="[" line="58" column="68" />
+        <mark key="]" line="58" column="70" />
+        <mark key="^" line="58" column="70" />
+        <mark key="." line="58" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/panelizer/plugins/entity/PanelizerEntityDefault.class.php" timestamp="1516816797557">
         <mark key="[" line="2121" column="4" />
@@ -157,7 +162,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529264131394">
+      <file name="/PHP Console" timestamp="1529269695947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -191,7 +196,7 @@
         <mark key="^" line="19" column="51" />
         <mark key="." line="19" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528643098507">
+      <file name="/Dummy.txt" timestamp="1529268648278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/IssueWorkerInterface.php" timestamp="1512771650502">
@@ -220,11 +225,11 @@
         <mark key="." line="784" column="0" />
         <mark key="^" line="786" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529248601715">
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529269721319">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="43" column="100" />
+        <mark key="." line="43" column="100" />
+        <mark key="^" line="43" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/layout/html.html.twig" timestamp="1523908444018">
         <mark key="[" line="97" column="14" />
@@ -394,10 +399,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHZvaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
@@ -406,40 +411,40 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogRGVsZXRlIHdvcmtsb2dzIGZvciBhIGdpdmVuIGlzc3VlLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZGVsZXRlV29ya2xvZ3MoJGlzc3VlX2tleSkgewogICAgICAkZXhpc3Rpbmdfd29ya2xvZ3MgPSAkdGhpcy0+Z2V0V29ya2xvZ3MoJGlzc3VlX2tleSk7CiAgICAgIGZvcmVhY2ggKCRleGlzdGluZ193b3JrbG9ncyBhcyAkd29ya2xvZykgewogICAgICAgICR3b3JrbG9nLT5kZWxldGUoKTsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHZvaWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkc20oJ0RlbGV0ZWQgd29ya2xvZyB3aXRoIGlkICcuICRqaXJhX2lkKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vZHNtKCRtYXBwaW5nKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxqaXJhX3N5bmNcQ2xpZW50U2VydmljZUludGVyZmFjZTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgICcjdHlwZScgPT4gJ21hcmt1cCcsCiAgICAgICcjbWFya3VwJyA9PiAkdGhpcy0+dCgnSW1wbGVtZW50IG1ldGhvZDogaGFuZGxlRGVsZXRlSXNzdWUnKQogICAgXTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgKgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0gIGFycmF5ICRyZWNvcmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgKgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgKiBXcml0ZXMgdGhlIHJlY29yZCBkb3duIHRvIHRoZSBsb2cgb2YgdGhlIGltcGxlbWVudGluZyBoYW5kbGVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFxEcnVwYWw6OmxvZ2dlcigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCB3cml0ZSgpIG1ldGhvZC4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiAgIFJldHVybiBIZWxsbyBzdHJpbmcuCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
@@ -449,7 +454,7 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -476,7 +481,6 @@
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>wq</entry>
         <entry>82</entry>
         <entry>119</entry>
@@ -486,7 +490,6 @@
         <entry>138</entry>
         <entry>58</entry>
         <entry>75</entry>
-        <entry>noh</entry>
         <entry>268</entry>
         <entry>Gblame</entry>
         <entry>1</entry>
@@ -496,8 +499,12 @@
         <entry>140</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>14</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>48</entry>
+        <entry>noh</entry>
+        <entry>w:w</entry>
+        <entry>w</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
