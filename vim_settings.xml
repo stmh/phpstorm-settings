@@ -144,7 +144,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529232732318">
+      <file name="/PHP Console" timestamp="1529247310623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -206,20 +206,20 @@
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529232581779">
-        <mark key="[" line="51" column="95" />
-        <mark key="]" line="51" column="95" />
-        <mark key="." line="51" column="95" />
-        <mark key="^" line="45" column="9" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529247230560">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/layout/html.html.twig" timestamp="1523908444018">
         <mark key="[" line="97" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/SyncService.php" timestamp="1529232660699">
-        <mark key="[" line="131" column="33" />
-        <mark key="]" line="131" column="33" />
-        <mark key="." line="131" column="33" />
-        <mark key="^" line="131" column="33" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/SyncService.php" timestamp="1529247285647">
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="190" column="18" />
+        <mark key="." line="190" column="18" />
+        <mark key="^" line="190" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1518466848037">
         <mark key="[" line="2062" column="6" />
@@ -233,12 +233,12 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1522187988974">
         <mark key="[" line="98" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" timestamp="1529164278555">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" timestamp="1529247167288">
         <mark key="'" line="18" column="2" />
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="39" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="31" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1528215692826">
         <mark key="'" line="507" column="26" />
@@ -378,8 +378,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>issues</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHN0cnRvdGltZSgkd29ya2xvZy0+dXBkYXRlZCkgPD0gKQo=</text>
       </register>
       <register name="-" type="4">
         <text>issues</text>
@@ -391,37 +391,37 @@
         <text encoding="base64">ZW50aXR5Lndvcmtsb2dfZW50aXR5LmFkZF9mb3JtOgogIHJvdXRlX25hbWU6IGVudGl0eS53b3JrbG9nX2VudGl0eS5hZGRfZm9ybQogIHRpdGxlOiAnQWRkIFdvcmtsb2cgZW50aXR5JwogIGFwcGVhcnNfb246CiAgICAtIGVudGl0eS53b3JrbG9nX2VudGl0eS5jb2xsZWN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcnVucysrOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0cnRvdGltZSgkd29ya2xvZy0+dXBkYXRlZCkgPD0gKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHJ1bnMgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcnVucysrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRjb250ZXh0WydtZXNzYWdlJ10gPSAnR2V0dGluZyBhbGwgaXNzdWVzIG9mICcgLiAkcHJvamVjdC0+bmFtZTsK</text>
+        <text encoding="base64">ICAgICAgJHJ1bnMgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRpc3N1ZXMgPSAkdGhpcy0+aXNzdWVTZXJ2aQo=</text>
+        <text encoding="base64">ICAgICRjb250ZXh0WydtZXNzYWdlJ10gPSAnR2V0dGluZyBhbGwgaXNzdWVzIG9mICcgLiAkcHJvamVjdC0+bmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICRpc3N1ZXMgPSAkdGhpcy0+aXNzdWVTZXJ2aQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRzbSgkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3Byb2plY3RzX3RvX3N5bmMnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gJG9wZXJhdGlvbnMK</text>
+        <text encoding="base64">ICAgIGRzbSgkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ3Byb2plY3RzX3RvX3N5bmMnKSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gJHJlc3VsdHMK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gJG9wZXJhdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
