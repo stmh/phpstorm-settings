@@ -71,6 +71,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/br001_inoncology/_tools/es/fpp/copy.yaml" timestamp="1519638569641">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/vendor/lesstif/php-jira-rest-client/src/JiraClient.php" timestamp="1529249214347" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/fastly/src/CacheTagsInvalidator.php" timestamp="1520590164036">
         <mark key="[" line="34" column="18" />
       </file>
@@ -111,17 +112,6 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/conf/projects/klambt.yml" timestamp="1523737579895">
         <mark key="[" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/BI029-bi-innovation/sites/all/modules/custom/instatag/instatag.module" timestamp="1529136135765">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_deploy/bi2_deploy.info.yml" timestamp="1529161647913">
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/embed_filter/src/Plugin/EmbedFilterProviderPluginManager.php" timestamp="1527432154189">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="39" column="31" />
@@ -144,7 +134,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529247310623">
+      <file name="/PHP Console" timestamp="1529249354952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -200,14 +190,15 @@
       <file name="/fragment.php" timestamp="1528795861385">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php" timestamp="1529225897761">
-        <mark key="'" line="786" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php" timestamp="1529249059569">
+        <mark key="'" line="651" column="3" />
         <mark key="[" line="786" column="0" />
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
+        <mark key="^" line="786" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529247230560">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529248601715">
+        <mark key="[" line="64" column="49" />
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
@@ -266,15 +257,8 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/fastly/src/State.php" timestamp="1520251346494">
         <mark key="[" line="35" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/thewsd/workers/amp/src/Command/Worker.php" timestamp="1528729429513">
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="40" column="22" />
-        <mark key="." line="40" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="71" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="72" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="75" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="76" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
@@ -373,6 +357,8 @@
       <jump line="18" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" />
       <jump line="20" column="29" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/IssueService.php" />
       <jump line="786" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php" />
+      <jump line="785" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php" />
+      <jump line="651" column="3" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -385,7 +371,7 @@
         <text>issues</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJwb3NcPg==</text>
+        <text encoding="base64">XDxpbmNsdWRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW50aXR5Lndvcmtsb2dfZW50aXR5LmFkZF9mb3JtOgogIHJvdXRlX25hbWU6IGVudGl0eS53b3JrbG9nX2VudGl0eS5hZGRfZm9ybQogIHRpdGxlOiAnQWRkIFdvcmtsb2cgZW50aXR5JwogIGFwcGVhcnNfb246CiAgICAtIGVudGl0eS53b3JrbG9nX2VudGl0eS5jb2xsZWN0aW9uCg==</text>
@@ -428,13 +414,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJwb3NcPg==</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern encoding="base64">XDxzdHJwb3NcPg==</last-pattern>
+      <last-search encoding="base64">XDxpbmNsdWRlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpbmNsdWRlXD4=</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -458,6 +444,7 @@
         <entry>Submission failed</entry>
         <entry>http:</entry>
         <entry encoding="base64">XDxzdHJwb3NcPg==</entry>
+        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
