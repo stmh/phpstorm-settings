@@ -237,10 +237,12 @@
         <mark key="^" line="188" column="25" />
         <mark key="." line="191" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.drush.inc" timestamp="1529610229307">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.drush.inc" timestamp="1529614456839">
         <mark key="'" line="34" column="30" />
-        <mark key="[" line="76" column="3" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="9" />
         <mark key="^" line="72" column="4" />
+        <mark key="." line="33" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" timestamp="1529256679285">
         <mark key="[" line="139" column="74" />
@@ -401,11 +403,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>drush_jira_sync_js_sync_worklogs</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>drush_jira_sync_js_sync_worklogs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
