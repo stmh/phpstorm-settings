@@ -161,7 +161,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529522470233">
+      <file name="/PHP Console" timestamp="1529568098230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -222,11 +222,11 @@
         <mark key="." line="784" column="0" />
         <mark key="^" line="786" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529269734504">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
-        <mark key="^" line="31" column="53" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/BatchOperations.php" timestamp="1529607991099">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/layout/html.html.twig" timestamp="1523908444018">
         <mark key="[" line="97" column="14" />
@@ -237,11 +237,11 @@
         <mark key="^" line="188" column="25" />
         <mark key="." line="191" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.drush.inc" timestamp="1529525986368">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="38" column="2" />
-        <mark key="." line="38" column="2" />
-        <mark key="^" line="38" column="2" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.drush.inc" timestamp="1529608703121">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="46" column="63" />
+        <mark key="." line="46" column="63" />
+        <mark key="^" line="46" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" timestamp="1529256679285">
         <mark key="[" line="139" column="74" />
@@ -262,12 +262,12 @@
         <mark key="[" line="98" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/thewsd/config/staging/ultimate_cron.job.wsd_automatic_retest.yml" timestamp="1529524472980" />
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" timestamp="1529247167288">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="31" column="44" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="31" column="44" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" timestamp="1529608086589">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing/public/sites/all/modules/contrib/pm_jira/includes/pm_jira.sync.fetch.inc" timestamp="1528215692826">
         <mark key="'" line="507" column="26" />
@@ -403,49 +403,49 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>issues</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>issues</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>drush_jira_sync_sync_worklogs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBcRHJ1cGFsOjpzZXJ2aWNlKCdqaXJhX3N5bmMuaXNzdWVzJyktPmNsZWFyQ2FjaGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXJyYXlfbWFwKGZ1bmN0aW9uICgkcCkgewogICAgICAgIHJldHVybiAkcC0+a2V5OwogICAgICB9LCAkc2VydmljZS0+Z2V0QWxsKCkpOwo=</text>
+        <text encoding="base64">ICBzdGF0aWMgcHJvdGVjdGVkICRzdGF0aWNfY2FjaGUgPSBbXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRwcm9qZWN0X2tleXMgPSAkc2VydmljZS0+Z2V0QWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXJyYXlfbWFwKGZ1bmN0aW9uICgkcCkgewogICAgICAgIHJldHVybiAkcC0+a2V5OwogICAgICB9LCAkc2VydmljZS0+Z2V0QWxsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
+        <text encoding="base64">ICAgICRwcm9qZWN0X2tleXMgPSAkc2VydmljZS0+Z2V0QWxsKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHByb2plY3Rfa2V5cyk7Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBQcm90ZWN0ZWQgJHByb2plY3RTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJHByb2plY3Rfa2V5cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAvKioK</text>
+        <text encoding="base64">ICAgKiBQcm90ZWN0ZWQgJHByb2plY3RTZXJ2aWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkcHJvamVjdF9rZXlzID0gWydXU0QnXTsK</text>
+        <text encoding="base64">ICAgKiAvKioK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2FyZzInID0+ICdNeSBjdXN0b20gYXJndW1lbnQgMi4nLAo=</text>
+        <text encoding="base64">ICAkcHJvamVjdF9rZXlzID0gWydXU0QnXTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">J29wdGlvbnMnID0+IGFycmF5KAogICAgICAnYWxsJz0+J1J1biBzb21ldGhpbmcnLAogICAgKSw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJ2FyZzInID0+ICdNeSBjdXN0b20gYXJndW1lbnQgMi4nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,6 +504,10 @@
         <entry>32</entry>
         <entry>W</entry>
         <entry>44</entry>
+        <entry>52</entry>
+        <entry>18</entry>
+        <entry>wq</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
