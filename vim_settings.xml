@@ -449,7 +449,7 @@
         <text encoding="base64">ICBzdGF0aWMgcHJvdGVjdGVkICRzdGF0aWNfY2FjaGUgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>65</text>
       </register>
     </registers>
     <search>
@@ -506,6 +506,7 @@
         <entry>7</entry>
         <entry>w+</entry>
         <entry>w</entry>
+        <entry>65</entry>
       </history-cmd>
       <history-expr />
       <history-input />
