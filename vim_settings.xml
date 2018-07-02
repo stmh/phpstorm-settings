@@ -32,6 +32,12 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/sites/default/settings.php" timestamp="1530544085132">
+        <mark key="'" line="786" column="0" />
+        <mark key="[" line="786" column="0" />
+        <mark key="]" line="786" column="0" />
+        <mark key="." line="786" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/includes/common.inc" timestamp="1518126409950">
         <mark key="[" line="6045" column="39" />
       </file>
@@ -40,6 +46,13 @@
         <mark key="]" line="272" column="30" />
         <mark key="^" line="186" column="21" />
         <mark key="." line="272" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/GitlabService.php" timestamp="1530544331622">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="138" column="18" />
+        <mark key="]" line="138" column="16" />
+        <mark key="^" line="138" column="16" />
+        <mark key="." line="138" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1518131260327">
         <mark key="[" line="934" column="0" />
@@ -85,6 +98,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/Controller/GetAuthorizedKeysController.php" timestamp="1530545053507">
+        <mark key="[" line="52" column="70" />
+        <mark key="]" line="52" column="78" />
+        <mark key="^" line="52" column="78" />
+        <mark key="." line="52" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/ClientService.php" timestamp="1529696696760">
         <mark key="[" line="97" column="3" />
         <mark key="]" line="98" column="1" />
@@ -110,6 +129,12 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/jira-sync/src/JiraSync/CreateOrUpdateIssueWorker.php" timestamp="1527971576203">
         <mark key="[" line="142" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/AuthorizedKeysService.php" timestamp="1530545239871">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.links.action.yml" timestamp="1529227335957">
         <mark key="[" line="8" column="10" />
@@ -159,7 +184,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530043723911">
+      <file name="/PHP Console" timestamp="1530544648041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -293,13 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="87" column="41" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="90" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="91" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="92" column="47" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="95" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="96" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="97" column="48" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="100" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="101" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
@@ -393,68 +411,75 @@
       <jump line="137" column="19" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" />
       <jump line="297" column="5" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" />
       <jump line="32" column="14" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/kuestenperle/web/modules/custom/kp_utils/kp_utils.module" />
+      <jump line="786" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/sites/default/settings.php" />
+      <jump line="138" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/GitlabService.php" />
+      <jump line="140" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/GitlabService.php" />
+      <jump line="90" column="9" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/AuthorizedKeysService.php" />
+      <jump line="68" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/AuthorizedKeysService.php" />
+      <jump line="58" column="56" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/AuthorizedKeysService.php" />
+      <jump line="48" column="44" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/modules/custom/ssh_key_manager/src/AuthorizedKeysService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>contexts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>contexts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBleGVjdXRlKHNjcmlwdCwgcmVzZXRBZG1pblVzZXIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCRpbnN0YWxsYXRpb25fdHlwZSkgewogICAgICBmb3JlYWNoICgkbm9kZS0+Z2V0KCdmaWVsZF9pbnN0YWxsYXRpb25fdHlwZXMnKS0+cmVmZXJlbmNlZEVudGl0aWVzKCkgYXMgJHBhcmFncmFwaCkgewogICAgICAgIGlmICgkaW5zdGFsbGF0aW9uX3R5cGUgPT0gJHBhcmFncmFwaC0+Z2V0KCdmaWVsZF9pbnN0YWxsYXRpb25fdHlwZV9uYW1lJyktPnZhbHVlKSB7CiAgICAgICAgICBmb3JlYWNoICgkcGFyYWdyYXBoLT5nZXQoJ2ZpZWxkX2FjY291bnRzJyktPnJlZmVyZW5jZWRFbnRpdGllcygpIGFzICRhY2NvdW50KSB7CiAgICAgICAgICAgICRyID0gJHRoaXMtPmdldEtleXNGcm9tQWNjb3VudCgkYWNjb3VudCk7CiAgICAgICAgICAgIGlmICgkcikgewogICAgICAgICAgICAgICRyZXN1bHQgPSBhcnJheV9tZXJnZSgkcmVzdWx0LCAkcik7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
+        <text encoding="base64">ICAgICAgLSBleGVjdXRlKHNjcmlwdCwgcmVzZXRBZG1pblVzZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLT5jb25kaXRpb24oJ3N0YXR1cycsIDEpCg==</text>
+        <text encoding="base64">ICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHNtKCRtZW1iZXJzKTsK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
-      <last-offset encoding="base64">ZSZzZWxlY3Rpb249PSdleGNsdXNpdmUnPycrMSc6Jyc=</last-offset>
-      <last-pattern>events</last-pattern>
+      <last-search encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -478,6 +503,7 @@
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry>events</entry>
+        <entry encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
@@ -499,6 +525,7 @@
         <entry>w:w</entry>
         <entry>169</entry>
         <entry>144</entry>
+        <entry>139</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
