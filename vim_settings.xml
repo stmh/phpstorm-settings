@@ -62,6 +62,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.module" timestamp="1530637535807" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/sites/default/default.services.yml" timestamp="1530178659400">
         <mark key="[" line="57" column="11" />
         <mark key="]" line="57" column="14" />
@@ -157,11 +158,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.drush.inc" timestamp="1530634918916">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.drush.inc" timestamp="1530637903443">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Controller/WebhookController.php" timestamp="1529263719053">
         <mark key="[" line="8" column="0" />
@@ -429,62 +430,62 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>print</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</text>
+        <text>LIVE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdleGFtcGxlcycgPT4gWwogICAgICAnZHJ1c2ggbWVjJyA9PiAnUHJpbnQgbXkgZXhhbXBsZSBjb21tYW5kLicsCiAgICAgICdkcnVzaCBtZWMgbXlhcmd1bWVudCcgPT4gJ1ByaW50IG15IGV4YW1wbGUgY29tbWFuZCB3aXRoIGFuIGFyZ3VtZW50ICJteWFyZ3VtZW50Ii4nLAogICAgICAnZHJ1c2ggbWVjIG15YXJndW1lbnQgLS1vcHQxPW15b3B0aW9uJyA9PiAnUHJpbnQgbXkgZXhhbXBsZSBjb21tYW5kIHdpdGggYW4gYXJndW1lbnQgIm15YXJndW1lbnQiIGFuZCBhbiBvcHRpb24gIm15b3B0aW9uIi4nLAogICAgXSwK</text>
+        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdhcmd1bWVudHMnID0+IFsKICAgICAgJ2FyZzEnID0+ICdNeSBjdXN0b20gYXJndW1lbnQgMS4nLAogICAgICAnYXJnMicgPT4gJ015IGN1c3RvbSBhcmd1bWVudCAyLicsCiAgICBdLAogICAgJ29wdGlvbnMnID0+IFsKICAgICAgJ29wdDEnID0+ICdNeSBjdXN0b20gb3B0aW9uLicsCiAgICBdLAo=</text>
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdhbGlhc2VzJyA9PiBbJ21lYyddLAo=</text>
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC0+Z3JvdXBCeSgnZmllbGRfZ3JvdXAnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCdmaWVsZF91c2VkZGQnLCAnc3VtJykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCRpbnN0YWxsYXRpb25fdHlwZSkgewogICAgICBmb3JlYWNoICgkbm9kZS0+Z2V0KCdmaWVsZF9pbnN0YWxsYXRpb25fdHlwZXMnKS0+cmVmZXJlbmNlZEVudGl0aWVzKCkgYXMgJHBhcmFncmFwaCkgewogICAgICAgIGlmICgkaW5zdGFsbGF0aW9uX3R5cGUgPT0gJHBhcmFncmFwaC0+Z2V0KCdmaWVsZF9pbnN0YWxsYXRpb25fdHlwZV9uYW1lJyktPnZhbHVlKSB7CiAgICAgICAgICBmb3JlYWNoICgkcGFyYWdyYXBoLT5nZXQoJ2ZpZWxkX2FjY291bnRzJyktPnJlZmVyZW5jZWRFbnRpdGllcygpIGFzICRhY2NvdW50KSB7CiAgICAgICAgICAgICRyID0gJHRoaXMtPmdldEtleXNGcm9tQWNjb3VudCgkYWNjb3VudCk7CiAgICAgICAgICAgIGlmICgkcikgewogICAgICAgICAgICAgICRyZXN1bHQgPSBhcnJheV9tZXJnZSgkcmVzdWx0LCAkcik7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBleGVjdXRlKHNjcmlwdCwgcmVzZXRBZG1pblVzZXIpCg==</text>
+        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oMCwgJGVudmlyb25tZW50KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
+        <text encoding="base64">ICAkZW52aXJvbm1lbnQgPSAnTElWRSc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</last-search>
+      <last-search>LIVE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</last-pattern>
+      <last-pattern>LIVE</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -510,6 +511,7 @@
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry>events</entry>
         <entry encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</entry>
+        <entry>LIVE</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
