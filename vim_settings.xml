@@ -158,11 +158,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.drush.inc" timestamp="1530637903443">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="25" column="20" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_token/gaia_token.drush.inc" timestamp="1530638790627">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Controller/WebhookController.php" timestamp="1529263719053">
         <mark key="[" line="8" column="0" />
@@ -431,10 +431,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
+        <text encoding="base64">ICogQHBhcmFtICRlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>// Return early to avoid accidents.</text>
       </register>
       <register name="/" type="4">
         <text>LIVE</text>
@@ -443,37 +443,37 @@
         <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
+        <text encoding="base64">ICogQHBhcmFtICRlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICogQHBhcmFtICRydW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0+Z3JvdXBCeSgnZmllbGRfZ3JvdXAnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCdmaWVsZF91c2VkZGQnLCAnc3VtJykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0+Z3JvdXBCeSgnZmllbGRfZ3JvdXAnKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oMCwgJGVudmlyb25tZW50KTsK</text>
+        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCdmaWVsZF91c2VkZGQnLCAnc3VtJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkZW52aXJvbm1lbnQgPSAnTElWRSc7Cg==</text>
+        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCkK</text>
+        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oMCwgJGVudmlyb25tZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
