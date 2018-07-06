@@ -163,11 +163,11 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Controller/WebhookController.php" timestamp="1529263719053">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="80" column="45" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Controller/WebhookController.php" timestamp="1530887063338">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="63" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.routing.yml" timestamp="1529263617640">
         <mark key="[" line="21" column="43" />
@@ -297,6 +297,12 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/dzvier/web/modules/custom/dzvier_map/src/Controller/MapAjaxController.php" timestamp="1522187988974">
         <mark key="[" line="98" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedImplementationTrait.php" timestamp="1530887174831">
+        <mark key="[" line="57" column="88" />
+        <mark key="]" line="57" column="88" />
+        <mark key="." line="57" column="88" />
+        <mark key="^" line="57" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/CachedService.php" timestamp="1528641401593">
         <mark key="[" line="0" column="0" />
@@ -432,50 +438,50 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRlbnZpcm9ubWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXJyYXlfbWFwKGZ1bmN0aW9uICgkZWxlbSkgewogICAgICByZXR1cm4gJ2ppcmFfc3luYzonIC4gJGVsZW07CiAgICB9LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>// Return early to avoid accidents.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>field_media_title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICRwcm9qZWN0cyA9IGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZSgkcHJvamVjdHMsICRpbmhlcml0ZWRfcHJvamVjdHMpKTsK</text>
+        <text encoding="base64">ICAgIENhY2hlOjppbnZhbGlkYXRlVGFncyhbJ2ppcmFfc3luYzppc3N1ZTonIC4gJGlzc3VlX2tleV0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRlbnZpcm9ubWVudAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">YXJyYXlfbWFwKGZ1bmN0aW9uICgkZWxlbSkgewogICAgICByZXR1cm4gJ2ppcmFfc3luYzonIC4gJGVsZW07CiAgICB9LCA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtICRydW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oJHJ1biwgJGVudmlyb25tZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gaW52YWxpZGF0ZUNhY2hlKCRjYWNoZV90YWdzKSB7CiAgICBzZWxmOjokc3RhdGljQ2FjaGUgPSBbXTsKICAgIENhY2hlOjppbnZhbGlkYXRlVGFncygkY2FjaGVfdGFncyk7CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0+Z3JvdXBCeSgnZmllbGRfZ3JvdXAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0+YWdncmVnYXRlKCdmaWVsZF91c2VkZGQnLCAnc3VtJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5jYWNoZS0+aW4K</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBfZHJ1c2hfZ2FpYV90b2tlbl9wcmludF9kaXN0cmlidXRpb24oMCwgJGVudmlyb25tZW50KTsK</text>
+        <text encoding="base64">ICogQHBhcmFtICRlbnZpcm9ubWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -488,11 +494,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX2lzc3VlXD4=</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV9pc3N1ZVw+</entry>
         <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX3VzZXJcPg==</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV91c2VyX29uX3RoZV9mbHlcPg==</entry>
