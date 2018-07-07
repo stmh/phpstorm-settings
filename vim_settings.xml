@@ -33,6 +33,12 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.install" timestamp="1530979318120">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="83" />
+        <mark key="^" line="11" column="83" />
+        <mark key="." line="11" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/ssh-key-manager/web/sites/default/settings.php" timestamp="1530544085132">
         <mark key="'" line="786" column="0" />
         <mark key="[" line="786" column="0" />
@@ -54,11 +60,11 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/includes/common.inc" timestamp="1518126409950">
         <mark key="[" line="6045" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Entity/WorklogEntity.php" timestamp="1530974908426">
-        <mark key="[" line="272" column="30" />
-        <mark key="]" line="272" column="30" />
-        <mark key="^" line="186" column="21" />
-        <mark key="." line="272" column="30" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/Entity/WorklogEntity.php" timestamp="1530978657006">
+        <mark key="[" line="270" column="20" />
+        <mark key="]" line="270" column="22" />
+        <mark key="^" line="270" column="22" />
+        <mark key="." line="270" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/Drupal_Apache_Solr_Service.php" timestamp="1518131260327">
         <mark key="[" line="934" column="0" />
@@ -198,7 +204,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530977740402">
+      <file name="/PHP Console" timestamp="1530979426203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -315,10 +321,12 @@
         <mark key="^" line="188" column="25" />
         <mark key="." line="191" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" timestamp="1530977804820">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" timestamp="1530979405525">
+        <mark key="'" line="335" column="50" />
+        <mark key="[" line="108" column="42" />
+        <mark key="]" line="108" column="40" />
+        <mark key="." line="108" column="40" />
+        <mark key="^" line="108" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/modules/contrib/apachesolr/apachesolr.module" timestamp="1518466848037">
         <mark key="[" line="2062" column="6" />
@@ -367,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="112" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="113" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="114" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
@@ -467,19 +474,20 @@
       <jump line="156" column="33" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" />
       <jump line="3" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/bi2_controlling.permissions.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php.old" />
+      <jump line="335" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGVzdGltYXRlZCA9IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>jql</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>field_media_title</text>
+        <text>LIKE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ2ppcmFfc3luYzpwcm9qZWN0OicgLiBleHBsb2RlKCctJywgJGlzc3VlX2tleSlbMF0sCg==</text>
@@ -522,13 +530,13 @@
       </register>
     </registers>
     <search>
-      <last-search>field_media_title</last-search>
+      <last-search>LIKE</last-search>
       <last-offset />
-      <last-pattern>field_media_title</last-pattern>
+      <last-pattern>LIKE</last-pattern>
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -552,6 +560,7 @@
         <entry encoding="base64">XDxpbnN0YWxsYXRpb25fdHlwZVw+</entry>
         <entry>LIVE</entry>
         <entry>field_media_title</entry>
+        <entry>LIKE</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
