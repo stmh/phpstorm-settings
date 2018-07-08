@@ -45,6 +45,12 @@
         <mark key="]" line="786" column="0" />
         <mark key="." line="786" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/templates/week-graph.html.twig" timestamp="1531060156400">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="62" />
+        <mark key="^" line="2" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/themes/custom/mabi/mabi.info.yml" timestamp="1530904520751">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -96,11 +102,12 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" timestamp="1531054920241">
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="22" />
-        <mark key="^" line="59" column="22" />
-        <mark key="." line="59" column="22" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" timestamp="1531059948230">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="126" column="71" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/factorial/thunder/docroot/modules/contrib/fastly/src/CacheTagsInvalidator.php" timestamp="1520590164036">
         <mark key="[" line="34" column="18" />
@@ -128,6 +135,12 @@
         <mark key="]" line="52" column="78" />
         <mark key="^" line="52" column="78" />
         <mark key="." line="52" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/bi2_controlling.module" timestamp="1531056766183">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/ClientService.php" timestamp="1529696696760">
         <mark key="[" line="97" column="3" />
@@ -216,7 +229,7 @@
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_patient/src/Plugin/views/field/GaiaPatientUpdateMailPin.php" timestamp="1512127574469">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531055598980">
+      <file name="/PHP Console" timestamp="1531059956345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/emed-affairs/sites/all/themes/custom/emed_frontend/source/_patterns/organisms/deactivate-modal/deactivate-modal.twig" timestamp="1518182711604">
@@ -391,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="12" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
-      <jump line="113" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="114" column="42" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="117" column="16" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
       <jump line="118" column="2" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/core/core.services.yml" />
@@ -491,55 +502,57 @@
       <jump line="3" column="27" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/bi2_controlling.permissions.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/sites/default/settings.php.old" />
       <jump line="335" column="50" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/ProjectControllingController.php" />
+      <jump line="95" column="15" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LIKE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xhc3MnID0+ICd3b3JrbG9nLXdlZWsnLAo=</text>
+        <text encoding="base64">ICAgICAgJGNvbnRhaW5lci0+Z2V0KCdiaTJfY29udHJvbGxpbmcud29ya2xvZ3NfYnlfd2VlaycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDIwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogNTBweDsK</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAkc3VtICs9ICR3b3JrbG9nLT50aW1lc3BlbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIGlmIChlbXB0eSgkd2Vla3NbJGldKSkgewogICAgICByZXR1cm4gJyc7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiAgIFJldHVybiBIZWxsbyBzdHJpbmcuCg==</text>
+        <text encoding="base64">CjxkaXYgc3R5bGU9ImhlaWdodDogMjBweDsgd2lkdGg6IDcwcHg7IGJhY2tncm91bmQtY29sb3I6ICNlMGUwZTA7Ij4KICB7JSBmb3IgaXRlbSBpbiBpdGVtcyAlfQogICAgPHNwYW4gc3R5bGU9ImhlaWdodDogMjBweDsgd2lkdGg6IHt7IGl0ZW0uZGF5cyAqIDEwIH19cHg7IGJhY2tncnVuZC1jb2xvcjoge3sgaXRlbS5jb2xvciB9fSIgdGl0bGU9Int7IGl0ZW0ucHJvamVjdCB9fSI+PC9zcGFuPgogIHslIGVuZGZvciAlfQo8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJyNtYXJrdXAnID0+ICR0aGlzLT50KCdJbXBsZW1lbnQgbWV0aG9kOiB3b3JrbG9nc1BlclVzZXInKQo=</text>
+        <text encoding="base64">R0VIVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRzbSgkdGFibGUpOwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="x" type="4">
         <text>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0+ZXhlY3V0ZShbCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -601,6 +614,9 @@
         <entry>207</entry>
         <entry>247</entry>
         <entry>52</entry>
+        <entry>99</entry>
+        <entry>112</entry>
+        <entry>130</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
