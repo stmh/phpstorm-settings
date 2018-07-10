@@ -33,11 +33,11 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.install" timestamp="1530979318120">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="83" />
-        <mark key="^" line="11" column="83" />
-        <mark key="." line="11" column="83" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/jira_sync.install" timestamp="1531224371810">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/templates/week-graph.html.twig" timestamp="1531068559556">
         <mark key="[" line="5" column="98" />
@@ -103,7 +103,7 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" timestamp="1531071031474">
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/src/Controller/WorklogsByWeekController.php" timestamp="1531224172237">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="148" column="3" />
         <mark key="]" line="149" column="1" />
@@ -233,7 +233,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e691f7d3-5da3-4ce6-a215-dc815b6525aa/console.sql" timestamp="1531052342803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/vendor/lesstif/php-jira-rest-client/src/Issue/IssueService.php" timestamp="1531066116200" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/jira_sync/src/JiraRestExtensions/JiraProjectColorsService.php" timestamp="1531071008651">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="17" />
@@ -246,7 +245,6 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/web/modules/custom/bi2_controlling/bi2_controlling.services.yml" timestamp="1530980815535" />
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/deprexis-ms-trial/web/modules/custom/gaia_export/gaia_export.module" timestamp="1513859031014">
         <mark key="[" line="62" column="17" />
       </file>
@@ -567,11 +565,10 @@
       <last-replace>phb_</last-replace>
       <last-substitute>'picture_formatter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV9pc3N1ZVw+</entry>
         <entry encoding="base64">XDxwbV9qaXJhX21pZ3JhdGVfcG1qaXJhXzJfZHJ1cGFsX3VzZXJcPg==</entry>
         <entry encoding="base64">XDxwbV9qaXJhX3N5bmNfamlyYV91c2VyX29uX3RoZV9mbHlcPg==</entry>
         <entry encoding="base64">XDxwbV9qaXJhX2dldF9kcnVwYWxfdXNlcl9pZFw+</entry>
@@ -594,13 +591,6 @@
         <entry>LIKE</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
-        <entry>32</entry>
-        <entry>44</entry>
-        <entry>18</entry>
-        <entry>wq</entry>
-        <entry>7</entry>
-        <entry>w+</entry>
         <entry>65</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrSmF2YURvYyA=</entry>
         <entry>89</entry>
@@ -620,6 +610,8 @@
         <entry>112</entry>
         <entry>130</entry>
         <entry encoding="base64">JzwsJz42OQ==</entry>
+        <entry>76</entry>
+        <entry>67</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
