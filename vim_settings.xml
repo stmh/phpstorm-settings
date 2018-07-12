@@ -126,11 +126,11 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/content/taxonomy-term--star.html.twig" timestamp="1531396505749">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="38" column="11" />
-        <mark key="." line="38" column="11" />
-        <mark key="^" line="38" column="11" />
+      <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/CMS/klambt/themes/schlagerplanet/templates/content/taxonomy-term--star.html.twig" timestamp="1531396713016">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/dev/web/multibasebox/projects/billing2/docker-compose.yml" timestamp="1529698539916">
         <mark key="[" line="24" column="6" />
@@ -528,10 +528,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHslICBpZiB0ZXJtLmdldCgnZmllbGRfYmlydGhkYXknKS52YWx1ZSA9PSAnMTk0Ni0wNy0xNScgJX0KICAgICAgQWxsZXMgR3V0ZSB6dW0gR2VidXJ0c3RhZwogICAgeyUgZW5kaWYgJX0=</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>LIKE</text>
@@ -628,6 +628,7 @@
         <entry>76</entry>
         <entry>67</entry>
         <entry>603</entry>
+        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
